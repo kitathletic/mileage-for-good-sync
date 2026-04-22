@@ -1,0 +1,237 @@
+{%- comment -%}
+  Mileage for Good — live leaderboard snippet.
+
+  Where to paste this:
+    Shopify Admin → Online Store → Pages → "Mileage for Good"
+    Click "</>" (Show HTML) in the editor and paste this at the bottom.
+
+    OR paste it into a Custom Liquid section on the page.
+
+  What to configure (see the CONFIG block below):
+    - MFG_LEADERBOARD_URL  → the raw.githubusercontent.com URL of leaderboard.json
+    - MFG_MOUNT_SELECTOR   → the CSS selector of the DOM node where the
+                             leaderboard should render. If the selector
+                             doesn't exist on the page, the snippet will
+                             create a container automatically where this
+                             block sits.
+
+  Matching your current design:
+    The default styles below are intentionally neutral. To match the
+    existing "#challenge" section on your page, either:
+      (a) edit the <style> block below, or
+      (b) leave the markup and target `.mfg-leaderboard *` rules from
+          your theme's CSS.
+{%- endcomment -%}
+
+<div id="mfg-leaderboard-root" class="mfg-leaderboard" data-mfg-leaderboard>
+  <div class="mfg-leaderboard__header">
+    <div>
+      <h3 class="mfg-leaderboard__title">Club Leaderboard</h3>
+      <p class="mfg-leaderboard__subtitle" data-mfg-club>Kit Athletic — Mileage for Good</p>
+    </div>
+    <div class="mfg-leaderboard__totals" data-mfg-totals aria-live="polite">
+      <span class="mfg-leaderboard__total-value" data-mfg-total-distance>—</span>
+      <span class="mfg-leaderboard__total-label" data-mfg-units>km</span>
+      <span class="mfg-leaderboard__total-caption">logged by the club</span>
+    </div>
+  </div>
+
+  <div class="mfg-leaderboard__status" data-mfg-status>Loading live data…</div>
+
+  <table class="mfg-leaderboard__table" data-mfg-table hidden>
+    <thead>
+      <tr>
+        <th style="width: 3rem;">#</th>
+        <th>Athlete</th>
+        <th style="text-align:right;">Distance</th>
+        <th style="text-align:right;" class="mfg-col-hide-sm">Activities</th>
+        <th style="text-align:right;" class="mfg-col-hide-sm">Elevation</th>
+      </tr>
+    </thead>
+    <tbody data-mfg-rows></tbody>
+  </table>
+
+  <p class="mfg-leaderboard__footer">
+    Last updated <span data-mfg-updated>—</span>.
+    Data syncs every 3 hours from our
+    <a href="https://strava.app.link/adkwDFmzx2b" target="_blank" rel="noopener">Strava club</a>.
+  </p>
+</div>
+
+<style>
+  .mfg-leaderboard {
+    font-family: inherit;
+    color: inherit;
+    margin: 2rem 0;
+  }
+  .mfg-leaderboard__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+  }
+  .mfg-leaderboard__title { margin: 0 0 .25rem; font-size: 1.25rem; letter-spacing: .02em; }
+  .mfg-leaderboard__subtitle { margin: 0; opacity: .7; font-size: .875rem; }
+  .mfg-leaderboard__totals {
+    text-align: right;
+    display: flex;
+    align-items: baseline;
+    gap: .35rem;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+  }
+  .mfg-leaderboard__total-value { font-size: 2rem; font-weight: 700; }
+  .mfg-leaderboard__total-label { font-size: 1rem; opacity: .75; }
+  .mfg-leaderboard__total-caption { width: 100%; font-size: .75rem; opacity: .6; text-transform: uppercase; letter-spacing: .08em; }
+  .mfg-leaderboard__status {
+    padding: 1rem;
+    text-align: center;
+    font-size: .875rem;
+    opacity: .7;
+    border: 1px dashed currentColor;
+    border-radius: .5rem;
+  }
+  .mfg-leaderboard__table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: .95rem;
+  }
+  .mfg-leaderboard__table th,
+  .mfg-leaderboard__table td {
+    padding: .6rem .5rem;
+    border-bottom: 1px solid rgba(0,0,0,.08);
+  }
+  .mfg-leaderboard__table th {
+    text-align: left;
+    font-size: .75rem;
+    text-transform: uppercase;
+    letter-spacing: .08em;
+    opacity: .7;
+    font-weight: 600;
+  }
+  .mfg-leaderboard__table tbody tr:nth-child(1) td { font-weight: 700; }
+  .mfg-leaderboard__table tbody tr:nth-child(1) td:first-child::before { content: "🥇 "; }
+  .mfg-leaderboard__table tbody tr:nth-child(2) td:first-child::before { content: "🥈 "; }
+  .mfg-leaderboard__table tbody tr:nth-child(3) td:first-child::before { content: "🥉 "; }
+  .mfg-leaderboard__footer {
+    margin-top: .75rem;
+    font-size: .75rem;
+    opacity: .6;
+  }
+  @media (max-width: 640px) {
+    .mfg-col-hide-sm { display: none; }
+    .mfg-leaderboard__total-value { font-size: 1.5rem; }
+  }
+</style>
+
+<script>
+(function () {
+  // ---------------------- CONFIG ----------------------
+  // Replace YOUR_GITHUB_USERNAME and YOUR_REPO after you create the repo.
+  var MFG_LEADERBOARD_URL =
+    "https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/leaderboard.json";
+  var MFG_MOUNT_SELECTOR   = "[data-mfg-leaderboard]"; // leave as-is unless you're mounting somewhere else
+  var MFG_ROW_LIMIT        = 25; // max rows to show
+  // ----------------------------------------------------
+
+  function fmtNumber(n) {
+    if (typeof n !== "number" || !isFinite(n)) return "—";
+    return n.toLocaleString(undefined, { maximumFractionDigits: 1 });
+  }
+  function timeAgo(iso) {
+    if (!iso) return "—";
+    var then = new Date(iso).getTime();
+    if (isNaN(then)) return "—";
+    var diff = Math.max(0, (Date.now() - then) / 1000);
+    if (diff < 60) return "just now";
+    if (diff < 3600) return Math.round(diff / 60) + " min ago";
+    if (diff < 86400) return Math.round(diff / 3600) + " hr ago";
+    return Math.round(diff / 86400) + " days ago";
+  }
+
+  function render(root, data) {
+    var tbody = root.querySelector("[data-mfg-rows]");
+    var table = root.querySelector("[data-mfg-table]");
+    var status = root.querySelector("[data-mfg-status]");
+    var totalEl = root.querySelector("[data-mfg-total-distance]");
+    var unitsEl = root.querySelector("[data-mfg-units]");
+    var updatedEl = root.querySelector("[data-mfg-updated]");
+    var clubEl = root.querySelector("[data-mfg-club]");
+
+    if (clubEl && data.club && data.club.name) {
+      clubEl.textContent = data.club.name;
+    }
+    if (unitsEl) unitsEl.textContent = data.units || "km";
+    if (totalEl) totalEl.textContent = fmtNumber(data.totals && data.totals.distance);
+    if (updatedEl) updatedEl.textContent = timeAgo(data.generated_at);
+
+    if (!tbody) return;
+    tbody.innerHTML = "";
+
+    var rows = (data.rows || []).slice(0, MFG_ROW_LIMIT);
+    if (rows.length === 0) {
+      if (status) {
+        status.textContent = "No activities yet — be the first to log one on Strava!";
+        status.hidden = false;
+      }
+      if (table) table.hidden = true;
+      return;
+    }
+
+    rows.forEach(function (r) {
+      var tr = document.createElement("tr");
+      tr.innerHTML =
+        "<td>" + r.rank + "</td>" +
+        "<td>" + escapeHtml(r.name) + "</td>" +
+        "<td style=\"text-align:right;\">" + fmtNumber(r.distance) + " " + (data.units || "km") + "</td>" +
+        "<td style=\"text-align:right;\" class=\"mfg-col-hide-sm\">" + r.activities + "</td>" +
+        "<td style=\"text-align:right;\" class=\"mfg-col-hide-sm\">" + fmtNumber(r.elevation_m) + " m</td>";
+      tbody.appendChild(tr);
+    });
+
+    if (status) status.hidden = true;
+    if (table) table.hidden = false;
+  }
+
+  function escapeHtml(s) {
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+      return ({ "&":"&amp;", "<":"&lt;", ">":"&gt;", '"':"&quot;", "'":"&#39;" })[c];
+    });
+  }
+
+  function showError(root, msg) {
+    var status = root && root.querySelector("[data-mfg-status]");
+    if (status) {
+      status.textContent = msg;
+      status.hidden = false;
+    }
+  }
+
+  function load() {
+    var root = document.querySelector(MFG_MOUNT_SELECTOR);
+    if (!root) return;
+
+    // Cache-bust only on manual reload; rely on CDN cache otherwise.
+    fetch(MFG_LEADERBOARD_URL, { cache: "no-cache" })
+      .then(function (r) {
+        if (!r.ok) throw new Error("HTTP " + r.status);
+        return r.json();
+      })
+      .then(function (data) { render(root, data); })
+      .catch(function (e) {
+        console.error("[mfg-leaderboard] load failed:", e);
+        showError(root, "Leaderboard is syncing — check back soon.");
+      });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", load);
+  } else {
+    load();
+  }
+  // Expose a manual refresh for debugging: window.mfgReload()
+  window.mfgReload = load;
+})();
+</script>
