@@ -3,7 +3,7 @@ name: Sync Strava leaderboard
 on:
   schedule:
     # Every 3 hours, on the hour (UTC). GitHub cron can run a few minutes late.
-    - cron: "0 */3 * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch: # lets you trigger manually from the Actions tab
 
 permissions:
