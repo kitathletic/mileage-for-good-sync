@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T20:45:17.971Z",
+  "generated_at": "2026-04-23T21:00:27.250Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -12,10 +12,10 @@
     "end": null
   },
   "totals": {
-    "distance": 1612.67,
-    "activities": 204,
-    "moving_time_s": 653750,
-    "elevation_m": 5579
+    "distance": 1615.74,
+    "activities": 205,
+    "moving_time_s": 655266,
+    "elevation_m": 5627
   },
   "rows": [
     {
@@ -1275,12 +1275,20 @@
       "rank": 157
     },
     {
+      "name": "Junias T.",
+      "activities": 1,
+      "distance": 3.07,
+      "moving_time_s": 1516,
+      "elevation_m": 48,
+      "rank": 158
+    },
+    {
       "name": "Andri K.",
       "activities": 2,
       "distance": 2.43,
       "moving_time_s": 991,
       "elevation_m": 0,
-      "rank": 158
+      "rank": 159
     },
     {
       "name": "Ryan Adrian B.",
@@ -1288,7 +1296,7 @@
       "distance": 2.15,
       "moving_time_s": 825,
       "elevation_m": 0,
-      "rank": 159
+      "rank": 160
     },
     {
       "name": "Guillermo E O.",
@@ -1296,7 +1304,7 @@
       "distance": 0.1,
       "moving_time_s": 80,
       "elevation_m": 2,
-      "rank": 160
+      "rank": 161
     }
   ]
 }
