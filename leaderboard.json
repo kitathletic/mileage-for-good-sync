@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T09:45:19.662Z",
+  "generated_at": "2026-04-24T10:00:30.151Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -12,10 +12,10 @@
     "end": null
   },
   "totals": {
-    "distance": 2720.34,
-    "activities": 344,
-    "moving_time_s": 1085110,
-    "elevation_m": 9838
+    "distance": 2722.6,
+    "activities": 345,
+    "moving_time_s": 1086129,
+    "elevation_m": 9856
   },
   "rows": [
     {
@@ -1659,12 +1659,20 @@
       "rank": 205
     },
     {
+      "name": "Paulo Ricardo P.",
+      "activities": 1,
+      "distance": 2.26,
+      "moving_time_s": 1019,
+      "elevation_m": 18,
+      "rank": 206
+    },
+    {
       "name": "Guillermo E O.",
       "activities": 1,
       "distance": 0.1,
       "moving_time_s": 80,
       "elevation_m": 2,
-      "rank": 206
+      "rank": 207
     }
   ]
 }
