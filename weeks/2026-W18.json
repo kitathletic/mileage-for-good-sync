@@ -7,11 +7,9 @@
     "url": "kitathletic"
   },
   "units": "km",
-  "view": "cycle",
+  "view": "week",
   "range": {
-    "start": "2026-04-26T17:00:00.000Z",
-    "end": "2026-07-25T17:00:00.000Z",
-    "cycle_label": "Cycle since 2026-04-27"
+    "week_key": "2026-W18"
   },
   "activity_types": [
     "Run",
