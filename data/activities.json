@@ -13831,9 +13831,37 @@
       "moving_time_s": 2327,
       "elapsed_time_s": 2327,
       "elevation_m": 0
+    },
+    "9659b439a6bbd630c34a": {
+      "h": "9659b439a6bbd630c34a",
+      "first_seen_at": "2026-04-27T12:55:16.632Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Rio",
+      "athlete_last": "P.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12023.9,
+      "moving_time_s": 4222,
+      "elapsed_time_s": 4331,
+      "elevation_m": 0
+    },
+    "d687ec1caf02999de5b9": {
+      "h": "d687ec1caf02999de5b9",
+      "first_seen_at": "2026-04-27T12:55:16.632Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Andri",
+      "athlete_last": "K.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 42205,
+      "moving_time_s": 16226,
+      "elapsed_time_s": 16256,
+      "elevation_m": 744
     }
   },
-  "last_synced_at": "2026-04-27T12:50:19.237Z",
+  "last_synced_at": "2026-04-27T12:55:16.632Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
