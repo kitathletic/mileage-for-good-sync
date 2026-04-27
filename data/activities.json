@@ -14153,9 +14153,65 @@
       "moving_time_s": 4726,
       "elapsed_time_s": 6162,
       "elevation_m": 83
+    },
+    "1e048f96a2f87a975201": {
+      "h": "1e048f96a2f87a975201",
+      "first_seen_at": "2026-04-27T22:40:22.836Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Lintang",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7082.4,
+      "moving_time_s": 2589,
+      "elapsed_time_s": 2589,
+      "elevation_m": 21
+    },
+    "9e127f971a460b87eff4": {
+      "h": "9e127f971a460b87eff4",
+      "first_seen_at": "2026-04-27T22:40:22.836Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Stefanus",
+      "athlete_last": "E.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6743,
+      "moving_time_s": 2963,
+      "elapsed_time_s": 2963,
+      "elevation_m": 0
+    },
+    "a58100dad98fbf0438c9": {
+      "h": "a58100dad98fbf0438c9",
+      "first_seen_at": "2026-04-27T22:40:22.836Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Stefanus",
+      "athlete_last": "E.",
+      "name": "Easy Morning run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6938.8,
+      "moving_time_s": 2892,
+      "elapsed_time_s": 3098,
+      "elevation_m": 6.5
+    },
+    "3fe2657a7e556fb570bd": {
+      "h": "3fe2657a7e556fb570bd",
+      "first_seen_at": "2026-04-27T22:40:22.836Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Pedro",
+      "athlete_last": "V.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12013.1,
+      "moving_time_s": 4025,
+      "elapsed_time_s": 4062,
+      "elevation_m": 145
     }
   },
-  "last_synced_at": "2026-04-27T22:35:16.740Z",
+  "last_synced_at": "2026-04-27T22:40:22.836Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
