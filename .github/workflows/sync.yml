@@ -1,47 +1,50 @@
 name: Sync Strava leaderboard
-
+ 
 on:
   schedule:
-    # Every 3 hours, on the hour (UTC). GitHub cron can run a few minutes late.
-    - cron: "*/30 * * * *"
-  workflow_dispatch: # lets you trigger manually from the Actions tab
-
+    # Backup schedule — GitHub free-tier cron is unreliable, so the real
+    # cadence comes from cron-job.org pinging the workflow_dispatch endpoint
+    # every 5 minutes. This 1-hour cron is a safety net if cron-job.org dies.
+    - cron: "0 * * * *"
+  workflow_dispatch: # lets cron-job.org and you trigger manually
+ 
 permissions:
   contents: write # needed to commit the updated JSON back to the repo
-
+ 
 concurrency:
   group: strava-sync
   cancel-in-progress: false
-
+ 
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
+ 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-
+ 
       - name: Run sync script
         env:
           STRAVA_CLIENT_ID: ${{ secrets.STRAVA_CLIENT_ID }}
           STRAVA_CLIENT_SECRET: ${{ secrets.STRAVA_CLIENT_SECRET }}
           STRAVA_REFRESH_TOKEN: ${{ secrets.STRAVA_REFRESH_TOKEN }}
           STRAVA_CLUB_ID: ${{ secrets.STRAVA_CLUB_ID }}
-          CAMPAIGN_START_ISO: ${{ vars.CAMPAIGN_START_ISO }}
-          CAMPAIGN_END_ISO: ${{ vars.CAMPAIGN_END_ISO }}
+          # Cycle config (uses repo Variables, not Secrets — easier to edit)
+          CYCLE_START: ${{ vars.CYCLE_START || '2026-04-27' }}
+          CYCLE_DAYS: ${{ vars.CYCLE_DAYS || '90' }}
+          ACTIVITY_TYPES: ${{ vars.ACTIVITY_TYPES || 'Run,TrailRun,VirtualRun,Workout,Walk' }}
           UNITS: ${{ vars.UNITS || 'km' }}
-          ACTIVITY_TYPES: ${{ vars.ACTIVITY_TYPES }}
         run: node scripts/sync-leaderboard.mjs
-
+ 
       - name: Commit updated data
         run: |
           git config user.name "strava-sync-bot"
           git config user.email "strava-sync-bot@users.noreply.github.com"
-          git add leaderboard.json data/activities.json
+          git add leaderboard.json all-time.json this-week.json last-week.json data/activities.json weeks/
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
