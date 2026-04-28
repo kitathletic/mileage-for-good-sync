@@ -16729,9 +16729,37 @@
       "moving_time_s": 4024,
       "elapsed_time_s": 4216,
       "elevation_m": 4
+    },
+    "e0d544929d0e9e7e21da": {
+      "h": "e0d544929d0e9e7e21da",
+      "first_seen_at": "2026-04-28T13:10:20.437Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Rhamdan",
+      "athlete_last": "I.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5398.7,
+      "moving_time_s": 1807,
+      "elapsed_time_s": 2205,
+      "elevation_m": 10
+    },
+    "246f4a3926cf3c58ce01": {
+      "h": "246f4a3926cf3c58ce01",
+      "first_seen_at": "2026-04-28T13:10:20.437Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Leandro",
+      "athlete_last": "T.",
+      "name": "8K Easy",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8031.7,
+      "moving_time_s": 3557,
+      "elapsed_time_s": 3560,
+      "elevation_m": 35
     }
   },
-  "last_synced_at": "2026-04-28T13:05:24.495Z",
+  "last_synced_at": "2026-04-28T13:10:20.437Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
