@@ -15427,9 +15427,51 @@
       "moving_time_s": 6163,
       "elapsed_time_s": 6602,
       "elevation_m": 24
+    },
+    "6aff768fc36722c0bd93": {
+      "h": "6aff768fc36722c0bd93",
+      "first_seen_at": "2026-04-28T01:05:14.780Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Winarta",
+      "athlete_last": "H.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5900.8,
+      "moving_time_s": 2205,
+      "elapsed_time_s": 2205,
+      "elevation_m": 0
+    },
+    "64b740a8ec74e83bbfcd": {
+      "h": "64b740a8ec74e83bbfcd",
+      "first_seen_at": "2026-04-28T01:05:14.780Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Winarta",
+      "athlete_last": "H.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5484.4,
+      "moving_time_s": 2422,
+      "elapsed_time_s": 2533,
+      "elevation_m": 11
+    },
+    "708a6055e4fb57247ad1": {
+      "h": "708a6055e4fb57247ad1",
+      "first_seen_at": "2026-04-28T01:05:14.780Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Ajiw",
+      "athlete_last": "💫.",
+      "name": "normalize weekday long run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 15007.3,
+      "moving_time_s": 6163,
+      "elapsed_time_s": 6602,
+      "elevation_m": 24
     }
   },
-  "last_synced_at": "2026-04-28T01:00:27.706Z",
+  "last_synced_at": "2026-04-28T01:05:14.780Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
