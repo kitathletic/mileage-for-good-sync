@@ -16869,9 +16869,37 @@
       "moving_time_s": 1807,
       "elapsed_time_s": 2205,
       "elevation_m": 10
+    },
+    "bb82d8e40a0285b0c56e": {
+      "h": "bb82d8e40a0285b0c56e",
+      "first_seen_at": "2026-04-28T13:35:20.203Z",
+      "week_key": "2026-W18",
+      "athlete_first": "David",
+      "athlete_last": "P.",
+      "name": "Run streak day 60",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5417.4,
+      "moving_time_s": 2344,
+      "elapsed_time_s": 2739,
+      "elevation_m": 5.5
+    },
+    "a77be343dbecf7128cec": {
+      "h": "a77be343dbecf7128cec",
+      "first_seen_at": "2026-04-28T13:35:20.203Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Jagad",
+      "athlete_last": "M.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2929.1,
+      "moving_time_s": 2074,
+      "elapsed_time_s": 2117,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-04-28T13:30:25.495Z",
+  "last_synced_at": "2026-04-28T13:35:20.203Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
