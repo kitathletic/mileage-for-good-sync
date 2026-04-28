@@ -18437,9 +18437,37 @@
       "moving_time_s": 4532,
       "elapsed_time_s": 4550,
       "elevation_m": 36
+    },
+    "6620fac336a176408d67": {
+      "h": "6620fac336a176408d67",
+      "first_seen_at": "2026-04-28T23:00:28.754Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Rudi",
+      "athlete_last": "P.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6076.5,
+      "moving_time_s": 2585,
+      "elapsed_time_s": 2622,
+      "elevation_m": 0
+    },
+    "a032317629eb538b2bc7": {
+      "h": "a032317629eb538b2bc7",
+      "first_seen_at": "2026-04-28T23:00:28.754Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Aziz Wahyu",
+      "athlete_last": "P.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7896.4,
+      "moving_time_s": 2385,
+      "elapsed_time_s": 2741,
+      "elevation_m": 35.9
     }
   },
-  "last_synced_at": "2026-04-28T22:55:17.575Z",
+  "last_synced_at": "2026-04-28T23:00:28.754Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
