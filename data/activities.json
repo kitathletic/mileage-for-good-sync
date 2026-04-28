@@ -15707,9 +15707,37 @@
       "moving_time_s": 2894,
       "elapsed_time_s": 2894,
       "elevation_m": 61
+    },
+    "d13c624d4e7a6f34ba35": {
+      "h": "d13c624d4e7a6f34ba35",
+      "first_seen_at": "2026-04-28T02:10:18.163Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Soleiman",
+      "athlete_last": "P.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 14005.6,
+      "moving_time_s": 5036,
+      "elapsed_time_s": 5037,
+      "elevation_m": 0
+    },
+    "13bf215f9468303df0cf": {
+      "h": "13bf215f9468303df0cf",
+      "first_seen_at": "2026-04-28T02:10:18.163Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Indra",
+      "athlete_last": "Z.",
+      "name": "Interval: 6 x 800m, Rest 90s",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10026.1,
+      "moving_time_s": 3539,
+      "elapsed_time_s": 3539,
+      "elevation_m": 14
     }
   },
-  "last_synced_at": "2026-04-28T02:05:19.085Z",
+  "last_synced_at": "2026-04-28T02:10:18.163Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
