@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T06:45:20.411Z",
+  "generated_at": "2026-04-28T06:50:18.785Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 140.31,
-    "activities": 16,
-    "moving_time_s": 51192,
-    "elevation_m": 648
+    "distance": 149.6,
+    "activities": 17,
+    "moving_time_s": 57805,
+    "elevation_m": 1535
   },
   "rows": [
     {
@@ -100,12 +100,20 @@
       "rank": 9
     },
     {
+      "name": "Ryan R.",
+      "activities": 1,
+      "distance": 9.29,
+      "moving_time_s": 6613,
+      "elevation_m": 887,
+      "rank": 10
+    },
+    {
       "name": "midyamidya ✌.",
       "activities": 1,
       "distance": 5.5,
       "moving_time_s": 2159,
       "elevation_m": 0,
-      "rank": 10
+      "rank": 11
     },
     {
       "name": "Denny R.",
@@ -113,7 +121,7 @@
       "distance": 5.13,
       "moving_time_s": 1805,
       "elevation_m": 0,
-      "rank": 11
+      "rank": 12
     },
     {
       "name": "Gregory M.",
@@ -121,7 +129,7 @@
       "distance": 5.04,
       "moving_time_s": 2220,
       "elevation_m": 47,
-      "rank": 12
+      "rank": 13
     },
     {
       "name": "Dania J.",
@@ -129,7 +137,7 @@
       "distance": 3.3,
       "moving_time_s": 1771,
       "elevation_m": 21,
-      "rank": 13
+      "rank": 14
     },
     {
       "name": "Adi R.",
@@ -137,7 +145,7 @@
       "distance": 0.15,
       "moving_time_s": 57,
       "elevation_m": 0,
-      "rank": 14
+      "rank": 15
     }
   ]
 }
