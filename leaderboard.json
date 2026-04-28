@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T04:55:19.129Z",
+  "generated_at": "2026-04-28T05:00:27.781Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 97.49,
-    "activities": 12,
-    "moving_time_s": 35994,
-    "elevation_m": 278
+    "distance": 116.6,
+    "activities": 14,
+    "moving_time_s": 44345,
+    "elevation_m": 563
   },
   "rows": [
     {
@@ -36,12 +36,20 @@
       "rank": 1
     },
     {
+      "name": "win C.",
+      "activities": 2,
+      "distance": 19.11,
+      "moving_time_s": 8351,
+      "elevation_m": 285,
+      "rank": 2
+    },
+    {
       "name": "Soleiman P.",
       "activities": 1,
       "distance": 14.01,
       "moving_time_s": 5036,
       "elevation_m": 0,
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "Vimal M.",
@@ -49,7 +57,7 @@
       "distance": 12.04,
       "moving_time_s": 3860,
       "elevation_m": 82,
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "Alfian N.",
@@ -57,7 +65,7 @@
       "distance": 11.01,
       "moving_time_s": 3620,
       "elevation_m": 26,
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "Akbar M.",
@@ -65,7 +73,7 @@
       "distance": 10.05,
       "moving_time_s": 3966,
       "elevation_m": 66,
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "Indra D.",
@@ -73,7 +81,7 @@
       "distance": 10.05,
       "moving_time_s": 4338,
       "elevation_m": 36,
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "midyamidya ✌.",
@@ -81,7 +89,7 @@
       "distance": 5.5,
       "moving_time_s": 2159,
       "elevation_m": 0,
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "Denny R.",
@@ -89,7 +97,7 @@
       "distance": 5.13,
       "moving_time_s": 1805,
       "elevation_m": 0,
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "Gregory M.",
@@ -97,7 +105,7 @@
       "distance": 5.04,
       "moving_time_s": 2220,
       "elevation_m": 47,
-      "rank": 9
+      "rank": 10
     },
     {
       "name": "Dania J.",
@@ -105,7 +113,7 @@
       "distance": 3.3,
       "moving_time_s": 1771,
       "elevation_m": 21,
-      "rank": 10
+      "rank": 11
     },
     {
       "name": "Adi R.",
@@ -113,7 +121,7 @@
       "distance": 0.15,
       "moving_time_s": 57,
       "elevation_m": 0,
-      "rank": 11
+      "rank": 12
     }
   ]
 }
