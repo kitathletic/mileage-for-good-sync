@@ -20943,9 +20943,37 @@
       "moving_time_s": 3462,
       "elapsed_time_s": 3593,
       "elevation_m": 20
+    },
+    "8cd72d7a01aa8b033c76": {
+      "h": "8cd72d7a01aa8b033c76",
+      "first_seen_at": "2026-04-29T12:00:33.645Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Tiffani",
+      "athlete_last": "S.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 831.6,
+      "moving_time_s": 360,
+      "elapsed_time_s": 360,
+      "elevation_m": 31.2
+    },
+    "d4cb3a619251f22ca8de": {
+      "h": "d4cb3a619251f22ca8de",
+      "first_seen_at": "2026-04-29T12:00:33.645Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Chrisnadya",
+      "athlete_last": "P.",
+      "name": "Night run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5153.2,
+      "moving_time_s": 2004,
+      "elapsed_time_s": 2112,
+      "elevation_m": 35.4
     }
   },
-  "last_synced_at": "2026-04-29T11:55:19.118Z",
+  "last_synced_at": "2026-04-29T12:00:33.645Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
