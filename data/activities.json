@@ -21755,9 +21755,37 @@
       "moving_time_s": 1229,
       "elapsed_time_s": 1229,
       "elevation_m": 0
+    },
+    "bc605a200ada4c65e256": {
+      "h": "bc605a200ada4c65e256",
+      "first_seen_at": "2026-04-29T15:20:27.538Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Viren",
+      "athlete_last": "S.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2040,
+      "moving_time_s": 700,
+      "elapsed_time_s": 700,
+      "elevation_m": 0
+    },
+    "e78ba5e4762100ee3e55": {
+      "h": "e78ba5e4762100ee3e55",
+      "first_seen_at": "2026-04-29T15:20:27.538Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Indra",
+      "athlete_last": "D.",
+      "name": "Night Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10023.2,
+      "moving_time_s": 4307,
+      "elapsed_time_s": 4353,
+      "elevation_m": 73
     }
   },
-  "last_synced_at": "2026-04-29T15:15:28.080Z",
+  "last_synced_at": "2026-04-29T15:20:27.538Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
