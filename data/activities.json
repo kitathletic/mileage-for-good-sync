@@ -21433,9 +21433,37 @@
       "moving_time_s": 4221,
       "elapsed_time_s": 4237,
       "elevation_m": 262
+    },
+    "4fa1d0efd5ae27ebddc3": {
+      "h": "4fa1d0efd5ae27ebddc3",
+      "first_seen_at": "2026-04-29T13:20:25.941Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Peter Nichlas",
+      "athlete_last": "S.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 13269,
+      "moving_time_s": 4221,
+      "elapsed_time_s": 4237,
+      "elevation_m": 107.3
+    },
+    "df441bc17871d719f51e": {
+      "h": "df441bc17871d719f51e",
+      "first_seen_at": "2026-04-29T13:20:25.941Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Bayu",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11454.2,
+      "moving_time_s": 3826,
+      "elapsed_time_s": 4267,
+      "elevation_m": 18
     }
   },
-  "last_synced_at": "2026-04-29T13:15:19.017Z",
+  "last_synced_at": "2026-04-29T13:20:25.941Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
