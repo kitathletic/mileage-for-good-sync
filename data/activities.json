@@ -21321,9 +21321,51 @@
       "moving_time_s": 1305,
       "elapsed_time_s": 1693,
       "elevation_m": 0
+    },
+    "3eb8d85b7930765c87df": {
+      "h": "3eb8d85b7930765c87df",
+      "first_seen_at": "2026-04-29T13:00:36.579Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Ivan Andrey",
+      "athlete_last": "Y.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5007.3,
+      "moving_time_s": 2256,
+      "elapsed_time_s": 2269,
+      "elevation_m": 6.7
+    },
+    "f6061f33e720b4493f5a": {
+      "h": "f6061f33e720b4493f5a",
+      "first_seen_at": "2026-04-29T13:00:36.579Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Muhammad",
+      "athlete_last": "H.",
+      "name": "Wednesday Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12179.6,
+      "moving_time_s": 5714,
+      "elapsed_time_s": 5714,
+      "elevation_m": 0
+    },
+    "61e6242c47a332f2a980": {
+      "h": "61e6242c47a332f2a980",
+      "first_seen_at": "2026-04-29T13:00:36.579Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Teguh",
+      "athlete_last": "W.",
+      "name": "Warm Up 1K, Tempo 4K, Rest 1K, Tempo 3K, Cool Down 1K",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10038.1,
+      "moving_time_s": 3824,
+      "elapsed_time_s": 5000,
+      "elevation_m": 14
     }
   },
-  "last_synced_at": "2026-04-29T12:55:16.260Z",
+  "last_synced_at": "2026-04-29T13:00:36.579Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
