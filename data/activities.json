@@ -21699,9 +21699,37 @@
       "moving_time_s": 4562,
       "elapsed_time_s": 4612,
       "elevation_m": 0
+    },
+    "efcd2c9faf92adcaee72": {
+      "h": "efcd2c9faf92adcaee72",
+      "first_seen_at": "2026-04-29T14:55:16.604Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Wibisenna",
+      "athlete_last": "R.",
+      "name": "Night Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4000.4,
+      "moving_time_s": 1867,
+      "elapsed_time_s": 2316,
+      "elevation_m": 0
+    },
+    "8aaa59cd3600cc109729": {
+      "h": "8aaa59cd3600cc109729",
+      "first_seen_at": "2026-04-29T14:55:16.604Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Nindia",
+      "athlete_last": "S.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3700,
+      "moving_time_s": 1800,
+      "elapsed_time_s": 1800,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-04-29T14:50:26.112Z",
+  "last_synced_at": "2026-04-29T14:55:16.604Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
