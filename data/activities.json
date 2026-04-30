@@ -23015,9 +23015,37 @@
       "moving_time_s": 7352,
       "elapsed_time_s": 7790,
       "elevation_m": 56
+    },
+    "5a11c25c82676d40d9a6": {
+      "h": "5a11c25c82676d40d9a6",
+      "first_seen_at": "2026-04-30T01:10:18.219Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Ivan",
+      "athlete_last": "M.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12991,
+      "moving_time_s": 5383,
+      "elapsed_time_s": 5566,
+      "elevation_m": 4
+    },
+    "aa38ea6515348b244759": {
+      "h": "aa38ea6515348b244759",
+      "first_seen_at": "2026-04-30T01:10:18.219Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Muhammad",
+      "athlete_last": "H.",
+      "name": "[DNF] 400m Repeats",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9822.9,
+      "moving_time_s": 4118,
+      "elapsed_time_s": 4482,
+      "elevation_m": 9.3
     }
   },
-  "last_synced_at": "2026-04-30T01:05:14.360Z",
+  "last_synced_at": "2026-04-30T01:10:18.219Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
