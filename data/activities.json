@@ -24737,9 +24737,37 @@
       "moving_time_s": 2220,
       "elapsed_time_s": 2246,
       "elevation_m": 35
+    },
+    "0879bd5a744a17c96347": {
+      "h": "0879bd5a744a17c96347",
+      "first_seen_at": "2026-04-30T23:55:14.526Z",
+      "week_key": "2026-W18",
+      "athlete_first": "William",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5755,
+      "moving_time_s": 2388,
+      "elapsed_time_s": 2534,
+      "elevation_m": 3
+    },
+    "a50f5dff326f06e3620c": {
+      "h": "a50f5dff326f06e3620c",
+      "first_seen_at": "2026-04-30T23:55:14.526Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Muhammad",
+      "athlete_last": "H.",
+      "name": "11km Easy Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11102.6,
+      "moving_time_s": 5077,
+      "elapsed_time_s": 5446,
+      "elevation_m": 13.5
     }
   },
-  "last_synced_at": "2026-04-30T23:50:17.528Z",
+  "last_synced_at": "2026-04-30T23:55:14.526Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
