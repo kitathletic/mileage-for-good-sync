@@ -23645,9 +23645,37 @@
       "moving_time_s": 1533,
       "elapsed_time_s": 2983,
       "elevation_m": 1
+    },
+    "93b283cfddc6fc62828f": {
+      "h": "93b283cfddc6fc62828f",
+      "first_seen_at": "2026-04-30T07:05:15.254Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Johan",
+      "athlete_last": "T.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10367,
+      "moving_time_s": 3578,
+      "elapsed_time_s": 3947,
+      "elevation_m": 45
+    },
+    "5b873c72641bd08b6bcf": {
+      "h": "5b873c72641bd08b6bcf",
+      "first_seen_at": "2026-04-30T07:05:15.254Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Lintang",
+      "athlete_last": "R.",
+      "name": "Treadmill Running",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9100,
+      "moving_time_s": 3030,
+      "elapsed_time_s": 3030,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-04-30T07:00:28.158Z",
+  "last_synced_at": "2026-04-30T07:05:15.254Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
