@@ -24401,9 +24401,51 @@
       "moving_time_s": 3411,
       "elapsed_time_s": 3411,
       "elevation_m": 0
+    },
+    "0bc72053dc46706ee1e1": {
+      "h": "0bc72053dc46706ee1e1",
+      "first_seen_at": "2026-04-30T22:55:15.718Z",
+      "week_key": "2026-W18",
+      "athlete_first": "irrienia",
+      "athlete_last": "D.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 227.4,
+      "moving_time_s": 125,
+      "elapsed_time_s": 152,
+      "elevation_m": 0
+    },
+    "bf00903d9587bd2b028d": {
+      "h": "bf00903d9587bd2b028d",
+      "first_seen_at": "2026-04-30T22:55:15.718Z",
+      "week_key": "2026-W18",
+      "athlete_first": "baphomet",
+      "athlete_last": "..",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10007.8,
+      "moving_time_s": 3562,
+      "elapsed_time_s": 3586,
+      "elevation_m": 38
+    },
+    "43e25d6e6833b80cdb67": {
+      "h": "43e25d6e6833b80cdb67",
+      "first_seen_at": "2026-04-30T22:55:15.718Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Pedro",
+      "athlete_last": "V.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12421.6,
+      "moving_time_s": 3927,
+      "elapsed_time_s": 3938,
+      "elevation_m": 142
     }
   },
-  "last_synced_at": "2026-04-30T22:50:19.816Z",
+  "last_synced_at": "2026-04-30T22:55:15.718Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
