@@ -23309,9 +23309,51 @@
       "moving_time_s": 7273,
       "elapsed_time_s": 9359,
       "elevation_m": 0
+    },
+    "ad80723bdb185f21feee": {
+      "h": "ad80723bdb185f21feee",
+      "first_seen_at": "2026-04-30T02:25:15.775Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Vimal",
+      "athlete_last": "M.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12071.8,
+      "moving_time_s": 3688,
+      "elapsed_time_s": 3775,
+      "elevation_m": 93.2
+    },
+    "ee45e272b629021bdab9": {
+      "h": "ee45e272b629021bdab9",
+      "first_seen_at": "2026-04-30T02:25:15.775Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Mario",
+      "athlete_last": "J.",
+      "name": "ER on treadmill",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6024.6,
+      "moving_time_s": 2822,
+      "elapsed_time_s": 2822,
+      "elevation_m": 0
+    },
+    "7e1dd0901ee0fb2498a0": {
+      "h": "7e1dd0901ee0fb2498a0",
+      "first_seen_at": "2026-04-30T02:25:15.775Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Danny",
+      "athlete_last": "T.",
+      "name": "Morning EasyRun",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 21321.5,
+      "moving_time_s": 7352,
+      "elapsed_time_s": 7790,
+      "elevation_m": 56
     }
   },
-  "last_synced_at": "2026-04-30T02:20:20.239Z",
+  "last_synced_at": "2026-04-30T02:25:15.775Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
