@@ -25773,9 +25773,37 @@
       "moving_time_s": 8649,
       "elapsed_time_s": 8746,
       "elevation_m": 109.9
+    },
+    "be3641bd7c5cdc01a8f9": {
+      "h": "be3641bd7c5cdc01a8f9",
+      "first_seen_at": "2026-05-01T01:10:17.033Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Ilham",
+      "athlete_last": "K.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6938,
+      "moving_time_s": 3360,
+      "elapsed_time_s": 3433,
+      "elevation_m": 2
+    },
+    "35cdd85745366565856e": {
+      "h": "35cdd85745366565856e",
+      "first_seen_at": "2026-05-01T01:10:17.033Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Melvin",
+      "athlete_last": "H.",
+      "name": "8x400m Interval Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6670.3,
+      "moving_time_s": 5028,
+      "elapsed_time_s": 5033,
+      "elevation_m": 3
     }
   },
-  "last_synced_at": "2026-05-01T01:05:16.978Z",
+  "last_synced_at": "2026-05-01T01:10:17.033Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
