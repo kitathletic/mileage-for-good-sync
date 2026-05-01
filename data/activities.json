@@ -26571,9 +26571,37 @@
       "moving_time_s": 1482,
       "elapsed_time_s": 1482,
       "elevation_m": 0
+    },
+    "e12aa1bd7cc8b4129894": {
+      "h": "e12aa1bd7cc8b4129894",
+      "first_seen_at": "2026-05-01T03:30:29.586Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Emilio",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5051.8,
+      "moving_time_s": 1988,
+      "elapsed_time_s": 1988,
+      "elevation_m": 0
+    },
+    "14da3e86b21b9264d2d5": {
+      "h": "14da3e86b21b9264d2d5",
+      "first_seen_at": "2026-05-01T03:30:29.586Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Hanif",
+      "athlete_last": "R.",
+      "name": "Not just distance, but elevation. Semarang long run hits different",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 20012.1,
+      "moving_time_s": 7833,
+      "elapsed_time_s": 10037,
+      "elevation_m": 471
     }
   },
-  "last_synced_at": "2026-05-01T03:25:20.776Z",
+  "last_synced_at": "2026-05-01T03:30:29.586Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
