@@ -27397,9 +27397,37 @@
       "moving_time_s": 10728,
       "elapsed_time_s": 11269,
       "elevation_m": 442
+    },
+    "62e57ade4e2b7d13f0a7": {
+      "h": "62e57ade4e2b7d13f0a7",
+      "first_seen_at": "2026-05-01T12:20:17.618Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Dio",
+      "athlete_last": "A.",
+      "name": "MAF Training Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5432.7,
+      "moving_time_s": 2364,
+      "elapsed_time_s": 2370,
+      "elevation_m": 29
+    },
+    "c3bf0e41b9bb3fd3fa36": {
+      "h": "c3bf0e41b9bb3fd3fa36",
+      "first_seen_at": "2026-05-01T12:20:17.618Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Indra",
+      "athlete_last": "D.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7051.5,
+      "moving_time_s": 2717,
+      "elapsed_time_s": 2721,
+      "elevation_m": 35
     }
   },
-  "last_synced_at": "2026-05-01T12:15:18.645Z",
+  "last_synced_at": "2026-05-01T12:20:17.618Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
