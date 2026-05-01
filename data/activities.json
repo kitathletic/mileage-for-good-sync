@@ -27075,9 +27075,37 @@
       "moving_time_s": 1912,
       "elapsed_time_s": 1964,
       "elevation_m": 32
+    },
+    "f49ac3e4671800cd0830": {
+      "h": "f49ac3e4671800cd0830",
+      "first_seen_at": "2026-05-01T10:55:22.665Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Nayaka",
+      "athlete_last": "B.",
+      "name": "2.2mile Easy Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3550,
+      "moving_time_s": 1243,
+      "elapsed_time_s": 1248,
+      "elevation_m": 19.5
+    },
+    "58adb19aafdf6a3aa39b": {
+      "h": "58adb19aafdf6a3aa39b",
+      "first_seen_at": "2026-05-01T10:55:22.665Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Didie",
+      "athlete_last": "N.",
+      "name": "Recovery Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4469.5,
+      "moving_time_s": 2405,
+      "elapsed_time_s": 2470,
+      "elevation_m": 25
     }
   },
-  "last_synced_at": "2026-05-01T10:50:17.432Z",
+  "last_synced_at": "2026-05-01T10:55:22.665Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
