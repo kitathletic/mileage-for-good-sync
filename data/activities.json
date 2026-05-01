@@ -27341,9 +27341,37 @@
       "moving_time_s": 4378,
       "elapsed_time_s": 5372,
       "elevation_m": 42
+    },
+    "d8444b558da8e44a6e45": {
+      "h": "d8444b558da8e44a6e45",
+      "first_seen_at": "2026-05-01T12:00:33.816Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Arn",
+      "athlete_last": "T.",
+      "name": "10km Easy Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10013.2,
+      "moving_time_s": 3633,
+      "elapsed_time_s": 3633,
+      "elevation_m": 0
+    },
+    "342a990b024cc1d4e2e6": {
+      "h": "342a990b024cc1d4e2e6",
+      "first_seen_at": "2026-05-01T12:00:33.816Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Arn",
+      "athlete_last": "T.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10361,
+      "moving_time_s": 3639,
+      "elapsed_time_s": 3639,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-05-01T11:55:15.546Z",
+  "last_synced_at": "2026-05-01T12:00:33.816Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
