@@ -26207,9 +26207,37 @@
       "moving_time_s": 3964,
       "elapsed_time_s": 4438,
       "elevation_m": 43.1
+    },
+    "70fe4673c47d77198a7f": {
+      "h": "70fe4673c47d77198a7f",
+      "first_seen_at": "2026-05-01T01:50:16.487Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Jazzy",
+      "athlete_last": "Z.",
+      "name": "5k tempo",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5013.5,
+      "moving_time_s": 1257,
+      "elapsed_time_s": 1257,
+      "elevation_m": 29.4
+    },
+    "cac84f70b8d6559ab516": {
+      "h": "cac84f70b8d6559ab516",
+      "first_seen_at": "2026-05-01T01:50:16.487Z",
+      "week_key": "2026-W18",
+      "athlete_first": "William",
+      "athlete_last": "C.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 21125,
+      "moving_time_s": 6386,
+      "elapsed_time_s": 6386,
+      "elevation_m": 77
     }
   },
-  "last_synced_at": "2026-05-01T01:45:16.910Z",
+  "last_synced_at": "2026-05-01T01:50:16.487Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
