@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-01T13:50:22.615Z",
+  "generated_at": "2026-05-01T13:55:20.588Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
-    "member_count": 520,
+    "member_count": 521,
     "url": "kitathletic"
   },
   "units": "km",
@@ -21,9 +21,9 @@
     "Walk"
   ],
   "totals": {
-    "distance": 6132.89,
-    "activities": 805,
-    "moving_time_s": 2535564,
+    "distance": 6134.14,
+    "activities": 806,
+    "moving_time_s": 2535917,
     "elevation_m": 28255
   },
   "rows": [
@@ -1348,12 +1348,20 @@
       "rank": 165
     },
     {
+      "name": "Viren S.",
+      "activities": 7,
+      "distance": 13.91,
+      "moving_time_s": 4585,
+      "elevation_m": 18,
+      "rank": 166
+    },
+    {
       "name": "Aldi O.",
       "activities": 3,
       "distance": 13.78,
       "moving_time_s": 5555,
       "elevation_m": 14,
-      "rank": 166
+      "rank": 167
     },
     {
       "name": "Yazid I.",
@@ -1361,7 +1369,7 @@
       "distance": 13.61,
       "moving_time_s": 7397,
       "elevation_m": 12,
-      "rank": 167
+      "rank": 168
     },
     {
       "name": "Melvin H.",
@@ -1369,7 +1377,7 @@
       "distance": 13.34,
       "moving_time_s": 10056,
       "elevation_m": 6,
-      "rank": 168
+      "rank": 169
     },
     {
       "name": "Nathania L.",
@@ -1377,7 +1385,7 @@
       "distance": 13.29,
       "moving_time_s": 6143,
       "elevation_m": 0,
-      "rank": 169
+      "rank": 170
     },
     {
       "name": "Albert A.",
@@ -1385,7 +1393,7 @@
       "distance": 13.01,
       "moving_time_s": 4946,
       "elevation_m": 18,
-      "rank": 170
+      "rank": 171
     },
     {
       "name": "Sarah S.",
@@ -1393,14 +1401,6 @@
       "distance": 12.8,
       "moving_time_s": 6274,
       "elevation_m": 89,
-      "rank": 171
-    },
-    {
-      "name": "Viren S.",
-      "activities": 6,
-      "distance": 12.66,
-      "moving_time_s": 4232,
-      "elevation_m": 18,
       "rank": 172
     },
     {
