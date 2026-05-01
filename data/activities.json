@@ -27761,9 +27761,37 @@
       "moving_time_s": 2425,
       "elapsed_time_s": 2425,
       "elevation_m": 35
+    },
+    "b1e4bc44b95eaed14c13": {
+      "h": "b1e4bc44b95eaed14c13",
+      "first_seen_at": "2026-05-01T22:10:23.345Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Faisal",
+      "athlete_last": "J.",
+      "name": "I'm sure glad I don't need to hunt for my food. I don't even know where tacos live.",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1206.5,
+      "moving_time_s": 601,
+      "elapsed_time_s": 601,
+      "elevation_m": 0
+    },
+    "efcf1f2b194a4d9bd333": {
+      "h": "efcf1f2b194a4d9bd333",
+      "first_seen_at": "2026-05-01T22:10:23.345Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Samuel",
+      "athlete_last": "W.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5012.5,
+      "moving_time_s": 2049,
+      "elapsed_time_s": 2334,
+      "elevation_m": 41.9
     }
   },
-  "last_synced_at": "2026-05-01T22:05:23.310Z",
+  "last_synced_at": "2026-05-01T22:10:23.345Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
