@@ -27915,9 +27915,37 @@
       "moving_time_s": 2039,
       "elapsed_time_s": 2564,
       "elevation_m": 53
+    },
+    "e705d84bb01e10bbb6af": {
+      "h": "e705d84bb01e10bbb6af",
+      "first_seen_at": "2026-05-01T23:15:19.813Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Ken",
+      "athlete_last": "K.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5392.5,
+      "moving_time_s": 1934,
+      "elapsed_time_s": 2570,
+      "elevation_m": 34
+    },
+    "6a276c31c58910598e6b": {
+      "h": "6a276c31c58910598e6b",
+      "first_seen_at": "2026-05-01T23:15:19.813Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Devina",
+      "athlete_last": "C.",
+      "name": "Hoka Shake Out Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4825.2,
+      "moving_time_s": 2000,
+      "elapsed_time_s": 2279,
+      "elevation_m": 54
     }
   },
-  "last_synced_at": "2026-05-01T23:10:18.140Z",
+  "last_synced_at": "2026-05-01T23:15:19.813Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
