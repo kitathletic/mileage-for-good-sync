@@ -28433,9 +28433,37 @@
       "moving_time_s": 4162,
       "elapsed_time_s": 4594,
       "elevation_m": 27
+    },
+    "93a9bdcc562550cad3a3": {
+      "h": "93a9bdcc562550cad3a3",
+      "first_seen_at": "2026-05-02T00:00:32.104Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Rhamdan",
+      "athlete_last": "I.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5007.5,
+      "moving_time_s": 2307,
+      "elapsed_time_s": 2515,
+      "elevation_m": 21
+    },
+    "298f36425bce4c83bbf8": {
+      "h": "298f36425bce4c83bbf8",
+      "first_seen_at": "2026-05-02T00:00:32.104Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Mario",
+      "athlete_last": "J.",
+      "name": "Interval 400x8",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6046.1,
+      "moving_time_s": 2335,
+      "elapsed_time_s": 2354,
+      "elevation_m": 4
     }
   },
-  "last_synced_at": "2026-05-01T23:55:16.852Z",
+  "last_synced_at": "2026-05-02T00:00:32.104Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
