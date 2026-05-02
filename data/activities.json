@@ -29091,9 +29091,65 @@
       "moving_time_s": 7847,
       "elapsed_time_s": 8070,
       "elevation_m": 46
+    },
+    "b8a78a8082071a19ba00": {
+      "h": "b8a78a8082071a19ba00",
+      "first_seen_at": "2026-05-02T00:50:19.800Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Andre",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 589.1,
+      "moving_time_s": 208,
+      "elapsed_time_s": 308,
+      "elevation_m": 1
+    },
+    "83215afd54ac03e47110": {
+      "h": "83215afd54ac03e47110",
+      "first_seen_at": "2026-05-02T00:50:19.800Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Ryan Adrian",
+      "athlete_last": "B.",
+      "name": "Morning uphill walk",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2957.9,
+      "moving_time_s": 2200,
+      "elapsed_time_s": 2213,
+      "elevation_m": 144
+    },
+    "9631554cc1ae4ea5a399": {
+      "h": "9631554cc1ae4ea5a399",
+      "first_seen_at": "2026-05-02T00:50:19.800Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Melvin",
+      "athlete_last": "H.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10043,
+      "moving_time_s": 4790,
+      "elapsed_time_s": 6316,
+      "elevation_m": 27
+    },
+    "52a038c3bf97968daa3f": {
+      "h": "52a038c3bf97968daa3f",
+      "first_seen_at": "2026-05-02T00:50:19.800Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Rian",
+      "athlete_last": "H.",
+      "name": "Long Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 21529.1,
+      "moving_time_s": 7051,
+      "elapsed_time_s": 7051,
+      "elevation_m": 27
     }
   },
-  "last_synced_at": "2026-05-02T00:45:16.347Z",
+  "last_synced_at": "2026-05-02T00:50:19.800Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
