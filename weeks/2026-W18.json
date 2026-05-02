@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T16:55:17.188Z",
+  "generated_at": "2026-05-02T17:00:27.329Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,19 +19,27 @@
     "Walk"
   ],
   "totals": {
-    "distance": 8695.83,
-    "activities": 1051,
-    "moving_time_s": 3721136,
-    "elevation_m": 54712
+    "distance": 8757.17,
+    "activities": 1052,
+    "moving_time_s": 3753066,
+    "elevation_m": 54962
   },
   "rows": [
+    {
+      "name": "Sulthan A.",
+      "activities": 6,
+      "distance": 154.42,
+      "moving_time_s": 76870,
+      "elevation_m": 568,
+      "rank": 1
+    },
     {
       "name": "Danny T.",
       "activities": 10,
       "distance": 150.51,
       "moving_time_s": 49101,
       "elevation_m": 263,
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "Hanif R.",
@@ -39,7 +47,7 @@
       "distance": 138.49,
       "moving_time_s": 47130,
       "elevation_m": 1282,
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "Rama E.",
@@ -47,7 +55,7 @@
       "distance": 138.2,
       "moving_time_s": 53047,
       "elevation_m": 1266,
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "Dadan K.",
@@ -55,7 +63,7 @@
       "distance": 122.62,
       "moving_time_s": 27585,
       "elevation_m": 2477,
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "Petra V.",
@@ -63,7 +71,7 @@
       "distance": 106.11,
       "moving_time_s": 46052,
       "elevation_m": 171,
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "Evan B.",
@@ -71,7 +79,7 @@
       "distance": 104.32,
       "moving_time_s": 50469,
       "elevation_m": 664,
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "Jazzy Z.",
@@ -79,14 +87,6 @@
       "distance": 96.25,
       "moving_time_s": 31959,
       "elevation_m": 562,
-      "rank": 7
-    },
-    {
-      "name": "Sulthan A.",
-      "activities": 5,
-      "distance": 93.08,
-      "moving_time_s": 44940,
-      "elevation_m": 318,
       "rank": 8
     },
     {
