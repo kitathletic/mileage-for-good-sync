@@ -30701,9 +30701,37 @@
       "moving_time_s": 4904,
       "elapsed_time_s": 4914,
       "elevation_m": 59
+    },
+    "e45145ea189e4b2da317": {
+      "h": "e45145ea189e4b2da317",
+      "first_seen_at": "2026-05-02T11:35:15.227Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Crystal",
+      "athlete_last": "Y.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3015.2,
+      "moving_time_s": 1255,
+      "elapsed_time_s": 1355,
+      "elevation_m": 13
+    },
+    "e0aaa4cbae170be35548": {
+      "h": "e0aaa4cbae170be35548",
+      "first_seen_at": "2026-05-02T11:35:15.227Z",
+      "week_key": "2026-W18",
+      "athlete_first": "thomyoum",
+      "athlete_last": "_.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8833,
+      "moving_time_s": 3821,
+      "elapsed_time_s": 3885,
+      "elevation_m": 26
     }
   },
-  "last_synced_at": "2026-05-02T11:30:20.913Z",
+  "last_synced_at": "2026-05-02T11:35:15.227Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
