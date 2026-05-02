@@ -29203,9 +29203,37 @@
       "moving_time_s": 5961,
       "elapsed_time_s": 6378,
       "elevation_m": 24
+    },
+    "c8e620badf56f03f8580": {
+      "h": "c8e620badf56f03f8580",
+      "first_seen_at": "2026-05-02T01:00:26.426Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Selvia",
+      "athlete_last": "M.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8363.5,
+      "moving_time_s": 3560,
+      "elapsed_time_s": 3629,
+      "elevation_m": 10
+    },
+    "35336cdc56cabab6910f": {
+      "h": "35336cdc56cabab6910f",
+      "first_seen_at": "2026-05-02T01:00:26.426Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Samuel Zeth",
+      "athlete_last": "A.",
+      "name": "Berlari Pagi",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12004.5,
+      "moving_time_s": 5698,
+      "elapsed_time_s": 5700,
+      "elevation_m": 150.5
     }
   },
-  "last_synced_at": "2026-05-02T00:55:20.454Z",
+  "last_synced_at": "2026-05-02T01:00:26.426Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
