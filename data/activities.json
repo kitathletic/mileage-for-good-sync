@@ -29833,9 +29833,51 @@
       "moving_time_s": 1801,
       "elapsed_time_s": 1801,
       "elevation_m": 0
+    },
+    "dece3424cad72b56aca5": {
+      "h": "dece3424cad72b56aca5",
+      "first_seen_at": "2026-05-02T02:10:22.279Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Faris",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10012.2,
+      "moving_time_s": 4129,
+      "elapsed_time_s": 4154,
+      "elevation_m": 74.3
+    },
+    "ec24a2f85b2ed4e16ec0": {
+      "h": "ec24a2f85b2ed4e16ec0",
+      "first_seen_at": "2026-05-02T02:10:22.279Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Danny",
+      "athlete_last": "T.",
+      "name": "LR 5x3km tempo.",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 23230,
+      "moving_time_s": 6401,
+      "elapsed_time_s": 6506,
+      "elevation_m": 17
+    },
+    "304f3a99016cb32aae79": {
+      "h": "304f3a99016cb32aae79",
+      "first_seen_at": "2026-05-02T02:10:22.279Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Zefan",
+      "athlete_last": "P.",
+      "name": "Morning Trail Run zone 2",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 19452,
+      "moving_time_s": 12739,
+      "elapsed_time_s": 14700,
+      "elevation_m": 502
     }
   },
-  "last_synced_at": "2026-05-02T02:05:18.565Z",
+  "last_synced_at": "2026-05-02T02:10:22.279Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
