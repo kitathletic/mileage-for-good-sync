@@ -30155,9 +30155,37 @@
       "moving_time_s": 8528,
       "elapsed_time_s": 12501,
       "elevation_m": 96
+    },
+    "5d95361e96e9b05fc241": {
+      "h": "5d95361e96e9b05fc241",
+      "first_seen_at": "2026-05-02T04:05:24.905Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Lintang",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1200,
+      "moving_time_s": 565,
+      "elapsed_time_s": 565,
+      "elevation_m": 0
+    },
+    "9ca18def2993a5ccc86b": {
+      "h": "9ca18def2993a5ccc86b",
+      "first_seen_at": "2026-05-02T04:05:24.905Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Deviana W.",
+      "athlete_last": "W.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5103.4,
+      "moving_time_s": 2084,
+      "elapsed_time_s": 2229,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-05-02T04:00:32.094Z",
+  "last_synced_at": "2026-05-02T04:05:24.905Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
