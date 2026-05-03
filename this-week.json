@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T22:55:13.122Z",
+  "generated_at": "2026-05-03T23:00:32.885Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 84.72,
-    "activities": 11,
-    "moving_time_s": 36324,
-    "elevation_m": 241
+    "distance": 104.03,
+    "activities": 14,
+    "moving_time_s": 43547,
+    "elevation_m": 295
   },
   "rows": [
     {
@@ -42,12 +42,20 @@
       "rank": 2
     },
     {
+      "name": "Arya .",
+      "activities": 2,
+      "distance": 10.8,
+      "moving_time_s": 4877,
+      "elevation_m": 56,
+      "rank": 3
+    },
+    {
       "name": "Hendri S.",
       "activities": 2,
       "distance": 10.4,
       "moving_time_s": 3736,
       "elevation_m": 0,
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "Dhiell R.",
@@ -55,7 +63,15 @@
       "distance": 10.19,
       "moving_time_s": 4566,
       "elevation_m": 44,
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "Ryan A.",
+      "activities": 1,
+      "distance": 8.26,
+      "moving_time_s": 3301,
+      "elevation_m": 8,
+      "rank": 6
     },
     {
       "name": "Jorge P.",
@@ -63,7 +79,7 @@
       "distance": 8.02,
       "moving_time_s": 3117,
       "elevation_m": 58,
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "Fildza Ananda P.",
@@ -71,7 +87,7 @@
       "distance": 6.16,
       "moving_time_s": 2948,
       "elevation_m": 11,
-      "rank": 6
+      "rank": 8
     },
     {
       "name": "Zad K.",
@@ -79,7 +95,7 @@
       "distance": 3.51,
       "moving_time_s": 1465,
       "elevation_m": 32,
-      "rank": 7
+      "rank": 9
     },
     {
       "name": "Ciko N.",
@@ -87,15 +103,15 @@
       "distance": 2.04,
       "moving_time_s": 1234,
       "elevation_m": 11,
-      "rank": 8
+      "rank": 10
     },
     {
-      "name": "Arya .",
+      "name": "Nyabang G.",
       "activities": 1,
-      "distance": 1.78,
-      "moving_time_s": 1570,
-      "elevation_m": 10,
-      "rank": 9
+      "distance": 2.03,
+      "moving_time_s": 615,
+      "elevation_m": 0,
+      "rank": 11
     }
   ]
 }
