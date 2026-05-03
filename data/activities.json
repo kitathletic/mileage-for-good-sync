@@ -33319,9 +33319,65 @@
       "moving_time_s": 7200,
       "elapsed_time_s": 7200,
       "elevation_m": 47
+    },
+    "1551c137a107ad22bfb1": {
+      "h": "1551c137a107ad22bfb1",
+      "first_seen_at": "2026-05-03T01:10:17.568Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Radifan",
+      "athlete_last": "H.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2015.5,
+      "moving_time_s": 1303,
+      "elapsed_time_s": 1314,
+      "elevation_m": 3
+    },
+    "1a60e25aebccc775ffb1": {
+      "h": "1a60e25aebccc775ffb1",
+      "first_seen_at": "2026-05-03T01:10:17.568Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Yuri",
+      "athlete_last": "A.",
+      "name": "Recovery Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5008.4,
+      "moving_time_s": 2150,
+      "elapsed_time_s": 2242,
+      "elevation_m": 55
+    },
+    "27707476d25a74083d38": {
+      "h": "27707476d25a74083d38",
+      "first_seen_at": "2026-05-03T01:10:17.568Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Rey",
+      "athlete_last": "M.",
+      "name": "Nike Run Club: Sunday Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11020.9,
+      "moving_time_s": 4944,
+      "elapsed_time_s": 5448,
+      "elevation_m": 68
+    },
+    "19e1dadb59b2ce6037de": {
+      "h": "19e1dadb59b2ce6037de",
+      "first_seen_at": "2026-05-03T01:10:17.568Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Soleiman",
+      "athlete_last": "P.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 26251,
+      "moving_time_s": 10183,
+      "elapsed_time_s": 10851,
+      "elevation_m": 64
     }
   },
-  "last_synced_at": "2026-05-03T01:05:17.401Z",
+  "last_synced_at": "2026-05-03T01:10:17.568Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
