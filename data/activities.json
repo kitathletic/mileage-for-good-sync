@@ -35167,9 +35167,37 @@
       "moving_time_s": 4721,
       "elapsed_time_s": 4828,
       "elevation_m": 10
+    },
+    "7acb3e450a15311fe9b2": {
+      "h": "7acb3e450a15311fe9b2",
+      "first_seen_at": "2026-05-03T11:40:26.032Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Andri",
+      "athlete_last": "K.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5180.3,
+      "moving_time_s": 1315,
+      "elapsed_time_s": 1315,
+      "elevation_m": 0
+    },
+    "ccbca66857af358c9753": {
+      "h": "ccbca66857af358c9753",
+      "first_seen_at": "2026-05-03T11:40:26.032Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Tim",
+      "athlete_last": "W.",
+      "name": "Church of the Sunday Long Run: 3km Easy + 4x2km @ 4:45/km with 1km Jog + 1km Tempo",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 15015.8,
+      "moving_time_s": 4721,
+      "elapsed_time_s": 4828,
+      "elevation_m": 10
     }
   },
-  "last_synced_at": "2026-05-03T11:35:21.630Z",
+  "last_synced_at": "2026-05-03T11:40:26.032Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
