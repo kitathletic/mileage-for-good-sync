@@ -34845,9 +34845,37 @@
       "moving_time_s": 9350,
       "elapsed_time_s": 9416,
       "elevation_m": 135
+    },
+    "0b8cf9e968a01657ae6d": {
+      "h": "0b8cf9e968a01657ae6d",
+      "first_seen_at": "2026-05-03T07:20:20.018Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Edy",
+      "athlete_last": "C.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4438.6,
+      "moving_time_s": 2141,
+      "elapsed_time_s": 2238,
+      "elevation_m": 49
+    },
+    "daa7a9afcd5ea4269dbf": {
+      "h": "daa7a9afcd5ea4269dbf",
+      "first_seen_at": "2026-05-03T07:20:20.018Z",
+      "week_key": "2026-W18",
+      "athlete_first": "ALI",
+      "athlete_last": "..",
+      "name": "Berlari Pagi",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 44506.6,
+      "moving_time_s": 26764,
+      "elapsed_time_s": 27536,
+      "elevation_m": 137.7
     }
   },
-  "last_synced_at": "2026-05-03T07:15:17.436Z",
+  "last_synced_at": "2026-05-03T07:20:20.018Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
