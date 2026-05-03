@@ -34369,9 +34369,37 @@
       "moving_time_s": 7278,
       "elapsed_time_s": 8760,
       "elevation_m": 41
+    },
+    "1d328d39a47d5a86cb14": {
+      "h": "1d328d39a47d5a86cb14",
+      "first_seen_at": "2026-05-03T02:20:19.962Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Nayaka",
+      "athlete_last": "B.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3330,
+      "moving_time_s": 1005,
+      "elapsed_time_s": 1005,
+      "elevation_m": 15.5
+    },
+    "00f5bc4563dd222125c8": {
+      "h": "00f5bc4563dd222125c8",
+      "first_seen_at": "2026-05-03T02:20:19.962Z",
+      "week_key": "2026-W18",
+      "athlete_first": "Eka surya",
+      "athlete_last": "W.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 25011.3,
+      "moving_time_s": 8131,
+      "elapsed_time_s": 8734,
+      "elevation_m": 90
     }
   },
-  "last_synced_at": "2026-05-03T02:15:19.901Z",
+  "last_synced_at": "2026-05-03T02:20:19.962Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
