@@ -36665,9 +36665,37 @@
       "moving_time_s": 3758,
       "elapsed_time_s": 3758,
       "elevation_m": 5
+    },
+    "cc6f4b6b5d6d252df9e7": {
+      "h": "cc6f4b6b5d6d252df9e7",
+      "first_seen_at": "2026-05-03T23:50:16.371Z",
+      "week_key": "2026-W19",
+      "athlete_first": "thomyoum",
+      "athlete_last": "_.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7105,
+      "moving_time_s": 3364,
+      "elapsed_time_s": 3371,
+      "elevation_m": 17
+    },
+    "b2e5a3e375166891489d": {
+      "h": "b2e5a3e375166891489d",
+      "first_seen_at": "2026-05-03T23:50:16.371Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Mochamad",
+      "athlete_last": "R.",
+      "name": "Mangkunegaran Recovery Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5007.4,
+      "moving_time_s": 2403,
+      "elapsed_time_s": 2956,
+      "elevation_m": 7
     }
   },
-  "last_synced_at": "2026-05-03T23:45:18.698Z",
+  "last_synced_at": "2026-05-03T23:50:16.371Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
