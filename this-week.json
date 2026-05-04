@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T09:40:22.587Z",
+  "generated_at": "2026-05-04T09:45:22.752Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 529.25,
-    "activities": 68,
-    "moving_time_s": 213688,
-    "elevation_m": 1571
+    "distance": 532.13,
+    "activities": 69,
+    "moving_time_s": 215557,
+    "elevation_m": 1572
   },
   "rows": [
     {
@@ -450,12 +450,20 @@
       "rank": 53
     },
     {
+      "name": "Didie N.",
+      "activities": 1,
+      "distance": 2.88,
+      "moving_time_s": 1869,
+      "elevation_m": 1,
+      "rank": 54
+    },
+    {
       "name": "Ryan Adrian B.",
       "activities": 1,
       "distance": 2.33,
       "moving_time_s": 990,
       "elevation_m": 0,
-      "rank": 54
+      "rank": 55
     },
     {
       "name": "Ciko N.",
@@ -463,7 +471,7 @@
       "distance": 2.04,
       "moving_time_s": 1234,
       "elevation_m": 11,
-      "rank": 55
+      "rank": 56
     },
     {
       "name": "Nyabang G.",
@@ -471,7 +479,7 @@
       "distance": 2.03,
       "moving_time_s": 615,
       "elevation_m": 0,
-      "rank": 56
+      "rank": 57
     },
     {
       "name": "Arwan W.",
@@ -479,7 +487,7 @@
       "distance": 2.02,
       "moving_time_s": 794,
       "elevation_m": 3,
-      "rank": 57
+      "rank": 58
     }
   ]
 }
