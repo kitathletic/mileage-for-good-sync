@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T00:25:13.968Z",
+  "generated_at": "2026-05-04T00:30:26.919Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 330.58,
-    "activities": 40,
-    "moving_time_s": 137360,
-    "elevation_m": 939
+    "distance": 335.47,
+    "activities": 42,
+    "moving_time_s": 139435,
+    "elevation_m": 943
   },
   "rows": [
     {
@@ -58,19 +58,19 @@
       "rank": 4
     },
     {
+      "name": "Winarta H.",
+      "activities": 2,
+      "distance": 12.69,
+      "moving_time_s": 5517,
+      "elevation_m": 13,
+      "rank": 5
+    },
+    {
       "name": "Arsi 🍀.",
       "activities": 1,
       "distance": 12.29,
       "moving_time_s": 5141,
       "elevation_m": 45,
-      "rank": 5
-    },
-    {
-      "name": "Winarta H.",
-      "activities": 1,
-      "distance": 12.01,
-      "moving_time_s": 5241,
-      "elevation_m": 12,
       "rank": 6
     },
     {
@@ -250,12 +250,20 @@
       "rank": 28
     },
     {
+      "name": "Aldi O.",
+      "activities": 1,
+      "distance": 4.21,
+      "moving_time_s": 1799,
+      "elevation_m": 3,
+      "rank": 29
+    },
+    {
       "name": "Zad K.",
       "activities": 1,
       "distance": 3.51,
       "moving_time_s": 1465,
       "elevation_m": 32,
-      "rank": 29
+      "rank": 30
     },
     {
       "name": "Adam V.",
@@ -263,7 +271,7 @@
       "distance": 3.07,
       "moving_time_s": 1593,
       "elevation_m": 6,
-      "rank": 30
+      "rank": 31
     },
     {
       "name": "Maymana A.",
@@ -271,7 +279,7 @@
       "distance": 3.02,
       "moving_time_s": 1590,
       "elevation_m": 23,
-      "rank": 31
+      "rank": 32
     },
     {
       "name": "Ciko N.",
@@ -279,7 +287,7 @@
       "distance": 2.04,
       "moving_time_s": 1234,
       "elevation_m": 11,
-      "rank": 32
+      "rank": 33
     },
     {
       "name": "Nyabang G.",
@@ -287,7 +295,7 @@
       "distance": 2.03,
       "moving_time_s": 615,
       "elevation_m": 0,
-      "rank": 33
+      "rank": 34
     },
     {
       "name": "Arwan W.",
@@ -295,7 +303,7 @@
       "distance": 2.02,
       "moving_time_s": 794,
       "elevation_m": 3,
-      "rank": 34
+      "rank": 35
     }
   ]
 }
