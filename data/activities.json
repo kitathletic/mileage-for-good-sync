@@ -39353,9 +39353,37 @@
       "moving_time_s": 6714,
       "elapsed_time_s": 6834,
       "elevation_m": 13.2
+    },
+    "27d769ecbe9f0f7a8707": {
+      "h": "27d769ecbe9f0f7a8707",
+      "first_seen_at": "2026-05-05T01:10:24.372Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Femi",
+      "athlete_last": "N.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7770.9,
+      "moving_time_s": 3163,
+      "elapsed_time_s": 3364,
+      "elevation_m": 4
+    },
+    "2d808a9004af4a50bd66": {
+      "h": "2d808a9004af4a50bd66",
+      "first_seen_at": "2026-05-05T01:10:24.372Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Aldi",
+      "athlete_last": "O.",
+      "name": "3/12 Min",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10073,
+      "moving_time_s": 4339,
+      "elapsed_time_s": 6104,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-05-05T01:05:24.304Z",
+  "last_synced_at": "2026-05-05T01:10:24.372Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
