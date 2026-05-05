@@ -39927,9 +39927,37 @@
       "moving_time_s": 3157,
       "elapsed_time_s": 3325,
       "elevation_m": 25
+    },
+    "d4456672958923275b3b": {
+      "h": "d4456672958923275b3b",
+      "first_seen_at": "2026-05-05T08:35:18.595Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Nayaka",
+      "athlete_last": "B.",
+      "name": "Set 1",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2020,
+      "moving_time_s": 485,
+      "elapsed_time_s": 485,
+      "elevation_m": 10.1
+    },
+    "3d9fa0e13b5e05688f57": {
+      "h": "3d9fa0e13b5e05688f57",
+      "first_seen_at": "2026-05-05T08:35:18.595Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Johan",
+      "athlete_last": "T.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11118.3,
+      "moving_time_s": 3933,
+      "elapsed_time_s": 4042,
+      "elevation_m": 38
     }
   },
-  "last_synced_at": "2026-05-05T08:30:23.520Z",
+  "last_synced_at": "2026-05-05T08:35:18.595Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
