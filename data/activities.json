@@ -40249,9 +40249,37 @@
       "moving_time_s": 3953,
       "elapsed_time_s": 3953,
       "elevation_m": 18
+    },
+    "50054877cbc7da4ef0a7": {
+      "h": "50054877cbc7da4ef0a7",
+      "first_seen_at": "2026-05-05T10:30:23.872Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Amal",
+      "athlete_last": "M.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11055.5,
+      "moving_time_s": 4301,
+      "elapsed_time_s": 4304,
+      "elevation_m": 19
+    },
+    "969c7b5f589b84265846": {
+      "h": "969c7b5f589b84265846",
+      "first_seen_at": "2026-05-05T10:30:23.872Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Jazzy",
+      "athlete_last": "Z.",
+      "name": "Tes track run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 807.4,
+      "moving_time_s": 273,
+      "elapsed_time_s": 418,
+      "elevation_m": 5.8
     }
   },
-  "last_synced_at": "2026-05-05T10:25:23.414Z",
+  "last_synced_at": "2026-05-05T10:30:23.872Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
