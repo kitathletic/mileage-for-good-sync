@@ -40781,9 +40781,51 @@
       "moving_time_s": 2090,
       "elapsed_time_s": 2090,
       "elevation_m": 0
+    },
+    "a873985fa592f3ffe078": {
+      "h": "a873985fa592f3ffe078",
+      "first_seen_at": "2026-05-05T12:55:24.670Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Melissa",
+      "athlete_last": "V.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7365.6,
+      "moving_time_s": 2702,
+      "elapsed_time_s": 2710,
+      "elevation_m": 67.5
+    },
+    "cea25454c66d0c6c30c5": {
+      "h": "cea25454c66d0c6c30c5",
+      "first_seen_at": "2026-05-05T12:55:24.670Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Pedro",
+      "athlete_last": "V.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 13917.4,
+      "moving_time_s": 4468,
+      "elapsed_time_s": 4474,
+      "elevation_m": 172
+    },
+    "da3a32c1f12f86197541": {
+      "h": "da3a32c1f12f86197541",
+      "first_seen_at": "2026-05-05T12:55:24.670Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Nindia",
+      "athlete_last": "S.",
+      "name": "40minute podcast run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5200,
+      "moving_time_s": 2462,
+      "elapsed_time_s": 2462,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-05-05T12:50:29.802Z",
+  "last_synced_at": "2026-05-05T12:55:24.670Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
