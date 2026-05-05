@@ -40655,9 +40655,51 @@
       "moving_time_s": 893,
       "elapsed_time_s": 977,
       "elevation_m": 12.4
+    },
+    "df3925a9ebdbdf147516": {
+      "h": "df3925a9ebdbdf147516",
+      "first_seen_at": "2026-05-05T12:20:23.229Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Guillermo E",
+      "athlete_last": "O.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 0,
+      "moving_time_s": 4,
+      "elapsed_time_s": 5,
+      "elevation_m": 0
+    },
+    "6f67170c780a015a3276": {
+      "h": "6f67170c780a015a3276",
+      "first_seen_at": "2026-05-05T12:20:23.229Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Peter Nichlas",
+      "athlete_last": "S.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8015.9,
+      "moving_time_s": 3212,
+      "elapsed_time_s": 3215,
+      "elevation_m": 98
+    },
+    "09f5d33405738d066285": {
+      "h": "09f5d33405738d066285",
+      "first_seen_at": "2026-05-05T12:20:23.229Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Alief Rafael",
+      "athlete_last": "G.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10010.4,
+      "moving_time_s": 3498,
+      "elapsed_time_s": 3633,
+      "elevation_m": 36
     }
   },
-  "last_synced_at": "2026-05-05T12:15:18.953Z",
+  "last_synced_at": "2026-05-05T12:20:23.229Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
