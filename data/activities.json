@@ -40739,9 +40739,37 @@
       "moving_time_s": 2883,
       "elapsed_time_s": 2946,
       "elevation_m": 2
+    },
+    "45e4f1c0471f4ee75df1": {
+      "h": "45e4f1c0471f4ee75df1",
+      "first_seen_at": "2026-05-05T12:40:19.631Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Bibip",
+      "athlete_last": "D.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8007.1,
+      "moving_time_s": 2891,
+      "elapsed_time_s": 2933,
+      "elevation_m": 0
+    },
+    "334b131e58338528d1d9": {
+      "h": "334b131e58338528d1d9",
+      "first_seen_at": "2026-05-05T12:40:19.631Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Bibip",
+      "athlete_last": "D.",
+      "name": "Lunch Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10014,
+      "moving_time_s": 3359,
+      "elapsed_time_s": 3473,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-05-05T12:35:18.966Z",
+  "last_synced_at": "2026-05-05T12:40:19.631Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
