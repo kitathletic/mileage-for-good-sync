@@ -39171,9 +39171,65 @@
       "moving_time_s": 1968,
       "elapsed_time_s": 1968,
       "elevation_m": 13
+    },
+    "e5cf5d011927f398ebd3": {
+      "h": "e5cf5d011927f398ebd3",
+      "first_seen_at": "2026-05-05T00:55:15.625Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Albert",
+      "athlete_last": "A.",
+      "name": "Recovery Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7005.4,
+      "moving_time_s": 3219,
+      "elapsed_time_s": 3434,
+      "elevation_m": 9
+    },
+    "be8909e648bb1730e971": {
+      "h": "be8909e648bb1730e971",
+      "first_seen_at": "2026-05-05T00:55:15.625Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Lintang",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10074.2,
+      "moving_time_s": 3546,
+      "elapsed_time_s": 3546,
+      "elevation_m": 27
+    },
+    "1401a0d2128c6d59190f": {
+      "h": "1401a0d2128c6d59190f",
+      "first_seen_at": "2026-05-05T00:55:15.625Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Tommy",
+      "athlete_last": "P.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10019.5,
+      "moving_time_s": 4232,
+      "elapsed_time_s": 4253,
+      "elevation_m": 11
+    },
+    "7ee225f5e974570b5fb7": {
+      "h": "7ee225f5e974570b5fb7",
+      "first_seen_at": "2026-05-05T00:55:15.625Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Muhammad",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10310,
+      "moving_time_s": 5246,
+      "elapsed_time_s": 5249,
+      "elevation_m": 59.9
     }
   },
-  "last_synced_at": "2026-05-05T00:50:24.541Z",
+  "last_synced_at": "2026-05-05T00:55:15.625Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
