@@ -40599,9 +40599,51 @@
       "moving_time_s": 3601,
       "elapsed_time_s": 3877,
       "elevation_m": 26
+    },
+    "cf53b25a7fc82b1989d0": {
+      "h": "cf53b25a7fc82b1989d0",
+      "first_seen_at": "2026-05-05T12:10:28.283Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Peter Nichlas",
+      "athlete_last": "S.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3015.8,
+      "moving_time_s": 1138,
+      "elapsed_time_s": 1138,
+      "elevation_m": 0
+    },
+    "46d2e29c322488490936": {
+      "h": "46d2e29c322488490936",
+      "first_seen_at": "2026-05-05T12:10:28.283Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Hendri",
+      "athlete_last": "S.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1005,
+      "moving_time_s": 669,
+      "elapsed_time_s": 1393,
+      "elevation_m": 2
+    },
+    "8457b85dfc9bccb4a7fe": {
+      "h": "8457b85dfc9bccb4a7fe",
+      "first_seen_at": "2026-05-05T12:10:28.283Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Naufal",
+      "athlete_last": "M.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9010,
+      "moving_time_s": 3673,
+      "elapsed_time_s": 3818,
+      "elevation_m": 20.9
     }
   },
-  "last_synced_at": "2026-05-05T12:05:23.664Z",
+  "last_synced_at": "2026-05-05T12:10:28.283Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
