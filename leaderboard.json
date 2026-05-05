@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T09:30:31.751Z",
+  "generated_at": "2026-05-05T09:35:16.789Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 15126.03,
-    "activities": 1664,
-    "moving_time_s": 6591831,
-    "elevation_m": 86810
+    "distance": 15131.74,
+    "activities": 1667,
+    "moving_time_s": 6596429,
+    "elevation_m": 86819
   },
   "rows": [
     {
@@ -117,10 +117,10 @@
     },
     {
       "name": "Petra V.",
-      "activities": 9,
-      "distance": 126.15,
-      "moving_time_s": 54566,
-      "elevation_m": 201,
+      "activities": 10,
+      "distance": 127.84,
+      "moving_time_s": 57548,
+      "elevation_m": 210,
       "rank": 12
     },
     {
@@ -220,12 +220,20 @@
       "rank": 24
     },
     {
+      "name": "Denny Y.",
+      "activities": 11,
+      "distance": 97.1,
+      "moving_time_s": 40372,
+      "elevation_m": 20,
+      "rank": 25
+    },
+    {
       "name": "Akbar M.",
       "activities": 13,
       "distance": 95.26,
       "moving_time_s": 42638,
       "elevation_m": 832,
-      "rank": 25
+      "rank": 26
     },
     {
       "name": "Amal M.",
@@ -233,7 +241,7 @@
       "distance": 95.14,
       "moving_time_s": 35868,
       "elevation_m": 144,
-      "rank": 26
+      "rank": 27
     },
     {
       "name": "Diah I.",
@@ -241,14 +249,6 @@
       "distance": 93.49,
       "moving_time_s": 42652,
       "elevation_m": 402,
-      "rank": 27
-    },
-    {
-      "name": "Denny Y.",
-      "activities": 9,
-      "distance": 93.08,
-      "moving_time_s": 38756,
-      "elevation_m": 20,
       "rank": 28
     },
     {
