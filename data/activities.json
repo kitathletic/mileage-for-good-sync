@@ -39605,9 +39605,37 @@
       "moving_time_s": 1301,
       "elapsed_time_s": 1559,
       "elevation_m": 16
+    },
+    "2cb8526b6241056a35a8": {
+      "h": "2cb8526b6241056a35a8",
+      "first_seen_at": "2026-05-05T02:05:24.150Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Vimal",
+      "athlete_last": "M.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5060.5,
+      "moving_time_s": 1755,
+      "elapsed_time_s": 1755,
+      "elevation_m": 40.6
+    },
+    "efacd52440d091c32142": {
+      "h": "efacd52440d091c32142",
+      "first_seen_at": "2026-05-05T02:05:24.150Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Dania",
+      "athlete_last": "J.",
+      "name": "Selasa Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2978.1,
+      "moving_time_s": 1449,
+      "elapsed_time_s": 1501,
+      "elevation_m": 181
     }
   },
-  "last_synced_at": "2026-05-05T02:00:32.258Z",
+  "last_synced_at": "2026-05-05T02:05:24.150Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
