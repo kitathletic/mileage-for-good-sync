@@ -40207,9 +40207,37 @@
       "moving_time_s": 806,
       "elapsed_time_s": 811,
       "elevation_m": 3
+    },
+    "c5b8697f2511f16f0489": {
+      "h": "c5b8697f2511f16f0489",
+      "first_seen_at": "2026-05-05T10:20:31.285Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Angga",
+      "athlete_last": "A.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5006.4,
+      "moving_time_s": 2065,
+      "elapsed_time_s": 2065,
+      "elevation_m": 27
+    },
+    "74c1e6f4167486276032": {
+      "h": "74c1e6f4167486276032",
+      "first_seen_at": "2026-05-05T10:20:31.285Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Jazzy",
+      "athlete_last": "Z.",
+      "name": "4x1500 (5.59)",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6397.4,
+      "moving_time_s": 1712,
+      "elapsed_time_s": 2165,
+      "elevation_m": 35.4
     }
   },
-  "last_synced_at": "2026-05-05T10:15:26.114Z",
+  "last_synced_at": "2026-05-05T10:20:31.285Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
