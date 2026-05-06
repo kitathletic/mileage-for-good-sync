@@ -42615,9 +42615,37 @@
       "moving_time_s": 3098,
       "elapsed_time_s": 3104,
       "elevation_m": 26
+    },
+    "e7c38542a403a76d4322": {
+      "h": "e7c38542a403a76d4322",
+      "first_seen_at": "2026-05-06T01:00:26.419Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Adityawarman",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5010.7,
+      "moving_time_s": 1824,
+      "elapsed_time_s": 1827,
+      "elevation_m": 26
+    },
+    "b09f3f3e751819a25168": {
+      "h": "b09f3f3e751819a25168",
+      "first_seen_at": "2026-05-06T01:00:26.419Z",
+      "week_key": "2026-W19",
+      "athlete_first": "irrienia",
+      "athlete_last": "D.",
+      "name": "Interval 400mX10",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8500.1,
+      "moving_time_s": 3922,
+      "elapsed_time_s": 4226,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-05-06T00:55:17.026Z",
+  "last_synced_at": "2026-05-06T01:00:26.419Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
