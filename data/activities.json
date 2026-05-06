@@ -43595,9 +43595,51 @@
       "moving_time_s": 3300,
       "elapsed_time_s": 3499,
       "elevation_m": 3
+    },
+    "b49363068ffcf2eb567d": {
+      "h": "b49363068ffcf2eb567d",
+      "first_seen_at": "2026-05-06T11:10:22.868Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Jazzy",
+      "athlete_last": "Z.",
+      "name": "Stride 5x100",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 732.4,
+      "moving_time_s": 199,
+      "elapsed_time_s": 213,
+      "elevation_m": 0
+    },
+    "3aaa50b6fc2eb2919657": {
+      "h": "3aaa50b6fc2eb2919657",
+      "first_seen_at": "2026-05-06T11:10:22.868Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Jazzy",
+      "athlete_last": "Z.",
+      "name": "easy",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5006.8,
+      "moving_time_s": 1698,
+      "elapsed_time_s": 1713,
+      "elevation_m": 34.4
+    },
+    "17debbcaf0c3960d6033": {
+      "h": "17debbcaf0c3960d6033",
+      "first_seen_at": "2026-05-06T11:10:22.868Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Aditya Riska",
+      "athlete_last": "P.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10039.8,
+      "moving_time_s": 4390,
+      "elapsed_time_s": 4505,
+      "elevation_m": 32
     }
   },
-  "last_synced_at": "2026-05-06T11:00:30.575Z",
+  "last_synced_at": "2026-05-06T11:10:22.868Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
