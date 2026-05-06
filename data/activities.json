@@ -43945,9 +43945,65 @@
       "moving_time_s": 3754,
       "elapsed_time_s": 4131,
       "elevation_m": 2
+    },
+    "1be40a6b8cee8a98e8d8": {
+      "h": "1be40a6b8cee8a98e8d8",
+      "first_seen_at": "2026-05-06T13:10:29.496Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Irvan",
+      "athlete_last": "C.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2815.3,
+      "moving_time_s": 1331,
+      "elapsed_time_s": 1441,
+      "elevation_m": 4.6
+    },
+    "d8f2ddbb40b193e3fcdc": {
+      "h": "d8f2ddbb40b193e3fcdc",
+      "first_seen_at": "2026-05-06T13:10:29.496Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Ivan Andrey",
+      "athlete_last": "Y.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5211.4,
+      "moving_time_s": 2018,
+      "elapsed_time_s": 2023,
+      "elevation_m": 0
+    },
+    "f37ee4c1d03d7ffa6d2f": {
+      "h": "f37ee4c1d03d7ffa6d2f",
+      "first_seen_at": "2026-05-06T13:10:29.496Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Joshua",
+      "athlete_last": "Y.",
+      "name": "Evening Interval",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6379,
+      "moving_time_s": 3047,
+      "elapsed_time_s": 3074,
+      "elevation_m": 14
+    },
+    "b905dbeba0929d488419": {
+      "h": "b905dbeba0929d488419",
+      "first_seen_at": "2026-05-06T13:10:29.496Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Ario",
+      "athlete_last": "S.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5048.6,
+      "moving_time_s": 2188,
+      "elapsed_time_s": 2195,
+      "elevation_m": 5
     }
   },
-  "last_synced_at": "2026-05-06T13:05:18.374Z",
+  "last_synced_at": "2026-05-06T13:10:29.496Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
