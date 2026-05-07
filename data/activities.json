@@ -46185,9 +46185,37 @@
       "moving_time_s": 1732,
       "elapsed_time_s": 1732,
       "elevation_m": 0
+    },
+    "ee0b9c0938bdb7a61969": {
+      "h": "ee0b9c0938bdb7a61969",
+      "first_seen_at": "2026-05-07T03:40:18.462Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Amir",
+      "athlete_last": "0.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4007.6,
+      "moving_time_s": 1569,
+      "elapsed_time_s": 1569,
+      "elevation_m": 0
+    },
+    "27fa0e8b741ebd4eff9f": {
+      "h": "27fa0e8b741ebd4eff9f",
+      "first_seen_at": "2026-05-07T03:40:18.462Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Asen",
+      "athlete_last": "..",
+      "name": "2026-05-07 EZ RUN 1 Hour",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10339,
+      "moving_time_s": 3604,
+      "elapsed_time_s": 3604,
+      "elevation_m": 5
     }
   },
-  "last_synced_at": "2026-05-07T03:35:23.653Z",
+  "last_synced_at": "2026-05-07T03:40:18.462Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
