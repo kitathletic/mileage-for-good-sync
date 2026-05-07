@@ -47739,9 +47739,51 @@
       "moving_time_s": 5674,
       "elapsed_time_s": 5686,
       "elevation_m": 45
+    },
+    "9fbf9ad68eac77245d14": {
+      "h": "9fbf9ad68eac77245d14",
+      "first_seen_at": "2026-05-07T23:05:22.465Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Syaifullah",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 459.8,
+      "moving_time_s": 220,
+      "elapsed_time_s": 220,
+      "elevation_m": 1
+    },
+    "a520ed55014ab485845a": {
+      "h": "a520ed55014ab485845a",
+      "first_seen_at": "2026-05-07T23:05:22.465Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Izhar",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7264.4,
+      "moving_time_s": 2857,
+      "elapsed_time_s": 2897,
+      "elevation_m": 19
+    },
+    "adee23ca83743451ff92": {
+      "h": "adee23ca83743451ff92",
+      "first_seen_at": "2026-05-07T23:05:22.465Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Amal",
+      "athlete_last": "M.",
+      "name": "Night Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 30303.5,
+      "moving_time_s": 10850,
+      "elapsed_time_s": 12723,
+      "elevation_m": 63
     }
   },
-  "last_synced_at": "2026-05-07T23:00:28.564Z",
+  "last_synced_at": "2026-05-07T23:05:22.465Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
