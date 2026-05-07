@@ -47613,9 +47613,51 @@
       "moving_time_s": 2758,
       "elapsed_time_s": 2761,
       "elevation_m": 54
+    },
+    "47b50c9f1a036205ee33": {
+      "h": "47b50c9f1a036205ee33",
+      "first_seen_at": "2026-05-07T22:15:17.930Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Deddy",
+      "athlete_last": "I.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5395.6,
+      "moving_time_s": 2272,
+      "elapsed_time_s": 2281,
+      "elevation_m": 244.4
+    },
+    "6ea4d64686a0febeaf2e": {
+      "h": "6ea4d64686a0febeaf2e",
+      "first_seen_at": "2026-05-07T22:15:17.930Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Deddy",
+      "athlete_last": "I.",
+      "name": "Berlari Pagi",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5437.3,
+      "moving_time_s": 2289,
+      "elapsed_time_s": 2293,
+      "elevation_m": 246.6
+    },
+    "bed1dc32c1a5b6ab8b08": {
+      "h": "bed1dc32c1a5b6ab8b08",
+      "first_seen_at": "2026-05-07T22:15:17.930Z",
+      "week_key": "2026-W19",
+      "athlete_first": "adiv",
+      "athlete_last": "O.",
+      "name": "Morning Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 5551.5,
+      "moving_time_s": 3647,
+      "elapsed_time_s": 4119,
+      "elevation_m": 109
     }
   },
-  "last_synced_at": "2026-05-07T22:10:18.569Z",
+  "last_synced_at": "2026-05-07T22:15:17.930Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
