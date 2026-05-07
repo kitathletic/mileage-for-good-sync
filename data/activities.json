@@ -46353,9 +46353,37 @@
       "moving_time_s": 1800,
       "elapsed_time_s": 1824,
       "elevation_m": 17
+    },
+    "ad3e45fc3c5e04f0323d": {
+      "h": "ad3e45fc3c5e04f0323d",
+      "first_seen_at": "2026-05-07T07:15:26.136Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Samuel Zeth",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12291.5,
+      "moving_time_s": 6134,
+      "elapsed_time_s": 6279,
+      "elevation_m": 50.8
+    },
+    "8503b26d4fbea77b92a9": {
+      "h": "8503b26d4fbea77b92a9",
+      "first_seen_at": "2026-05-07T07:15:26.136Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Avniel",
+      "athlete_last": "L.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6501.4,
+      "moving_time_s": 2824,
+      "elapsed_time_s": 2846,
+      "elevation_m": 26
     }
   },
-  "last_synced_at": "2026-05-07T07:10:25.567Z",
+  "last_synced_at": "2026-05-07T07:15:26.136Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
