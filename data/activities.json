@@ -50721,9 +50721,65 @@
       "moving_time_s": 2477,
       "elapsed_time_s": 2477,
       "elevation_m": 0
+    },
+    "f55639b1612e13053396": {
+      "h": "f55639b1612e13053396",
+      "first_seen_at": "2026-05-08T23:35:17.484Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Arwan",
+      "athlete_last": "W.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5018.5,
+      "moving_time_s": 1811,
+      "elapsed_time_s": 1811,
+      "elevation_m": 16
+    },
+    "394decb4ce35c39899e3": {
+      "h": "394decb4ce35c39899e3",
+      "first_seen_at": "2026-05-08T23:35:17.484Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Zefan",
+      "athlete_last": "P.",
+      "name": "Morning Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 7769.5,
+      "moving_time_s": 4555,
+      "elapsed_time_s": 4568,
+      "elevation_m": 251
+    },
+    "3308c53ab28ecfd3ad20": {
+      "h": "3308c53ab28ecfd3ad20",
+      "first_seen_at": "2026-05-08T23:35:17.484Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Stefanus",
+      "athlete_last": "E.",
+      "name": "Saturday morning run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9966.7,
+      "moving_time_s": 4351,
+      "elapsed_time_s": 4677,
+      "elevation_m": 8.4
+    },
+    "ba52b4cbba50d0a0e48f": {
+      "h": "ba52b4cbba50d0a0e48f",
+      "first_seen_at": "2026-05-08T23:35:17.484Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Serigala",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 14011.9,
+      "moving_time_s": 4884,
+      "elapsed_time_s": 4906,
+      "elevation_m": 45
     }
   },
-  "last_synced_at": "2026-05-08T23:30:24.247Z",
+  "last_synced_at": "2026-05-08T23:35:17.484Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
