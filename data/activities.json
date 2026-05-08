@@ -49895,9 +49895,51 @@
       "moving_time_s": 2669,
       "elapsed_time_s": 2701,
       "elevation_m": 26.4
+    },
+    "e786dbc786cea193c609": {
+      "h": "e786dbc786cea193c609",
+      "first_seen_at": "2026-05-08T11:35:25.688Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Sandy",
+      "athlete_last": "S.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4203,
+      "moving_time_s": 1470,
+      "elapsed_time_s": 1470,
+      "elevation_m": 0
+    },
+    "0d5bada2ae39721fdb17": {
+      "h": "0d5bada2ae39721fdb17",
+      "first_seen_at": "2026-05-08T11:35:25.688Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Reno",
+      "athlete_last": "Y.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7023.2,
+      "moving_time_s": 2465,
+      "elapsed_time_s": 2465,
+      "elevation_m": 25.7
+    },
+    "cff2e1e44688d61099ca": {
+      "h": "cff2e1e44688d61099ca",
+      "first_seen_at": "2026-05-08T11:35:25.688Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Ivan",
+      "athlete_last": "M.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7594.5,
+      "moving_time_s": 3449,
+      "elapsed_time_s": 3550,
+      "elevation_m": 10
     }
   },
-  "last_synced_at": "2026-05-08T11:30:29.787Z",
+  "last_synced_at": "2026-05-08T11:35:25.688Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
