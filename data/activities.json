@@ -50133,9 +50133,37 @@
       "moving_time_s": 2359,
       "elapsed_time_s": 2419,
       "elevation_m": 42.8
+    },
+    "d0803ed8b5b668aae3e4": {
+      "h": "d0803ed8b5b668aae3e4",
+      "first_seen_at": "2026-05-08T13:10:23.661Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Rudi",
+      "athlete_last": "P.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3707.8,
+      "moving_time_s": 1854,
+      "elapsed_time_s": 1867,
+      "elevation_m": 0
+    },
+    "28f4c6faea62d1bdc079": {
+      "h": "28f4c6faea62d1bdc079",
+      "first_seen_at": "2026-05-08T13:10:23.661Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Hilal",
+      "athlete_last": "H.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5009.9,
+      "moving_time_s": 1599,
+      "elapsed_time_s": 1604,
+      "elevation_m": 4
     }
   },
-  "last_synced_at": "2026-05-08T13:05:17.127Z",
+  "last_synced_at": "2026-05-08T13:10:23.661Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
