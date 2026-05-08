@@ -50161,9 +50161,37 @@
       "moving_time_s": 1599,
       "elapsed_time_s": 1604,
       "elevation_m": 4
+    },
+    "a700ca83f4f7f201dc88": {
+      "h": "a700ca83f4f7f201dc88",
+      "first_seen_at": "2026-05-08T13:15:27.349Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Ivan Andrey",
+      "athlete_last": "Y.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2096.6,
+      "moving_time_s": 1003,
+      "elapsed_time_s": 1026,
+      "elevation_m": 0
+    },
+    "e8eb422662b6b67e4c43": {
+      "h": "e8eb422662b6b67e4c43",
+      "first_seen_at": "2026-05-08T13:15:27.349Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Rido",
+      "athlete_last": "W.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5025.5,
+      "moving_time_s": 1822,
+      "elapsed_time_s": 1849,
+      "elevation_m": 32
     }
   },
-  "last_synced_at": "2026-05-08T13:10:23.661Z",
+  "last_synced_at": "2026-05-08T13:15:27.349Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
