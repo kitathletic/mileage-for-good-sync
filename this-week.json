@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T03:30:22.299Z",
+  "generated_at": "2026-05-09T03:35:15.154Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,9 +19,9 @@
     "Walk"
   ],
   "totals": {
-    "distance": 9541.89,
-    "activities": 1179,
-    "moving_time_s": 3871131,
+    "distance": 9544.89,
+    "activities": 1180,
+    "moving_time_s": 3872210,
     "elevation_m": 36495
   },
   "rows": [
@@ -2522,12 +2522,20 @@
       "rank": 312
     },
     {
+      "name": "Ikhya A.",
+      "activities": 1,
+      "distance": 3,
+      "moving_time_s": 1079,
+      "elevation_m": 0,
+      "rank": 313
+    },
+    {
       "name": "Guillermo E O.",
       "activities": 6,
       "distance": 0.71,
       "moving_time_s": 2015,
       "elevation_m": 0,
-      "rank": 313
+      "rank": 314
     }
   ]
 }
