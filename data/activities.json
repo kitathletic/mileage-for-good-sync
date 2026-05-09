@@ -54123,9 +54123,37 @@
       "moving_time_s": 1547,
       "elapsed_time_s": 1551,
       "elevation_m": 27.5
+    },
+    "3ee1a6c1f978d25ba276": {
+      "h": "3ee1a6c1f978d25ba276",
+      "first_seen_at": "2026-05-09T23:10:20.043Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Serigala",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 15016.3,
+      "moving_time_s": 4769,
+      "elapsed_time_s": 4812,
+      "elevation_m": 39
+    },
+    "169acb12af60af31ccb8": {
+      "h": "169acb12af60af31ccb8",
+      "first_seen_at": "2026-05-09T23:10:20.043Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Handy",
+      "athlete_last": "C.",
+      "name": "Coffee Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5572.1,
+      "moving_time_s": 1763,
+      "elapsed_time_s": 1775,
+      "elevation_m": 25
     }
   },
-  "last_synced_at": "2026-05-09T23:05:15.530Z",
+  "last_synced_at": "2026-05-09T23:10:20.043Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
