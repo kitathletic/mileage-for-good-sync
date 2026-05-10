@@ -58239,9 +58239,37 @@
       "moving_time_s": 5897,
       "elapsed_time_s": 6005,
       "elevation_m": 51.2
+    },
+    "aad72d145d19d8af38db": {
+      "h": "aad72d145d19d8af38db",
+      "first_seen_at": "2026-05-10T12:50:18.986Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Silviany",
+      "athlete_last": "S.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10087.2,
+      "moving_time_s": 6241,
+      "elapsed_time_s": 6357,
+      "elevation_m": 0
+    },
+    "9843576c0436be753ea2": {
+      "h": "9843576c0436be753ea2",
+      "first_seen_at": "2026-05-10T12:50:18.986Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Silviany",
+      "athlete_last": "S.",
+      "name": "10km Long Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10009.9,
+      "moving_time_s": 6368,
+      "elapsed_time_s": 6388,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-05-10T12:45:26.129Z",
+  "last_synced_at": "2026-05-10T12:50:18.986Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
