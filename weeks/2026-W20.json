@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T17:40:17.189Z",
+  "generated_at": "2026-05-10T17:45:18.187Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,19 @@
     "Walk"
   ],
   "totals": {
-    "distance": 0,
-    "activities": 0,
-    "moving_time_s": 0,
-    "elevation_m": 0
+    "distance": 21.21,
+    "activities": 1,
+    "moving_time_s": 8444,
+    "elevation_m": 59
   },
-  "rows": []
+  "rows": [
+    {
+      "name": "Nayaka B.",
+      "activities": 1,
+      "distance": 21.21,
+      "moving_time_s": 8444,
+      "elevation_m": 59,
+      "rank": 1
+    }
+  ]
 }
