@@ -54627,9 +54627,65 @@
       "moving_time_s": 6746,
       "elapsed_time_s": 6756,
       "elevation_m": 51
+    },
+    "e5e88287d8b87d96ae34": {
+      "h": "e5e88287d8b87d96ae34",
+      "first_seen_at": "2026-05-10T00:10:20.074Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Angga",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5001,
+      "moving_time_s": 1896,
+      "elapsed_time_s": 1896,
+      "elevation_m": 31
+    },
+    "3708f2c131b3c4751fcc": {
+      "h": "3708f2c131b3c4751fcc",
+      "first_seen_at": "2026-05-10T00:10:20.074Z",
+      "week_key": "2026-W19",
+      "athlete_first": "_ph.87",
+      "athlete_last": "|.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5008,
+      "moving_time_s": 2275,
+      "elapsed_time_s": 2347,
+      "elevation_m": 34
+    },
+    "5f63e291e587e1509324": {
+      "h": "5f63e291e587e1509324",
+      "first_seen_at": "2026-05-10T00:10:20.074Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Melvin",
+      "athlete_last": "H.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11011,
+      "moving_time_s": 4620,
+      "elapsed_time_s": 4620,
+      "elevation_m": 27
+    },
+    "237ff6d43ebf0a4377fe": {
+      "h": "237ff6d43ebf0a4377fe",
+      "first_seen_at": "2026-05-10T00:10:20.074Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Denny",
+      "athlete_last": "Y.",
+      "name": "Night Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 30012.5,
+      "moving_time_s": 12613,
+      "elapsed_time_s": 13518,
+      "elevation_m": 21
     }
   },
-  "last_synced_at": "2026-05-10T00:05:14.361Z",
+  "last_synced_at": "2026-05-10T00:10:20.074Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
