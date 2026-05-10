@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-10T12:25:23.021Z",
+  "generated_at": "2026-05-10T12:30:21.996Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
-    "member_count": 550,
+    "member_count": 548,
     "url": "kitathletic"
   },
   "units": "km",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 37692.42,
-    "activities": 4088,
-    "moving_time_s": 15908889,
-    "elevation_m": 200224
+    "distance": 37697.47,
+    "activities": 4089,
+    "moving_time_s": 15911156,
+    "elevation_m": 200229
   },
   "rows": [
     {
@@ -1204,12 +1204,20 @@
       "rank": 147
     },
     {
+      "name": "Ario S.",
+      "activities": 12,
+      "distance": 106.57,
+      "moving_time_s": 49586,
+      "elevation_m": 187,
+      "rank": 148
+    },
+    {
       "name": "Iwan A.",
       "activities": 13,
       "distance": 106.17,
       "moving_time_s": 68814,
       "elevation_m": 2010,
-      "rank": 148
+      "rank": 149
     },
     {
       "name": "Naufal M.",
@@ -1217,7 +1225,7 @@
       "distance": 106.13,
       "moving_time_s": 40826,
       "elevation_m": 162,
-      "rank": 149
+      "rank": 150
     },
     {
       "name": "Re H.",
@@ -1225,7 +1233,7 @@
       "distance": 105.83,
       "moving_time_s": 45191,
       "elevation_m": 295,
-      "rank": 150
+      "rank": 151
     },
     {
       "name": "Ivan Andrey Y.",
@@ -1233,7 +1241,7 @@
       "distance": 105.78,
       "moving_time_s": 42608,
       "elevation_m": 232,
-      "rank": 151
+      "rank": 152
     },
     {
       "name": "Levian R.",
@@ -1241,7 +1249,7 @@
       "distance": 102.44,
       "moving_time_s": 40083,
       "elevation_m": 210,
-      "rank": 152
+      "rank": 153
     },
     {
       "name": "Bimantoro B.",
@@ -1249,7 +1257,7 @@
       "distance": 102.1,
       "moving_time_s": 60283,
       "elevation_m": 732,
-      "rank": 153
+      "rank": 154
     },
     {
       "name": "Zefan P.",
@@ -1257,14 +1265,6 @@
       "distance": 101.94,
       "moving_time_s": 67469,
       "elevation_m": 3417,
-      "rank": 154
-    },
-    {
-      "name": "Ario S.",
-      "activities": 11,
-      "distance": 101.52,
-      "moving_time_s": 47319,
-      "elevation_m": 182,
       "rank": 155
     },
     {
