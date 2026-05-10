@@ -57455,9 +57455,37 @@
       "moving_time_s": 4665,
       "elapsed_time_s": 4777,
       "elevation_m": 44
+    },
+    "eca1763cb0f474b8b3b0": {
+      "h": "eca1763cb0f474b8b3b0",
+      "first_seen_at": "2026-05-10T04:45:16.823Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Fandi",
+      "athlete_last": "‎.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 15030.8,
+      "moving_time_s": 4419,
+      "elapsed_time_s": 4493,
+      "elevation_m": 42.7
+    },
+    "c47d3f949599f207b753": {
+      "h": "c47d3f949599f207b753",
+      "first_seen_at": "2026-05-10T04:45:16.823Z",
+      "week_key": "2026-W19",
+      "athlete_first": "Petra",
+      "athlete_last": "V.",
+      "name": "Sunday Long Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 25031.2,
+      "moving_time_s": 10694,
+      "elapsed_time_s": 11786,
+      "elevation_m": 58
     }
   },
-  "last_synced_at": "2026-05-10T04:40:18.014Z",
+  "last_synced_at": "2026-05-10T04:45:16.823Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
