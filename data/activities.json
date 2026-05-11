@@ -60101,9 +60101,51 @@
       "moving_time_s": 2548,
       "elapsed_time_s": 2551,
       "elevation_m": 0
+    },
+    "e1f25cca50c1c301e662": {
+      "h": "e1f25cca50c1c301e662",
+      "first_seen_at": "2026-05-11T23:10:19.551Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Serigala",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 15007.4,
+      "moving_time_s": 5140,
+      "elapsed_time_s": 5163,
+      "elevation_m": 42
+    },
+    "cde33d447a691bc3fb5c": {
+      "h": "cde33d447a691bc3fb5c",
+      "first_seen_at": "2026-05-11T23:10:19.551Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Ryan",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10158,
+      "moving_time_s": 4000,
+      "elapsed_time_s": 4026,
+      "elevation_m": 9
+    },
+    "8c3712e7b69850f30cd1": {
+      "h": "8c3712e7b69850f30cd1",
+      "first_seen_at": "2026-05-11T23:10:19.551Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Julian",
+      "athlete_last": "..",
+      "name": "Lari Trail Petang",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 269592,
+      "moving_time_s": 661,
+      "elapsed_time_s": 2043259,
+      "elevation_m": 364.9
     }
   },
-  "last_synced_at": "2026-05-11T23:05:16.319Z",
+  "last_synced_at": "2026-05-11T23:10:19.551Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
