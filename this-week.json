@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T12:00:37.730Z",
+  "generated_at": "2026-05-11T12:05:21.581Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,19 +19,27 @@
     "Walk"
   ],
   "totals": {
-    "distance": 603.17,
-    "activities": 85,
-    "moving_time_s": 238464,
-    "elevation_m": 2072
+    "distance": 608.2,
+    "activities": 86,
+    "moving_time_s": 240219,
+    "elevation_m": 2099
   },
   "rows": [
+    {
+      "name": "Nayaka B.",
+      "activities": 2,
+      "distance": 26.24,
+      "moving_time_s": 10199,
+      "elevation_m": 86,
+      "rank": 1
+    },
     {
       "name": "Aaron A.",
       "activities": 2,
       "distance": 25.47,
       "moving_time_s": 10448,
       "elevation_m": 26,
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "Febio S.",
@@ -39,14 +47,6 @@
       "distance": 24.02,
       "moving_time_s": 8036,
       "elevation_m": 0,
-      "rank": 2
-    },
-    {
-      "name": "Nayaka B.",
-      "activities": 1,
-      "distance": 21.21,
-      "moving_time_s": 8444,
-      "elevation_m": 59,
       "rank": 3
     },
     {
