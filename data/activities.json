@@ -59331,9 +59331,37 @@
       "moving_time_s": 3010,
       "elapsed_time_s": 3024,
       "elevation_m": 27
+    },
+    "863c72dc7a958521b965": {
+      "h": "863c72dc7a958521b965",
+      "first_seen_at": "2026-05-11T10:25:25.185Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Aldi",
+      "athlete_last": "A.",
+      "name": "LTHR - Sub zone 2",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2598.6,
+      "moving_time_s": 900,
+      "elapsed_time_s": 920,
+      "elevation_m": 2
+    },
+    "d9e1fa89c154213a9483": {
+      "h": "d9e1fa89c154213a9483",
+      "first_seen_at": "2026-05-11T10:25:25.185Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Michael",
+      "athlete_last": "K.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10120,
+      "moving_time_s": 3603,
+      "elapsed_time_s": 3603,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-05-11T10:20:19.612Z",
+  "last_synced_at": "2026-05-11T10:25:25.185Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
