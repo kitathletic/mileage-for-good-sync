@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T08:30:31.253Z",
+  "generated_at": "2026-05-11T08:35:16.962Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,9 +19,9 @@
     "Walk"
   ],
   "totals": {
-    "distance": 467.48,
-    "activities": 59,
-    "moving_time_s": 185815,
+    "distance": 468.06,
+    "activities": 60,
+    "moving_time_s": 186203,
     "elevation_m": 1391
   },
   "rows": [
@@ -440,6 +440,14 @@
       "moving_time_s": 1609,
       "elevation_m": 27,
       "rank": 52
+    },
+    {
+      "name": "Faris A.",
+      "activities": 1,
+      "distance": 0.58,
+      "moving_time_s": 388,
+      "elevation_m": 0,
+      "rank": 53
     }
   ]
 }
