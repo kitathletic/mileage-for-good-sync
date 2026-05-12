@@ -62243,9 +62243,65 @@
       "moving_time_s": 3331,
       "elapsed_time_s": 3443,
       "elevation_m": 30
+    },
+    "fd1bfe1f1921d952288f": {
+      "h": "fd1bfe1f1921d952288f",
+      "first_seen_at": "2026-05-12T11:30:23.577Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Arif Ambar",
+      "athlete_last": "P.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5013.8,
+      "moving_time_s": 2354,
+      "elapsed_time_s": 2360,
+      "elevation_m": 23
+    },
+    "ae9c555d25588702349c": {
+      "h": "ae9c555d25588702349c",
+      "first_seen_at": "2026-05-12T11:30:23.577Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Zahri",
+      "athlete_last": "R.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6651.4,
+      "moving_time_s": 2852,
+      "elapsed_time_s": 2876,
+      "elevation_m": 7
+    },
+    "76ad4939543ac4e7df96": {
+      "h": "76ad4939543ac4e7df96",
+      "first_seen_at": "2026-05-12T11:30:23.577Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Michael",
+      "athlete_last": "K.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10250,
+      "moving_time_s": 3605,
+      "elapsed_time_s": 3605,
+      "elevation_m": 0
+    },
+    "25307ac2b9fc3a438a4c": {
+      "h": "25307ac2b9fc3a438a4c",
+      "first_seen_at": "2026-05-12T11:30:23.577Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Calvin",
+      "athlete_last": "R.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7209,
+      "moving_time_s": 3366,
+      "elapsed_time_s": 3369,
+      "elevation_m": 4
     }
   },
-  "last_synced_at": "2026-05-12T11:25:17.159Z",
+  "last_synced_at": "2026-05-12T11:30:23.577Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
