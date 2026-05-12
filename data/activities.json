@@ -62523,9 +62523,37 @@
       "moving_time_s": 3018,
       "elapsed_time_s": 3018,
       "elevation_m": 0
+    },
+    "cfdcdfaebc9e0caf1bbe": {
+      "h": "cfdcdfaebc9e0caf1bbe",
+      "first_seen_at": "2026-05-12T12:25:17.650Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Tim",
+      "athlete_last": "W.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6202.3,
+      "moving_time_s": 2176,
+      "elapsed_time_s": 3778,
+      "elevation_m": 30
+    },
+    "c6b860c12d0c7286df66": {
+      "h": "c6b860c12d0c7286df66",
+      "first_seen_at": "2026-05-12T12:25:17.650Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Fildza Ananda",
+      "athlete_last": "P.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7248.5,
+      "moving_time_s": 3180,
+      "elapsed_time_s": 3645,
+      "elevation_m": 15
     }
   },
-  "last_synced_at": "2026-05-12T12:20:21.553Z",
+  "last_synced_at": "2026-05-12T12:25:17.650Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
