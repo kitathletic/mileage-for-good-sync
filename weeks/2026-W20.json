@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T12:05:22.485Z",
+  "generated_at": "2026-05-12T12:10:20.894Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 2480.17,
-    "activities": 291,
-    "moving_time_s": 885623,
-    "elevation_m": 7399
+    "distance": 2480.87,
+    "activities": 292,
+    "moving_time_s": 885962,
+    "elevation_m": 7400
   },
   "rows": [
     {
@@ -1552,6 +1552,14 @@
       "moving_time_s": 459,
       "elevation_m": 0,
       "rank": 191
+    },
+    {
+      "name": "Syaifullah S.",
+      "activities": 1,
+      "distance": 0.7,
+      "moving_time_s": 339,
+      "elevation_m": 1,
+      "rank": 192
     }
   ]
 }
