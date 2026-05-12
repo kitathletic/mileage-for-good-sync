@@ -61683,9 +61683,37 @@
       "moving_time_s": 2375,
       "elapsed_time_s": 2375,
       "elevation_m": 13
+    },
+    "1504116f7950c8c84264": {
+      "h": "1504116f7950c8c84264",
+      "first_seen_at": "2026-05-12T01:55:17.516Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Reynaldi",
+      "athlete_last": "O.",
+      "name": "Night Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 0,
+      "moving_time_s": 4409,
+      "elapsed_time_s": 4409,
+      "elevation_m": 0
+    },
+    "befd28c73f79b6ae4d9f": {
+      "h": "befd28c73f79b6ae4d9f",
+      "first_seen_at": "2026-05-12T01:55:17.516Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Denny",
+      "athlete_last": "Y.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 21004.9,
+      "moving_time_s": 8630,
+      "elapsed_time_s": 8943,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-05-12T01:50:26.118Z",
+  "last_synced_at": "2026-05-12T01:55:17.516Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
