@@ -62117,9 +62117,37 @@
       "moving_time_s": 3152,
       "elapsed_time_s": 3246,
       "elevation_m": 26.1
+    },
+    "b33f54958252848b5d7f": {
+      "h": "b33f54958252848b5d7f",
+      "first_seen_at": "2026-05-12T10:45:27.482Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Adi",
+      "athlete_last": "R.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5670.4,
+      "moving_time_s": 2401,
+      "elapsed_time_s": 2401,
+      "elevation_m": 34
+    },
+    "245388adb2037a591c05": {
+      "h": "245388adb2037a591c05",
+      "first_seen_at": "2026-05-12T10:45:27.482Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Rey",
+      "athlete_last": "M.",
+      "name": "Nike Run Club: EZ Tuesday Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7375.9,
+      "moving_time_s": 2981,
+      "elapsed_time_s": 2985,
+      "elevation_m": 19
     }
   },
-  "last_synced_at": "2026-05-12T10:41:04.631Z",
+  "last_synced_at": "2026-05-12T10:45:27.482Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
