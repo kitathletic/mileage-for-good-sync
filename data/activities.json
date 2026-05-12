@@ -62775,9 +62775,37 @@
       "moving_time_s": 3293,
       "elapsed_time_s": 3321,
       "elevation_m": 8
+    },
+    "6befd4b3b741d87f908d": {
+      "h": "6befd4b3b741d87f908d",
+      "first_seen_at": "2026-05-12T13:30:34.799Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Aaron",
+      "athlete_last": "A.",
+      "name": "Rush hour run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7008.6,
+      "moving_time_s": 3293,
+      "elapsed_time_s": 3321,
+      "elevation_m": 8
+    },
+    "eb2cc66f1173b821e9a9": {
+      "h": "eb2cc66f1173b821e9a9",
+      "first_seen_at": "2026-05-12T13:30:34.799Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Aditya",
+      "athlete_last": "K.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10426,
+      "moving_time_s": 4201,
+      "elapsed_time_s": 4873,
+      "elevation_m": 28
     }
   },
-  "last_synced_at": "2026-05-12T13:25:18.009Z",
+  "last_synced_at": "2026-05-12T13:30:34.799Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
