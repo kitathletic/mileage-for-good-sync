@@ -62089,9 +62089,37 @@
       "moving_time_s": 2700,
       "elapsed_time_s": 2712,
       "elevation_m": 0
+    },
+    "8a8edfb986c20416f05d": {
+      "h": "8a8edfb986c20416f05d",
+      "first_seen_at": "2026-05-12T10:00:36.627Z",
+      "week_key": "2026-W20",
+      "athlete_first": "ramdani",
+      "athlete_last": "R.",
+      "name": "Berlari Sore",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3188.4,
+      "moving_time_s": 1263,
+      "elapsed_time_s": 1263,
+      "elevation_m": 0
+    },
+    "afa95acc2c2fe6a2b860": {
+      "h": "afa95acc2c2fe6a2b860",
+      "first_seen_at": "2026-05-12T10:00:36.627Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Kasiadi",
+      "athlete_last": "I.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5555,
+      "moving_time_s": 3152,
+      "elapsed_time_s": 3246,
+      "elevation_m": 26.1
     }
   },
-  "last_synced_at": "2026-05-12T09:55:22.794Z",
+  "last_synced_at": "2026-05-12T10:00:36.627Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
