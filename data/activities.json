@@ -65099,9 +65099,37 @@
       "moving_time_s": 2010,
       "elapsed_time_s": 2719,
       "elevation_m": 0
+    },
+    "f603200f1d7d3d78d83a": {
+      "h": "f603200f1d7d3d78d83a",
+      "first_seen_at": "2026-05-13T10:00:32.762Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Amal",
+      "athlete_last": "M.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10010.8,
+      "moving_time_s": 3880,
+      "elapsed_time_s": 3880,
+      "elevation_m": 26
+    },
+    "0e9325f5806cb1f65428": {
+      "h": "0e9325f5806cb1f65428",
+      "first_seen_at": "2026-05-13T10:00:32.762Z",
+      "week_key": "2026-W20",
+      "athlete_first": "𝕵𝖆𝖏𝖆𝖓𝖌",
+      "athlete_last": "𝕹.",
+      "name": "Rabu Easy Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6997.9,
+      "moving_time_s": 2863,
+      "elapsed_time_s": 2867,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-05-13T09:55:18.510Z",
+  "last_synced_at": "2026-05-13T10:00:32.762Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
