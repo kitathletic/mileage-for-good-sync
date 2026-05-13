@@ -66611,9 +66611,37 @@
       "moving_time_s": 3222,
       "elapsed_time_s": 3316,
       "elevation_m": 32
+    },
+    "1cb7884f0723f504a9cd": {
+      "h": "1cb7884f0723f504a9cd",
+      "first_seen_at": "2026-05-13T22:50:23.981Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Hanif",
+      "athlete_last": "R.",
+      "name": "Shakeout Run in Lombok",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4006.9,
+      "moving_time_s": 1391,
+      "elapsed_time_s": 1401,
+      "elevation_m": 25
+    },
+    "86e4706fec9c9154aa9a": {
+      "h": "86e4706fec9c9154aa9a",
+      "first_seen_at": "2026-05-13T22:50:23.981Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Ivan",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7150.4,
+      "moving_time_s": 2704,
+      "elapsed_time_s": 2716,
+      "elevation_m": 28
     }
   },
-  "last_synced_at": "2026-05-13T22:45:23.815Z",
+  "last_synced_at": "2026-05-13T22:50:23.981Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
