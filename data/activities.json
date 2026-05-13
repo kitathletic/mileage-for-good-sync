@@ -65211,9 +65211,37 @@
       "moving_time_s": 4060,
       "elapsed_time_s": 4060,
       "elevation_m": 86
+    },
+    "c6defc754164d2cf895d": {
+      "h": "c6defc754164d2cf895d",
+      "first_seen_at": "2026-05-13T10:45:24.361Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Dhiell",
+      "athlete_last": "R.",
+      "name": "Berlari di luar ruangan",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 400.6,
+      "moving_time_s": 114,
+      "elapsed_time_s": 117,
+      "elevation_m": 0
+    },
+    "c97185d37c8d58e50f2a": {
+      "h": "c97185d37c8d58e50f2a",
+      "first_seen_at": "2026-05-13T10:45:24.361Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Ryan Adrian",
+      "athlete_last": "B.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8039.6,
+      "moving_time_s": 3406,
+      "elapsed_time_s": 3426,
+      "elevation_m": 6
     }
   },
-  "last_synced_at": "2026-05-13T10:40:28.963Z",
+  "last_synced_at": "2026-05-13T10:45:24.361Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
