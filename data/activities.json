@@ -64651,9 +64651,37 @@
       "moving_time_s": 3418,
       "elapsed_time_s": 4110,
       "elevation_m": 6
+    },
+    "b1299430a2c687039931": {
+      "h": "b1299430a2c687039931",
+      "first_seen_at": "2026-05-13T01:45:16.105Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Vania",
+      "athlete_last": "P.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8017.1,
+      "moving_time_s": 3849,
+      "elapsed_time_s": 3857,
+      "elevation_m": 10
+    },
+    "72e5145c62f5d2468619": {
+      "h": "72e5145c62f5d2468619",
+      "first_seen_at": "2026-05-13T01:45:16.105Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Cath",
+      "athlete_last": "H.",
+      "name": "Morning Interval Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6425.8,
+      "moving_time_s": 2480,
+      "elapsed_time_s": 3215,
+      "elevation_m": 19
     }
   },
-  "last_synced_at": "2026-05-13T01:40:19.398Z",
+  "last_synced_at": "2026-05-13T01:45:16.105Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
