@@ -65477,9 +65477,37 @@
       "moving_time_s": 4178,
       "elapsed_time_s": 4181,
       "elevation_m": 12
+    },
+    "4a57295ba9f714ddc488": {
+      "h": "4a57295ba9f714ddc488",
+      "first_seen_at": "2026-05-13T12:05:16.729Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Bimantoro",
+      "athlete_last": "B.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 560.8,
+      "moving_time_s": 242,
+      "elapsed_time_s": 286,
+      "elevation_m": 1
+    },
+    "34af3b4be65c6703759c": {
+      "h": "34af3b4be65c6703759c",
+      "first_seen_at": "2026-05-13T12:05:16.729Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Aswin Mahardi",
+      "athlete_last": "P.",
+      "name": "Tempo W2 May’26",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10015.1,
+      "moving_time_s": 3368,
+      "elapsed_time_s": 3407,
+      "elevation_m": 25
     }
   },
-  "last_synced_at": "2026-05-13T12:00:40.003Z",
+  "last_synced_at": "2026-05-13T12:05:16.729Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
