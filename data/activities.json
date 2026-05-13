@@ -66191,9 +66191,37 @@
       "moving_time_s": 5354,
       "elapsed_time_s": 5631,
       "elevation_m": 11.4
+    },
+    "ef2f0d9e1c950055db57": {
+      "h": "ef2f0d9e1c950055db57",
+      "first_seen_at": "2026-05-13T15:05:25.137Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Fildza Ananda",
+      "athlete_last": "P.",
+      "name": "Night Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5002.5,
+      "moving_time_s": 2428,
+      "elapsed_time_s": 2439,
+      "elevation_m": 8
+    },
+    "ca9d75b1004ad33ed98e": {
+      "h": "ca9d75b1004ad33ed98e",
+      "first_seen_at": "2026-05-13T15:05:25.137Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Rey",
+      "athlete_last": "M.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1137.4,
+      "moving_time_s": 476,
+      "elapsed_time_s": 489,
+      "elevation_m": 43.6
     }
   },
-  "last_synced_at": "2026-05-13T15:00:38.825Z",
+  "last_synced_at": "2026-05-13T15:05:25.137Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
