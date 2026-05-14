@@ -69495,9 +69495,37 @@
       "moving_time_s": 6157,
       "elapsed_time_s": 6167,
       "elevation_m": 64
+    },
+    "2be3d2b24166b29d0a85": {
+      "h": "2be3d2b24166b29d0a85",
+      "first_seen_at": "2026-05-14T11:15:19.094Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Tim",
+      "athlete_last": "W.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10096.6,
+      "moving_time_s": 3468,
+      "elapsed_time_s": 3774,
+      "elevation_m": 31
+    },
+    "88d0c0ffb1ee34987ebd": {
+      "h": "88d0c0ffb1ee34987ebd",
+      "first_seen_at": "2026-05-14T11:15:19.094Z",
+      "week_key": "2026-W20",
+      "athlete_first": "win",
+      "athlete_last": "C.",
+      "name": "WK01 | BUILD - EASY",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10112.7,
+      "moving_time_s": 4082,
+      "elapsed_time_s": 4082,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-05-14T11:10:18.643Z",
+  "last_synced_at": "2026-05-14T11:15:19.094Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
