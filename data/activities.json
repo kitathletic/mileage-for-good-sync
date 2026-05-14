@@ -69747,9 +69747,51 @@
       "moving_time_s": 3435,
       "elapsed_time_s": 3435,
       "elevation_m": 0
+    },
+    "3425fbe3fd51491f8be1": {
+      "h": "3425fbe3fd51491f8be1",
+      "first_seen_at": "2026-05-14T12:50:20.932Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Guillermo E",
+      "athlete_last": "O.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 717.1,
+      "moving_time_s": 631,
+      "elapsed_time_s": 700,
+      "elevation_m": 1
+    },
+    "7ff424d803b30a6d9495": {
+      "h": "7ff424d803b30a6d9495",
+      "first_seen_at": "2026-05-14T12:50:20.932Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Rio",
+      "athlete_last": "P.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 13056.1,
+      "moving_time_s": 4239,
+      "elapsed_time_s": 4450,
+      "elevation_m": 0
+    },
+    "ec9c67cfab98332208eb": {
+      "h": "ec9c67cfab98332208eb",
+      "first_seen_at": "2026-05-14T12:50:20.932Z",
+      "week_key": "2026-W20",
+      "athlete_first": "David",
+      "athlete_last": "P.",
+      "name": "Go to mosque",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2365.1,
+      "moving_time_s": 917,
+      "elapsed_time_s": 3289,
+      "elevation_m": 43.1
     }
   },
-  "last_synced_at": "2026-05-14T12:45:18.978Z",
+  "last_synced_at": "2026-05-14T12:50:20.932Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
