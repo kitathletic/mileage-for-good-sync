@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T08:00:31.007Z",
+  "generated_at": "2026-05-14T08:05:21.653Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,9 +19,9 @@
     "Walk"
   ],
   "totals": {
-    "distance": 6232.29,
-    "activities": 763,
-    "moving_time_s": 2414368,
+    "distance": 6234.31,
+    "activities": 764,
+    "moving_time_s": 2415329,
     "elevation_m": 22410
   },
   "rows": [
@@ -458,12 +458,20 @@
       "rank": 54
     },
     {
+      "name": "Zydan F.",
+      "activities": 4,
+      "distance": 32.62,
+      "moving_time_s": 13820,
+      "elevation_m": 18,
+      "rank": 55
+    },
+    {
       "name": "Pedro V.",
       "activities": 3,
       "distance": 32.54,
       "moving_time_s": 9891,
       "elevation_m": 390,
-      "rank": 55
+      "rank": 56
     },
     {
       "name": "Hilal H.",
@@ -471,7 +479,7 @@
       "distance": 32.32,
       "moving_time_s": 12736,
       "elevation_m": 89,
-      "rank": 56
+      "rank": 57
     },
     {
       "name": "BUDI P.",
@@ -479,7 +487,7 @@
       "distance": 32.27,
       "moving_time_s": 13223,
       "elevation_m": 41,
-      "rank": 57
+      "rank": 58
     },
     {
       "name": "Ananda W.",
@@ -487,7 +495,7 @@
       "distance": 31.75,
       "moving_time_s": 12091,
       "elevation_m": 100,
-      "rank": 58
+      "rank": 59
     },
     {
       "name": "Hanif R.",
@@ -495,7 +503,7 @@
       "distance": 31.62,
       "moving_time_s": 11313,
       "elevation_m": 159,
-      "rank": 59
+      "rank": 60
     },
     {
       "name": "Radifan H.",
@@ -503,7 +511,7 @@
       "distance": 31.57,
       "moving_time_s": 13125,
       "elevation_m": 22,
-      "rank": 60
+      "rank": 61
     },
     {
       "name": "ROLLAN L.",
@@ -511,7 +519,7 @@
       "distance": 31.22,
       "moving_time_s": 13580,
       "elevation_m": 77,
-      "rank": 61
+      "rank": 62
     },
     {
       "name": "Peter Nichlas S.",
@@ -519,14 +527,6 @@
       "distance": 31.1,
       "moving_time_s": 10987,
       "elevation_m": 267,
-      "rank": 62
-    },
-    {
-      "name": "Zydan F.",
-      "activities": 3,
-      "distance": 30.6,
-      "moving_time_s": 12859,
-      "elevation_m": 18,
       "rank": 63
     },
     {
