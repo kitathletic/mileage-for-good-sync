@@ -72883,9 +72883,37 @@
       "moving_time_s": 2256,
       "elapsed_time_s": 2271,
       "elevation_m": 43
+    },
+    "6b0b715d0480cdcf473a": {
+      "h": "6b0b715d0480cdcf473a",
+      "first_seen_at": "2026-05-15T11:52:31.437Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Yunita Dwi",
+      "athlete_last": "A.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 857.9,
+      "moving_time_s": 370,
+      "elapsed_time_s": 377,
+      "elevation_m": 29.2
+    },
+    "b1208210e355044c823c": {
+      "h": "b1208210e355044c823c",
+      "first_seen_at": "2026-05-15T11:52:31.437Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Jagad",
+      "athlete_last": "M.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10008.1,
+      "moving_time_s": 3413,
+      "elapsed_time_s": 3496,
+      "elevation_m": 58.2
     }
   },
-  "last_synced_at": "2026-05-15T11:45:20.845Z",
+  "last_synced_at": "2026-05-15T11:52:31.437Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
