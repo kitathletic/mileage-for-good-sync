@@ -70741,9 +70741,65 @@
       "moving_time_s": 2502,
       "elapsed_time_s": 2614,
       "elevation_m": 10
+    },
+    "c4b19588d84b40ae0b31": {
+      "h": "c4b19588d84b40ae0b31",
+      "first_seen_at": "2026-05-15T00:05:19.214Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Rhamdan",
+      "athlete_last": "I.",
+      "name": "Tempo Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5300.5,
+      "moving_time_s": 1865,
+      "elapsed_time_s": 1983,
+      "elevation_m": 37
+    },
+    "e80a37aef1f11a099832": {
+      "h": "e80a37aef1f11a099832",
+      "first_seen_at": "2026-05-15T00:05:19.214Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Jazzy",
+      "athlete_last": "Z.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8007.6,
+      "moving_time_s": 2404,
+      "elapsed_time_s": 2404,
+      "elevation_m": 8.7
+    },
+    "0089dc4a9b8acec17bc2": {
+      "h": "0089dc4a9b8acec17bc2",
+      "first_seen_at": "2026-05-15T00:05:19.214Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Amanda",
+      "athlete_last": "T.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5014.6,
+      "moving_time_s": 2066,
+      "elapsed_time_s": 2091,
+      "elevation_m": 0
+    },
+    "c58dfcbeece40ed94122": {
+      "h": "c58dfcbeece40ed94122",
+      "first_seen_at": "2026-05-15T00:05:19.214Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Abraham",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5198.3,
+      "moving_time_s": 2299,
+      "elapsed_time_s": 2521,
+      "elevation_m": 4
     }
   },
-  "last_synced_at": "2026-05-15T00:00:31.378Z",
+  "last_synced_at": "2026-05-15T00:05:19.214Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
