@@ -72001,9 +72001,51 @@
       "moving_time_s": 12107,
       "elapsed_time_s": 13808,
       "elevation_m": 1160
+    },
+    "b15f1c1cb0e47e0597a6": {
+      "h": "b15f1c1cb0e47e0597a6",
+      "first_seen_at": "2026-05-15T01:55:17.349Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Yudong",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1271.6,
+      "moving_time_s": 517,
+      "elapsed_time_s": 522,
+      "elevation_m": 0
+    },
+    "e1322ff7e5183e743bc4": {
+      "h": "e1322ff7e5183e743bc4",
+      "first_seen_at": "2026-05-15T01:55:17.349Z",
+      "week_key": "2026-W20",
+      "athlete_first": "agnes",
+      "athlete_last": "Y.",
+      "name": "Recovery run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9061.4,
+      "moving_time_s": 3721,
+      "elapsed_time_s": 3839,
+      "elevation_m": 12
+    },
+    "30de59a6aa833a114cac": {
+      "h": "30de59a6aa833a114cac",
+      "first_seen_at": "2026-05-15T01:55:17.349Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Ambar",
+      "athlete_last": "S.",
+      "name": "Morning Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 22991.6,
+      "moving_time_s": 12976,
+      "elapsed_time_s": 14798,
+      "elevation_m": 1195.7
     }
   },
-  "last_synced_at": "2026-05-15T01:50:17.789Z",
+  "last_synced_at": "2026-05-15T01:55:17.349Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
