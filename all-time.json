@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T10:30:23.486Z",
+  "generated_at": "2026-05-15T10:35:17.920Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,9 +21,9 @@
     "Walk"
   ],
   "totals": {
-    "distance": 46255.41,
-    "activities": 5112,
-    "moving_time_s": 19380107,
+    "distance": 46276.52,
+    "activities": 5113,
+    "moving_time_s": 19389627,
     "elevation_m": 246232
   },
   "rows": [
@@ -364,12 +364,20 @@
       "rank": 42
     },
     {
+      "name": "Billy S.",
+      "activities": 21,
+      "distance": 244.74,
+      "moving_time_s": 110334,
+      "elevation_m": 0,
+      "rank": 43
+    },
+    {
       "name": "Samuel Zeth A.",
       "activities": 22,
       "distance": 242.15,
       "moving_time_s": 111431,
       "elevation_m": 1423,
-      "rank": 43
+      "rank": 44
     },
     {
       "name": "Lintang R.",
@@ -377,7 +385,7 @@
       "distance": 241.46,
       "moving_time_s": 84328,
       "elevation_m": 535,
-      "rank": 44
+      "rank": 45
     },
     {
       "name": "Wah E.",
@@ -385,7 +393,7 @@
       "distance": 240.24,
       "moving_time_s": 101329,
       "elevation_m": 1243,
-      "rank": 45
+      "rank": 46
     },
     {
       "name": "Aaron A.",
@@ -393,7 +401,7 @@
       "distance": 237.6,
       "moving_time_s": 103680,
       "elevation_m": 647,
-      "rank": 46
+      "rank": 47
     },
     {
       "name": "ruel R.",
@@ -401,7 +409,7 @@
       "distance": 237.32,
       "moving_time_s": 128658,
       "elevation_m": 5597,
-      "rank": 47
+      "rank": 48
     },
     {
       "name": "Akbar M.",
@@ -409,7 +417,7 @@
       "distance": 233.01,
       "moving_time_s": 112174,
       "elevation_m": 2079,
-      "rank": 48
+      "rank": 49
     },
     {
       "name": "Indra Z.",
@@ -417,7 +425,7 @@
       "distance": 232.88,
       "moving_time_s": 82991,
       "elevation_m": 361,
-      "rank": 49
+      "rank": 50
     },
     {
       "name": "agnes Y.",
@@ -425,14 +433,6 @@
       "distance": 223.86,
       "moving_time_s": 81642,
       "elevation_m": 1026,
-      "rank": 50
-    },
-    {
-      "name": "Billy S.",
-      "activities": 20,
-      "distance": 223.63,
-      "moving_time_s": 100814,
-      "elevation_m": 0,
       "rank": 51
     },
     {
