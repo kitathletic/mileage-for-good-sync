@@ -76565,9 +76565,37 @@
       "moving_time_s": 1024,
       "elapsed_time_s": 2704,
       "elevation_m": 56
+    },
+    "f713e2ce33a2d32f2a69": {
+      "h": "f713e2ce33a2d32f2a69",
+      "first_seen_at": "2026-05-16T09:35:17.136Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Adam",
+      "athlete_last": "V.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4005.6,
+      "moving_time_s": 2018,
+      "elapsed_time_s": 2018,
+      "elevation_m": 7
+    },
+    "a31e4b5205ebf659c184": {
+      "h": "a31e4b5205ebf659c184",
+      "first_seen_at": "2026-05-16T09:35:17.136Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Devina",
+      "athlete_last": "C.",
+      "name": "UTMB UTA 50",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 51766.8,
+      "moving_time_s": 34300,
+      "elapsed_time_s": 34303,
+      "elevation_m": 2473
     }
   },
-  "last_synced_at": "2026-05-16T09:30:24.238Z",
+  "last_synced_at": "2026-05-16T09:35:17.136Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
