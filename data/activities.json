@@ -76705,9 +76705,37 @@
       "moving_time_s": 630,
       "elapsed_time_s": 847,
       "elevation_m": 37
+    },
+    "a3efad3379c1e11af37a": {
+      "h": "a3efad3379c1e11af37a",
+      "first_seen_at": "2026-05-16T10:20:21.392Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Arya",
+      "athlete_last": ".",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8015.3,
+      "moving_time_s": 2856,
+      "elapsed_time_s": 2856,
+      "elevation_m": 13
+    },
+    "731a1f4637f112c8c574": {
+      "h": "731a1f4637f112c8c574",
+      "first_seen_at": "2026-05-16T10:20:21.392Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Samuel",
+      "athlete_last": "W.",
+      "name": "First UTA50",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 53261.2,
+      "moving_time_s": 42916,
+      "elapsed_time_s": 43935,
+      "elevation_m": 2134
     }
   },
-  "last_synced_at": "2026-05-16T10:15:18.634Z",
+  "last_synced_at": "2026-05-16T10:20:21.392Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
