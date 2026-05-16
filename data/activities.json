@@ -77573,9 +77573,37 @@
       "moving_time_s": 5916,
       "elapsed_time_s": 6489,
       "elevation_m": 89
+    },
+    "fae3bcaab347c3809cbb": {
+      "h": "fae3bcaab347c3809cbb",
+      "first_seen_at": "2026-05-16T23:05:14.382Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Zydan",
+      "athlete_last": "F.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10188,
+      "moving_time_s": 3452,
+      "elapsed_time_s": 3481,
+      "elevation_m": 68
+    },
+    "8f568cbff20741a110bb": {
+      "h": "8f568cbff20741a110bb",
+      "first_seen_at": "2026-05-16T23:05:14.382Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Rhamdan",
+      "athlete_last": "I.",
+      "name": "Bandoeng 10K 2026",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10134.2,
+      "moving_time_s": 3348,
+      "elapsed_time_s": 3348,
+      "elevation_m": 67
     }
   },
-  "last_synced_at": "2026-05-16T23:00:28.874Z",
+  "last_synced_at": "2026-05-16T23:05:14.382Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
