@@ -77223,9 +77223,37 @@
       "moving_time_s": 60408,
       "elapsed_time_s": 71161,
       "elevation_m": 4198
+    },
+    "6626f4e8cd135705ba6b": {
+      "h": "6626f4e8cd135705ba6b",
+      "first_seen_at": "2026-05-16T16:50:19.076Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Hendri",
+      "athlete_last": "S.",
+      "name": "Night Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2006,
+      "moving_time_s": 1184,
+      "elapsed_time_s": 1184,
+      "elevation_m": 0
+    },
+    "9908570ba0c3b47c147a": {
+      "h": "9908570ba0c3b47c147a",
+      "first_seen_at": "2026-05-16T16:50:19.076Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Handy",
+      "athlete_last": "C.",
+      "name": "UTA100",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 103590,
+      "moving_time_s": 60408,
+      "elapsed_time_s": 71161,
+      "elevation_m": 4198
     }
   },
-  "last_synced_at": "2026-05-16T16:45:17.567Z",
+  "last_synced_at": "2026-05-16T16:50:19.076Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90

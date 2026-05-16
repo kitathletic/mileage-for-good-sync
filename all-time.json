@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T16:45:17.567Z",
+  "generated_at": "2026-05-16T16:50:19.076Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 50135.04,
-    "activities": 5446,
-    "moving_time_s": 21307885,
-    "elevation_m": 303263
+    "distance": 50240.64,
+    "activities": 5448,
+    "moving_time_s": 21369477,
+    "elevation_m": 307461
   },
   "rows": [
     {
@@ -36,12 +36,20 @@
       "rank": 1
     },
     {
+      "name": "Handy C.",
+      "activities": 33,
+      "distance": 594.4,
+      "moving_time_s": 270800,
+      "elevation_m": 14002,
+      "rank": 2
+    },
+    {
       "name": "Andri K.",
       "activities": 44,
       "distance": 526.81,
       "moving_time_s": 232088,
       "elevation_m": 6780,
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "Edrick L.",
@@ -49,14 +57,6 @@
       "distance": 510.7,
       "moving_time_s": 157872,
       "elevation_m": 808,
-      "rank": 3
-    },
-    {
-      "name": "Handy C.",
-      "activities": 32,
-      "distance": 490.81,
-      "moving_time_s": 210392,
-      "elevation_m": 9804,
       "rank": 4
     },
     {
@@ -1436,12 +1436,20 @@
       "rank": 176
     },
     {
+      "name": "Hendri S.",
+      "activities": 27,
+      "distance": 119,
+      "moving_time_s": 58616,
+      "elevation_m": 640,
+      "rank": 177
+    },
+    {
       "name": "Mesha M.",
       "activities": 9,
       "distance": 117.67,
       "moving_time_s": 47832,
       "elevation_m": 478,
-      "rank": 177
+      "rank": 178
     },
     {
       "name": "Arie T.",
@@ -1449,14 +1457,6 @@
       "distance": 117.15,
       "moving_time_s": 40802,
       "elevation_m": 208,
-      "rank": 178
-    },
-    {
-      "name": "Hendri S.",
-      "activities": 26,
-      "distance": 116.99,
-      "moving_time_s": 57432,
-      "elevation_m": 640,
       "rank": 179
     },
     {
