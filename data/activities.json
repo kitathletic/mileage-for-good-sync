@@ -77125,9 +77125,37 @@
       "moving_time_s": 5371,
       "elapsed_time_s": 5605,
       "elevation_m": 82
+    },
+    "eeaf81f41dfb3c645fcd": {
+      "h": "eeaf81f41dfb3c645fcd",
+      "first_seen_at": "2026-05-16T14:25:16.374Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Muhammad",
+      "athlete_last": "H.",
+      "name": "11km Easy Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11020.8,
+      "moving_time_s": 4615,
+      "elapsed_time_s": 4619,
+      "elevation_m": 16
+    },
+    "45867fc8168c81f360f5": {
+      "h": "45867fc8168c81f360f5",
+      "first_seen_at": "2026-05-16T14:25:16.374Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Febio",
+      "athlete_last": "S.",
+      "name": "800 X 5",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10016.8,
+      "moving_time_s": 3275,
+      "elapsed_time_s": 3411,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-05-16T14:20:17.886Z",
+  "last_synced_at": "2026-05-16T14:25:16.374Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
