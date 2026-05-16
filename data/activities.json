@@ -77601,9 +77601,37 @@
       "moving_time_s": 3348,
       "elapsed_time_s": 3348,
       "elevation_m": 67
+    },
+    "b3dc76cd98960b2b637d": {
+      "h": "b3dc76cd98960b2b637d",
+      "first_seen_at": "2026-05-16T23:10:17.712Z",
+      "week_key": "2026-W20",
+      "athlete_first": "rendy",
+      "athlete_last": "G.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10077.6,
+      "moving_time_s": 3914,
+      "elapsed_time_s": 3923,
+      "elevation_m": 67.4
+    },
+    "191e47e377603bdb912a": {
+      "h": "191e47e377603bdb912a",
+      "first_seen_at": "2026-05-16T23:10:17.712Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Prasena",
+      "athlete_last": "P.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10143.4,
+      "moving_time_s": 3857,
+      "elapsed_time_s": 3861,
+      "elevation_m": 68
     }
   },
-  "last_synced_at": "2026-05-16T23:05:14.382Z",
+  "last_synced_at": "2026-05-16T23:10:17.712Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
