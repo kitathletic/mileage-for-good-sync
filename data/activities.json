@@ -81941,9 +81941,37 @@
       "moving_time_s": 4030,
       "elapsed_time_s": 4319,
       "elevation_m": 42
+    },
+    "d5a5e5b37dabc79226a6": {
+      "h": "d5a5e5b37dabc79226a6",
+      "first_seen_at": "2026-05-17T23:00:25.629Z",
+      "week_key": "2026-W21",
+      "athlete_first": "R",
+      "athlete_last": "I.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5019.1,
+      "moving_time_s": 1445,
+      "elapsed_time_s": 1558,
+      "elevation_m": 25.2
+    },
+    "a21eb305f5d7539b0670": {
+      "h": "a21eb305f5d7539b0670",
+      "first_seen_at": "2026-05-17T23:00:25.629Z",
+      "week_key": "2026-W21",
+      "athlete_first": "ramdani",
+      "athlete_last": "R.",
+      "name": "Berlari Pagi",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6543.4,
+      "moving_time_s": 2396,
+      "elapsed_time_s": 2396,
+      "elevation_m": 4.1
     }
   },
-  "last_synced_at": "2026-05-17T22:55:14.258Z",
+  "last_synced_at": "2026-05-17T23:00:25.629Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
