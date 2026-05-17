@@ -80975,9 +80975,37 @@
       "moving_time_s": 4921,
       "elapsed_time_s": 5131,
       "elevation_m": 18
+    },
+    "ce2713f5a7b3da7be5b2": {
+      "h": "ce2713f5a7b3da7be5b2",
+      "first_seen_at": "2026-05-17T04:15:18.144Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Viren",
+      "athlete_last": "S.",
+      "name": "Weekend Ritual",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10040,
+      "moving_time_s": 4087,
+      "elapsed_time_s": 4278,
+      "elevation_m": 28.7
+    },
+    "ed52cda60d2b696c34cf": {
+      "h": "ed52cda60d2b696c34cf",
+      "first_seen_at": "2026-05-17T04:15:18.144Z",
+      "week_key": "2026-W20",
+      "athlete_first": "win",
+      "athlete_last": "C.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11013.5,
+      "moving_time_s": 6209,
+      "elapsed_time_s": 7626,
+      "elevation_m": 659
     }
   },
-  "last_synced_at": "2026-05-17T04:10:20.413Z",
+  "last_synced_at": "2026-05-17T04:15:18.144Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
