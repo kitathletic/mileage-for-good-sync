@@ -80667,9 +80667,51 @@
       "moving_time_s": 13929,
       "elapsed_time_s": 14164,
       "elevation_m": 933
+    },
+    "fc7c53b29571fcf11eff": {
+      "h": "fc7c53b29571fcf11eff",
+      "first_seen_at": "2026-05-17T02:10:20.886Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Silviany",
+      "athlete_last": "S.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2192.7,
+      "moving_time_s": 889,
+      "elapsed_time_s": 3418,
+      "elevation_m": 0
+    },
+    "be98790b5980113c40fc": {
+      "h": "be98790b5980113c40fc",
+      "first_seen_at": "2026-05-17T02:10:20.886Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Artur",
+      "athlete_last": "B.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 16007,
+      "moving_time_s": 7240,
+      "elapsed_time_s": 9303,
+      "elevation_m": 25
+    },
+    "03c1028863ffbe0bb6c7": {
+      "h": "03c1028863ffbe0bb6c7",
+      "first_seen_at": "2026-05-17T02:10:20.886Z",
+      "week_key": "2026-W20",
+      "athlete_first": "Michael",
+      "athlete_last": "R.",
+      "name": "H-7 BFI HM",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 18018.5,
+      "moving_time_s": 7522,
+      "elapsed_time_s": 7676,
+      "elevation_m": 50
     }
   },
-  "last_synced_at": "2026-05-17T02:05:15.777Z",
+  "last_synced_at": "2026-05-17T02:10:20.886Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
