@@ -81885,9 +81885,37 @@
       "moving_time_s": 2151,
       "elapsed_time_s": 3162,
       "elevation_m": 25
+    },
+    "bd6750fa6b54ebcb0d19": {
+      "h": "bd6750fa6b54ebcb0d19",
+      "first_seen_at": "2026-05-17T21:30:21.182Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Ken",
+      "athlete_last": "K.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6010,
+      "moving_time_s": 2334,
+      "elapsed_time_s": 2334,
+      "elevation_m": 26
+    },
+    "7903b1c4a04505eadae6": {
+      "h": "7903b1c4a04505eadae6",
+      "first_seen_at": "2026-05-17T21:30:21.182Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Hendri",
+      "athlete_last": "S.",
+      "name": "Post-Eurovision Peak Long Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 30268,
+      "moving_time_s": 17135,
+      "elapsed_time_s": 25553,
+      "elevation_m": 26
     }
   },
-  "last_synced_at": "2026-05-17T21:25:16.939Z",
+  "last_synced_at": "2026-05-17T21:30:21.182Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
