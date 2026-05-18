@@ -82823,9 +82823,51 @@
       "moving_time_s": 2398,
       "elapsed_time_s": 2398,
       "elevation_m": 43.4
+    },
+    "74c90d8d16a3737a6c95": {
+      "h": "74c90d8d16a3737a6c95",
+      "first_seen_at": "2026-05-18T10:45:19.977Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Adi",
+      "athlete_last": "R.",
+      "name": "Week 1 (stride)",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1005.3,
+      "moving_time_s": 232,
+      "elapsed_time_s": 232,
+      "elevation_m": 0
+    },
+    "e957b0d95bda726546af": {
+      "h": "e957b0d95bda726546af",
+      "first_seen_at": "2026-05-18T10:45:19.977Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Aldi",
+      "athlete_last": "A.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5005,
+      "moving_time_s": 1748,
+      "elapsed_time_s": 1865,
+      "elevation_m": 2
+    },
+    "b15aa5d132f179f803f5": {
+      "h": "b15aa5d132f179f803f5",
+      "first_seen_at": "2026-05-18T10:45:19.977Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Adi",
+      "athlete_last": "R.",
+      "name": "Week 1 (Tempo)",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7002.3,
+      "moving_time_s": 2398,
+      "elapsed_time_s": 2398,
+      "elevation_m": 43.4
     }
   },
-  "last_synced_at": "2026-05-18T10:40:21.331Z",
+  "last_synced_at": "2026-05-18T10:45:19.977Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
