@@ -85581,9 +85581,37 @@
       "moving_time_s": 1593,
       "elapsed_time_s": 1702,
       "elevation_m": 11
+    },
+    "d8abc873065e3fc65fa4": {
+      "h": "d8abc873065e3fc65fa4",
+      "first_seen_at": "2026-05-19T10:10:21.297Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Firmansyah Nur",
+      "athlete_last": "R.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 906.8,
+      "moving_time_s": 328,
+      "elapsed_time_s": 369,
+      "elevation_m": 0
+    },
+    "07714835284bb402f66c": {
+      "h": "07714835284bb402f66c",
+      "first_seen_at": "2026-05-19T10:10:21.297Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Aldi",
+      "athlete_last": "A.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5005,
+      "moving_time_s": 2020,
+      "elapsed_time_s": 2170,
+      "elevation_m": 5
     }
   },
-  "last_synced_at": "2026-05-19T10:05:18.101Z",
+  "last_synced_at": "2026-05-19T10:10:21.297Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
