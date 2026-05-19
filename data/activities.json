@@ -85763,9 +85763,51 @@
       "moving_time_s": 3293,
       "elapsed_time_s": 3300,
       "elevation_m": 10
+    },
+    "18254938632ab3196f06": {
+      "h": "18254938632ab3196f06",
+      "first_seen_at": "2026-05-19T11:30:25.092Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Hendri",
+      "athlete_last": "S.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1624,
+      "moving_time_s": 1295,
+      "elapsed_time_s": 1367,
+      "elevation_m": 3
+    },
+    "44bf16dbd77b09b44e0d": {
+      "h": "44bf16dbd77b09b44e0d",
+      "first_seen_at": "2026-05-19T11:30:25.092Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Prana",
+      "athlete_last": "R.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6827.4,
+      "moving_time_s": 2701,
+      "elapsed_time_s": 2701,
+      "elevation_m": 0
+    },
+    "37bc6645d9b9a8f27d36": {
+      "h": "37bc6645d9b9a8f27d36",
+      "first_seen_at": "2026-05-19T11:30:25.092Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Rayhan",
+      "athlete_last": "F.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6090,
+      "moving_time_s": 2870,
+      "elapsed_time_s": 3069,
+      "elevation_m": 3
     }
   },
-  "last_synced_at": "2026-05-19T11:25:16.785Z",
+  "last_synced_at": "2026-05-19T11:30:25.092Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
