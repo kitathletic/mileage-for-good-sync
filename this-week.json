@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T12:00:33.707Z",
+  "generated_at": "2026-05-19T12:05:20.823Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 2143.54,
-    "activities": 295,
-    "moving_time_s": 863425,
-    "elevation_m": 6126
+    "distance": 2145.26,
+    "activities": 296,
+    "moving_time_s": 864171,
+    "elevation_m": 6182
   },
   "rows": [
     {
@@ -1562,12 +1562,20 @@
       "rank": 192
     },
     {
+      "name": "Deri J.",
+      "activities": 1,
+      "distance": 1.72,
+      "moving_time_s": 746,
+      "elevation_m": 56,
+      "rank": 193
+    },
+    {
       "name": "Clarissa D.",
       "activities": 1,
       "distance": 0.48,
       "moving_time_s": 236,
       "elevation_m": 0,
-      "rank": 193
+      "rank": 194
     },
     {
       "name": "Guillermo E O.",
@@ -1575,7 +1583,7 @@
       "distance": 0.02,
       "moving_time_s": 24,
       "elevation_m": 0,
-      "rank": 194
+      "rank": 195
     }
   ]
 }
