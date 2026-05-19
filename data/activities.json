@@ -86603,9 +86603,37 @@
       "moving_time_s": 1565,
       "elapsed_time_s": 1565,
       "elevation_m": 92
+    },
+    "99a0853ee327aa58e849": {
+      "h": "99a0853ee327aa58e849",
+      "first_seen_at": "2026-05-19T14:00:32.911Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Zydan",
+      "athlete_last": "F.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 396.8,
+      "moving_time_s": 197,
+      "elapsed_time_s": 200,
+      "elevation_m": 0
+    },
+    "cc5e7c0b5c2fdaed1cea": {
+      "h": "cc5e7c0b5c2fdaed1cea",
+      "first_seen_at": "2026-05-19T14:00:32.911Z",
+      "week_key": "2026-W21",
+      "athlete_first": "marselli",
+      "athlete_last": "T.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10019.5,
+      "moving_time_s": 4760,
+      "elapsed_time_s": 4784,
+      "elevation_m": 9
     }
   },
-  "last_synced_at": "2026-05-19T13:55:18.651Z",
+  "last_synced_at": "2026-05-19T14:00:32.911Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
