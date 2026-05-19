@@ -1,7 +1,10 @@
 {
-  "generated_at": "2026-05-19T05:05:18.505Z",
+  "generated_at": "2026-05-19T05:10:22.696Z",
   "club": {
-    "id": 1826399
+    "id": 1826399,
+    "name": "Kit Athletic",
+    "member_count": 556,
+    "url": "kitathletic"
   },
   "units": "km",
   "view": "cycle",
@@ -18,9 +21,9 @@
     "Walk"
   ],
   "totals": {
-    "distance": 45264.85,
-    "activities": 4908,
-    "moving_time_s": 19527441,
+    "distance": 45267.86,
+    "activities": 4909,
+    "moving_time_s": 19528456,
     "elevation_m": 302577
   },
   "rows": [
@@ -705,12 +708,20 @@
       "rank": 85
     },
     {
+      "name": "Bibip D.",
+      "activities": 19,
+      "distance": 172.42,
+      "moving_time_s": 92458,
+      "elevation_m": 4733,
+      "rank": 86
+    },
+    {
       "name": "William A.",
       "activities": 29,
       "distance": 172.08,
       "moving_time_s": 74079,
       "elevation_m": 118,
-      "rank": 86
+      "rank": 87
     },
     {
       "name": "henryawan P.",
@@ -718,7 +729,7 @@
       "distance": 171.85,
       "moving_time_s": 80634,
       "elevation_m": 1666,
-      "rank": 87
+      "rank": 88
     },
     {
       "name": "Febio S.",
@@ -726,7 +737,7 @@
       "distance": 171.57,
       "moving_time_s": 63273,
       "elevation_m": 201,
-      "rank": 88
+      "rank": 89
     },
     {
       "name": "Arie A.",
@@ -734,7 +745,7 @@
       "distance": 171.39,
       "moving_time_s": 71274,
       "elevation_m": 291,
-      "rank": 89
+      "rank": 90
     },
     {
       "name": "Andika S.",
@@ -742,7 +753,7 @@
       "distance": 170.94,
       "moving_time_s": 58514,
       "elevation_m": 511,
-      "rank": 90
+      "rank": 91
     },
     {
       "name": "Ryan R.",
@@ -750,14 +761,6 @@
       "distance": 170.05,
       "moving_time_s": 131912,
       "elevation_m": 9174,
-      "rank": 91
-    },
-    {
-      "name": "Bibip D.",
-      "activities": 18,
-      "distance": 169.41,
-      "moving_time_s": 91443,
-      "elevation_m": 4733,
       "rank": 92
     },
     {

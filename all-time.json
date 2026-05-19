@@ -1,7 +1,10 @@
 {
-  "generated_at": "2026-05-19T05:05:18.505Z",
+  "generated_at": "2026-05-19T05:10:22.696Z",
   "club": {
-    "id": 1826399
+    "id": 1826399,
+    "name": "Kit Athletic",
+    "member_count": 556,
+    "url": "kitathletic"
   },
   "units": "km",
   "view": "all-time",
@@ -18,9 +21,9 @@
     "Walk"
   ],
   "totals": {
-    "distance": 56286.48,
-    "activities": 6033,
-    "moving_time_s": 24072635,
+    "distance": 56289.49,
+    "activities": 6034,
+    "moving_time_s": 24073650,
     "elevation_m": 360307
   },
   "rows": [
@@ -1001,12 +1004,20 @@
       "rank": 122
     },
     {
+      "name": "Bibip D.",
+      "activities": 19,
+      "distance": 172.42,
+      "moving_time_s": 92458,
+      "elevation_m": 4733,
+      "rank": 123
+    },
+    {
       "name": "Ajiw 💫.",
       "activities": 16,
       "distance": 172.3,
       "moving_time_s": 67598,
       "elevation_m": 270,
-      "rank": 123
+      "rank": 124
     },
     {
       "name": "Ahmad R.",
@@ -1014,7 +1025,7 @@
       "distance": 170.51,
       "moving_time_s": 67796,
       "elevation_m": 711,
-      "rank": 124
+      "rank": 125
     },
     {
       "name": "Revli P.",
@@ -1022,7 +1033,7 @@
       "distance": 170.34,
       "moving_time_s": 86048,
       "elevation_m": 277,
-      "rank": 125
+      "rank": 126
     },
     {
       "name": "Ryan R.",
@@ -1030,7 +1041,7 @@
       "distance": 170.05,
       "moving_time_s": 131912,
       "elevation_m": 9174,
-      "rank": 126
+      "rank": 127
     },
     {
       "name": "Theo N.",
@@ -1038,14 +1049,6 @@
       "distance": 169.82,
       "moving_time_s": 94965,
       "elevation_m": 4346,
-      "rank": 127
-    },
-    {
-      "name": "Bibip D.",
-      "activities": 18,
-      "distance": 169.41,
-      "moving_time_s": 91443,
-      "elevation_m": 4733,
       "rank": 128
     },
     {
