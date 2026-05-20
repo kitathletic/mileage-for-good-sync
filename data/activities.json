@@ -89151,9 +89151,37 @@
       "moving_time_s": 3498,
       "elapsed_time_s": 3557,
       "elevation_m": 7
+    },
+    "ab657dc8e29d1a02d524": {
+      "h": "ab657dc8e29d1a02d524",
+      "first_seen_at": "2026-05-20T11:50:23.613Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Avrinson Simarmata",
+      "athlete_last": "🇮.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5027,
+      "moving_time_s": 2374,
+      "elapsed_time_s": 2384,
+      "elevation_m": 0
+    },
+    "2667e245f5440313b248": {
+      "h": "2667e245f5440313b248",
+      "first_seen_at": "2026-05-20T11:50:23.613Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Reno",
+      "athlete_last": "Y.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10078.3,
+      "moving_time_s": 4560,
+      "elapsed_time_s": 4560,
+      "elevation_m": 37.7
     }
   },
-  "last_synced_at": "2026-05-20T11:45:23.183Z",
+  "last_synced_at": "2026-05-20T11:50:23.613Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
