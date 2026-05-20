@@ -90649,9 +90649,65 @@
       "moving_time_s": 4885,
       "elapsed_time_s": 4885,
       "elevation_m": 7
+    },
+    "1920fd71d78b9a4d59c3": {
+      "h": "1920fd71d78b9a4d59c3",
+      "first_seen_at": "2026-05-20T23:55:18.917Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Teuku",
+      "athlete_last": "U.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10000,
+      "moving_time_s": 3165,
+      "elapsed_time_s": 3312,
+      "elevation_m": 52
+    },
+    "0cee001ae61d7df2e45f": {
+      "h": "0cee001ae61d7df2e45f",
+      "first_seen_at": "2026-05-20T23:55:18.917Z",
+      "week_key": "2026-W21",
+      "athlete_first": "rimico",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10093.9,
+      "moving_time_s": 3427,
+      "elapsed_time_s": 3483,
+      "elevation_m": 20
+    },
+    "09037651d51b4f931cad": {
+      "h": "09037651d51b4f931cad",
+      "first_seen_at": "2026-05-20T23:55:18.917Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Wah",
+      "athlete_last": "E.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10032.2,
+      "moving_time_s": 4192,
+      "elapsed_time_s": 4298,
+      "elevation_m": 80.1
+    },
+    "a9c72ab3d333b0eb0b44": {
+      "h": "a9c72ab3d333b0eb0b44",
+      "first_seen_at": "2026-05-20T23:55:18.917Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Wah",
+      "athlete_last": "E.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9894.4,
+      "moving_time_s": 4203,
+      "elapsed_time_s": 4391,
+      "elevation_m": 82.1
     }
   },
-  "last_synced_at": "2026-05-20T23:50:20.639Z",
+  "last_synced_at": "2026-05-20T23:55:18.917Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
