@@ -88087,9 +88087,37 @@
       "moving_time_s": 6425,
       "elapsed_time_s": 6783,
       "elevation_m": 12
+    },
+    "9bc68fb3bfb3233a4612": {
+      "h": "9bc68fb3bfb3233a4612",
+      "first_seen_at": "2026-05-20T00:45:18.943Z",
+      "week_key": "2026-W21",
+      "athlete_first": "agnes",
+      "athlete_last": "Y.",
+      "name": "Recovery run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5036.1,
+      "moving_time_s": 1977,
+      "elapsed_time_s": 1981,
+      "elevation_m": 5
+    },
+    "4b3aa37ac36ee7955990": {
+      "h": "4b3aa37ac36ee7955990",
+      "first_seen_at": "2026-05-20T00:45:18.943Z",
+      "week_key": "2026-W21",
+      "athlete_first": "win",
+      "athlete_last": "C.",
+      "name": "WK02 | BUILD - EASY",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7189.2,
+      "moving_time_s": 3009,
+      "elapsed_time_s": 3013,
+      "elevation_m": 40
     }
   },
-  "last_synced_at": "2026-05-20T00:40:20.670Z",
+  "last_synced_at": "2026-05-20T00:45:18.943Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
