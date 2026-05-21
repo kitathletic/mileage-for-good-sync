@@ -91377,9 +91377,37 @@
       "moving_time_s": 6249,
       "elapsed_time_s": 6568,
       "elevation_m": 15
+    },
+    "f0662d5ba23fbb95a543": {
+      "h": "f0662d5ba23fbb95a543",
+      "first_seen_at": "2026-05-21T00:55:16.754Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Nayaka",
+      "athlete_last": "B.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 740,
+      "moving_time_s": 249,
+      "elapsed_time_s": 249,
+      "elevation_m": 0
+    },
+    "78421198efee7f0694cb": {
+      "h": "78421198efee7f0694cb",
+      "first_seen_at": "2026-05-21T00:55:16.754Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Ewoq",
+      "athlete_last": "😈.",
+      "name": "Vega Test Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10649,
+      "moving_time_s": 4346,
+      "elapsed_time_s": 4389,
+      "elevation_m": 9
     }
   },
-  "last_synced_at": "2026-05-21T00:50:18.076Z",
+  "last_synced_at": "2026-05-21T00:55:16.754Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
