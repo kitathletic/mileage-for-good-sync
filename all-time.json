@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T00:25:18.482Z",
+  "generated_at": "2026-05-21T00:30:22.330Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 59023.67,
-    "activities": 6440,
-    "moving_time_s": 25155121,
-    "elevation_m": 368712
+    "distance": 59047.49,
+    "activities": 6444,
+    "moving_time_s": 25164122,
+    "elevation_m": 368745
   },
   "rows": [
     {
@@ -44,19 +44,19 @@
       "rank": 2
     },
     {
+      "name": "Rizky F.",
+      "activities": 38,
+      "distance": 611.95,
+      "moving_time_s": 215949,
+      "elevation_m": 1655,
+      "rank": 3
+    },
+    {
       "name": "Edrick L.",
       "activities": 37,
       "distance": 609.08,
       "moving_time_s": 187923,
       "elevation_m": 956,
-      "rank": 3
-    },
-    {
-      "name": "Rizky F.",
-      "activities": 37,
-      "distance": 600.83,
-      "moving_time_s": 211384,
-      "elevation_m": 1643,
       "rank": 4
     },
     {
@@ -76,12 +76,20 @@
       "rank": 6
     },
     {
-      "name": "Prana R.",
-      "activities": 57,
-      "distance": 539.89,
-      "moving_time_s": 214941,
-      "elevation_m": 5389,
+      "name": "Danny T.",
+      "activities": 47,
+      "distance": 545.9,
+      "moving_time_s": 179195,
+      "elevation_m": 1733,
       "rank": 7
+    },
+    {
+      "name": "Prana R.",
+      "activities": 58,
+      "distance": 540.11,
+      "moving_time_s": 215038,
+      "elevation_m": 5394,
+      "rank": 8
     },
     {
       "name": "Evan B.",
@@ -89,14 +97,6 @@
       "distance": 537.79,
       "moving_time_s": 241096,
       "elevation_m": 3650,
-      "rank": 8
-    },
-    {
-      "name": "Danny T.",
-      "activities": 46,
-      "distance": 534.82,
-      "moving_time_s": 175769,
-      "elevation_m": 1722,
       "rank": 9
     },
     {
@@ -404,19 +404,19 @@
       "rank": 47
     },
     {
+      "name": "Samuel Zeth A.",
+      "activities": 28,
+      "distance": 284.03,
+      "moving_time_s": 133392,
+      "elevation_m": 1519,
+      "rank": 48
+    },
+    {
       "name": "Akbar M.",
       "activities": 35,
       "distance": 283.2,
       "moving_time_s": 133422,
       "elevation_m": 2559,
-      "rank": 48
-    },
-    {
-      "name": "Samuel Zeth A.",
-      "activities": 27,
-      "distance": 282.63,
-      "moving_time_s": 132479,
-      "elevation_m": 1514,
       "rank": 49
     },
     {
