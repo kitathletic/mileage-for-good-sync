@@ -92819,9 +92819,37 @@
       "moving_time_s": 3785,
       "elapsed_time_s": 4363,
       "elevation_m": 2
+    },
+    "fc32ed83ea73337ec17f": {
+      "h": "fc32ed83ea73337ec17f",
+      "first_seen_at": "2026-05-21T13:40:25.570Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Fiorentino",
+      "athlete_last": "N.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1502.9,
+      "moving_time_s": 488,
+      "elapsed_time_s": 938,
+      "elevation_m": 42
+    },
+    "f3264581bbe6cd895dfa": {
+      "h": "f3264581bbe6cd895dfa",
+      "first_seen_at": "2026-05-21T13:40:25.570Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Reni",
+      "athlete_last": "P.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8115,
+      "moving_time_s": 4492,
+      "elapsed_time_s": 4503,
+      "elevation_m": 8
     }
   },
-  "last_synced_at": "2026-05-21T13:35:19.872Z",
+  "last_synced_at": "2026-05-21T13:40:25.570Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
