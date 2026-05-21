@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-21T10:40:19.420Z",
+  "generated_at": "2026-05-21T10:45:19.610Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
-    "member_count": 556,
+    "member_count": 557,
     "url": "kitathletic"
   },
   "units": "km",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 48482.78,
-    "activities": 5384,
-    "moving_time_s": 20808985,
-    "elevation_m": 313796
+    "distance": 48493.82,
+    "activities": 5385,
+    "moving_time_s": 20812259,
+    "elevation_m": 313825
   },
   "rows": [
     {
@@ -404,12 +404,20 @@
       "rank": 47
     },
     {
+      "name": "Alief Rafael G.",
+      "activities": 27,
+      "distance": 236.36,
+      "moving_time_s": 83210,
+      "elevation_m": 1139,
+      "rank": 48
+    },
+    {
       "name": "Asen ..",
       "activities": 24,
       "distance": 234.89,
       "moving_time_s": 89549,
       "elevation_m": 537,
-      "rank": 48
+      "rank": 49
     },
     {
       "name": "Francesco S.",
@@ -417,7 +425,7 @@
       "distance": 232.97,
       "moving_time_s": 105933,
       "elevation_m": 414,
-      "rank": 49
+      "rank": 50
     },
     {
       "name": "Lintang R.",
@@ -425,7 +433,7 @@
       "distance": 230.26,
       "moving_time_s": 80748,
       "elevation_m": 615,
-      "rank": 50
+      "rank": 51
     },
     {
       "name": "Billy S.",
@@ -433,7 +441,7 @@
       "distance": 230.04,
       "moving_time_s": 103004,
       "elevation_m": 1,
-      "rank": 51
+      "rank": 52
     },
     {
       "name": "William C.",
@@ -441,7 +449,7 @@
       "distance": 229.05,
       "moving_time_s": 81595,
       "elevation_m": 694,
-      "rank": 52
+      "rank": 53
     },
     {
       "name": "Diah I.",
@@ -449,7 +457,7 @@
       "distance": 228.63,
       "moving_time_s": 92659,
       "elevation_m": 835,
-      "rank": 53
+      "rank": 54
     },
     {
       "name": "Aditya Y.",
@@ -457,14 +465,6 @@
       "distance": 226.82,
       "moving_time_s": 78807,
       "elevation_m": 1438,
-      "rank": 54
-    },
-    {
-      "name": "Alief Rafael G.",
-      "activities": 26,
-      "distance": 225.32,
-      "moving_time_s": 79936,
-      "elevation_m": 1110,
       "rank": 55
     },
     {
