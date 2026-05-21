@@ -93659,9 +93659,37 @@
       "moving_time_s": 5930,
       "elapsed_time_s": 5967,
       "elevation_m": 45
+    },
+    "0dfecd80dad81fa8e280": {
+      "h": "0dfecd80dad81fa8e280",
+      "first_seen_at": "2026-05-21T23:40:22.144Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Ewoq",
+      "athlete_last": "😈.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8012.5,
+      "moving_time_s": 3161,
+      "elapsed_time_s": 3161,
+      "elevation_m": 0
+    },
+    "c49fe7702843cbc0e2cd": {
+      "h": "c49fe7702843cbc0e2cd",
+      "first_seen_at": "2026-05-21T23:40:22.144Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Rian",
+      "athlete_last": "H.",
+      "name": "Hill Repeats",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9991.9,
+      "moving_time_s": 3611,
+      "elapsed_time_s": 3611,
+      "elevation_m": 302
     }
   },
-  "last_synced_at": "2026-05-21T23:35:16.102Z",
+  "last_synced_at": "2026-05-21T23:40:22.144Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
