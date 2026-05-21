@@ -91517,9 +91517,37 @@
       "moving_time_s": 2924,
       "elapsed_time_s": 9810,
       "elevation_m": 162
+    },
+    "080d6a7951be4f1d0c03": {
+      "h": "080d6a7951be4f1d0c03",
+      "first_seen_at": "2026-05-21T01:25:17.123Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Ghariza",
+      "athlete_last": "Z.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5003.4,
+      "moving_time_s": 1747,
+      "elapsed_time_s": 1880,
+      "elevation_m": 32
+    },
+    "57976c5b50765ccb3939": {
+      "h": "57976c5b50765ccb3939",
+      "first_seen_at": "2026-05-21T01:25:17.123Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Petra",
+      "athlete_last": "V.",
+      "name": "Thursday Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10011.5,
+      "moving_time_s": 4384,
+      "elapsed_time_s": 4526,
+      "elevation_m": 10
     }
   },
-  "last_synced_at": "2026-05-21T01:20:21.283Z",
+  "last_synced_at": "2026-05-21T01:25:17.123Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
