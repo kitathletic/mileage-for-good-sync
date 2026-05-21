@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T13:45:25.250Z",
+  "generated_at": "2026-05-21T13:50:27.064Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 59763.73,
-    "activities": 6562,
-    "moving_time_s": 25463380,
-    "elevation_m": 372082
+    "distance": 59765.24,
+    "activities": 6563,
+    "moving_time_s": 25463868,
+    "elevation_m": 372124
   },
   "rows": [
     {
@@ -3332,12 +3332,20 @@
       "rank": 413
     },
     {
+      "name": "Fiorentino N.",
+      "activities": 2,
+      "distance": 3.01,
+      "moving_time_s": 976,
+      "elevation_m": 84,
+      "rank": 414
+    },
+    {
       "name": "Nasya Z.",
       "activities": 1,
       "distance": 3,
       "moving_time_s": 1267,
       "elevation_m": 4,
-      "rank": 414
+      "rank": 415
     },
     {
       "name": "Cecep H.",
@@ -3345,14 +3353,6 @@
       "distance": 3,
       "moving_time_s": 1357,
       "elevation_m": 0,
-      "rank": 415
-    },
-    {
-      "name": "Fiorentino N.",
-      "activities": 1,
-      "distance": 1.5,
-      "moving_time_s": 488,
-      "elevation_m": 42,
       "rank": 416
     },
     {
