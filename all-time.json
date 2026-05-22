@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T11:25:19.003Z",
+  "generated_at": "2026-05-22T11:30:30.879Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,9 +21,9 @@
     "Walk"
   ],
   "totals": {
-    "distance": 61139.69,
-    "activities": 6733,
-    "moving_time_s": 26023567,
+    "distance": 61148.7,
+    "activities": 6734,
+    "moving_time_s": 26026850,
     "elevation_m": 377452
   },
   "rows": [
@@ -756,12 +756,20 @@
       "rank": 91
     },
     {
+      "name": "Bibip D.",
+      "activities": 25,
+      "distance": 219.43,
+      "moving_time_s": 110833,
+      "elevation_m": 4835,
+      "rank": 92
+    },
+    {
       "name": "dani S.",
       "activities": 25,
       "distance": 218.8,
       "moving_time_s": 84835,
       "elevation_m": 1053,
-      "rank": 92
+      "rank": 93
     },
     {
       "name": "Richard R.",
@@ -769,7 +777,7 @@
       "distance": 218.58,
       "moving_time_s": 86486,
       "elevation_m": 100,
-      "rank": 93
+      "rank": 94
     },
     {
       "name": "Adhitya H.",
@@ -777,7 +785,7 @@
       "distance": 217.95,
       "moving_time_s": 77702,
       "elevation_m": 451,
-      "rank": 94
+      "rank": 95
     },
     {
       "name": "Izhar R.",
@@ -785,7 +793,7 @@
       "distance": 217.22,
       "moving_time_s": 89626,
       "elevation_m": 520,
-      "rank": 95
+      "rank": 96
     },
     {
       "name": "Stefanus E.",
@@ -793,7 +801,7 @@
       "distance": 215.49,
       "moving_time_s": 113319,
       "elevation_m": 2429,
-      "rank": 96
+      "rank": 97
     },
     {
       "name": "San S.",
@@ -801,7 +809,7 @@
       "distance": 215.25,
       "moving_time_s": 83761,
       "elevation_m": 1694,
-      "rank": 97
+      "rank": 98
     },
     {
       "name": "Samuel W.",
@@ -809,7 +817,7 @@
       "distance": 213.94,
       "moving_time_s": 146740,
       "elevation_m": 7141,
-      "rank": 98
+      "rank": 99
     },
     {
       "name": "Johan T.",
@@ -817,14 +825,6 @@
       "distance": 212.76,
       "moving_time_s": 76727,
       "elevation_m": 923,
-      "rank": 99
-    },
-    {
-      "name": "Bibip D.",
-      "activities": 24,
-      "distance": 210.42,
-      "moving_time_s": 107550,
-      "elevation_m": 4835,
       "rank": 100
     },
     {
