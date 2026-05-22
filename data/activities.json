@@ -94751,9 +94751,37 @@
       "moving_time_s": 3717,
       "elapsed_time_s": 3776,
       "elevation_m": 57
+    },
+    "a78d9aa7ed9ceb1fd23f": {
+      "h": "a78d9aa7ed9ceb1fd23f",
+      "first_seen_at": "2026-05-22T01:55:17.221Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Denny",
+      "athlete_last": "Y.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10011.5,
+      "moving_time_s": 3919,
+      "elapsed_time_s": 3919,
+      "elevation_m": 0
+    },
+    "2acf0cca1825bb338281": {
+      "h": "2acf0cca1825bb338281",
+      "first_seen_at": "2026-05-22T01:55:17.221Z",
+      "week_key": "2026-W21",
+      "athlete_first": "San",
+      "athlete_last": "S.",
+      "name": "Long Slow Distance with hills",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 30007,
+      "moving_time_s": 12839,
+      "elapsed_time_s": 15916,
+      "elevation_m": 437
     }
   },
-  "last_synced_at": "2026-05-22T01:50:24.873Z",
+  "last_synced_at": "2026-05-22T01:55:17.221Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
