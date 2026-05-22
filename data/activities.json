@@ -94611,9 +94611,51 @@
       "moving_time_s": 1948,
       "elapsed_time_s": 1948,
       "elevation_m": 0
+    },
+    "dc6113c561d50deb62dc": {
+      "h": "dc6113c561d50deb62dc",
+      "first_seen_at": "2026-05-22T01:25:19.854Z",
+      "week_key": "2026-W21",
+      "athlete_first": "AnilKumar",
+      "athlete_last": "K.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5719.2,
+      "moving_time_s": 2828,
+      "elapsed_time_s": 2838,
+      "elevation_m": 54.3
+    },
+    "c12bec7fd5fb9909164e": {
+      "h": "c12bec7fd5fb9909164e",
+      "first_seen_at": "2026-05-22T01:25:19.854Z",
+      "week_key": "2026-W21",
+      "athlete_first": "win",
+      "athlete_last": "C.",
+      "name": "WK02 | BUILD - TEMPO",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12007.5,
+      "moving_time_s": 4224,
+      "elapsed_time_s": 4224,
+      "elevation_m": 25
+    },
+    "d5a5e81f597f895e2f4f": {
+      "h": "d5a5e81f597f895e2f4f",
+      "first_seen_at": "2026-05-22T01:25:19.854Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Soleiman",
+      "athlete_last": "P.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 16010,
+      "moving_time_s": 5590,
+      "elapsed_time_s": 5669,
+      "elevation_m": 29
     }
   },
-  "last_synced_at": "2026-05-22T01:20:23.947Z",
+  "last_synced_at": "2026-05-22T01:25:19.854Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
