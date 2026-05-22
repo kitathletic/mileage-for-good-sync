@@ -94513,9 +94513,37 @@
       "moving_time_s": 6229,
       "elapsed_time_s": 6526,
       "elevation_m": 205
+    },
+    "9b037dbdf3e982508462": {
+      "h": "9b037dbdf3e982508462",
+      "first_seen_at": "2026-05-22T01:00:32.579Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Slopslop",
+      "athlete_last": "S.",
+      "name": "Interval",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2282.2,
+      "moving_time_s": 894,
+      "elapsed_time_s": 3086,
+      "elevation_m": 0
+    },
+    "71424d0aa906a18a40c6": {
+      "h": "71424d0aa906a18a40c6",
+      "first_seen_at": "2026-05-22T01:00:32.579Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Adityawarman",
+      "athlete_last": "A.",
+      "name": "Treadmill Running",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5005.7,
+      "moving_time_s": 1990,
+      "elapsed_time_s": 1990,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-05-22T00:55:21.073Z",
+  "last_synced_at": "2026-05-22T01:00:32.579Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
