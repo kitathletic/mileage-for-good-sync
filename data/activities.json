@@ -98391,9 +98391,37 @@
       "moving_time_s": 1595,
       "elapsed_time_s": 1669,
       "elevation_m": 15.6
+    },
+    "4fa2ff20412630dc51ec": {
+      "h": "4fa2ff20412630dc51ec",
+      "first_seen_at": "2026-05-23T06:20:22.535Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Levian",
+      "athlete_last": "R.",
+      "name": "7.5km Easy Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5001.3,
+      "moving_time_s": 1723,
+      "elapsed_time_s": 1726,
+      "elevation_m": 0
+    },
+    "a0d403d0b7f8479dd785": {
+      "h": "a0d403d0b7f8479dd785",
+      "first_seen_at": "2026-05-23T06:20:22.535Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Levian",
+      "athlete_last": "R.",
+      "name": "Lunch Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5000,
+      "moving_time_s": 1733,
+      "elapsed_time_s": 1733,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-05-23T06:15:28.013Z",
+  "last_synced_at": "2026-05-23T06:20:22.535Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
