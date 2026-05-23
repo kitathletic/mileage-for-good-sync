@@ -99273,9 +99273,65 @@
       "moving_time_s": 2182,
       "elapsed_time_s": 2188,
       "elevation_m": 50
+    },
+    "81abc66c4bf22272f09d": {
+      "h": "81abc66c4bf22272f09d",
+      "first_seen_at": "2026-05-23T22:50:21.151Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Faisal",
+      "athlete_last": "J.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12007.1,
+      "moving_time_s": 3701,
+      "elapsed_time_s": 3701,
+      "elevation_m": 11
+    },
+    "005a527190ee31483419": {
+      "h": "005a527190ee31483419",
+      "first_seen_at": "2026-05-23T22:50:21.151Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Stefanus",
+      "athlete_last": "E.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10060,
+      "moving_time_s": 4495,
+      "elapsed_time_s": 4495,
+      "elevation_m": 0
+    },
+    "05027efe95894e4de329": {
+      "h": "05027efe95894e4de329",
+      "first_seen_at": "2026-05-23T22:50:21.151Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Stefanus",
+      "athlete_last": "E.",
+      "name": "Sunday service",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9514,
+      "moving_time_s": 4353,
+      "elapsed_time_s": 4522,
+      "elevation_m": 12.6
+    },
+    "8e7ef67efbb905b6198f": {
+      "h": "8e7ef67efbb905b6198f",
+      "first_seen_at": "2026-05-23T22:50:21.151Z",
+      "week_key": "2026-W21",
+      "athlete_first": "San",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 16007.7,
+      "moving_time_s": 6359,
+      "elapsed_time_s": 6381,
+      "elevation_m": 67
     }
   },
-  "last_synced_at": "2026-05-23T22:45:23.143Z",
+  "last_synced_at": "2026-05-23T22:50:21.151Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
