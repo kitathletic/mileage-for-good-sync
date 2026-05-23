@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T01:40:21.728Z",
+  "generated_at": "2026-05-23T01:45:22.038Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 62778.39,
-    "activities": 6909,
-    "moving_time_s": 26690727,
-    "elevation_m": 384401
+    "distance": 62808.05,
+    "activities": 6912,
+    "moving_time_s": 26699867,
+    "elevation_m": 384450
   },
   "rows": [
     {
@@ -44,12 +44,20 @@
       "rank": 2
     },
     {
+      "name": "Edrick L.",
+      "activities": 42,
+      "distance": 670.65,
+      "moving_time_s": 206149,
+      "elevation_m": 1012,
+      "rank": 3
+    },
+    {
       "name": "Rizky F.",
       "activities": 40,
       "distance": 666.53,
       "moving_time_s": 235472,
       "elevation_m": 1655,
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "Irvan C.",
@@ -57,14 +65,6 @@
       "distance": 648.82,
       "moving_time_s": 338470,
       "elevation_m": 2833,
-      "rank": 4
-    },
-    {
-      "name": "Edrick L.",
-      "activities": 40,
-      "distance": 648.41,
-      "moving_time_s": 199484,
-      "elevation_m": 999,
       "rank": 5
     },
     {
@@ -772,12 +772,20 @@
       "rank": 93
     },
     {
+      "name": "Leandro T.",
+      "activities": 43,
+      "distance": 226.74,
+      "moving_time_s": 87632,
+      "elevation_m": 1524,
+      "rank": 94
+    },
+    {
       "name": "Rudi P.",
       "activities": 26,
       "distance": 224.44,
       "moving_time_s": 102877,
       "elevation_m": 1168,
-      "rank": 94
+      "rank": 95
     },
     {
       "name": "Adi R.",
@@ -785,7 +793,7 @@
       "distance": 220.15,
       "moving_time_s": 92217,
       "elevation_m": 527,
-      "rank": 95
+      "rank": 96
     },
     {
       "name": "Taufan S.",
@@ -793,7 +801,7 @@
       "distance": 219.44,
       "moving_time_s": 101722,
       "elevation_m": 3364,
-      "rank": 96
+      "rank": 97
     },
     {
       "name": "Bibip D.",
@@ -801,14 +809,6 @@
       "distance": 219.43,
       "moving_time_s": 110833,
       "elevation_m": 4835,
-      "rank": 97
-    },
-    {
-      "name": "Leandro T.",
-      "activities": 42,
-      "distance": 219.32,
-      "moving_time_s": 85157,
-      "elevation_m": 1488,
       "rank": 98
     },
     {
