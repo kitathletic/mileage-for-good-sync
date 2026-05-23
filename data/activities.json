@@ -98195,9 +98195,37 @@
       "moving_time_s": 4822,
       "elapsed_time_s": 6481,
       "elevation_m": 64
+    },
+    "64ce22ebb5359b1f4e58": {
+      "h": "64ce22ebb5359b1f4e58",
+      "first_seen_at": "2026-05-23T04:05:18.911Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Irwan Sastra",
+      "athlete_last": "W.",
+      "name": "Quick Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1997.7,
+      "moving_time_s": 700,
+      "elapsed_time_s": 707,
+      "elevation_m": 1
+    },
+    "4fe6d0ded38c8527b187": {
+      "h": "4fe6d0ded38c8527b187",
+      "first_seen_at": "2026-05-23T04:05:18.911Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Bibip",
+      "athlete_last": "D.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 14432.3,
+      "moving_time_s": 11974,
+      "elapsed_time_s": 14675,
+      "elevation_m": 741
     }
   },
-  "last_synced_at": "2026-05-23T04:00:34.168Z",
+  "last_synced_at": "2026-05-23T04:05:18.911Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
