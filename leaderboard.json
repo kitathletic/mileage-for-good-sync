@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T11:35:19.215Z",
+  "generated_at": "2026-05-24T11:40:23.316Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 57070.75,
-    "activities": 6207,
-    "moving_time_s": 24268751,
-    "elevation_m": 350276
+    "distance": 57085.21,
+    "activities": 6209,
+    "moving_time_s": 24274484,
+    "elevation_m": 350300
   },
   "rows": [
     {
@@ -44,19 +44,19 @@
       "rank": 2
     },
     {
+      "name": "Edrick L.",
+      "activities": 38,
+      "distance": 586.14,
+      "moving_time_s": 181874,
+      "elevation_m": 835,
+      "rank": 3
+    },
+    {
       "name": "Andri K.",
       "activities": 74,
       "distance": 586.11,
       "moving_time_s": 238467,
       "elevation_m": 6521,
-      "rank": 3
-    },
-    {
-      "name": "Edrick L.",
-      "activities": 37,
-      "distance": 578.03,
-      "moving_time_s": 179560,
-      "elevation_m": 835,
       "rank": 4
     },
     {
@@ -596,12 +596,20 @@
       "rank": 71
     },
     {
+      "name": "Reno Y.",
+      "activities": 27,
+      "distance": 241.3,
+      "moving_time_s": 105827,
+      "elevation_m": 3009,
+      "rank": 72
+    },
+    {
       "name": "Radifan H.",
       "activities": 33,
       "distance": 238.63,
       "moving_time_s": 100200,
       "elevation_m": 400,
-      "rank": 72
+      "rank": 73
     },
     {
       "name": "Rudy W.",
@@ -609,14 +617,6 @@
       "distance": 235.14,
       "moving_time_s": 104323,
       "elevation_m": 333,
-      "rank": 73
-    },
-    {
-      "name": "Reno Y.",
-      "activities": 26,
-      "distance": 234.95,
-      "moving_time_s": 102408,
-      "elevation_m": 2985,
       "rank": 74
     },
     {
