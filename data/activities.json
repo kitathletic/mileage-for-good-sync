@@ -102983,9 +102983,37 @@
       "moving_time_s": 12501,
       "elapsed_time_s": 12744,
       "elevation_m": 211.9
+    },
+    "e0db27f96e08b5a966b5": {
+      "h": "e0db27f96e08b5a966b5",
+      "first_seen_at": "2026-05-24T02:50:23.329Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Indra",
+      "athlete_last": "Z.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 21164.8,
+      "moving_time_s": 6546,
+      "elapsed_time_s": 6560,
+      "elevation_m": 40
+    },
+    "b02a73946042cfe8702d": {
+      "h": "b02a73946042cfe8702d",
+      "first_seen_at": "2026-05-24T02:50:23.329Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Syaifullah",
+      "athlete_last": "S.",
+      "name": "BFI Run 2026",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 21249.9,
+      "moving_time_s": 7987,
+      "elapsed_time_s": 8013,
+      "elevation_m": 25
     }
   },
-  "last_synced_at": "2026-05-24T02:45:22.176Z",
+  "last_synced_at": "2026-05-24T02:50:23.329Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
