@@ -103501,9 +103501,37 @@
       "moving_time_s": 3611,
       "elapsed_time_s": 3611,
       "elevation_m": 0
+    },
+    "7fa8d742e72af3814153": {
+      "h": "7fa8d742e72af3814153",
+      "first_seen_at": "2026-05-24T10:25:19.765Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Ikhya",
+      "athlete_last": "A.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2004,
+      "moving_time_s": 817,
+      "elapsed_time_s": 817,
+      "elevation_m": 0
+    },
+    "c5bf71d743892a5738fa": {
+      "h": "c5bf71d743892a5738fa",
+      "first_seen_at": "2026-05-24T10:25:19.765Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Reno",
+      "athlete_last": "Y.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6060.7,
+      "moving_time_s": 1890,
+      "elapsed_time_s": 1890,
+      "elevation_m": 32.6
     }
   },
-  "last_synced_at": "2026-05-24T10:20:22.810Z",
+  "last_synced_at": "2026-05-24T10:25:19.765Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
