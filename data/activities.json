@@ -101569,9 +101569,51 @@
       "moving_time_s": 11172,
       "elapsed_time_s": 11240,
       "elevation_m": 21.4
+    },
+    "27807af2f374cee15db5": {
+      "h": "27807af2f374cee15db5",
+      "first_seen_at": "2026-05-24T01:10:23.443Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Prana",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6491,
+      "moving_time_s": 2704,
+      "elapsed_time_s": 2704,
+      "elevation_m": 72
+    },
+    "3129927f1b00f384a67f": {
+      "h": "3129927f1b00f384a67f",
+      "first_seen_at": "2026-05-24T01:10:23.443Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Zefan",
+      "athlete_last": "P.",
+      "name": "Morning Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 14442.6,
+      "moving_time_s": 8743,
+      "elapsed_time_s": 9579,
+      "elevation_m": 354
+    },
+    "007d20783a23df8d9803": {
+      "h": "007d20783a23df8d9803",
+      "first_seen_at": "2026-05-24T01:10:23.443Z",
+      "week_key": "2026-W21",
+      "athlete_first": "uCokz",
+      "athlete_last": "M.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 21298,
+      "moving_time_s": 10616,
+      "elapsed_time_s": 10946,
+      "elevation_m": 39
     }
   },
-  "last_synced_at": "2026-05-24T01:05:19.737Z",
+  "last_synced_at": "2026-05-24T01:10:23.443Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
