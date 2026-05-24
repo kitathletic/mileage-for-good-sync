@@ -103403,9 +103403,37 @@
       "moving_time_s": 3509,
       "elapsed_time_s": 8403,
       "elevation_m": 37
+    },
+    "cc7cc9ea3a8f1113781c": {
+      "h": "cc7cc9ea3a8f1113781c",
+      "first_seen_at": "2026-05-24T08:10:24.519Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Julian",
+      "athlete_last": "..",
+      "name": "Lari Trail Pagi",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 10913.8,
+      "moving_time_s": 3436,
+      "elapsed_time_s": 20882,
+      "elevation_m": 722.3
+    },
+    "0397fb210fa18110c122": {
+      "h": "0397fb210fa18110c122",
+      "first_seen_at": "2026-05-24T08:10:24.519Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Paquita",
+      "athlete_last": "C.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4200.5,
+      "moving_time_s": 2511,
+      "elapsed_time_s": 4073,
+      "elevation_m": 21
     }
   },
-  "last_synced_at": "2026-05-24T08:05:22.166Z",
+  "last_synced_at": "2026-05-24T08:10:24.519Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
