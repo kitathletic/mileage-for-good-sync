@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T06:35:20.446Z",
+  "generated_at": "2026-05-24T06:40:21.193Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 67944.92,
-    "activities": 7312,
-    "moving_time_s": 28750900,
-    "elevation_m": 406473
+    "distance": 67949.99,
+    "activities": 7313,
+    "moving_time_s": 28754186,
+    "elevation_m": 406490
   },
   "rows": [
     {
@@ -1828,12 +1828,20 @@
       "rank": 225
     },
     {
+      "name": "ALI ..",
+      "activities": 11,
+      "distance": 114.36,
+      "moving_time_s": 55890,
+      "elevation_m": 324,
+      "rank": 226
+    },
+    {
       "name": "Reni P.",
       "activities": 12,
       "distance": 113.24,
       "moving_time_s": 50281,
       "elevation_m": 645,
-      "rank": 226
+      "rank": 227
     },
     {
       "name": "nazwa S.",
@@ -1841,7 +1849,7 @@
       "distance": 112.77,
       "moving_time_s": 54388,
       "elevation_m": 117,
-      "rank": 227
+      "rank": 228
     },
     {
       "name": "Devin S.",
@@ -1849,7 +1857,7 @@
       "distance": 111.72,
       "moving_time_s": 39251,
       "elevation_m": 804,
-      "rank": 228
+      "rank": 229
     },
     {
       "name": "Arn T.",
@@ -1857,7 +1865,7 @@
       "distance": 110.71,
       "moving_time_s": 39210,
       "elevation_m": 31,
-      "rank": 229
+      "rank": 230
     },
     {
       "name": "Steffiani R.",
@@ -1865,7 +1873,7 @@
       "distance": 110.69,
       "moving_time_s": 45444,
       "elevation_m": 143,
-      "rank": 230
+      "rank": 231
     },
     {
       "name": "Emilio R.",
@@ -1873,14 +1881,6 @@
       "distance": 109.57,
       "moving_time_s": 44511,
       "elevation_m": 170,
-      "rank": 231
-    },
-    {
-      "name": "ALI ..",
-      "activities": 10,
-      "distance": 109.29,
-      "moving_time_s": 52604,
-      "elevation_m": 307,
       "rank": 232
     },
     {
