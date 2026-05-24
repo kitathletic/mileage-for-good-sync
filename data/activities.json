@@ -102871,9 +102871,37 @@
       "moving_time_s": 2317,
       "elapsed_time_s": 2346,
       "elevation_m": 175
+    },
+    "7c91885c1dcad4bc87dc": {
+      "h": "7c91885c1dcad4bc87dc",
+      "first_seen_at": "2026-05-24T02:40:20.653Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Bimantoro",
+      "athlete_last": "B.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1004.4,
+      "moving_time_s": 1271,
+      "elapsed_time_s": 2455,
+      "elevation_m": 32
+    },
+    "1a139884dcc9cb770a90": {
+      "h": "1a139884dcc9cb770a90",
+      "first_seen_at": "2026-05-24T02:40:20.653Z",
+      "week_key": "2026-W21",
+      "athlete_first": "Defry",
+      "athlete_last": "N.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 32002.6,
+      "moving_time_s": 13401,
+      "elapsed_time_s": 16534,
+      "elevation_m": 40
     }
   },
-  "last_synced_at": "2026-05-24T02:35:19.877Z",
+  "last_synced_at": "2026-05-24T02:40:20.653Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
