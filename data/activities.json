@@ -105293,9 +105293,37 @@
       "moving_time_s": 2355,
       "elapsed_time_s": 2481,
       "elevation_m": 20
+    },
+    "b61553fc341e8d66629a": {
+      "h": "b61553fc341e8d66629a",
+      "first_seen_at": "2026-05-25T22:30:30.204Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Akbar",
+      "athlete_last": "M.",
+      "name": "Day 146",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5049.8,
+      "moving_time_s": 2200,
+      "elapsed_time_s": 2200,
+      "elevation_m": 44
+    },
+    "9df04b056c54ace689ea": {
+      "h": "9df04b056c54ace689ea",
+      "first_seen_at": "2026-05-25T22:30:30.204Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Stefanus",
+      "athlete_last": "E.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6085,
+      "moving_time_s": 3089,
+      "elapsed_time_s": 3089,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-05-25T22:25:18.612Z",
+  "last_synced_at": "2026-05-25T22:30:30.204Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
