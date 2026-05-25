@@ -104747,9 +104747,37 @@
       "moving_time_s": 1253,
       "elapsed_time_s": 1253,
       "elevation_m": 6
+    },
+    "fab9cd5cabf5e999f1a8": {
+      "h": "fab9cd5cabf5e999f1a8",
+      "first_seen_at": "2026-05-25T10:50:22.899Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Nayaka",
+      "athlete_last": "B.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 410,
+      "moving_time_s": 121,
+      "elapsed_time_s": 136,
+      "elevation_m": 3.7
+    },
+    "b867b5c0956e09433c17": {
+      "h": "b867b5c0956e09433c17",
+      "first_seen_at": "2026-05-25T10:50:22.899Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Bosca",
+      "athlete_last": "H.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7893.9,
+      "moving_time_s": 4067,
+      "elapsed_time_s": 4067,
+      "elevation_m": 67
     }
   },
-  "last_synced_at": "2026-05-25T10:45:22.723Z",
+  "last_synced_at": "2026-05-25T10:50:22.899Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
