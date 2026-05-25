@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T11:00:34.482Z",
+  "generated_at": "2026-05-25T11:05:20.579Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 68825.42,
-    "activities": 7416,
-    "moving_time_s": 29120264,
-    "elevation_m": 411273
+    "distance": 68841.51,
+    "activities": 7419,
+    "moving_time_s": 29126295,
+    "elevation_m": 411288
   },
   "rows": [
     {
@@ -404,12 +404,20 @@
       "rank": 47
     },
     {
+      "name": "Sandy S.",
+      "activities": 14,
+      "distance": 327.8,
+      "moving_time_s": 221058,
+      "elevation_m": 11156,
+      "rank": 48
+    },
+    {
       "name": "Billy S.",
       "activities": 30,
       "distance": 327.6,
       "moving_time_s": 145310,
       "elevation_m": 97,
-      "rank": 48
+      "rank": 49
     },
     {
       "name": "Pedro V.",
@@ -417,7 +425,7 @@
       "distance": 326.43,
       "moving_time_s": 101519,
       "elevation_m": 3652,
-      "rank": 49
+      "rank": 50
     },
     {
       "name": "Francesco S.",
@@ -425,7 +433,7 @@
       "distance": 324.81,
       "moving_time_s": 150231,
       "elevation_m": 539,
-      "rank": 50
+      "rank": 51
     },
     {
       "name": "Yudha A.",
@@ -433,7 +441,7 @@
       "distance": 324.37,
       "moving_time_s": 112067,
       "elevation_m": 867,
-      "rank": 51
+      "rank": 52
     },
     {
       "name": "Aditya Y.",
@@ -441,14 +449,6 @@
       "distance": 322.88,
       "moving_time_s": 111704,
       "elevation_m": 1922,
-      "rank": 52
-    },
-    {
-      "name": "Sandy S.",
-      "activities": 13,
-      "distance": 322.13,
-      "moving_time_s": 218803,
-      "elevation_m": 11156,
       "rank": 53
     },
     {
@@ -2708,12 +2708,20 @@
       "rank": 335
     },
     {
+      "name": "ramdani R.",
+      "activities": 7,
+      "distance": 42.27,
+      "moving_time_s": 16323,
+      "elevation_m": 21,
+      "rank": 336
+    },
+    {
       "name": "Devandra D.",
       "activities": 12,
       "distance": 40.8,
       "moving_time_s": 19053,
       "elevation_m": 62,
-      "rank": 336
+      "rank": 337
     },
     {
       "name": "Julian R.",
@@ -2721,7 +2729,7 @@
       "distance": 40.68,
       "moving_time_s": 43512,
       "elevation_m": 245,
-      "rank": 337
+      "rank": 338
     },
     {
       "name": "Wibs _.",
@@ -2729,7 +2737,7 @@
       "distance": 39.69,
       "moving_time_s": 19976,
       "elevation_m": 5,
-      "rank": 338
+      "rank": 339
     },
     {
       "name": "Febi S.",
@@ -2737,7 +2745,7 @@
       "distance": 38.97,
       "moving_time_s": 15928,
       "elevation_m": 199,
-      "rank": 339
+      "rank": 340
     },
     {
       "name": "Erna C.",
@@ -2745,7 +2753,7 @@
       "distance": 38.87,
       "moving_time_s": 18774,
       "elevation_m": 35,
-      "rank": 340
+      "rank": 341
     },
     {
       "name": "Paquita C.",
@@ -2753,7 +2761,7 @@
       "distance": 38.39,
       "moving_time_s": 16920,
       "elevation_m": 100,
-      "rank": 341
+      "rank": 342
     },
     {
       "name": "Fredyan P.",
@@ -2761,14 +2769,6 @@
       "distance": 37.75,
       "moving_time_s": 16175,
       "elevation_m": 40,
-      "rank": 342
-    },
-    {
-      "name": "ramdani R.",
-      "activities": 6,
-      "distance": 37.25,
-      "moving_time_s": 14560,
-      "elevation_m": 21,
       "rank": 343
     },
     {
@@ -3228,12 +3228,20 @@
       "rank": 400
     },
     {
+      "name": "Edward A.",
+      "activities": 4,
+      "distance": 13.23,
+      "moving_time_s": 7316,
+      "elevation_m": 31,
+      "rank": 401
+    },
+    {
       "name": "Farhan R.",
       "activities": 1,
       "distance": 12.01,
       "moving_time_s": 4678,
       "elevation_m": 19,
-      "rank": 401
+      "rank": 402
     },
     {
       "name": "Tjia B.",
@@ -3241,7 +3249,7 @@
       "distance": 10.23,
       "moving_time_s": 5847,
       "elevation_m": 8,
-      "rank": 402
+      "rank": 403
     },
     {
       "name": "Junias T.",
@@ -3249,7 +3257,7 @@
       "distance": 10.13,
       "moving_time_s": 10974,
       "elevation_m": 102,
-      "rank": 403
+      "rank": 404
     },
     {
       "name": "vanillaszky ..",
@@ -3257,7 +3265,7 @@
       "distance": 10.04,
       "moving_time_s": 3735,
       "elevation_m": 64,
-      "rank": 404
+      "rank": 405
     },
     {
       "name": "Tania P.",
@@ -3265,7 +3273,7 @@
       "distance": 9.52,
       "moving_time_s": 6445,
       "elevation_m": 4,
-      "rank": 405
+      "rank": 406
     },
     {
       "name": "L W.",
@@ -3273,7 +3281,7 @@
       "distance": 8.1,
       "moving_time_s": 3153,
       "elevation_m": 6,
-      "rank": 406
+      "rank": 407
     },
     {
       "name": "Fiorentino N.",
@@ -3281,7 +3289,7 @@
       "distance": 8.06,
       "moving_time_s": 3744,
       "elevation_m": 296,
-      "rank": 407
+      "rank": 408
     },
     {
       "name": "Yehezkiel P.",
@@ -3289,14 +3297,6 @@
       "distance": 8.01,
       "moving_time_s": 3364,
       "elevation_m": 38,
-      "rank": 408
-    },
-    {
-      "name": "Edward A.",
-      "activities": 3,
-      "distance": 7.83,
-      "moving_time_s": 5303,
-      "elevation_m": 16,
       "rank": 409
     },
     {
