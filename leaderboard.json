@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T15:15:24.913Z",
+  "generated_at": "2026-05-26T15:20:28.889Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 59141.49,
-    "activities": 6461,
-    "moving_time_s": 25112541,
-    "elevation_m": 356821
+    "distance": 59149.49,
+    "activities": 6462,
+    "moving_time_s": 25115998,
+    "elevation_m": 356826
   },
   "rows": [
     {
@@ -492,12 +492,20 @@
       "rank": 58
     },
     {
+      "name": "Defry N.",
+      "activities": 21,
+      "distance": 269.67,
+      "moving_time_s": 113304,
+      "elevation_m": 1011,
+      "rank": 59
+    },
+    {
       "name": "Mochamad R.",
       "activities": 18,
       "distance": 269.67,
       "moving_time_s": 98550,
       "elevation_m": 584,
-      "rank": 59
+      "rank": 60
     },
     {
       "name": "Arya .",
@@ -505,7 +513,7 @@
       "distance": 269.14,
       "moving_time_s": 121004,
       "elevation_m": 1106,
-      "rank": 60
+      "rank": 61
     },
     {
       "name": "Alief Rafael G.",
@@ -513,14 +521,6 @@
       "distance": 265.3,
       "moving_time_s": 92073,
       "elevation_m": 1338,
-      "rank": 61
-    },
-    {
-      "name": "Defry N.",
-      "activities": 20,
-      "distance": 261.67,
-      "moving_time_s": 109847,
-      "elevation_m": 1006,
       "rank": 62
     },
     {
