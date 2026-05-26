@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T13:50:26.747Z",
+  "generated_at": "2026-05-26T13:55:23.316Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,9 +21,9 @@
     "Walk"
   ],
   "totals": {
-    "distance": 70089.76,
-    "activities": 7579,
-    "moving_time_s": 29626717,
+    "distance": 70102.1,
+    "activities": 7580,
+    "moving_time_s": 29632299,
     "elevation_m": 414477
   },
   "rows": [
@@ -812,12 +812,20 @@
       "rank": 98
     },
     {
+      "name": "Deri J.",
+      "activities": 27,
+      "distance": 249.93,
+      "moving_time_s": 110947,
+      "elevation_m": 860,
+      "rank": 99
+    },
+    {
       "name": "Andreas T.",
       "activities": 27,
       "distance": 249.46,
       "moving_time_s": 107434,
       "elevation_m": 4829,
-      "rank": 99
+      "rank": 100
     },
     {
       "name": "Bibip D.",
@@ -825,7 +833,7 @@
       "distance": 248.29,
       "moving_time_s": 134781,
       "elevation_m": 6317,
-      "rank": 100
+      "rank": 101
     },
     {
       "name": "Dicky F.",
@@ -833,7 +841,7 @@
       "distance": 247.87,
       "moving_time_s": 105832,
       "elevation_m": 1212,
-      "rank": 101
+      "rank": 102
     },
     {
       "name": "Prasena P.",
@@ -841,7 +849,7 @@
       "distance": 242.16,
       "moving_time_s": 95000,
       "elevation_m": 1426,
-      "rank": 102
+      "rank": 103
     },
     {
       "name": "Veronika H.",
@@ -849,7 +857,7 @@
       "distance": 239.63,
       "moving_time_s": 109089,
       "elevation_m": 1188,
-      "rank": 103
+      "rank": 104
     },
     {
       "name": "Kevin S.",
@@ -857,7 +865,7 @@
       "distance": 239.55,
       "moving_time_s": 85198,
       "elevation_m": 131,
-      "rank": 104
+      "rank": 105
     },
     {
       "name": "Rio P.",
@@ -865,7 +873,7 @@
       "distance": 238.8,
       "moving_time_s": 85974,
       "elevation_m": 6,
-      "rank": 105
+      "rank": 106
     },
     {
       "name": "BUDI P.",
@@ -873,14 +881,6 @@
       "distance": 238.4,
       "moving_time_s": 90901,
       "elevation_m": 360,
-      "rank": 106
-    },
-    {
-      "name": "Deri J.",
-      "activities": 26,
-      "distance": 237.59,
-      "moving_time_s": 105365,
-      "elevation_m": 860,
       "rank": 107
     },
     {
