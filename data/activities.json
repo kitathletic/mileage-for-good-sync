@@ -106343,9 +106343,51 @@
       "moving_time_s": 3885,
       "elapsed_time_s": 3885,
       "elevation_m": 22
+    },
+    "de551f3d16245bb7d76f": {
+      "h": "de551f3d16245bb7d76f",
+      "first_seen_at": "2026-05-26T01:35:19.263Z",
+      "week_key": "2026-W22",
+      "athlete_first": "nazwa",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7017.9,
+      "moving_time_s": 3133,
+      "elapsed_time_s": 3133,
+      "elevation_m": 0
+    },
+    "85e98e4dcf36e95a242c": {
+      "h": "85e98e4dcf36e95a242c",
+      "first_seen_at": "2026-05-26T01:35:19.263Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Jeremiah",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8580.6,
+      "moving_time_s": 3888,
+      "elapsed_time_s": 3906,
+      "elevation_m": 51
+    },
+    "e26268974dac9fde5786": {
+      "h": "e26268974dac9fde5786",
+      "first_seen_at": "2026-05-26T01:35:19.263Z",
+      "week_key": "2026-W22",
+      "athlete_first": "William",
+      "athlete_last": "A.",
+      "name": "Progressive Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7301,
+      "moving_time_s": 3087,
+      "elapsed_time_s": 3104,
+      "elevation_m": 3
     }
   },
-  "last_synced_at": "2026-05-26T01:30:29.309Z",
+  "last_synced_at": "2026-05-26T01:35:19.263Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
