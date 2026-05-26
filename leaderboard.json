@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T02:00:35.496Z",
+  "generated_at": "2026-05-26T02:05:20.528Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 58708.5,
-    "activities": 6408,
-    "moving_time_s": 24941586,
-    "elevation_m": 355987
+    "distance": 58734.54,
+    "activities": 6411,
+    "moving_time_s": 24951847,
+    "elevation_m": 356042
   },
   "rows": [
     {
@@ -76,27 +76,27 @@
       "rank": 6
     },
     {
+      "name": "Petra V.",
+      "activities": 41,
+      "distance": 508,
+      "moving_time_s": 223130,
+      "elevation_m": 991,
+      "rank": 7
+    },
+    {
       "name": "Danny T.",
       "activities": 44,
       "distance": 501.12,
       "moving_time_s": 164378,
       "elevation_m": 1564,
-      "rank": 7
-    },
-    {
-      "name": "Petra V.",
-      "activities": 40,
-      "distance": 497.98,
-      "moving_time_s": 218895,
-      "elevation_m": 980,
       "rank": 8
     },
     {
       "name": "Prana R.",
-      "activities": 58,
-      "distance": 491.83,
-      "moving_time_s": 190766,
-      "elevation_m": 3969,
+      "activities": 59,
+      "distance": 497.84,
+      "moving_time_s": 192741,
+      "elevation_m": 3984,
       "rank": 9
     },
     {
@@ -348,12 +348,20 @@
       "rank": 40
     },
     {
+      "name": "Dimas P.",
+      "activities": 20,
+      "distance": 300.93,
+      "moving_time_s": 131218,
+      "elevation_m": 2976,
+      "rank": 41
+    },
+    {
       "name": "Aditya Y.",
       "activities": 28,
       "distance": 296.38,
       "moving_time_s": 102554,
       "elevation_m": 1916,
-      "rank": 41
+      "rank": 42
     },
     {
       "name": "Diah I.",
@@ -361,7 +369,7 @@
       "distance": 295.67,
       "moving_time_s": 117213,
       "elevation_m": 1020,
-      "rank": 42
+      "rank": 43
     },
     {
       "name": "Alit D.",
@@ -369,7 +377,7 @@
       "distance": 294.77,
       "moving_time_s": 111705,
       "elevation_m": 769,
-      "rank": 43
+      "rank": 44
     },
     {
       "name": "Pedro V.",
@@ -377,7 +385,7 @@
       "distance": 294.06,
       "moving_time_s": 90209,
       "elevation_m": 3269,
-      "rank": 44
+      "rank": 45
     },
     {
       "name": "William C.",
@@ -385,14 +393,6 @@
       "distance": 291.48,
       "moving_time_s": 100265,
       "elevation_m": 838,
-      "rank": 45
-    },
-    {
-      "name": "Dimas P.",
-      "activities": 19,
-      "distance": 290.92,
-      "moving_time_s": 127167,
-      "elevation_m": 2947,
       "rank": 46
     },
     {
