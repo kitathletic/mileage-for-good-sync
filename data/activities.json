@@ -107267,9 +107267,37 @@
       "moving_time_s": 2278,
       "elapsed_time_s": 2302,
       "elevation_m": 29.7
+    },
+    "f3843ab2980fbc428661": {
+      "h": "f3843ab2980fbc428661",
+      "first_seen_at": "2026-05-26T21:45:23.757Z",
+      "week_key": "2026-W22",
+      "athlete_first": "irrienia",
+      "athlete_last": "D.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8629.5,
+      "moving_time_s": 3912,
+      "elapsed_time_s": 4655,
+      "elevation_m": 64.7
+    },
+    "6a5b9ce40882c3126097": {
+      "h": "6a5b9ce40882c3126097",
+      "first_seen_at": "2026-05-26T21:45:23.757Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Pedro",
+      "athlete_last": "V.",
+      "name": "Corrida da tarde",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10188.5,
+      "moving_time_s": 3670,
+      "elapsed_time_s": 3707,
+      "elevation_m": 82
     }
   },
-  "last_synced_at": "2026-05-26T21:40:23.926Z",
+  "last_synced_at": "2026-05-26T21:45:23.757Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
