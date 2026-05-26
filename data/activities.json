@@ -106749,9 +106749,65 @@
       "moving_time_s": 2022,
       "elapsed_time_s": 2027,
       "elevation_m": 8
+    },
+    "949cfac51695ba5b599c": {
+      "h": "949cfac51695ba5b599c",
+      "first_seen_at": "2026-05-26T10:39:27.117Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Ghiffa",
+      "athlete_last": "S.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3997.4,
+      "moving_time_s": 1448,
+      "elapsed_time_s": 1448,
+      "elevation_m": 10.2
+    },
+    "5581114a5123cf555917": {
+      "h": "5581114a5123cf555917",
+      "first_seen_at": "2026-05-26T10:39:27.117Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Aldi",
+      "athlete_last": "A.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5002.4,
+      "moving_time_s": 1798,
+      "elapsed_time_s": 1848,
+      "elevation_m": 3
+    },
+    "84027b91d64a8435b185": {
+      "h": "84027b91d64a8435b185",
+      "first_seen_at": "2026-05-26T10:39:27.117Z",
+      "week_key": "2026-W22",
+      "athlete_first": "dani",
+      "athlete_last": "S.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10023.8,
+      "moving_time_s": 3894,
+      "elapsed_time_s": 3894,
+      "elevation_m": 39
+    },
+    "51a11aa37fe9475929c2": {
+      "h": "51a11aa37fe9475929c2",
+      "first_seen_at": "2026-05-26T10:39:27.117Z",
+      "week_key": "2026-W22",
+      "athlete_first": "J",
+      "athlete_last": "C.",
+      "name": "SHR #1",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10075,
+      "moving_time_s": 3283,
+      "elapsed_time_s": 3728,
+      "elevation_m": 49
     }
   },
-  "last_synced_at": "2026-05-26T10:35:22.875Z",
+  "last_synced_at": "2026-05-26T10:39:27.117Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
