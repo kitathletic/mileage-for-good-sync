@@ -110347,9 +110347,37 @@
       "moving_time_s": 3601,
       "elapsed_time_s": 3601,
       "elevation_m": 5
+    },
+    "354cea46a0884bd29701": {
+      "h": "354cea46a0884bd29701",
+      "first_seen_at": "2026-05-27T23:45:22.481Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Aldi",
+      "athlete_last": "O.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5180.5,
+      "moving_time_s": 2101,
+      "elapsed_time_s": 2105,
+      "elevation_m": 3.5
+    },
+    "08f2f7941c9ab331be27": {
+      "h": "08f2f7941c9ab331be27",
+      "first_seen_at": "2026-05-27T23:45:22.481Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Briandie",
+      "athlete_last": "S.",
+      "name": "W4 D2 | Easy 60\"\n\nMorning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8649.6,
+      "moving_time_s": 3601,
+      "elapsed_time_s": 3601,
+      "elevation_m": 5
     }
   },
-  "last_synced_at": "2026-05-27T23:40:22.446Z",
+  "last_synced_at": "2026-05-27T23:45:22.481Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
