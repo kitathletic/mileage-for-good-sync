@@ -109101,9 +109101,37 @@
       "moving_time_s": 2442,
       "elapsed_time_s": 2445,
       "elevation_m": 118.9
+    },
+    "8b33e39ed1de02a9e36b": {
+      "h": "8b33e39ed1de02a9e36b",
+      "first_seen_at": "2026-05-27T11:30:33.711Z",
+      "week_key": "2026-W22",
+      "athlete_first": "El",
+      "athlete_last": "A.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12065.6,
+      "moving_time_s": 4878,
+      "elapsed_time_s": 4894,
+      "elevation_m": 27
+    },
+    "18fbead9451dde4c3fcb": {
+      "h": "18fbead9451dde4c3fcb",
+      "first_seen_at": "2026-05-27T11:30:33.711Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Syamsurrijal",
+      "athlete_last": "M.",
+      "name": "Midweek LR",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 13004.8,
+      "moving_time_s": 5978,
+      "elapsed_time_s": 6077,
+      "elevation_m": 12.5
     }
   },
-  "last_synced_at": "2026-05-27T11:25:21.153Z",
+  "last_synced_at": "2026-05-27T11:30:33.711Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
