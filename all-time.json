@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T12:11:09.112Z",
+  "generated_at": "2026-05-27T12:16:12.459Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 71450.31,
-    "activities": 7737,
-    "moving_time_s": 30173313,
-    "elevation_m": 418031
+    "distance": 71452.32,
+    "activities": 7738,
+    "moving_time_s": 30174195,
+    "elevation_m": 418037
   },
   "rows": [
     {
@@ -2580,12 +2580,20 @@
       "rank": 319
     },
     {
+      "name": "Dianty A.",
+      "activities": 14,
+      "distance": 49.65,
+      "moving_time_s": 23683,
+      "elevation_m": 254,
+      "rank": 320
+    },
+    {
       "name": "Marlion A.",
       "activities": 3,
       "distance": 48.79,
       "moving_time_s": 25296,
       "elevation_m": 45,
-      "rank": 320
+      "rank": 321
     },
     {
       "name": "Paquita C.",
@@ -2593,7 +2601,7 @@
       "distance": 48.4,
       "moving_time_s": 22107,
       "elevation_m": 226,
-      "rank": 321
+      "rank": 322
     },
     {
       "name": "Ikhya A.",
@@ -2601,7 +2609,7 @@
       "distance": 48.1,
       "moving_time_s": 20012,
       "elevation_m": 99,
-      "rank": 322
+      "rank": 323
     },
     {
       "name": "Rido W.",
@@ -2609,7 +2617,7 @@
       "distance": 48.08,
       "moving_time_s": 34766,
       "elevation_m": 1586,
-      "rank": 323
+      "rank": 324
     },
     {
       "name": "Kasiadi I.",
@@ -2617,7 +2625,7 @@
       "distance": 48.04,
       "moving_time_s": 24804,
       "elevation_m": 208,
-      "rank": 324
+      "rank": 325
     },
     {
       "name": "Risyal M.",
@@ -2625,14 +2633,6 @@
       "distance": 47.77,
       "moving_time_s": 17974,
       "elevation_m": 99,
-      "rank": 325
-    },
-    {
-      "name": "Dianty A.",
-      "activities": 13,
-      "distance": 47.64,
-      "moving_time_s": 22801,
-      "elevation_m": 248,
       "rank": 326
     },
     {
