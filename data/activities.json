@@ -107701,9 +107701,37 @@
       "moving_time_s": 5772,
       "elapsed_time_s": 5823,
       "elevation_m": 26.3
+    },
+    "3c75ac78c1be55364afe": {
+      "h": "3c75ac78c1be55364afe",
+      "first_seen_at": "2026-05-27T00:20:25.145Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Iskandar",
+      "athlete_last": "L.",
+      "name": "Huawei Health activity",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10003,
+      "moving_time_s": 4353,
+      "elapsed_time_s": 4486,
+      "elevation_m": 6.9
+    },
+    "da3ddcf0a8e8290bd219": {
+      "h": "da3ddcf0a8e8290bd219",
+      "first_seen_at": "2026-05-27T00:20:25.145Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Edrick",
+      "athlete_last": "L.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 15047.4,
+      "moving_time_s": 5640,
+      "elapsed_time_s": 5888,
+      "elevation_m": 31
     }
   },
-  "last_synced_at": "2026-05-27T00:15:23.127Z",
+  "last_synced_at": "2026-05-27T00:20:25.145Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
