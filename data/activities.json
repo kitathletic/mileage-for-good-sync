@@ -107575,9 +107575,51 @@
       "moving_time_s": 4893,
       "elapsed_time_s": 5097,
       "elevation_m": 33
+    },
+    "3a80de9c2438b3427931": {
+      "h": "3a80de9c2438b3427931",
+      "first_seen_at": "2026-05-27T00:00:36.611Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Windy",
+      "athlete_last": "W.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10013.5,
+      "moving_time_s": 4077,
+      "elapsed_time_s": 4486,
+      "elevation_m": 10
+    },
+    "42fec1d99b9c868e97b3": {
+      "h": "42fec1d99b9c868e97b3",
+      "first_seen_at": "2026-05-27T00:00:36.611Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Ryan Adrian",
+      "athlete_last": "B.",
+      "name": "Recovery Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10023.6,
+      "moving_time_s": 4558,
+      "elapsed_time_s": 4558,
+      "elevation_m": 9
+    },
+    "d347a7dcd4e4eea33890": {
+      "h": "d347a7dcd4e4eea33890",
+      "first_seen_at": "2026-05-27T00:00:36.611Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Zad",
+      "athlete_last": "K.",
+      "name": "Super Long Run Z2 - Build Phase week 2. #roadtombm",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 32015.6,
+      "moving_time_s": 11523,
+      "elapsed_time_s": 12107,
+      "elevation_m": 50
     }
   },
-  "last_synced_at": "2026-05-26T23:55:21.043Z",
+  "last_synced_at": "2026-05-27T00:00:36.611Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
