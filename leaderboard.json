@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-27T09:45:23.102Z",
+  "generated_at": "2026-05-27T09:50:28.800Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
-    "member_count": 562,
+    "member_count": 563,
     "url": "kitathletic"
   },
   "units": "km",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 60053.16,
-    "activities": 6559,
-    "moving_time_s": 25475653,
-    "elevation_m": 359355
+    "distance": 60058.17,
+    "activities": 6560,
+    "moving_time_s": 25477509,
+    "elevation_m": 359373
   },
   "rows": [
     {
@@ -1788,12 +1788,20 @@
       "rank": 220
     },
     {
+      "name": "Pandu P.",
+      "activities": 18,
+      "distance": 103.26,
+      "moving_time_s": 44090,
+      "elevation_m": 336,
+      "rank": 221
+    },
+    {
       "name": "Nyabang G.",
       "activities": 25,
       "distance": 102.94,
       "moving_time_s": 38466,
       "elevation_m": 1129,
-      "rank": 221
+      "rank": 222
     },
     {
       "name": "M Yudho F.",
@@ -1801,7 +1809,7 @@
       "distance": 102.58,
       "moving_time_s": 48167,
       "elevation_m": 471,
-      "rank": 222
+      "rank": 223
     },
     {
       "name": "Ira S.",
@@ -1809,7 +1817,7 @@
       "distance": 101.84,
       "moving_time_s": 39809,
       "elevation_m": 1031,
-      "rank": 223
+      "rank": 224
     },
     {
       "name": "Firmansyah Nur R.",
@@ -1817,7 +1825,7 @@
       "distance": 101.17,
       "moving_time_s": 43337,
       "elevation_m": 294,
-      "rank": 224
+      "rank": 225
     },
     {
       "name": "Pandi W.",
@@ -1825,7 +1833,7 @@
       "distance": 99.14,
       "moving_time_s": 34740,
       "elevation_m": 297,
-      "rank": 225
+      "rank": 226
     },
     {
       "name": "Chrisnadya P.",
@@ -1833,7 +1841,7 @@
       "distance": 98.49,
       "moving_time_s": 45598,
       "elevation_m": 192,
-      "rank": 226
+      "rank": 227
     },
     {
       "name": "Aris S.",
@@ -1841,14 +1849,6 @@
       "distance": 98.26,
       "moving_time_s": 42505,
       "elevation_m": 30,
-      "rank": 227
-    },
-    {
-      "name": "Pandu P.",
-      "activities": 17,
-      "distance": 98.25,
-      "moving_time_s": 42234,
-      "elevation_m": 318,
       "rank": 228
     },
     {

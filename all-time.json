@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-27T09:45:23.102Z",
+  "generated_at": "2026-05-27T09:50:28.800Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
-    "member_count": 562,
+    "member_count": 563,
     "url": "kitathletic"
   },
   "units": "km",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 71074.65,
-    "activities": 7684,
-    "moving_time_s": 30020847,
-    "elevation_m": 417087
+    "distance": 71079.66,
+    "activities": 7685,
+    "moving_time_s": 30022703,
+    "elevation_m": 417105
   },
   "rows": [
     {
@@ -1612,12 +1612,20 @@
       "rank": 198
     },
     {
+      "name": "Pandu P.",
+      "activities": 26,
+      "distance": 144.26,
+      "moving_time_s": 61478,
+      "elevation_m": 425,
+      "rank": 199
+    },
+    {
       "name": "Zefan P.",
       "activities": 13,
       "distance": 144.16,
       "moving_time_s": 92455,
       "elevation_m": 4460,
-      "rank": 199
+      "rank": 200
     },
     {
       "name": "Firmansyah Nur R.",
@@ -1625,7 +1633,7 @@
       "distance": 143.79,
       "moving_time_s": 61273,
       "elevation_m": 435,
-      "rank": 200
+      "rank": 201
     },
     {
       "name": "Bosca H.",
@@ -1633,7 +1641,7 @@
       "distance": 141.36,
       "moving_time_s": 62938,
       "elevation_m": 1163,
-      "rank": 201
+      "rank": 202
     },
     {
       "name": "Angga A.",
@@ -1641,7 +1649,7 @@
       "distance": 140.62,
       "moving_time_s": 61578,
       "elevation_m": 2639,
-      "rank": 202
+      "rank": 203
     },
     {
       "name": "Bondan S.",
@@ -1649,14 +1657,6 @@
       "distance": 139.74,
       "moving_time_s": 62114,
       "elevation_m": 1185,
-      "rank": 203
-    },
-    {
-      "name": "Pandu P.",
-      "activities": 25,
-      "distance": 139.25,
-      "moving_time_s": 59622,
-      "elevation_m": 407,
       "rank": 204
     },
     {
