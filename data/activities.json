@@ -109451,9 +109451,37 @@
       "moving_time_s": 3612,
       "elapsed_time_s": 3615,
       "elevation_m": 0
+    },
+    "1c554c62a36cd887f1f1": {
+      "h": "1c554c62a36cd887f1f1",
+      "first_seen_at": "2026-05-27T14:05:22.973Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Pandi",
+      "athlete_last": "W.",
+      "name": "LONG RUN",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 15104.3,
+      "moving_time_s": 5180,
+      "elapsed_time_s": 5616,
+      "elevation_m": 45.6
+    },
+    "e0252a5f37a6d4db2fd5": {
+      "h": "e0252a5f37a6d4db2fd5",
+      "first_seen_at": "2026-05-27T14:05:22.973Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Ivan",
+      "athlete_last": "F.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5062.1,
+      "moving_time_s": 2153,
+      "elapsed_time_s": 2165,
+      "elevation_m": 5
     }
   },
-  "last_synced_at": "2026-05-27T14:00:44.254Z",
+  "last_synced_at": "2026-05-27T14:05:22.973Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
