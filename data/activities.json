@@ -109129,9 +109129,65 @@
       "moving_time_s": 5978,
       "elapsed_time_s": 6077,
       "elevation_m": 12.5
+    },
+    "3a29922299b7fe8e403c": {
+      "h": "3a29922299b7fe8e403c",
+      "first_seen_at": "2026-05-27T11:35:21.458Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Mario",
+      "athlete_last": "J.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1240.9,
+      "moving_time_s": 472,
+      "elapsed_time_s": 472,
+      "elevation_m": 1
+    },
+    "cf5f5e475b765352b754": {
+      "h": "cf5f5e475b765352b754",
+      "first_seen_at": "2026-05-27T11:35:21.458Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Nathania",
+      "athlete_last": "L.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5270,
+      "moving_time_s": 2565,
+      "elapsed_time_s": 2565,
+      "elevation_m": 0
+    },
+    "4fd28d8b9bafa19ad7ff": {
+      "h": "4fd28d8b9bafa19ad7ff",
+      "first_seen_at": "2026-05-27T11:35:21.458Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Amal",
+      "athlete_last": "M.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7182.9,
+      "moving_time_s": 2801,
+      "elapsed_time_s": 2806,
+      "elevation_m": 13
+    },
+    "cf16bb9ad59670724ac3": {
+      "h": "cf16bb9ad59670724ac3",
+      "first_seen_at": "2026-05-27T11:35:21.458Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Mario",
+      "athlete_last": "J.",
+      "name": "Warming up",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1195.9,
+      "moving_time_s": 445,
+      "elapsed_time_s": 445,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-05-27T11:30:33.711Z",
+  "last_synced_at": "2026-05-27T11:35:21.458Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
