@@ -113119,9 +113119,37 @@
       "moving_time_s": 1909,
       "elapsed_time_s": 1921,
       "elevation_m": 23.8
+    },
+    "1d7d65b632b8aa8cad50": {
+      "h": "1d7d65b632b8aa8cad50",
+      "first_seen_at": "2026-05-28T15:35:26.116Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Adhinda",
+      "athlete_last": "M.",
+      "name": "Recovery Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7023.8,
+      "moving_time_s": 3615,
+      "elapsed_time_s": 3615,
+      "elevation_m": 0
+    },
+    "2ce0a28a9a6c2bb3524d": {
+      "h": "2ce0a28a9a6c2bb3524d",
+      "first_seen_at": "2026-05-28T15:35:26.116Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Fadhil",
+      "athlete_last": "M.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3459.1,
+      "moving_time_s": 1344,
+      "elapsed_time_s": 1645,
+      "elevation_m": 35
     }
   },
-  "last_synced_at": "2026-05-28T15:30:31.920Z",
+  "last_synced_at": "2026-05-28T15:35:26.116Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
