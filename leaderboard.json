@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T19:10:26.780Z",
+  "generated_at": "2026-05-28T19:20:27.234Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 62633.9,
-    "activities": 6891,
-    "moving_time_s": 26529743,
-    "elevation_m": 370714
+    "distance": 62647.9,
+    "activities": 6893,
+    "moving_time_s": 26535328,
+    "elevation_m": 370907
   },
   "rows": [
     {
@@ -316,12 +316,20 @@
       "rank": 36
     },
     {
+      "name": "Pedro V.",
+      "activities": 32,
+      "distance": 333.6,
+      "moving_time_s": 103328,
+      "elevation_m": 3694,
+      "rank": 37
+    },
+    {
       "name": "Diah I.",
       "activities": 19,
       "distance": 333.18,
       "moving_time_s": 130343,
       "elevation_m": 1100,
-      "rank": 37
+      "rank": 38
     },
     {
       "name": "Sandy S.",
@@ -329,7 +337,7 @@
       "distance": 327.8,
       "moving_time_s": 221058,
       "elevation_m": 11156,
-      "rank": 38
+      "rank": 39
     },
     {
       "name": "Dimas P.",
@@ -337,7 +345,7 @@
       "distance": 326.95,
       "moving_time_s": 140784,
       "elevation_m": 3071,
-      "rank": 39
+      "rank": 40
     },
     {
       "name": "Zydan F.",
@@ -345,7 +353,7 @@
       "distance": 325.86,
       "moving_time_s": 135092,
       "elevation_m": 934,
-      "rank": 40
+      "rank": 41
     },
     {
       "name": "Asen ..",
@@ -353,14 +361,6 @@
       "distance": 320.68,
       "moving_time_s": 120540,
       "elevation_m": 710,
-      "rank": 41
-    },
-    {
-      "name": "Pedro V.",
-      "activities": 31,
-      "distance": 319.63,
-      "moving_time_s": 98653,
-      "elevation_m": 3501,
       "rank": 42
     },
     {
@@ -3189,9 +3189,9 @@
     },
     {
       "name": "Guillermo E O.",
-      "activities": 35,
-      "distance": 13.09,
-      "moving_time_s": 20450,
+      "activities": 36,
+      "distance": 13.12,
+      "moving_time_s": 21360,
       "elevation_m": 29,
       "rank": 396
     },

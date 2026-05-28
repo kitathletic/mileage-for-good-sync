@@ -113203,9 +113203,37 @@
       "moving_time_s": 24886,
       "elapsed_time_s": 42037,
       "elevation_m": 289
+    },
+    "487dead404783e741830": {
+      "h": "487dead404783e741830",
+      "first_seen_at": "2026-05-28T19:20:27.234Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Guillermo E",
+      "athlete_last": "O.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 26,
+      "moving_time_s": 910,
+      "elapsed_time_s": 910,
+      "elevation_m": 0
+    },
+    "9653657bf7c045a630f0": {
+      "h": "9653657bf7c045a630f0",
+      "first_seen_at": "2026-05-28T19:20:27.234Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Pedro",
+      "athlete_last": "V.",
+      "name": "Corrida da tarde",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 13976.3,
+      "moving_time_s": 4675,
+      "elapsed_time_s": 4695,
+      "elevation_m": 193
     }
   },
-  "last_synced_at": "2026-05-28T19:10:26.780Z",
+  "last_synced_at": "2026-05-28T19:20:27.234Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90

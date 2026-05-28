@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T19:10:26.780Z",
+  "generated_at": "2026-05-28T19:20:27.234Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 73655.38,
-    "activities": 8016,
-    "moving_time_s": 31074937,
-    "elevation_m": 428446
+    "distance": 73669.38,
+    "activities": 8018,
+    "moving_time_s": 31080522,
+    "elevation_m": 428639
   },
   "rows": [
     {
@@ -364,12 +364,20 @@
       "rank": 42
     },
     {
+      "name": "Pedro V.",
+      "activities": 35,
+      "distance": 365.98,
+      "moving_time_s": 114638,
+      "elevation_m": 4077,
+      "rank": 43
+    },
+    {
       "name": "Aditya Y.",
       "activities": 38,
       "distance": 364.1,
       "moving_time_s": 124133,
       "elevation_m": 1932,
-      "rank": 43
+      "rank": 44
     },
     {
       "name": "Aaron A.",
@@ -377,7 +385,7 @@
       "distance": 363.04,
       "moving_time_s": 153318,
       "elevation_m": 1015,
-      "rank": 44
+      "rank": 45
     },
     {
       "name": "ruel R.",
@@ -385,7 +393,7 @@
       "distance": 356.72,
       "moving_time_s": 185992,
       "elevation_m": 8425,
-      "rank": 45
+      "rank": 46
     },
     {
       "name": "Tim W.",
@@ -393,7 +401,7 @@
       "distance": 355.67,
       "moving_time_s": 126284,
       "elevation_m": 967,
-      "rank": 46
+      "rank": 47
     },
     {
       "name": "Alit D.",
@@ -401,14 +409,6 @@
       "distance": 352.84,
       "moving_time_s": 133481,
       "elevation_m": 925,
-      "rank": 47
-    },
-    {
-      "name": "Pedro V.",
-      "activities": 34,
-      "distance": 352,
-      "moving_time_s": 109963,
-      "elevation_m": 3884,
       "rank": 48
     },
     {
@@ -2997,9 +2997,9 @@
     },
     {
       "name": "Guillermo E O.",
-      "activities": 38,
-      "distance": 23.32,
-      "moving_time_s": 27571,
+      "activities": 39,
+      "distance": 23.34,
+      "moving_time_s": 28481,
       "elevation_m": 44,
       "rank": 372
     },
