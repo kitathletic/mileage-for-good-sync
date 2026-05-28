@@ -112783,9 +112783,37 @@
       "moving_time_s": 3777,
       "elapsed_time_s": 3834,
       "elevation_m": 11
+    },
+    "4cff9993f906b896c391": {
+      "h": "4cff9993f906b896c391",
+      "first_seen_at": "2026-05-28T12:35:21.303Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Nindia",
+      "athlete_last": "S.",
+      "name": "4 x 4",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3610,
+      "moving_time_s": 1331,
+      "elapsed_time_s": 1331,
+      "elevation_m": 0
+    },
+    "20fcf10c7c09d50a42ee": {
+      "h": "20fcf10c7c09d50a42ee",
+      "first_seen_at": "2026-05-28T12:35:21.303Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Nindia",
+      "athlete_last": "S.",
+      "name": "warmup",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2110,
+      "moving_time_s": 887,
+      "elapsed_time_s": 887,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-05-28T12:30:30.555Z",
+  "last_synced_at": "2026-05-28T12:35:21.303Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
