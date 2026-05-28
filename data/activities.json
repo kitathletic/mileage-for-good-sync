@@ -113595,9 +113595,37 @@
       "moving_time_s": 4852,
       "elapsed_time_s": 4852,
       "elevation_m": 0
+    },
+    "91cf98a5ecc004110347": {
+      "h": "91cf98a5ecc004110347",
+      "first_seen_at": "2026-05-28T23:30:28.332Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Rizky Alfian",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8139.5,
+      "moving_time_s": 3402,
+      "elapsed_time_s": 3405,
+      "elevation_m": 1
+    },
+    "4fe6158c6a5d8895c6dc": {
+      "h": "4fe6158c6a5d8895c6dc",
+      "first_seen_at": "2026-05-28T23:30:28.332Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Ryan",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9255.8,
+      "moving_time_s": 3643,
+      "elapsed_time_s": 3661,
+      "elevation_m": 12
     }
   },
-  "last_synced_at": "2026-05-28T23:25:19.078Z",
+  "last_synced_at": "2026-05-28T23:30:28.332Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
