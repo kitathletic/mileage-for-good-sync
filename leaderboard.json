@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T10:50:26.136Z",
+  "generated_at": "2026-05-29T10:55:24.929Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,9 +21,9 @@
     "Walk"
   ],
   "totals": {
-    "distance": 63834.93,
-    "activities": 7053,
-    "moving_time_s": 27018462,
+    "distance": 63836.48,
+    "activities": 7054,
+    "moving_time_s": 27019315,
     "elevation_m": 375621
   },
   "rows": [
@@ -3452,12 +3452,20 @@
       "rank": 428
     },
     {
+      "name": "Gusti F.",
+      "activities": 1,
+      "distance": 1.55,
+      "moving_time_s": 853,
+      "elevation_m": 0,
+      "rank": 429
+    },
+    {
       "name": "A. Fraidee 金.",
       "activities": 1,
       "distance": 0.3,
       "moving_time_s": 290,
       "elevation_m": 0,
-      "rank": 429
+      "rank": 430
     },
     {
       "name": "Yoshua ⛩.",
@@ -3465,7 +3473,7 @@
       "distance": 0,
       "moving_time_s": 1102,
       "elevation_m": 0,
-      "rank": 430
+      "rank": 431
     },
     {
       "name": "Ronny S.",
@@ -3473,7 +3481,7 @@
       "distance": 0,
       "moving_time_s": 12753,
       "elevation_m": 0,
-      "rank": 431
+      "rank": 432
     }
   ]
 }
