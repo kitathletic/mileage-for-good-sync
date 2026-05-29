@@ -116829,9 +116829,51 @@
       "moving_time_s": 3799,
       "elapsed_time_s": 3799,
       "elevation_m": 7
+    },
+    "bb108b1028de84f3b3ae": {
+      "h": "bb108b1028de84f3b3ae",
+      "first_seen_at": "2026-05-29T23:45:21.350Z",
+      "week_key": "2026-W22",
+      "athlete_first": "irrienia",
+      "athlete_last": "D.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 242.9,
+      "moving_time_s": 170,
+      "elapsed_time_s": 364,
+      "elevation_m": 0
+    },
+    "7e95fa362d0b49a05d85": {
+      "h": "7e95fa362d0b49a05d85",
+      "first_seen_at": "2026-05-29T23:45:21.350Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Rudi",
+      "athlete_last": "P.",
+      "name": "Berlari Pagi",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10215.1,
+      "moving_time_s": 4280,
+      "elapsed_time_s": 4334,
+      "elevation_m": 38.7
+    },
+    "3795839730e40484e7e1": {
+      "h": "3795839730e40484e7e1",
+      "first_seen_at": "2026-05-29T23:45:21.350Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Samuel",
+      "athlete_last": "W.",
+      "name": "NX Run Club x Devon matcha run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10149.7,
+      "moving_time_s": 3764,
+      "elapsed_time_s": 4955,
+      "elevation_m": 10.6
     }
   },
-  "last_synced_at": "2026-05-29T23:40:21.827Z",
+  "last_synced_at": "2026-05-29T23:45:21.350Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
