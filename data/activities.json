@@ -116241,9 +116241,37 @@
       "moving_time_s": 2050,
       "elapsed_time_s": 2063,
       "elevation_m": 31
+    },
+    "a9ba4b7f09c07ab89fa1": {
+      "h": "a9ba4b7f09c07ab89fa1",
+      "first_seen_at": "2026-05-29T21:50:24.155Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Andrus",
+      "athlete_last": "E.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 637.5,
+      "moving_time_s": 470,
+      "elapsed_time_s": 501,
+      "elevation_m": 0
+    },
+    "3e9ccdee1bacebd3c92f": {
+      "h": "3e9ccdee1bacebd3c92f",
+      "first_seen_at": "2026-05-29T21:50:24.155Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Nayaka",
+      "athlete_last": "B.",
+      "name": "Berlari Malam",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 15048.4,
+      "moving_time_s": 4599,
+      "elapsed_time_s": 4599,
+      "elevation_m": 46
     }
   },
-  "last_synced_at": "2026-05-29T21:45:22.908Z",
+  "last_synced_at": "2026-05-29T21:50:24.155Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
