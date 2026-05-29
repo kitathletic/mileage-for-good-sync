@@ -115737,9 +115737,37 @@
       "moving_time_s": 2103,
       "elapsed_time_s": 2103,
       "elevation_m": 2
+    },
+    "70d0e2ed45ec168e64bf": {
+      "h": "70d0e2ed45ec168e64bf",
+      "first_seen_at": "2026-05-29T12:45:23.529Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Rhamdan",
+      "athlete_last": "I.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1093.9,
+      "moving_time_s": 471,
+      "elapsed_time_s": 1000,
+      "elevation_m": 8
+    },
+    "9a0fc868ae87efc04ef6": {
+      "h": "9a0fc868ae87efc04ef6",
+      "first_seen_at": "2026-05-29T12:45:23.529Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Rhamdan",
+      "athlete_last": "I.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4764,
+      "moving_time_s": 1536,
+      "elapsed_time_s": 1599,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-05-29T12:40:25.859Z",
+  "last_synced_at": "2026-05-29T12:45:23.529Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
