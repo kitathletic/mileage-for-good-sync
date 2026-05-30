@@ -118859,9 +118859,65 @@
       "moving_time_s": 4696,
       "elapsed_time_s": 5283,
       "elevation_m": 57
+    },
+    "3940a0c9ca46433294c9": {
+      "h": "3940a0c9ca46433294c9",
+      "first_seen_at": "2026-05-30T02:30:27.589Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Rudy",
+      "athlete_last": "W.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1010.8,
+      "moving_time_s": 479,
+      "elapsed_time_s": 482,
+      "elevation_m": 3
+    },
+    "90519cfda84a40f47605": {
+      "h": "90519cfda84a40f47605",
+      "first_seen_at": "2026-05-30T02:30:27.589Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Jeremiah",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10028.2,
+      "moving_time_s": 3951,
+      "elapsed_time_s": 3984,
+      "elevation_m": 55
+    },
+    "394d1c7a74135bc389b0": {
+      "h": "394d1c7a74135bc389b0",
+      "first_seen_at": "2026-05-30T02:30:27.589Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Prana",
+      "athlete_last": "R.",
+      "name": "Morning Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 12999.4,
+      "moving_time_s": 5812,
+      "elapsed_time_s": 5835,
+      "elevation_m": 768
+    },
+    "1580912a2938098fd99e": {
+      "h": "1580912a2938098fd99e",
+      "first_seen_at": "2026-05-30T02:30:27.589Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Rudy",
+      "athlete_last": "W.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 20006.6,
+      "moving_time_s": 8877,
+      "elapsed_time_s": 9616,
+      "elevation_m": 12
     }
   },
-  "last_synced_at": "2026-05-30T02:25:18.610Z",
+  "last_synced_at": "2026-05-30T02:30:27.589Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
