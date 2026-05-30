@@ -119209,9 +119209,37 @@
       "moving_time_s": 4393,
       "elapsed_time_s": 4783,
       "elevation_m": 44
+    },
+    "eed83ec24b119cfa026d": {
+      "h": "eed83ec24b119cfa026d",
+      "first_seen_at": "2026-05-30T04:40:24.687Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Mochamad",
+      "athlete_last": "R.",
+      "name": "Lunch Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2754.3,
+      "moving_time_s": 1176,
+      "elapsed_time_s": 1176,
+      "elevation_m": 0
+    },
+    "a004fc1829ccf2b16400": {
+      "h": "a004fc1829ccf2b16400",
+      "first_seen_at": "2026-05-30T04:40:24.687Z",
+      "week_key": "2026-W22",
+      "athlete_first": "marselli",
+      "athlete_last": "T.",
+      "name": "Morning Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 10193.1,
+      "moving_time_s": 8306,
+      "elapsed_time_s": 13676,
+      "elevation_m": 564.8
     }
   },
-  "last_synced_at": "2026-05-30T04:35:20.056Z",
+  "last_synced_at": "2026-05-30T04:40:24.687Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
