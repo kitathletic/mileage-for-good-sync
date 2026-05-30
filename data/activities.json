@@ -119265,9 +119265,37 @@
       "moving_time_s": 2682,
       "elapsed_time_s": 2889,
       "elevation_m": 18
+    },
+    "bed4e7cc91cedda8d321": {
+      "h": "bed4e7cc91cedda8d321",
+      "first_seen_at": "2026-05-30T05:10:22.804Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Ryan",
+      "athlete_last": "R.",
+      "name": "I need your clothes, your boots, and your bicycle.",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 13057,
+      "moving_time_s": 19069,
+      "elapsed_time_s": 20359,
+      "elevation_m": 1522
+    },
+    "683767587301d806e78d": {
+      "h": "683767587301d806e78d",
+      "first_seen_at": "2026-05-30T05:10:22.804Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Ajiw",
+      "athlete_last": "💫.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12124.5,
+      "moving_time_s": 4876,
+      "elapsed_time_s": 5582,
+      "elevation_m": 18
     }
   },
-  "last_synced_at": "2026-05-30T05:05:20.190Z",
+  "last_synced_at": "2026-05-30T05:10:22.804Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
