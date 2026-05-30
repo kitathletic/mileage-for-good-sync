@@ -120133,9 +120133,37 @@
       "moving_time_s": 7419,
       "elapsed_time_s": 7419,
       "elevation_m": 18
+    },
+    "b453ea80416b3e953801": {
+      "h": "b453ea80416b3e953801",
+      "first_seen_at": "2026-05-30T23:15:22.206Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Andika",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5011.6,
+      "moving_time_s": 1921,
+      "elapsed_time_s": 1932,
+      "elevation_m": 25
+    },
+    "8628957e7b45d89ba964": {
+      "h": "8628957e7b45d89ba964",
+      "first_seen_at": "2026-05-30T23:15:22.206Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Ciko",
+      "athlete_last": "N.",
+      "name": "Early Bird 5:05 Shuffle: 3.1km of 133 BPM Giggle-Galumph-ing Uphill 33m in 00:26:40—the Silly Sprinkler Sprint",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3140.8,
+      "moving_time_s": 1600,
+      "elapsed_time_s": 1600,
+      "elevation_m": 33.2
     }
   },
-  "last_synced_at": "2026-05-30T23:10:22.085Z",
+  "last_synced_at": "2026-05-30T23:15:22.206Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
