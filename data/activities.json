@@ -119181,9 +119181,37 @@
       "moving_time_s": 9281,
       "elapsed_time_s": 15900,
       "elevation_m": 50
+    },
+    "c0be4a5264ec7864685f": {
+      "h": "c0be4a5264ec7864685f",
+      "first_seen_at": "2026-05-30T04:35:20.056Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Emilio",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5161.3,
+      "moving_time_s": 1980,
+      "elapsed_time_s": 1980,
+      "elevation_m": 0
+    },
+    "4826f4da8fe16f5c07a2": {
+      "h": "4826f4da8fe16f5c07a2",
+      "first_seen_at": "2026-05-30T04:35:20.056Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Rey",
+      "athlete_last": "M.",
+      "name": "USS: Long Slow Distance",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10041.7,
+      "moving_time_s": 4393,
+      "elapsed_time_s": 4783,
+      "elevation_m": 44
     }
   },
-  "last_synced_at": "2026-05-30T04:30:27.633Z",
+  "last_synced_at": "2026-05-30T04:35:20.056Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
