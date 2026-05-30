@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T11:40:22.863Z",
+  "generated_at": "2026-05-30T11:45:24.380Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,26 +21,26 @@
     "Walk"
   ],
   "totals": {
-    "distance": 66943.94,
-    "activities": 7350,
-    "moving_time_s": 28305627,
-    "elevation_m": 395476
+    "distance": 66959.13,
+    "activities": 7353,
+    "moving_time_s": 28311687,
+    "elevation_m": 395487
   },
   "rows": [
+    {
+      "name": "Andri K.",
+      "activities": 85,
+      "distance": 728.28,
+      "moving_time_s": 290505,
+      "elevation_m": 7806,
+      "rank": 1
+    },
     {
       "name": "Edrick L.",
       "activities": 46,
       "distance": 718.7,
       "moving_time_s": 222027,
       "elevation_m": 1086,
-      "rank": 1
-    },
-    {
-      "name": "Andri K.",
-      "activities": 83,
-      "distance": 718.1,
-      "moving_time_s": 286967,
-      "elevation_m": 7795,
       "rank": 2
     },
     {
@@ -2324,12 +2324,20 @@
       "rank": 287
     },
     {
+      "name": "Yandri F.",
+      "activities": 13,
+      "distance": 69.3,
+      "moving_time_s": 30577,
+      "elevation_m": 387,
+      "rank": 288
+    },
+    {
       "name": "ramdani R.",
       "activities": 11,
       "distance": 68.17,
       "moving_time_s": 28600,
       "elevation_m": 23,
-      "rank": 288
+      "rank": 289
     },
     {
       "name": "Adriandy S.",
@@ -2337,7 +2345,7 @@
       "distance": 67.86,
       "moving_time_s": 34508,
       "elevation_m": 244,
-      "rank": 289
+      "rank": 290
     },
     {
       "name": "Annisa C.",
@@ -2345,7 +2353,7 @@
       "distance": 67.43,
       "moving_time_s": 30408,
       "elevation_m": 149,
-      "rank": 290
+      "rank": 291
     },
     {
       "name": "Adam V.",
@@ -2353,7 +2361,7 @@
       "distance": 67.37,
       "moving_time_s": 32272,
       "elevation_m": 333,
-      "rank": 291
+      "rank": 292
     },
     {
       "name": "Eric G.",
@@ -2361,7 +2369,7 @@
       "distance": 66.72,
       "moving_time_s": 26979,
       "elevation_m": 169,
-      "rank": 292
+      "rank": 293
     },
     {
       "name": "Ananda Bella M.",
@@ -2369,7 +2377,7 @@
       "distance": 66.43,
       "moving_time_s": 31338,
       "elevation_m": 145,
-      "rank": 293
+      "rank": 294
     },
     {
       "name": "Arman Fellany L.",
@@ -2377,7 +2385,7 @@
       "distance": 65.24,
       "moving_time_s": 29318,
       "elevation_m": 268,
-      "rank": 294
+      "rank": 295
     },
     {
       "name": "Nathania L.",
@@ -2385,14 +2393,6 @@
       "distance": 64.44,
       "moving_time_s": 27243,
       "elevation_m": 66,
-      "rank": 295
-    },
-    {
-      "name": "Yandri F.",
-      "activities": 12,
-      "distance": 64.29,
-      "moving_time_s": 28055,
-      "elevation_m": 387,
       "rank": 296
     },
     {

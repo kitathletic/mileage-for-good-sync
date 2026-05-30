@@ -119629,9 +119629,51 @@
       "moving_time_s": 4904,
       "elapsed_time_s": 4925,
       "elevation_m": 71
+    },
+    "a377970afb1da4308265": {
+      "h": "a377970afb1da4308265",
+      "first_seen_at": "2026-05-30T11:45:24.380Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Andri",
+      "athlete_last": "K.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 556,
+      "moving_time_s": 276,
+      "elapsed_time_s": 285,
+      "elevation_m": 0
+    },
+    "e1ab92bf563f8aa22b66": {
+      "h": "e1ab92bf563f8aa22b66",
+      "first_seen_at": "2026-05-30T11:45:24.380Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Andri",
+      "athlete_last": "K.",
+      "name": "Lunch Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9624,
+      "moving_time_s": 3262,
+      "elapsed_time_s": 3265,
+      "elevation_m": 11
+    },
+    "74af82c36ded8023dc3f": {
+      "h": "74af82c36ded8023dc3f",
+      "first_seen_at": "2026-05-30T11:45:24.380Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Yandri",
+      "athlete_last": "F.",
+      "name": "Gofit x Kettler Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5007.3,
+      "moving_time_s": 2522,
+      "elapsed_time_s": 2537,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-05-30T11:40:22.863Z",
+  "last_synced_at": "2026-05-30T11:45:24.380Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
