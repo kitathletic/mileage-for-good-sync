@@ -117053,9 +117053,65 @@
       "moving_time_s": 3905,
       "elapsed_time_s": 3905,
       "elevation_m": 36
+    },
+    "680033b4cade4c9cc003": {
+      "h": "680033b4cade4c9cc003",
+      "first_seen_at": "2026-05-30T00:05:21.534Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Yan",
+      "athlete_last": "K.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5005.8,
+      "moving_time_s": 2290,
+      "elapsed_time_s": 2310,
+      "elevation_m": 3
+    },
+    "ffece729a2bedb672074": {
+      "h": "ffece729a2bedb672074",
+      "first_seen_at": "2026-05-30T00:05:21.534Z",
+      "week_key": "2026-W22",
+      "athlete_first": "R",
+      "athlete_last": "I.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10509.2,
+      "moving_time_s": 3475,
+      "elapsed_time_s": 3736,
+      "elevation_m": 22.3
+    },
+    "a32822d9d866c2ae4b5c": {
+      "h": "a32822d9d866c2ae4b5c",
+      "first_seen_at": "2026-05-30T00:05:21.534Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Bondan",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7002.3,
+      "moving_time_s": 3362,
+      "elapsed_time_s": 3670,
+      "elevation_m": 60
+    },
+    "dafcce00f677f2a1662e": {
+      "h": "dafcce00f677f2a1662e",
+      "first_seen_at": "2026-05-30T00:05:21.534Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Kevin",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 16353,
+      "moving_time_s": 5431,
+      "elapsed_time_s": 5566,
+      "elevation_m": 4
     }
   },
-  "last_synced_at": "2026-05-30T00:00:34.979Z",
+  "last_synced_at": "2026-05-30T00:05:21.534Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
