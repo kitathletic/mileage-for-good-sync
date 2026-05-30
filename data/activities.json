@@ -118159,9 +118159,37 @@
       "moving_time_s": 6550,
       "elapsed_time_s": 6640,
       "elevation_m": 36
+    },
+    "1fa4a7ccdb004bc29204": {
+      "h": "1fa4a7ccdb004bc29204",
+      "first_seen_at": "2026-05-30T01:15:21.648Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Hanif",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10602.6,
+      "moving_time_s": 4405,
+      "elapsed_time_s": 4518,
+      "elevation_m": 11
+    },
+    "70d8bc3293100289185c": {
+      "h": "70d8bc3293100289185c",
+      "first_seen_at": "2026-05-30T01:15:21.648Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Ryan Adrian",
+      "athlete_last": "B.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12055.6,
+      "moving_time_s": 5356,
+      "elapsed_time_s": 5975,
+      "elevation_m": 42
     }
   },
-  "last_synced_at": "2026-05-30T01:10:25.672Z",
+  "last_synced_at": "2026-05-30T01:15:21.648Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
