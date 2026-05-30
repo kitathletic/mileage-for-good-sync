@@ -117823,9 +117823,51 @@
       "moving_time_s": 8465,
       "elapsed_time_s": 8465,
       "elevation_m": 41
+    },
+    "cc99459dc536dcede797": {
+      "h": "cc99459dc536dcede797",
+      "first_seen_at": "2026-05-30T00:45:22.226Z",
+      "week_key": "2026-W22",
+      "athlete_first": "agnes",
+      "athlete_last": "Y.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9020,
+      "moving_time_s": 2993,
+      "elapsed_time_s": 2993,
+      "elevation_m": 0
+    },
+    "cc780b4d2b1dbe9e8ea1": {
+      "h": "cc780b4d2b1dbe9e8ea1",
+      "first_seen_at": "2026-05-30T00:45:22.226Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Asen",
+      "athlete_last": "..",
+      "name": "2026-05-30 Long Run 25K",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 25010,
+      "moving_time_s": 8465,
+      "elapsed_time_s": 8465,
+      "elevation_m": 41
+    },
+    "976f68d6ed3c6553b32e": {
+      "h": "976f68d6ed3c6553b32e",
+      "first_seen_at": "2026-05-30T00:45:22.226Z",
+      "week_key": "2026-W22",
+      "athlete_first": "San",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 32002.3,
+      "moving_time_s": 10926,
+      "elapsed_time_s": 14848,
+      "elevation_m": 495
     }
   },
-  "last_synced_at": "2026-05-30T00:40:22.652Z",
+  "last_synced_at": "2026-05-30T00:45:22.226Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
