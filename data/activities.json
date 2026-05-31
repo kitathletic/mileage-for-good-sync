@@ -123129,9 +123129,37 @@
       "moving_time_s": 268,
       "elapsed_time_s": 352,
       "elevation_m": 3.3
+    },
+    "3ed8830420c81efd21ec": {
+      "h": "3ed8830420c81efd21ec",
+      "first_seen_at": "2026-05-31T06:40:24.295Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Mochamad",
+      "athlete_last": "R.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5002.8,
+      "moving_time_s": 1974,
+      "elapsed_time_s": 1974,
+      "elevation_m": 0
+    },
+    "467808c6f516359be2c8": {
+      "h": "467808c6f516359be2c8",
+      "first_seen_at": "2026-05-31T06:40:24.295Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Maina",
+      "athlete_last": "H.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7028.9,
+      "moving_time_s": 3095,
+      "elapsed_time_s": 3314,
+      "elevation_m": 14
     }
   },
-  "last_synced_at": "2026-05-31T06:35:18.505Z",
+  "last_synced_at": "2026-05-31T06:40:24.295Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
