@@ -123885,9 +123885,37 @@
       "moving_time_s": 5930,
       "elapsed_time_s": 6418,
       "elevation_m": 16
+    },
+    "6ac1f642d3e1d18ebe52": {
+      "h": "6ac1f642d3e1d18ebe52",
+      "first_seen_at": "2026-05-31T13:55:20.224Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Eric",
+      "athlete_last": "G.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7560.2,
+      "moving_time_s": 2795,
+      "elapsed_time_s": 2795,
+      "elevation_m": 0
+    },
+    "7a75391f308ae0a3389b": {
+      "h": "7a75391f308ae0a3389b",
+      "first_seen_at": "2026-05-31T13:55:20.224Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Fadhil",
+      "athlete_last": "M.",
+      "name": "Treadmill Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5200,
+      "moving_time_s": 2545,
+      "elapsed_time_s": 2868,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-05-31T13:50:25.100Z",
+  "last_synced_at": "2026-05-31T13:55:20.224Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
