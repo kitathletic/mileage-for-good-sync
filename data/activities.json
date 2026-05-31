@@ -120637,9 +120637,51 @@
       "moving_time_s": 9367,
       "elapsed_time_s": 10561,
       "elevation_m": 26
+    },
+    "6e81f276986f425b7ef0": {
+      "h": "6e81f276986f425b7ef0",
+      "first_seen_at": "2026-05-31T00:15:21.361Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Rhiza",
+      "athlete_last": "..",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3059.4,
+      "moving_time_s": 2164,
+      "elapsed_time_s": 2348,
+      "elevation_m": 7
+    },
+    "ca235468f60486341094": {
+      "h": "ca235468f60486341094",
+      "first_seen_at": "2026-05-31T00:15:21.361Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Josh",
+      "athlete_last": "H.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8048.3,
+      "moving_time_s": 3082,
+      "elapsed_time_s": 3084,
+      "elevation_m": 22
+    },
+    "66acdc35c868ae6a8597": {
+      "h": "66acdc35c868ae6a8597",
+      "first_seen_at": "2026-05-31T00:15:21.361Z",
+      "week_key": "2026-W22",
+      "athlete_first": "Reno",
+      "athlete_last": "Y.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10144.3,
+      "moving_time_s": 4365,
+      "elapsed_time_s": 6540,
+      "elevation_m": 22.6
     }
   },
-  "last_synced_at": "2026-05-31T00:10:22.367Z",
+  "last_synced_at": "2026-05-31T00:15:21.361Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
