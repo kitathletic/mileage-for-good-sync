@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T23:50:23.132Z",
+  "generated_at": "2026-05-31T23:54:33.932Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 174.17,
-    "activities": 21,
-    "moving_time_s": 77192,
-    "elevation_m": 631
+    "distance": 196.03,
+    "activities": 25,
+    "moving_time_s": 87213,
+    "elevation_m": 741
   },
   "rows": [
     {
@@ -122,12 +122,44 @@
       "rank": 12
     },
     {
+      "name": "Gita D.",
+      "activities": 1,
+      "distance": 6.11,
+      "moving_time_s": 3037,
+      "elevation_m": 10,
+      "rank": 13
+    },
+    {
+      "name": "Ciko N.",
+      "activities": 1,
+      "distance": 5.5,
+      "moving_time_s": 2764,
+      "elevation_m": 58,
+      "rank": 14
+    },
+    {
+      "name": "Joshua Y.",
+      "activities": 1,
+      "distance": 5.18,
+      "moving_time_s": 2124,
+      "elevation_m": 35,
+      "rank": 15
+    },
+    {
       "name": "Arya .",
       "activities": 1,
       "distance": 5.14,
       "moving_time_s": 4527,
       "elevation_m": 26,
-      "rank": 13
+      "rank": 16
+    },
+    {
+      "name": "Niky T.",
+      "activities": 1,
+      "distance": 5.07,
+      "moving_time_s": 2096,
+      "elevation_m": 7,
+      "rank": 17
     },
     {
       "name": "Abdu B.",
@@ -135,7 +167,7 @@
       "distance": 5.01,
       "moving_time_s": 2999,
       "elevation_m": 31,
-      "rank": 14
+      "rank": 18
     },
     {
       "name": "Zad K.",
@@ -143,7 +175,7 @@
       "distance": 4.01,
       "moving_time_s": 1686,
       "elevation_m": 32,
-      "rank": 15
+      "rank": 19
     },
     {
       "name": "adiv O.",
@@ -151,7 +183,7 @@
       "distance": 3.77,
       "moving_time_s": 1644,
       "elevation_m": 7,
-      "rank": 16
+      "rank": 20
     },
     {
       "name": "Amal M.",
@@ -159,7 +191,7 @@
       "distance": 3.06,
       "moving_time_s": 1403,
       "elevation_m": 0,
-      "rank": 17
+      "rank": 21
     },
     {
       "name": "Zefan P.",
@@ -167,7 +199,7 @@
       "distance": 0.43,
       "moving_time_s": 40,
       "elevation_m": 14,
-      "rank": 18
+      "rank": 22
     }
   ]
 }
