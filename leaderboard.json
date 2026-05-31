@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-05-31T22:45:38.033Z",
+  "generated_at": "2026-05-31T22:50:25.087Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
-    "member_count": 573,
+    "member_count": 575,
     "url": "kitathletic"
   },
   "units": "km",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 70584.36,
-    "activities": 7674,
-    "moving_time_s": 29873356,
-    "elevation_m": 417176
+    "distance": 70597.77,
+    "activities": 7675,
+    "moving_time_s": 29878687,
+    "elevation_m": 417295
   },
   "rows": [
     {
@@ -484,12 +484,20 @@
       "rank": 57
     },
     {
+      "name": "San S.",
+      "activities": 21,
+      "distance": 320.62,
+      "moving_time_s": 123195,
+      "elevation_m": 2901,
+      "rank": 58
+    },
+    {
       "name": "Defry N.",
       "activities": 25,
       "distance": 319.32,
       "moving_time_s": 135264,
       "elevation_m": 1148,
-      "rank": 58
+      "rank": 59
     },
     {
       "name": "Ryan A.",
@@ -497,7 +505,7 @@
       "distance": 317.64,
       "moving_time_s": 123843,
       "elevation_m": 324,
-      "rank": 59
+      "rank": 60
     },
     {
       "name": "Samuel Zeth A.",
@@ -505,7 +513,7 @@
       "distance": 315.6,
       "moving_time_s": 147285,
       "elevation_m": 1751,
-      "rank": 60
+      "rank": 61
     },
     {
       "name": "ruel R.",
@@ -513,7 +521,7 @@
       "distance": 314.26,
       "moving_time_s": 156820,
       "elevation_m": 6919,
-      "rank": 61
+      "rank": 62
     },
     {
       "name": "David P.",
@@ -521,7 +529,7 @@
       "distance": 313.65,
       "moving_time_s": 142394,
       "elevation_m": 2422,
-      "rank": 62
+      "rank": 63
     },
     {
       "name": "Alief Rafael G.",
@@ -529,7 +537,7 @@
       "distance": 309.82,
       "moving_time_s": 106343,
       "elevation_m": 1512,
-      "rank": 63
+      "rank": 64
     },
     {
       "name": "Lintang R.",
@@ -537,7 +545,7 @@
       "distance": 308.93,
       "moving_time_s": 108217,
       "elevation_m": 986,
-      "rank": 64
+      "rank": 65
     },
     {
       "name": "Radifan H.",
@@ -545,14 +553,6 @@
       "distance": 308.6,
       "moving_time_s": 129928,
       "elevation_m": 511,
-      "rank": 65
-    },
-    {
-      "name": "San S.",
-      "activities": 20,
-      "distance": 307.21,
-      "moving_time_s": 117864,
-      "elevation_m": 2782,
       "rank": 66
     },
     {
