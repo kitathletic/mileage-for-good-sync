@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T15:50:24.216Z",
+  "generated_at": "2026-06-01T15:55:24.535Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,19 +19,27 @@
     "Walk"
   ],
   "totals": {
-    "distance": 1232.75,
-    "activities": 168,
-    "moving_time_s": 525837,
+    "distance": 1247.76,
+    "activities": 169,
+    "moving_time_s": 532599,
     "elevation_m": 5313
   },
   "rows": [
+    {
+      "name": "Tanvir S.",
+      "activities": 4,
+      "distance": 56.35,
+      "moving_time_s": 30130,
+      "elevation_m": 88,
+      "rank": 1
+    },
     {
       "name": "\"𝑫𝑨𝒱 𝑰𝑫🥇 G.",
       "activities": 5,
       "distance": 47.8,
       "moving_time_s": 16613,
       "elevation_m": 203,
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "Rizky F.",
@@ -39,14 +47,6 @@
       "distance": 42.44,
       "moving_time_s": 16248,
       "elevation_m": 126,
-      "rank": 2
-    },
-    {
-      "name": "Tanvir S.",
-      "activities": 3,
-      "distance": 41.34,
-      "moving_time_s": 23368,
-      "elevation_m": 88,
       "rank": 3
     },
     {
