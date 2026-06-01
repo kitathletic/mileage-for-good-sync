@@ -126097,9 +126097,37 @@
       "moving_time_s": 1857,
       "elapsed_time_s": 1877,
       "elevation_m": 5.1
+    },
+    "c95bc18feaef9593300b": {
+      "h": "c95bc18feaef9593300b",
+      "first_seen_at": "2026-06-01T13:00:44.506Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Steffiani",
+      "athlete_last": "R.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10030.1,
+      "moving_time_s": 4454,
+      "elapsed_time_s": 7118,
+      "elevation_m": 17
+    },
+    "e525e1a3ffa6d7c6b544": {
+      "h": "e525e1a3ffa6d7c6b544",
+      "first_seen_at": "2026-06-01T13:00:44.506Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Tanvir",
+      "athlete_last": "S.",
+      "name": "June Challenge 300K",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3294.4,
+      "moving_time_s": 2177,
+      "elapsed_time_s": 2524,
+      "elevation_m": 4.2
     }
   },
-  "last_synced_at": "2026-06-01T12:55:21.183Z",
+  "last_synced_at": "2026-06-01T13:00:44.506Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
