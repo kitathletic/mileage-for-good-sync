@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T10:00:40.126Z",
+  "generated_at": "2026-06-01T10:05:24.246Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 71485.77,
-    "activities": 7793,
-    "moving_time_s": 30253474,
-    "elevation_m": 421288
+    "distance": 71491.03,
+    "activities": 7794,
+    "moving_time_s": 30255277,
+    "elevation_m": 421307
   },
   "rows": [
     {
@@ -1348,12 +1348,20 @@
       "rank": 165
     },
     {
+      "name": "Dhiell R.",
+      "activities": 20,
+      "distance": 169.75,
+      "moving_time_s": 68368,
+      "elevation_m": 372,
+      "rank": 166
+    },
+    {
       "name": "Michael R.",
       "activities": 19,
       "distance": 168.47,
       "moving_time_s": 68048,
       "elevation_m": 315,
-      "rank": 166
+      "rank": 167
     },
     {
       "name": "Firmansyah Nur R.",
@@ -1361,7 +1369,7 @@
       "distance": 167.93,
       "moving_time_s": 72520,
       "elevation_m": 536,
-      "rank": 167
+      "rank": 168
     },
     {
       "name": "Ryan Adrian B.",
@@ -1369,7 +1377,7 @@
       "distance": 166.78,
       "moving_time_s": 74381,
       "elevation_m": 441,
-      "rank": 168
+      "rank": 169
     },
     {
       "name": "baphomet ..",
@@ -1377,7 +1385,7 @@
       "distance": 166.07,
       "moving_time_s": 64006,
       "elevation_m": 586,
-      "rank": 169
+      "rank": 170
     },
     {
       "name": "Arya M.",
@@ -1385,7 +1393,7 @@
       "distance": 165.18,
       "moving_time_s": 78969,
       "elevation_m": 344,
-      "rank": 170
+      "rank": 171
     },
     {
       "name": "Rizky Alfian A.",
@@ -1393,14 +1401,6 @@
       "distance": 164.84,
       "moving_time_s": 67749,
       "elevation_m": 109,
-      "rank": 171
-    },
-    {
-      "name": "Dhiell R.",
-      "activities": 19,
-      "distance": 164.49,
-      "moving_time_s": 66565,
-      "elevation_m": 353,
       "rank": 172
     },
     {
