@@ -125061,9 +125061,37 @@
       "moving_time_s": 4349,
       "elapsed_time_s": 4357,
       "elevation_m": 16
+    },
+    "96003729f703c236e449": {
+      "h": "96003729f703c236e449",
+      "first_seen_at": "2026-06-01T01:20:21.871Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Khori",
+      "athlete_last": "T.",
+      "name": "recovery",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2761.1,
+      "moving_time_s": 1822,
+      "elapsed_time_s": 1827,
+      "elevation_m": 0
+    },
+    "da5048c5a229e43ba777": {
+      "h": "da5048c5a229e43ba777",
+      "first_seen_at": "2026-06-01T01:20:21.871Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Bosca",
+      "athlete_last": "H.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4511.6,
+      "moving_time_s": 1975,
+      "elapsed_time_s": 2087,
+      "elevation_m": 33
     }
   },
-  "last_synced_at": "2026-06-01T01:15:22.178Z",
+  "last_synced_at": "2026-06-01T01:20:21.871Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
