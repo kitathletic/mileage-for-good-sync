@@ -125257,9 +125257,37 @@
       "moving_time_s": 3987,
       "elapsed_time_s": 3987,
       "elevation_m": 15
+    },
+    "6fda415e33cdc161bb19": {
+      "h": "6fda415e33cdc161bb19",
+      "first_seen_at": "2026-06-01T02:25:22.060Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Rafly",
+      "athlete_last": "K.",
+      "name": "Easy Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9000.6,
+      "moving_time_s": 4833,
+      "elapsed_time_s": 4836,
+      "elevation_m": 39
+    },
+    "93e44655db9e9727673c": {
+      "h": "93e44655db9e9727673c",
+      "first_seen_at": "2026-06-01T02:25:22.060Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Muhammad",
+      "athlete_last": "H.",
+      "name": "16km Long Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 16004.1,
+      "moving_time_s": 6404,
+      "elapsed_time_s": 8734,
+      "elevation_m": 29.1
     }
   },
-  "last_synced_at": "2026-06-01T02:20:22.622Z",
+  "last_synced_at": "2026-06-01T02:25:22.060Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
