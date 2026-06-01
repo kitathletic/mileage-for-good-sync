@@ -126223,9 +126223,37 @@
       "moving_time_s": 9089,
       "elapsed_time_s": 9150,
       "elevation_m": 184.6
+    },
+    "acc2e39d7256ad72503a": {
+      "h": "acc2e39d7256ad72503a",
+      "first_seen_at": "2026-06-01T14:05:30.773Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Rio",
+      "athlete_last": "P.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9126.9,
+      "moving_time_s": 3004,
+      "elapsed_time_s": 3220,
+      "elevation_m": 0
+    },
+    "e9e55fe9b4e8c8c3fb47": {
+      "h": "e9e55fe9b4e8c8c3fb47",
+      "first_seen_at": "2026-06-01T14:05:30.773Z",
+      "week_key": "2026-W23",
+      "athlete_first": "\"𝑫𝑨𝒱 𝑰𝑫🥇",
+      "athlete_last": "G.",
+      "name": "Afternoon Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 10173.1,
+      "moving_time_s": 3489,
+      "elapsed_time_s": 4456,
+      "elevation_m": 37
     }
   },
-  "last_synced_at": "2026-06-01T14:00:41.666Z",
+  "last_synced_at": "2026-06-01T14:05:30.773Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
