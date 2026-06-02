@@ -128239,9 +128239,37 @@
       "moving_time_s": 3368,
       "elapsed_time_s": 3643,
       "elevation_m": 77
+    },
+    "60b75096036d391d7ed1": {
+      "h": "60b75096036d391d7ed1",
+      "first_seen_at": "2026-06-02T05:40:23.775Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Viren",
+      "athlete_last": "S.",
+      "name": "Interval  Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5240,
+      "moving_time_s": 1960,
+      "elapsed_time_s": 1960,
+      "elevation_m": 0
+    },
+    "6128cefa82e15338b79f": {
+      "h": "6128cefa82e15338b79f",
+      "first_seen_at": "2026-06-02T05:40:23.775Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Viren",
+      "athlete_last": "S.",
+      "name": "Warm Up Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1160,
+      "moving_time_s": 384,
+      "elapsed_time_s": 384,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-06-02T05:35:23.535Z",
+  "last_synced_at": "2026-06-02T05:40:23.775Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
