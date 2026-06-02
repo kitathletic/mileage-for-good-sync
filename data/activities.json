@@ -128463,9 +128463,65 @@
       "moving_time_s": 1512,
       "elapsed_time_s": 1515,
       "elevation_m": 0
+    },
+    "fda67e379db6099f3cea": {
+      "h": "fda67e379db6099f3cea",
+      "first_seen_at": "2026-06-02T10:05:23.336Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Kasiadi",
+      "athlete_last": "I.",
+      "name": "Berlari Sore",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1004,
+      "moving_time_s": 656,
+      "elapsed_time_s": 666,
+      "elevation_m": 9.4
+    },
+    "d22b2ba08b574f1f33ff": {
+      "h": "d22b2ba08b574f1f33ff",
+      "first_seen_at": "2026-06-02T10:05:23.336Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Hendri",
+      "athlete_last": "S.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3335,
+      "moving_time_s": 2179,
+      "elapsed_time_s": 2209,
+      "elevation_m": 2
+    },
+    "675fe20302ac442bcb5a": {
+      "h": "675fe20302ac442bcb5a",
+      "first_seen_at": "2026-06-02T10:05:23.336Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Angga",
+      "athlete_last": "A.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5018.7,
+      "moving_time_s": 1883,
+      "elapsed_time_s": 2105,
+      "elevation_m": 38
+    },
+    "fce6e3e661370f7fe562": {
+      "h": "fce6e3e661370f7fe562",
+      "first_seen_at": "2026-06-02T10:05:23.336Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Kevin",
+      "athlete_last": "S.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10462,
+      "moving_time_s": 3525,
+      "elapsed_time_s": 3642,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-06-02T10:00:41.567Z",
+  "last_synced_at": "2026-06-02T10:05:23.336Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
