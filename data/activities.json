@@ -127903,9 +127903,51 @@
       "moving_time_s": 1662,
       "elapsed_time_s": 2348,
       "elevation_m": 1
+    },
+    "2bd98e5d556eb1b3be3b": {
+      "h": "2bd98e5d556eb1b3be3b",
+      "first_seen_at": "2026-06-02T01:45:24.237Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Ghani",
+      "athlete_last": "W.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6011.6,
+      "moving_time_s": 2559,
+      "elapsed_time_s": 2597,
+      "elevation_m": 21
+    },
+    "d2d752ebafd5a8bdd3e9": {
+      "h": "d2d752ebafd5a8bdd3e9",
+      "first_seen_at": "2026-06-02T01:45:24.237Z",
+      "week_key": "2026-W23",
+      "athlete_first": "William",
+      "athlete_last": "C.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12011.2,
+      "moving_time_s": 4150,
+      "elapsed_time_s": 4150,
+      "elevation_m": 29
+    },
+    "4584a2b5e65616bf9c11": {
+      "h": "4584a2b5e65616bf9c11",
+      "first_seen_at": "2026-06-02T01:45:24.237Z",
+      "week_key": "2026-W23",
+      "athlete_first": "win",
+      "athlete_last": "C.",
+      "name": "WK04 | BUILD - INTERVAL",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11009,
+      "moving_time_s": 3940,
+      "elapsed_time_s": 4038,
+      "elevation_m": 413
     }
   },
-  "last_synced_at": "2026-06-02T01:40:21.763Z",
+  "last_synced_at": "2026-06-02T01:45:24.237Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
