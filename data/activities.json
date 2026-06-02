@@ -127651,9 +127651,37 @@
       "moving_time_s": 3182,
       "elapsed_time_s": 4784,
       "elevation_m": 0
+    },
+    "aea9dd374e646a8fef0b": {
+      "h": "aea9dd374e646a8fef0b",
+      "first_seen_at": "2026-06-02T01:00:35.078Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Adityawarman",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5009.7,
+      "moving_time_s": 1752,
+      "elapsed_time_s": 1756,
+      "elevation_m": 58
+    },
+    "b6a02713ef83da34734b": {
+      "h": "b6a02713ef83da34734b",
+      "first_seen_at": "2026-06-02T01:00:35.078Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Adityawarman",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1204.1,
+      "moving_time_s": 461,
+      "elapsed_time_s": 465,
+      "elevation_m": 1
     }
   },
-  "last_synced_at": "2026-06-02T00:55:19.565Z",
+  "last_synced_at": "2026-06-02T01:00:35.078Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
