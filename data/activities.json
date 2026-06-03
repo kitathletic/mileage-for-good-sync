@@ -133139,9 +133139,51 @@
       "moving_time_s": 3380,
       "elapsed_time_s": 5207,
       "elevation_m": 5
+    },
+    "589125cb0ef081c7f499": {
+      "h": "589125cb0ef081c7f499",
+      "first_seen_at": "2026-06-03T14:40:31.156Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Emilio",
+      "athlete_last": "R.",
+      "name": "Night Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5023.4,
+      "moving_time_s": 1982,
+      "elapsed_time_s": 1982,
+      "elevation_m": 0
+    },
+    "62b3563d6fe9468052be": {
+      "h": "62b3563d6fe9468052be",
+      "first_seen_at": "2026-06-03T14:40:31.156Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Jazzy",
+      "athlete_last": "Z.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 14011.1,
+      "moving_time_s": 5368,
+      "elapsed_time_s": 5368,
+      "elevation_m": 85.6
+    },
+    "dfd67ff7ba0f75142557": {
+      "h": "dfd67ff7ba0f75142557",
+      "first_seen_at": "2026-06-03T14:40:31.156Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Adhinda",
+      "athlete_last": "M.",
+      "name": "Jog-Stride Session",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10019.3,
+      "moving_time_s": 4246,
+      "elapsed_time_s": 4246,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-06-03T14:35:27.413Z",
+  "last_synced_at": "2026-06-03T14:40:31.156Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
