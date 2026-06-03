@@ -132803,9 +132803,51 @@
       "moving_time_s": 451,
       "elapsed_time_s": 451,
       "elevation_m": 0
+    },
+    "6d72451256346a34fac4": {
+      "h": "6d72451256346a34fac4",
+      "first_seen_at": "2026-06-03T13:25:24.058Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Mario",
+      "athlete_last": "J.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1221.8,
+      "moving_time_s": 481,
+      "elapsed_time_s": 485,
+      "elevation_m": 2
+    },
+    "de77d62e2ed4dbddb648": {
+      "h": "de77d62e2ed4dbddb648",
+      "first_seen_at": "2026-06-03T13:25:24.058Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Dimas",
+      "athlete_last": "A.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5078.1,
+      "moving_time_s": 2018,
+      "elapsed_time_s": 2077,
+      "elevation_m": 0
+    },
+    "f9f6b662e19407763033": {
+      "h": "f9f6b662e19407763033",
+      "first_seen_at": "2026-06-03T13:25:24.058Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Mario",
+      "athlete_last": "J.",
+      "name": "Interval 800x6",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4914.1,
+      "moving_time_s": 1627,
+      "elapsed_time_s": 2230,
+      "elevation_m": 9
     }
   },
-  "last_synced_at": "2026-06-03T13:20:29.515Z",
+  "last_synced_at": "2026-06-03T13:25:24.058Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
