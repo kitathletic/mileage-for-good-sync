@@ -131403,9 +131403,65 @@
       "moving_time_s": 5154,
       "elapsed_time_s": 5279,
       "elevation_m": 151
+    },
+    "6fb7dce117719397098a": {
+      "h": "6fb7dce117719397098a",
+      "first_seen_at": "2026-06-03T02:00:33.460Z",
+      "week_key": "2026-W23",
+      "athlete_first": "William",
+      "athlete_last": "C.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 799.8,
+      "moving_time_s": 650,
+      "elapsed_time_s": 704,
+      "elevation_m": 0
+    },
+    "bff9a292611b58cd12a9": {
+      "h": "bff9a292611b58cd12a9",
+      "first_seen_at": "2026-06-03T02:00:33.460Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Leandro",
+      "athlete_last": "T.",
+      "name": "CD",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 407.4,
+      "moving_time_s": 296,
+      "elapsed_time_s": 723,
+      "elevation_m": 19
+    },
+    "51b09683c5744bff80f8": {
+      "h": "51b09683c5744bff80f8",
+      "first_seen_at": "2026-06-03T02:00:33.460Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Leandro",
+      "athlete_last": "T.",
+      "name": "WU",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1003.1,
+      "moving_time_s": 431,
+      "elapsed_time_s": 467,
+      "elevation_m": 15
+    },
+    "98b8512b1ac7aa76604b": {
+      "h": "98b8512b1ac7aa76604b",
+      "first_seen_at": "2026-06-03T02:00:33.460Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Aris",
+      "athlete_last": "S.",
+      "name": "Lari luar ruangan",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7344.4,
+      "moving_time_s": 3044,
+      "elapsed_time_s": 3072,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-06-03T01:55:21.113Z",
+  "last_synced_at": "2026-06-03T02:00:33.460Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
