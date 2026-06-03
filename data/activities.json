@@ -131627,9 +131627,37 @@
       "moving_time_s": 4760,
       "elapsed_time_s": 4814,
       "elevation_m": 368
+    },
+    "969e2408093b9090a8c8": {
+      "h": "969e2408093b9090a8c8",
+      "first_seen_at": "2026-06-03T06:15:24.142Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Indra",
+      "athlete_last": "D.",
+      "name": "Lunch Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6349.8,
+      "moving_time_s": 2773,
+      "elapsed_time_s": 2798,
+      "elevation_m": 23
+    },
+    "f264a23802757e28cf8d": {
+      "h": "f264a23802757e28cf8d",
+      "first_seen_at": "2026-06-03T06:15:24.142Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Hany",
+      "athlete_last": "D.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9025.3,
+      "moving_time_s": 3718,
+      "elapsed_time_s": 3845,
+      "elevation_m": 13
     }
   },
-  "last_synced_at": "2026-06-03T06:10:26.187Z",
+  "last_synced_at": "2026-06-03T06:15:24.142Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
