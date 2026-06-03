@@ -133601,9 +133601,51 @@
       "moving_time_s": 2032,
       "elapsed_time_s": 2186,
       "elevation_m": 13.1
+    },
+    "0ddffb3c87ec53627438": {
+      "h": "0ddffb3c87ec53627438",
+      "first_seen_at": "2026-06-03T22:55:21.452Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Gede Bagol",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5010.9,
+      "moving_time_s": 2033,
+      "elapsed_time_s": 2036,
+      "elevation_m": 18
+    },
+    "c3c104558c3d86589cf1": {
+      "h": "c3c104558c3d86589cf1",
+      "first_seen_at": "2026-06-03T22:55:21.452Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Kevin",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8012,
+      "moving_time_s": 2780,
+      "elapsed_time_s": 2840,
+      "elevation_m": 0
+    },
+    "1ec318fe7f489d5ee895": {
+      "h": "1ec318fe7f489d5ee895",
+      "first_seen_at": "2026-06-03T22:55:21.452Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Alit",
+      "athlete_last": "D.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8353.2,
+      "moving_time_s": 3165,
+      "elapsed_time_s": 3238,
+      "elevation_m": 24
     }
   },
-  "last_synced_at": "2026-06-03T22:35:23.249Z",
+  "last_synced_at": "2026-06-03T22:55:21.452Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
