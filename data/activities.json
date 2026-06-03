@@ -131319,9 +131319,37 @@
       "moving_time_s": 3870,
       "elapsed_time_s": 4365,
       "elevation_m": 0
+    },
+    "bb3dcf9882229af7d2bc": {
+      "h": "bb3dcf9882229af7d2bc",
+      "first_seen_at": "2026-06-03T01:40:23.857Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Denny",
+      "athlete_last": "Y.",
+      "name": "Morning run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 15011,
+      "moving_time_s": 6253,
+      "elapsed_time_s": 7041,
+      "elevation_m": 0
+    },
+    "a772aca8ce663b654330": {
+      "h": "a772aca8ce663b654330",
+      "first_seen_at": "2026-06-03T01:40:23.857Z",
+      "week_key": "2026-W23",
+      "athlete_first": "William",
+      "athlete_last": "A.",
+      "name": "Global Running Day",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7013.1,
+      "moving_time_s": 3078,
+      "elapsed_time_s": 3175,
+      "elevation_m": 36
     }
   },
-  "last_synced_at": "2026-06-03T01:35:22.634Z",
+  "last_synced_at": "2026-06-03T01:40:23.857Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
