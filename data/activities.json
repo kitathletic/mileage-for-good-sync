@@ -130843,9 +130843,65 @@
       "moving_time_s": 3821,
       "elapsed_time_s": 3821,
       "elevation_m": 50.5
+    },
+    "3ced1e462d984714ff67": {
+      "h": "3ced1e462d984714ff67",
+      "first_seen_at": "2026-06-03T00:45:23.426Z",
+      "week_key": "2026-W23",
+      "athlete_first": "agnes",
+      "athlete_last": "Y.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7023.4,
+      "moving_time_s": 2851,
+      "elapsed_time_s": 2851,
+      "elevation_m": 6
+    },
+    "a13a2dc58217e0b5c748": {
+      "h": "a13a2dc58217e0b5c748",
+      "first_seen_at": "2026-06-03T00:45:23.426Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Kevin",
+      "athlete_last": "T.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12500.4,
+      "moving_time_s": 3451,
+      "elapsed_time_s": 3475,
+      "elevation_m": 72
+    },
+    "e02bd1c57e1e6c6ba0bd": {
+      "h": "e02bd1c57e1e6c6ba0bd",
+      "first_seen_at": "2026-06-03T00:45:23.426Z",
+      "week_key": "2026-W23",
+      "athlete_first": "nazwa",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9022,
+      "moving_time_s": 4157,
+      "elapsed_time_s": 4171,
+      "elevation_m": 3
+    },
+    "0614008b02f36cc4c265": {
+      "h": "0614008b02f36cc4c265",
+      "first_seen_at": "2026-06-03T00:45:23.426Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Adityawarman",
+      "athlete_last": "A.",
+      "name": "Morning Rituals.",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5004.5,
+      "moving_time_s": 1757,
+      "elapsed_time_s": 1757,
+      "elevation_m": 18
     }
   },
-  "last_synced_at": "2026-06-03T00:35:22.685Z",
+  "last_synced_at": "2026-06-03T00:45:23.426Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
