@@ -136261,9 +136261,37 @@
       "moving_time_s": 5625,
       "elapsed_time_s": 5625,
       "elevation_m": 48
+    },
+    "e9aa794dacaf3d15fe15": {
+      "h": "e9aa794dacaf3d15fe15",
+      "first_seen_at": "2026-06-04T22:55:21.778Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Stefanus",
+      "athlete_last": "E.",
+      "name": "Morning Run 10K",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10106.7,
+      "moving_time_s": 4096,
+      "elapsed_time_s": 4535,
+      "elevation_m": 13.3
+    },
+    "2e7bfec122930eb72b3e": {
+      "h": "2e7bfec122930eb72b3e",
+      "first_seen_at": "2026-06-04T22:55:21.778Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Nayaka",
+      "athlete_last": "B.",
+      "name": "Easy Long Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 17171,
+      "moving_time_s": 5625,
+      "elapsed_time_s": 5625,
+      "elevation_m": 48
     }
   },
-  "last_synced_at": "2026-06-04T22:50:24.868Z",
+  "last_synced_at": "2026-06-04T22:55:21.778Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
