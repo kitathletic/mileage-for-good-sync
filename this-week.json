@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T14:35:26.756Z",
+  "generated_at": "2026-06-04T14:40:28.648Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,9 +19,9 @@
     "Walk"
   ],
   "totals": {
-    "distance": 6248.03,
-    "activities": 850,
-    "moving_time_s": 2529497,
+    "distance": 6248.04,
+    "activities": 852,
+    "moving_time_s": 2529507,
     "elevation_m": 24167
   },
   "rows": [
@@ -2472,6 +2472,14 @@
       "moving_time_s": 90,
       "elevation_m": 0,
       "rank": 306
+    },
+    {
+      "name": "Rido W.",
+      "activities": 2,
+      "distance": 0.01,
+      "moving_time_s": 10,
+      "elevation_m": 0,
+      "rank": 307
     }
   ]
 }
