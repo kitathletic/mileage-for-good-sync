@@ -135813,9 +135813,37 @@
       "moving_time_s": 4641,
       "elapsed_time_s": 4765,
       "elevation_m": 4
+    },
+    "e0af07ab632d1fa9c29a": {
+      "h": "e0af07ab632d1fa9c29a",
+      "first_seen_at": "2026-06-04T13:50:32.184Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Rahmad",
+      "athlete_last": "S.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3192.1,
+      "moving_time_s": 1314,
+      "elapsed_time_s": 2272,
+      "elevation_m": 9
+    },
+    "4da766584da0c66069fc": {
+      "h": "4da766584da0c66069fc",
+      "first_seen_at": "2026-06-04T13:50:32.184Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Radifan",
+      "athlete_last": "H.",
+      "name": "Interval 3x800",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6064.4,
+      "moving_time_s": 2835,
+      "elapsed_time_s": 2874,
+      "elevation_m": 7
     }
   },
-  "last_synced_at": "2026-06-04T13:45:26.645Z",
+  "last_synced_at": "2026-06-04T13:50:32.184Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
