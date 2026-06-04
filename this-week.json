@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-06-04T03:25:22.770Z",
+  "generated_at": "2026-06-04T03:30:29.089Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
-    "member_count": 580,
+    "member_count": 581,
     "url": "kitathletic"
   },
   "units": "km",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 5842.84,
-    "activities": 781,
-    "moving_time_s": 2362363,
-    "elevation_m": 23484
+    "distance": 5845.87,
+    "activities": 782,
+    "moving_time_s": 2363662,
+    "elevation_m": 23507
   },
   "rows": [
     {
@@ -2354,12 +2354,20 @@
       "rank": 291
     },
     {
+      "name": "Chairil A.",
+      "activities": 1,
+      "distance": 3.03,
+      "moving_time_s": 1299,
+      "elevation_m": 23,
+      "rank": 292
+    },
+    {
       "name": "Yunita Dwi A.",
       "activities": 1,
       "distance": 3,
       "moving_time_s": 2251,
       "elevation_m": 2,
-      "rank": 292
+      "rank": 293
     },
     {
       "name": "Junias T.",
@@ -2367,7 +2375,7 @@
       "distance": 1.07,
       "moving_time_s": 502,
       "elevation_m": 18,
-      "rank": 293
+      "rank": 294
     },
     {
       "name": "Linda Z.",
@@ -2375,7 +2383,7 @@
       "distance": 1.01,
       "moving_time_s": 441,
       "elevation_m": 0,
-      "rank": 294
+      "rank": 295
     },
     {
       "name": "Zefan P.",
@@ -2383,7 +2391,7 @@
       "distance": 0.43,
       "moving_time_s": 40,
       "elevation_m": 14,
-      "rank": 295
+      "rank": 296
     },
     {
       "name": "Clarissa D.",
@@ -2391,7 +2399,7 @@
       "distance": 0.24,
       "moving_time_s": 82,
       "elevation_m": 2,
-      "rank": 296
+      "rank": 297
     },
     {
       "name": "Guillermo E O.",
@@ -2399,7 +2407,7 @@
       "distance": 0.02,
       "moving_time_s": 90,
       "elevation_m": 0,
-      "rank": 297
+      "rank": 298
     }
   ]
 }
