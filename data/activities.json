@@ -138137,9 +138137,37 @@
       "moving_time_s": 2029,
       "elapsed_time_s": 2034,
       "elevation_m": 12
+    },
+    "544d951f9eeccfa8b985": {
+      "h": "544d951f9eeccfa8b985",
+      "first_seen_at": "2026-06-05T10:30:35.984Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Dhany",
+      "athlete_last": "N.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5012.7,
+      "moving_time_s": 1951,
+      "elapsed_time_s": 2268,
+      "elevation_m": 19
+    },
+    "6619b4efcddd3cafaf6f": {
+      "h": "6619b4efcddd3cafaf6f",
+      "first_seen_at": "2026-06-05T10:30:35.984Z",
+      "week_key": "2026-W23",
+      "athlete_first": "agnes",
+      "athlete_last": "Y.",
+      "name": "Recovery run on treadmill",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6303.5,
+      "moving_time_s": 2291,
+      "elapsed_time_s": 2291,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-06-05T10:15:26.782Z",
+  "last_synced_at": "2026-06-05T10:30:35.984Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
