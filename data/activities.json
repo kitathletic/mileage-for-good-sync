@@ -137675,9 +137675,37 @@
       "moving_time_s": 10272,
       "elapsed_time_s": 11558,
       "elevation_m": 87
+    },
+    "af9f53afe57847ba67ab": {
+      "h": "af9f53afe57847ba67ab",
+      "first_seen_at": "2026-06-05T01:30:33.127Z",
+      "week_key": "2026-W23",
+      "athlete_first": "AnilKumar",
+      "athlete_last": "K.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7648.8,
+      "moving_time_s": 3558,
+      "elapsed_time_s": 3589,
+      "elevation_m": 40.5
+    },
+    "ecd500fa05c1f6cc2e66": {
+      "h": "ecd500fa05c1f6cc2e66",
+      "first_seen_at": "2026-06-05T01:30:33.127Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Rian",
+      "athlete_last": "H.",
+      "name": "Easy Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8033.7,
+      "moving_time_s": 3035,
+      "elapsed_time_s": 3035,
+      "elevation_m": 63
     }
   },
-  "last_synced_at": "2026-06-05T01:25:20.082Z",
+  "last_synced_at": "2026-06-05T01:30:33.127Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
