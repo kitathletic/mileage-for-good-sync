@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T14:05:25.746Z",
+  "generated_at": "2026-06-05T14:20:26.149Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 78202.44,
-    "activities": 8700,
-    "moving_time_s": 32945753,
-    "elevation_m": 447295
+    "distance": 78209.78,
+    "activities": 8701,
+    "moving_time_s": 32948603,
+    "elevation_m": 447303
   },
   "rows": [
     {
@@ -1356,12 +1356,20 @@
       "rank": 166
     },
     {
+      "name": "Reynaldi O.",
+      "activities": 27,
+      "distance": 183.61,
+      "moving_time_s": 95553,
+      "elevation_m": 342,
+      "rank": 167
+    },
+    {
       "name": "Donny Eka P.",
       "activities": 19,
       "distance": 183.4,
       "moving_time_s": 65647,
       "elevation_m": 304,
-      "rank": 167
+      "rank": 168
     },
     {
       "name": "Adhitya H.",
@@ -1369,7 +1377,7 @@
       "distance": 182.16,
       "moving_time_s": 71387,
       "elevation_m": 119,
-      "rank": 168
+      "rank": 169
     },
     {
       "name": "Ilham K.",
@@ -1377,7 +1385,7 @@
       "distance": 181.47,
       "moving_time_s": 82843,
       "elevation_m": 226,
-      "rank": 169
+      "rank": 170
     },
     {
       "name": "Hilal H.",
@@ -1385,7 +1393,7 @@
       "distance": 179.5,
       "moving_time_s": 83818,
       "elevation_m": 554,
-      "rank": 170
+      "rank": 171
     },
     {
       "name": "Fityan S.",
@@ -1393,7 +1401,7 @@
       "distance": 178.97,
       "moving_time_s": 61563,
       "elevation_m": 1048,
-      "rank": 171
+      "rank": 172
     },
     {
       "name": "Ivan Andrey Y.",
@@ -1401,14 +1409,6 @@
       "distance": 178.61,
       "moving_time_s": 74378,
       "elevation_m": 356,
-      "rank": 172
-    },
-    {
-      "name": "Reynaldi O.",
-      "activities": 26,
-      "distance": 176.27,
-      "moving_time_s": 92703,
-      "elevation_m": 334,
       "rank": 173
     },
     {
