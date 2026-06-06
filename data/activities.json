@@ -140909,9 +140909,51 @@
       "moving_time_s": 17027,
       "elapsed_time_s": 19904,
       "elevation_m": 189
+    },
+    "dbf2f012d7311caa7cc4": {
+      "h": "dbf2f012d7311caa7cc4",
+      "first_seen_at": "2026-06-06T02:20:23.411Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Faris",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10252,
+      "moving_time_s": 7496,
+      "elapsed_time_s": 7519,
+      "elevation_m": 51.8
+    },
+    "6dfd280b20f717d0a632": {
+      "h": "6dfd280b20f717d0a632",
+      "first_seen_at": "2026-06-06T02:20:23.411Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Rudy",
+      "athlete_last": "W.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 13458.5,
+      "moving_time_s": 6150,
+      "elapsed_time_s": 8277,
+      "elevation_m": 15
+    },
+    "f44b67d023523c701095": {
+      "h": "f44b67d023523c701095",
+      "first_seen_at": "2026-06-06T02:20:23.411Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Ryan",
+      "athlete_last": "R.",
+      "name": "Do we really suck, or is this guy really that good?",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 21134.3,
+      "moving_time_s": 10591,
+      "elapsed_time_s": 10905,
+      "elevation_m": 819
     }
   },
-  "last_synced_at": "2026-06-06T02:15:25.198Z",
+  "last_synced_at": "2026-06-06T02:20:23.411Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
