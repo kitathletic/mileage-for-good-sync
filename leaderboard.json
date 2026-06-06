@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T01:50:26.940Z",
+  "generated_at": "2026-06-06T01:55:20.922Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 79906.07,
-    "activities": 8865,
-    "moving_time_s": 33630703,
-    "elevation_m": 454080
+    "distance": 79931.36,
+    "activities": 8867,
+    "moving_time_s": 33642239,
+    "elevation_m": 454194
   },
   "rows": [
     {
@@ -132,19 +132,19 @@
       "rank": 13
     },
     {
+      "name": "Sulthan A.",
+      "activities": 37,
+      "distance": 610.29,
+      "moving_time_s": 354673,
+      "elevation_m": 4476,
+      "rank": 14
+    },
+    {
       "name": "Indra D.",
       "activities": 60,
       "distance": 595.04,
       "moving_time_s": 254332,
       "elevation_m": 5032,
-      "rank": 14
-    },
-    {
-      "name": "Sulthan A.",
-      "activities": 36,
-      "distance": 592.79,
-      "moving_time_s": 346918,
-      "elevation_m": 4433,
       "rank": 15
     },
     {
@@ -2060,12 +2060,20 @@
       "rank": 254
     },
     {
+      "name": "Bosca H.",
+      "activities": 16,
+      "distance": 114.1,
+      "moving_time_s": 51990,
+      "elevation_m": 943,
+      "rank": 255
+    },
+    {
       "name": "Ivan M.",
       "activities": 17,
       "distance": 112.47,
       "moving_time_s": 50240,
       "elevation_m": 108,
-      "rank": 255
+      "rank": 256
     },
     {
       "name": "Nindia S.",
@@ -2073,7 +2081,7 @@
       "distance": 111.88,
       "moving_time_s": 49495,
       "elevation_m": 154,
-      "rank": 256
+      "rank": 257
     },
     {
       "name": "Muhammed D.",
@@ -2081,7 +2089,7 @@
       "distance": 111.11,
       "moving_time_s": 47215,
       "elevation_m": 306,
-      "rank": 257
+      "rank": 258
     },
     {
       "name": "Riesky Vernandes P.",
@@ -2089,7 +2097,7 @@
       "distance": 110.51,
       "moving_time_s": 45441,
       "elevation_m": 380,
-      "rank": 258
+      "rank": 259
     },
     {
       "name": "Gede Bagol A.",
@@ -2097,7 +2105,7 @@
       "distance": 108.96,
       "moving_time_s": 49753,
       "elevation_m": 233,
-      "rank": 259
+      "rank": 260
     },
     {
       "name": "Mirna I.",
@@ -2105,14 +2113,6 @@
       "distance": 108.81,
       "moving_time_s": 49636,
       "elevation_m": 1811,
-      "rank": 260
-    },
-    {
-      "name": "Bosca H.",
-      "activities": 15,
-      "distance": 106.31,
-      "moving_time_s": 48209,
-      "elevation_m": 872,
       "rank": 261
     },
     {
