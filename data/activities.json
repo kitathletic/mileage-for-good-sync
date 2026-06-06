@@ -141931,9 +141931,37 @@
       "moving_time_s": 4523,
       "elapsed_time_s": 5740,
       "elevation_m": 28
+    },
+    "33a7a2d8c2783b8d2c8c": {
+      "h": "33a7a2d8c2783b8d2c8c",
+      "first_seen_at": "2026-06-06T13:35:20.737Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Wisnu",
+      "athlete_last": "S.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10905.8,
+      "moving_time_s": 2309,
+      "elapsed_time_s": 5575,
+      "elevation_m": 72
+    },
+    "2c2f8d9f342e279674ea": {
+      "h": "2c2f8d9f342e279674ea",
+      "first_seen_at": "2026-06-06T13:35:20.737Z",
+      "week_key": "2026-W23",
+      "athlete_first": "ruel",
+      "athlete_last": "R.",
+      "name": "Late Start at 3:17. Made the 1st COP, But Blew Up at the 2nd",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 36849,
+      "moving_time_s": 44219,
+      "elapsed_time_s": 44220,
+      "elevation_m": 3754
     }
   },
-  "last_synced_at": "2026-06-06T13:25:20.278Z",
+  "last_synced_at": "2026-06-06T13:35:20.737Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
