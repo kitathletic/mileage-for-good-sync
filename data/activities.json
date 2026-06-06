@@ -141329,9 +141329,37 @@
       "moving_time_s": 2477,
       "elapsed_time_s": 2818,
       "elevation_m": 3.6
+    },
+    "990c80a22279d4b6c08a": {
+      "h": "990c80a22279d4b6c08a",
+      "first_seen_at": "2026-06-06T05:25:22.674Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Jeremiah",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1507.2,
+      "moving_time_s": 4385,
+      "elapsed_time_s": 8780,
+      "elevation_m": 21
+    },
+    "b6bcb560b5c3a4dda6b9": {
+      "h": "b6bcb560b5c3a4dda6b9",
+      "first_seen_at": "2026-06-06T05:25:22.674Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Irwan Sastra",
+      "athlete_last": "W.",
+      "name": "ER 5K",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5312.6,
+      "moving_time_s": 2145,
+      "elapsed_time_s": 2673,
+      "elevation_m": 29
     }
   },
-  "last_synced_at": "2026-06-06T05:15:23.563Z",
+  "last_synced_at": "2026-06-06T05:25:22.674Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
