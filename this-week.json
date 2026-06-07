@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T22:30:28.820Z",
+  "generated_at": "2026-06-07T22:35:20.358Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 88.84,
-    "activities": 10,
-    "moving_time_s": 37181,
-    "elevation_m": 1250
+    "distance": 98.99,
+    "activities": 11,
+    "moving_time_s": 41578,
+    "elevation_m": 1358
   },
   "rows": [
     {
@@ -64,6 +64,14 @@
       "moving_time_s": 4642,
       "elevation_m": 28,
       "rank": 5
+    },
+    {
+      "name": "Yudha A.",
+      "activities": 1,
+      "distance": 10.15,
+      "moving_time_s": 4397,
+      "elevation_m": 108,
+      "rank": 6
     }
   ]
 }
