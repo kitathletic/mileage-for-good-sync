@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T23:15:22.607Z",
+  "generated_at": "2026-06-07T23:20:23.043Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 160.26,
-    "activities": 19,
-    "moving_time_s": 66631,
-    "elevation_m": 1769
+    "distance": 193.28,
+    "activities": 24,
+    "moving_time_s": 79622,
+    "elevation_m": 1842
   },
   "rows": [
     {
@@ -90,12 +90,20 @@
       "rank": 8
     },
     {
+      "name": "Serigala S.",
+      "activities": 1,
+      "distance": 10.02,
+      "moving_time_s": 3711,
+      "elevation_m": 33,
+      "rank": 9
+    },
+    {
       "name": "Kevin S.",
       "activities": 1,
       "distance": 10.01,
       "moving_time_s": 3519,
       "elevation_m": 10,
-      "rank": 9
+      "rank": 10
     },
     {
       "name": "Iskandar L.",
@@ -103,7 +111,15 @@
       "distance": 10.01,
       "moving_time_s": 6980,
       "elevation_m": 187,
-      "rank": 10
+      "rank": 11
+    },
+    {
+      "name": "Diah I.",
+      "activities": 1,
+      "distance": 10.01,
+      "moving_time_s": 3722,
+      "elevation_m": 37,
+      "rank": 12
     },
     {
       "name": "Adriandy S.",
@@ -111,7 +127,15 @@
       "distance": 8.01,
       "moving_time_s": 4110,
       "elevation_m": 40,
-      "rank": 11
+      "rank": 13
+    },
+    {
+      "name": "ramdani R.",
+      "activities": 1,
+      "distance": 5.34,
+      "moving_time_s": 2404,
+      "elevation_m": 0,
+      "rank": 14
     },
     {
       "name": "Mirna I.",
@@ -119,7 +143,15 @@
       "distance": 5.11,
       "moving_time_s": 2047,
       "elevation_m": 80,
-      "rank": 12
+      "rank": 15
+    },
+    {
+      "name": "Riesky Vernandes P.",
+      "activities": 1,
+      "distance": 5.04,
+      "moving_time_s": 1972,
+      "elevation_m": 0,
+      "rank": 16
     },
     {
       "name": "Cicak T.",
@@ -127,7 +159,15 @@
       "distance": 5.01,
       "moving_time_s": 1162,
       "elevation_m": 43,
-      "rank": 13
+      "rank": 17
+    },
+    {
+      "name": "Irwan Sastra W.",
+      "activities": 1,
+      "distance": 2.61,
+      "moving_time_s": 1182,
+      "elevation_m": 3,
+      "rank": 18
     }
   ]
 }
