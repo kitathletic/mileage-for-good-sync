@@ -145333,9 +145333,37 @@
       "moving_time_s": 1573,
       "elapsed_time_s": 1585,
       "elevation_m": 13.5
+    },
+    "a27837b3dc066c10f00c": {
+      "h": "a27837b3dc066c10f00c",
+      "first_seen_at": "2026-06-07T02:30:31.509Z",
+      "week_key": "2026-W23",
+      "athlete_first": "win",
+      "athlete_last": "C.",
+      "name": "WK04 | BUILD - LSD",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 15007.2,
+      "moving_time_s": 6912,
+      "elapsed_time_s": 7116,
+      "elevation_m": 40.2
+    },
+    "2c163e26c9ac42d6729c": {
+      "h": "2c163e26c9ac42d6729c",
+      "first_seen_at": "2026-06-07T02:30:31.509Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Petra",
+      "athlete_last": "V.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7687.4,
+      "moving_time_s": 3629,
+      "elapsed_time_s": 3771,
+      "elevation_m": 23
     }
   },
-  "last_synced_at": "2026-06-07T02:25:19.776Z",
+  "last_synced_at": "2026-06-07T02:30:31.509Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
