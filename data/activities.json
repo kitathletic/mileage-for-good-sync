@@ -145277,9 +145277,37 @@
       "moving_time_s": 1406,
       "elapsed_time_s": 1462,
       "elevation_m": 0
+    },
+    "fdef996c2fe740374c84": {
+      "h": "fdef996c2fe740374c84",
+      "first_seen_at": "2026-06-07T02:20:23.301Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Rudi",
+      "athlete_last": "P.",
+      "name": "Outdoor run\nRoad To victoria run 2026",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10668.9,
+      "moving_time_s": 4602,
+      "elapsed_time_s": 4741,
+      "elevation_m": 26.1
+    },
+    "051676f61c4cabf072da": {
+      "h": "051676f61c4cabf072da",
+      "first_seen_at": "2026-06-07T02:20:23.301Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Rhamdan",
+      "athlete_last": "I.",
+      "name": "Sunday Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 13002.9,
+      "moving_time_s": 4948,
+      "elapsed_time_s": 6374,
+      "elevation_m": 52
     }
   },
-  "last_synced_at": "2026-06-07T02:15:24.482Z",
+  "last_synced_at": "2026-06-07T02:20:23.301Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
