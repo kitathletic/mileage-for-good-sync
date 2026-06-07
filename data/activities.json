@@ -146943,9 +146943,37 @@
       "moving_time_s": 2001,
       "elapsed_time_s": 2237,
       "elevation_m": 16
+    },
+    "e9e4e528cd1b8eab90ac": {
+      "h": "e9e4e528cd1b8eab90ac",
+      "first_seen_at": "2026-06-07T23:05:20.045Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Kevin",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10014,
+      "moving_time_s": 3519,
+      "elapsed_time_s": 3566,
+      "elevation_m": 10
+    },
+    "49d960340c305dfadc12": {
+      "h": "49d960340c305dfadc12",
+      "first_seen_at": "2026-06-07T23:05:20.045Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Iskandar",
+      "athlete_last": "L.",
+      "name": "Pangalengan malabar Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10005.2,
+      "moving_time_s": 6980,
+      "elapsed_time_s": 8661,
+      "elevation_m": 187
     }
   },
-  "last_synced_at": "2026-06-07T23:00:35.020Z",
+  "last_synced_at": "2026-06-07T23:05:20.045Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
