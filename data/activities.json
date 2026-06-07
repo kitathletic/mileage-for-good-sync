@@ -145795,9 +145795,37 @@
       "moving_time_s": 1745,
       "elapsed_time_s": 1745,
       "elevation_m": 0
+    },
+    "34bd46e24037ac9eb298": {
+      "h": "34bd46e24037ac9eb298",
+      "first_seen_at": "2026-06-07T09:15:25.383Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Tanvir",
+      "athlete_last": "S.",
+      "name": "June Challenge 300K",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7247.9,
+      "moving_time_s": 4329,
+      "elapsed_time_s": 4516,
+      "elevation_m": 0
+    },
+    "ff83d8e77f7c4279f371": {
+      "h": "ff83d8e77f7c4279f371",
+      "first_seen_at": "2026-06-07T09:15:25.383Z",
+      "week_key": "2026-W23",
+      "athlete_first": "marselli",
+      "athlete_last": "T.",
+      "name": "Recovery run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4818.1,
+      "moving_time_s": 2485,
+      "elapsed_time_s": 2530,
+      "elevation_m": 13
     }
   },
-  "last_synced_at": "2026-06-07T09:10:25.224Z",
+  "last_synced_at": "2026-06-07T09:15:25.383Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
