@@ -145305,9 +145305,37 @@
       "moving_time_s": 4948,
       "elapsed_time_s": 6374,
       "elevation_m": 52
+    },
+    "1729341f5eac16b90ca2": {
+      "h": "1729341f5eac16b90ca2",
+      "first_seen_at": "2026-06-07T02:25:19.776Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Dimas",
+      "athlete_last": "P.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 20010.3,
+      "moving_time_s": 6690,
+      "elapsed_time_s": 6690,
+      "elevation_m": 144
+    },
+    "d398c5ecd6ec07c173e8": {
+      "h": "d398c5ecd6ec07c173e8",
+      "first_seen_at": "2026-06-07T02:25:19.776Z",
+      "week_key": "2026-W23",
+      "athlete_first": "Khori",
+      "athlete_last": "T.",
+      "name": "Yellow run 5K",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5180.8,
+      "moving_time_s": 1573,
+      "elapsed_time_s": 1585,
+      "elevation_m": 13.5
     }
   },
-  "last_synced_at": "2026-06-07T02:20:23.301Z",
+  "last_synced_at": "2026-06-07T02:25:19.776Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
