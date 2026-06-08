@@ -148889,9 +148889,37 @@
       "moving_time_s": 3842,
       "elapsed_time_s": 3870,
       "elevation_m": 36
+    },
+    "1e44dc2e55979ca5e85d": {
+      "h": "1e44dc2e55979ca5e85d",
+      "first_seen_at": "2026-06-08T23:35:21.082Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Arya",
+      "athlete_last": ".",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4177.4,
+      "moving_time_s": 2661,
+      "elapsed_time_s": 2766,
+      "elevation_m": 18
+    },
+    "e3221e80566bc266fa49": {
+      "h": "e3221e80566bc266fa49",
+      "first_seen_at": "2026-06-08T23:35:21.082Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Ciko",
+      "athlete_last": "N.",
+      "name": "It never gets easier, you just go faster.",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8147.3,
+      "moving_time_s": 4160,
+      "elapsed_time_s": 4241,
+      "elevation_m": 47.3
     }
   },
-  "last_synced_at": "2026-06-08T23:30:32.306Z",
+  "last_synced_at": "2026-06-08T23:35:21.082Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
