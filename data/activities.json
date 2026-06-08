@@ -149001,9 +149001,37 @@
       "moving_time_s": 8516,
       "elapsed_time_s": 10017,
       "elevation_m": 223.3
+    },
+    "6024a800f55ffe18d681": {
+      "h": "6024a800f55ffe18d681",
+      "first_seen_at": "2026-06-08T23:45:24.074Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Mario",
+      "athlete_last": "T.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7489,
+      "moving_time_s": 2691,
+      "elapsed_time_s": 2691,
+      "elevation_m": 3
+    },
+    "251cece5d2179fa0ba69": {
+      "h": "251cece5d2179fa0ba69",
+      "first_seen_at": "2026-06-08T23:45:24.074Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Dania",
+      "athlete_last": "J.",
+      "name": "Selasa Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4011.9,
+      "moving_time_s": 1796,
+      "elapsed_time_s": 1808,
+      "elevation_m": 25
     }
   },
-  "last_synced_at": "2026-06-08T23:40:26.671Z",
+  "last_synced_at": "2026-06-08T23:45:24.074Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
