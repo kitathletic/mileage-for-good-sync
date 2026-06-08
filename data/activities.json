@@ -147825,9 +147825,37 @@
       "moving_time_s": 2761,
       "elapsed_time_s": 2761,
       "elevation_m": 9
+    },
+    "ae3c8a3051c132096eb0": {
+      "h": "ae3c8a3051c132096eb0",
+      "first_seen_at": "2026-06-08T10:00:42.130Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Paulo",
+      "athlete_last": "R.",
+      "name": "Corrida matinal",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4121.4,
+      "moving_time_s": 1514,
+      "elapsed_time_s": 3544,
+      "elevation_m": 2.3
+    },
+    "9f2e1342f041aa04aa11": {
+      "h": "9f2e1342f041aa04aa11",
+      "first_seen_at": "2026-06-08T10:00:42.130Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Tanvir",
+      "athlete_last": "S.",
+      "name": "June Challenge 300K",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 14508.2,
+      "moving_time_s": 8915,
+      "elapsed_time_s": 9262,
+      "elevation_m": 22.6
     }
   },
-  "last_synced_at": "2026-06-08T09:55:25.630Z",
+  "last_synced_at": "2026-06-08T10:00:42.130Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
