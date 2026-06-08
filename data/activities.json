@@ -148581,9 +148581,65 @@
       "moving_time_s": 2017,
       "elapsed_time_s": 2081,
       "elevation_m": 3.1
+    },
+    "47d58c38f399f7dadfde": {
+      "h": "47d58c38f399f7dadfde",
+      "first_seen_at": "2026-06-08T23:00:35.278Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Izhar",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6003.8,
+      "moving_time_s": 2720,
+      "elapsed_time_s": 2720,
+      "elevation_m": 34
+    },
+    "ce14e8e3f373840819d5": {
+      "h": "ce14e8e3f373840819d5",
+      "first_seen_at": "2026-06-08T23:00:35.278Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Zad",
+      "athlete_last": "K.",
+      "name": "Base Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6637.2,
+      "moving_time_s": 2221,
+      "elapsed_time_s": 2221,
+      "elevation_m": 36
+    },
+    "43bcf101a02310866f49": {
+      "h": "43bcf101a02310866f49",
+      "first_seen_at": "2026-06-08T23:00:35.278Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Cicak",
+      "athlete_last": "T.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10990,
+      "moving_time_s": 4201,
+      "elapsed_time_s": 4215,
+      "elevation_m": 54.8
+    },
+    "408601defd0769a83629": {
+      "h": "408601defd0769a83629",
+      "first_seen_at": "2026-06-08T23:00:35.278Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Arya",
+      "athlete_last": ".",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 14030.5,
+      "moving_time_s": 4618,
+      "elapsed_time_s": 4889,
+      "elevation_m": 87
     }
   },
-  "last_synced_at": "2026-06-08T22:55:23.457Z",
+  "last_synced_at": "2026-06-08T23:00:35.278Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
