@@ -150863,9 +150863,37 @@
       "moving_time_s": 3696,
       "elapsed_time_s": 3712,
       "elevation_m": 11
+    },
+    "2811ca927f36c6894427": {
+      "h": "2811ca927f36c6894427",
+      "first_seen_at": "2026-06-09T11:50:27.226Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Albert",
+      "athlete_last": "A.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5013.5,
+      "moving_time_s": 1935,
+      "elapsed_time_s": 1993,
+      "elevation_m": 1
+    },
+    "630407a4e92dbd4742d3": {
+      "h": "630407a4e92dbd4742d3",
+      "first_seen_at": "2026-06-09T11:50:27.226Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Teuku",
+      "athlete_last": "U.",
+      "name": "Interval",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6996.1,
+      "moving_time_s": 2473,
+      "elapsed_time_s": 2488,
+      "elevation_m": 18
     }
   },
-  "last_synced_at": "2026-06-09T11:45:26.865Z",
+  "last_synced_at": "2026-06-09T11:50:27.226Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
