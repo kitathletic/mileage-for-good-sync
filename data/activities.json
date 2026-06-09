@@ -150317,9 +150317,37 @@
       "moving_time_s": 3116,
       "elapsed_time_s": 3218,
       "elevation_m": 85
+    },
+    "206344b125a3b6df98eb": {
+      "h": "206344b125a3b6df98eb",
+      "first_seen_at": "2026-06-09T02:35:23.289Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Bobby",
+      "athlete_last": "S.",
+      "name": "Morning Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 2153.3,
+      "moving_time_s": 1520,
+      "elapsed_time_s": 2141,
+      "elevation_m": 78
+    },
+    "751d2f6f31b7b7a9a236": {
+      "h": "751d2f6f31b7b7a9a236",
+      "first_seen_at": "2026-06-09T02:35:23.289Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Viren",
+      "athlete_last": "S.",
+      "name": "5 K Tempo Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5030,
+      "moving_time_s": 1593,
+      "elapsed_time_s": 1593,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-06-09T02:30:32.375Z",
+  "last_synced_at": "2026-06-09T02:35:23.289Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T02:30:32.375Z",
+  "generated_at": "2026-06-09T02:35:23.289Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 85973.6,
-    "activities": 9542,
-    "moving_time_s": 36200602,
-    "elevation_m": 497936
+    "distance": 85980.78,
+    "activities": 9544,
+    "moving_time_s": 36203715,
+    "elevation_m": 498014
   },
   "rows": [
     {
@@ -1836,12 +1836,20 @@
       "rank": 226
     },
     {
+      "name": "Viren S.",
+      "activities": 29,
+      "distance": 143.55,
+      "moving_time_s": 51303,
+      "elevation_m": 152,
+      "rank": 227
+    },
+    {
       "name": "M Yudho F.",
       "activities": 31,
       "distance": 142.97,
       "moving_time_s": 67976,
       "elevation_m": 847,
-      "rank": 227
+      "rank": 228
     },
     {
       "name": "Aditya K.",
@@ -1849,7 +1857,7 @@
       "distance": 142.82,
       "moving_time_s": 67439,
       "elevation_m": 1788,
-      "rank": 228
+      "rank": 229
     },
     {
       "name": "Kevin T.",
@@ -1857,7 +1865,7 @@
       "distance": 141.79,
       "moving_time_s": 44128,
       "elevation_m": 2339,
-      "rank": 229
+      "rank": 230
     },
     {
       "name": "Zefan P.",
@@ -1865,7 +1873,7 @@
       "distance": 140.05,
       "moving_time_s": 88705,
       "elevation_m": 4352,
-      "rank": 230
+      "rank": 231
     },
     {
       "name": "Nyabang G.",
@@ -1873,7 +1881,7 @@
       "distance": 139.15,
       "moving_time_s": 51823,
       "elevation_m": 1746,
-      "rank": 231
+      "rank": 232
     },
     {
       "name": "Andrew G.",
@@ -1881,14 +1889,6 @@
       "distance": 138.95,
       "moving_time_s": 55635,
       "elevation_m": 2096,
-      "rank": 232
-    },
-    {
-      "name": "Viren S.",
-      "activities": 28,
-      "distance": 138.52,
-      "moving_time_s": 49710,
-      "elevation_m": 152,
       "rank": 233
     },
     {
@@ -3644,12 +3644,20 @@
       "rank": 452
     },
     {
+      "name": "Bobby S.",
+      "activities": 1,
+      "distance": 2.15,
+      "moving_time_s": 1520,
+      "elevation_m": 78,
+      "rank": 453
+    },
+    {
       "name": "Yoshua ⛩.",
       "activities": 1,
       "distance": 0,
       "moving_time_s": 1102,
       "elevation_m": 0,
-      "rank": 453
+      "rank": 454
     },
     {
       "name": "Ronny S.",
@@ -3657,7 +3665,7 @@
       "distance": 0,
       "moving_time_s": 12753,
       "elevation_m": 0,
-      "rank": 454
+      "rank": 455
     }
   ]
 }
