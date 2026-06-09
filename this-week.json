@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T22:50:28.912Z",
+  "generated_at": "2026-06-09T22:55:25.091Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 2706.89,
-    "activities": 360,
-    "moving_time_s": 1087688,
-    "elevation_m": 9937
+    "distance": 2710.13,
+    "activities": 361,
+    "moving_time_s": 1088870,
+    "elevation_m": 9956
   },
   "rows": [
     {
@@ -1594,12 +1594,20 @@
       "rank": 196
     },
     {
+      "name": "Andrus E.",
+      "activities": 1,
+      "distance": 3.24,
+      "moving_time_s": 1182,
+      "elevation_m": 19,
+      "rank": 197
+    },
+    {
       "name": "Levian R.",
       "activities": 1,
       "distance": 3.2,
       "moving_time_s": 1327,
       "elevation_m": 6,
-      "rank": 197
+      "rank": 198
     },
     {
       "name": "Abraham S.",
@@ -1607,7 +1615,7 @@
       "distance": 3.02,
       "moving_time_s": 1279,
       "elevation_m": 11,
-      "rank": 198
+      "rank": 199
     },
     {
       "name": "Veronika H.",
@@ -1615,7 +1623,7 @@
       "distance": 2.5,
       "moving_time_s": 1369,
       "elevation_m": 0,
-      "rank": 199
+      "rank": 200
     },
     {
       "name": "Bobby S.",
@@ -1623,7 +1631,7 @@
       "distance": 2.15,
       "moving_time_s": 1520,
       "elevation_m": 78,
-      "rank": 200
+      "rank": 201
     },
     {
       "name": "Prasena P.",
@@ -1631,7 +1639,7 @@
       "distance": 1.79,
       "moving_time_s": 662,
       "elevation_m": 0,
-      "rank": 201
+      "rank": 202
     },
     {
       "name": "Clarissa D.",
@@ -1639,7 +1647,7 @@
       "distance": 1.48,
       "moving_time_s": 786,
       "elevation_m": 2,
-      "rank": 202
+      "rank": 203
     },
     {
       "name": "Unishka K.",
@@ -1647,7 +1655,7 @@
       "distance": 1.32,
       "moving_time_s": 1981,
       "elevation_m": 0,
-      "rank": 203
+      "rank": 204
     }
   ]
 }
