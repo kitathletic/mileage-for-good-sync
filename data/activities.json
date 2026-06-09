@@ -150387,9 +150387,37 @@
       "moving_time_s": 3504,
       "elapsed_time_s": 3661,
       "elevation_m": 4
+    },
+    "e9c5982486cc2a02eb33": {
+      "h": "e9c5982486cc2a02eb33",
+      "first_seen_at": "2026-06-09T03:15:27.155Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Prana",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4375,
+      "moving_time_s": 2101,
+      "elapsed_time_s": 2101,
+      "elevation_m": 0
+    },
+    "17c2cff1763d6ad88a92": {
+      "h": "17c2cff1763d6ad88a92",
+      "first_seen_at": "2026-06-09T03:15:27.155Z",
+      "week_key": "2026-W24",
+      "athlete_first": "win",
+      "athlete_last": "C.",
+      "name": "WK05 | BUILD - RECOVERY",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5016.5,
+      "moving_time_s": 2642,
+      "elapsed_time_s": 2823,
+      "elevation_m": 24
     }
   },
-  "last_synced_at": "2026-06-09T03:10:27.640Z",
+  "last_synced_at": "2026-06-09T03:15:27.155Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
