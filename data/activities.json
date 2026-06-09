@@ -150835,9 +150835,37 @@
       "moving_time_s": 5148,
       "elapsed_time_s": 5434,
       "elevation_m": 7
+    },
+    "9a5d7225a9717eceb886": {
+      "h": "9a5d7225a9717eceb886",
+      "first_seen_at": "2026-06-09T11:45:26.865Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Teuku",
+      "athlete_last": "U.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6996.1,
+      "moving_time_s": 2473,
+      "elapsed_time_s": 2488,
+      "elevation_m": 18
+    },
+    "e14b2a407a36a3c6699e": {
+      "h": "e14b2a407a36a3c6699e",
+      "first_seen_at": "2026-06-09T11:45:26.865Z",
+      "week_key": "2026-W24",
+      "athlete_first": "thomyoum",
+      "athlete_last": "_.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7203,
+      "moving_time_s": 3696,
+      "elapsed_time_s": 3712,
+      "elevation_m": 11
     }
   },
-  "last_synced_at": "2026-06-09T11:40:27.989Z",
+  "last_synced_at": "2026-06-09T11:45:26.865Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
