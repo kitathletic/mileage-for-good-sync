@@ -150933,9 +150933,37 @@
       "moving_time_s": 3654,
       "elapsed_time_s": 3829,
       "elevation_m": 0
+    },
+    "914b2fdbc185a0568942": {
+      "h": "914b2fdbc185a0568942",
+      "first_seen_at": "2026-06-09T12:15:30.387Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Reno",
+      "athlete_last": "Y.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10030.6,
+      "moving_time_s": 4158,
+      "elapsed_time_s": 4161,
+      "elevation_m": 37.7
+    },
+    "490b46e2d0a54c76e21d": {
+      "h": "490b46e2d0a54c76e21d",
+      "first_seen_at": "2026-06-09T12:15:30.387Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Unishka",
+      "athlete_last": "K.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 64.8,
+      "moving_time_s": 33,
+      "elapsed_time_s": 33,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-06-09T12:10:28.120Z",
+  "last_synced_at": "2026-06-09T12:15:30.387Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90

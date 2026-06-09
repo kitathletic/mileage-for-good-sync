@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T12:10:28.120Z",
+  "generated_at": "2026-06-09T12:15:30.387Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 86259.07,
-    "activities": 9586,
-    "moving_time_s": 36313784,
-    "elevation_m": 498554
+    "distance": 86269.16,
+    "activities": 9588,
+    "moving_time_s": 36317975,
+    "elevation_m": 498592
   },
   "rows": [
     {
@@ -516,12 +516,20 @@
       "rank": 61
     },
     {
+      "name": "Reno Y.",
+      "activities": 42,
+      "distance": 379.34,
+      "moving_time_s": 161573,
+      "elevation_m": 3542,
+      "rank": 62
+    },
+    {
       "name": "Jeremiah S.",
       "activities": 57,
       "distance": 379.23,
       "moving_time_s": 170958,
       "elevation_m": 1834,
-      "rank": 62
+      "rank": 63
     },
     {
       "name": "Francesco S.",
@@ -529,7 +537,7 @@
       "distance": 377.69,
       "moving_time_s": 173750,
       "elevation_m": 719,
-      "rank": 63
+      "rank": 64
     },
     {
       "name": "Alief Rafael G.",
@@ -537,14 +545,6 @@
       "distance": 373.6,
       "moving_time_s": 129039,
       "elevation_m": 1855,
-      "rank": 64
-    },
-    {
-      "name": "Reno Y.",
-      "activities": 41,
-      "distance": 369.31,
-      "moving_time_s": 157415,
-      "elevation_m": 3504,
       "rank": 65
     },
     {
@@ -3229,9 +3229,9 @@
     },
     {
       "name": "Unishka K.",
-      "activities": 3,
-      "distance": 21.29,
-      "moving_time_s": 10684,
+      "activities": 4,
+      "distance": 21.35,
+      "moving_time_s": 10717,
       "elevation_m": 57,
       "rank": 401
     },
