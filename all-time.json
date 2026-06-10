@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T22:50:28.643Z",
+  "generated_at": "2026-06-10T22:55:23.077Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 99444.3,
-    "activities": 11018,
-    "moving_time_s": 41711536,
-    "elevation_m": 563404
+    "distance": 99459.36,
+    "activities": 11020,
+    "moving_time_s": 41716173,
+    "elevation_m": 563471
   },
   "rows": [
     {
@@ -533,10 +533,10 @@
     },
     {
       "name": "Reno Y.",
-      "activities": 46,
-      "distance": 420.35,
-      "moving_time_s": 178066,
-      "elevation_m": 3645,
+      "activities": 47,
+      "distance": 425.42,
+      "moving_time_s": 179532,
+      "elevation_m": 3665,
       "rank": 64
     },
     {
@@ -2172,12 +2172,20 @@
       "rank": 268
     },
     {
+      "name": "Cicak T.",
+      "activities": 14,
+      "distance": 130.11,
+      "moving_time_s": 40173,
+      "elevation_m": 708,
+      "rank": 269
+    },
+    {
       "name": "Yandri F.",
       "activities": 27,
       "distance": 129.24,
       "moving_time_s": 58129,
       "elevation_m": 771,
-      "rank": 269
+      "rank": 270
     },
     {
       "name": "Ivan M.",
@@ -2185,7 +2193,7 @@
       "distance": 129,
       "moving_time_s": 57253,
       "elevation_m": 129,
-      "rank": 270
+      "rank": 271
     },
     {
       "name": "Willy T.",
@@ -2193,7 +2201,7 @@
       "distance": 128.43,
       "moving_time_s": 45961,
       "elevation_m": 322,
-      "rank": 271
+      "rank": 272
     },
     {
       "name": "Aldrian B.",
@@ -2201,7 +2209,7 @@
       "distance": 128.21,
       "moving_time_s": 53442,
       "elevation_m": 607,
-      "rank": 272
+      "rank": 273
     },
     {
       "name": "Devin S.",
@@ -2209,7 +2217,7 @@
       "distance": 122.24,
       "moving_time_s": 43315,
       "elevation_m": 850,
-      "rank": 273
+      "rank": 274
     },
     {
       "name": "Michelle L.",
@@ -2217,14 +2225,6 @@
       "distance": 122.12,
       "moving_time_s": 51734,
       "elevation_m": 248,
-      "rank": 274
-    },
-    {
-      "name": "Cicak T.",
-      "activities": 13,
-      "distance": 120.12,
-      "moving_time_s": 37002,
-      "elevation_m": 661,
       "rank": 275
     },
     {

@@ -155231,9 +155231,37 @@
       "moving_time_s": 4267,
       "elapsed_time_s": 4271,
       "elevation_m": 4
+    },
+    "1573166e5a13c16d459d": {
+      "h": "1573166e5a13c16d459d",
+      "first_seen_at": "2026-06-10T22:55:23.077Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Reno",
+      "athlete_last": "Y.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5064.8,
+      "moving_time_s": 1466,
+      "elapsed_time_s": 1470,
+      "elevation_m": 19.7
+    },
+    "15fd6b31048742163cc1": {
+      "h": "15fd6b31048742163cc1",
+      "first_seen_at": "2026-06-10T22:55:23.077Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Cicak",
+      "athlete_last": "T.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9991.9,
+      "moving_time_s": 3171,
+      "elapsed_time_s": 3171,
+      "elevation_m": 47.9
     }
   },
-  "last_synced_at": "2026-06-10T22:50:28.643Z",
+  "last_synced_at": "2026-06-10T22:55:23.077Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
