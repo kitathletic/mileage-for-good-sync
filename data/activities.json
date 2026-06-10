@@ -152907,9 +152907,37 @@
       "moving_time_s": 5754,
       "elapsed_time_s": 5789,
       "elevation_m": 42
+    },
+    "7ad425ebda37f7dd8e27": {
+      "h": "7ad425ebda37f7dd8e27",
+      "first_seen_at": "2026-06-10T00:50:27.900Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Muhammed",
+      "athlete_last": "D.",
+      "name": "Threshold Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5359.3,
+      "moving_time_s": 2077,
+      "elapsed_time_s": 2312,
+      "elevation_m": 4
+    },
+    "ee66a61da5f205726313": {
+      "h": "ee66a61da5f205726313",
+      "first_seen_at": "2026-06-10T00:50:27.900Z",
+      "week_key": "2026-W24",
+      "athlete_first": "irrienia",
+      "athlete_last": "D.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 13011.8,
+      "moving_time_s": 6011,
+      "elapsed_time_s": 6087,
+      "elevation_m": 6.1
     }
   },
-  "last_synced_at": "2026-06-10T00:45:27.837Z",
+  "last_synced_at": "2026-06-10T00:50:27.900Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
