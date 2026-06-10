@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T12:00:46.831Z",
+  "generated_at": "2026-06-10T12:05:26.358Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 3904.64,
-    "activities": 522,
-    "moving_time_s": 1546221,
-    "elevation_m": 13973
+    "distance": 3916.12,
+    "activities": 524,
+    "moving_time_s": 1550465,
+    "elevation_m": 14001
   },
   "rows": [
     {
@@ -90,12 +90,20 @@
       "rank": 8
     },
     {
+      "name": "Bibip D.",
+      "activities": 6,
+      "distance": 50.08,
+      "moving_time_s": 18240,
+      "elevation_m": 49,
+      "rank": 9
+    },
+    {
       "name": "Tanvir S.",
       "activities": 4,
       "distance": 49.58,
       "moving_time_s": 27518,
       "elevation_m": 48,
-      "rank": 9
+      "rank": 10
     },
     {
       "name": "sijakiii ㅤ.",
@@ -103,7 +111,7 @@
       "distance": 49.05,
       "moving_time_s": 24125,
       "elevation_m": 181,
-      "rank": 10
+      "rank": 11
     },
     {
       "name": "Ewoq 😈.",
@@ -111,7 +119,7 @@
       "distance": 46.02,
       "moving_time_s": 16950,
       "elevation_m": 12,
-      "rank": 11
+      "rank": 12
     },
     {
       "name": "Kevin T.",
@@ -119,7 +127,7 @@
       "distance": 45.5,
       "moving_time_s": 14374,
       "elevation_m": 962,
-      "rank": 12
+      "rank": 13
     },
     {
       "name": "Ajiw 💫.",
@@ -127,7 +135,7 @@
       "distance": 44.02,
       "moving_time_s": 17348,
       "elevation_m": 70,
-      "rank": 13
+      "rank": 14
     },
     {
       "name": "Rizky F.",
@@ -135,14 +143,6 @@
       "distance": 40.26,
       "moving_time_s": 14388,
       "elevation_m": 62,
-      "rank": 14
-    },
-    {
-      "name": "Bibip D.",
-      "activities": 5,
-      "distance": 40.07,
-      "moving_time_s": 14642,
-      "elevation_m": 34,
       "rank": 15
     },
     {
@@ -1938,12 +1938,20 @@
       "rank": 239
     },
     {
+      "name": "Eric G.",
+      "activities": 1,
+      "distance": 1.47,
+      "moving_time_s": 646,
+      "elevation_m": 13,
+      "rank": 240
+    },
+    {
       "name": "Unishka K.",
       "activities": 2,
       "distance": 1.32,
       "moving_time_s": 1981,
       "elevation_m": 0,
-      "rank": 240
+      "rank": 241
     }
   ]
 }
