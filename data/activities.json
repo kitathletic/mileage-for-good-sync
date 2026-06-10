@@ -153173,9 +153173,37 @@
       "moving_time_s": 1045,
       "elapsed_time_s": 1051,
       "elevation_m": 0
+    },
+    "113ee8468cccc5127d63": {
+      "h": "113ee8468cccc5127d63",
+      "first_seen_at": "2026-06-10T01:30:33.531Z",
+      "week_key": "2026-W24",
+      "athlete_first": "David",
+      "athlete_last": "P.",
+      "name": "Warming up",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 243.2,
+      "moving_time_s": 98,
+      "elapsed_time_s": 98,
+      "elevation_m": 0
+    },
+    "0b02df404dc800b85c64": {
+      "h": "0b02df404dc800b85c64",
+      "first_seen_at": "2026-06-10T01:30:33.531Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Winarta",
+      "athlete_last": "H.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8184.5,
+      "moving_time_s": 3272,
+      "elapsed_time_s": 3403,
+      "elevation_m": 5
     }
   },
-  "last_synced_at": "2026-06-10T01:25:21.618Z",
+  "last_synced_at": "2026-06-10T01:30:33.531Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
