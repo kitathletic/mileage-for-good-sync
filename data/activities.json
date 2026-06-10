@@ -153719,9 +153719,37 @@
       "moving_time_s": 616,
       "elapsed_time_s": 687,
       "elevation_m": 0
+    },
+    "432b820152d6bdba1ba8": {
+      "h": "432b820152d6bdba1ba8",
+      "first_seen_at": "2026-06-10T09:55:24.785Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Yova",
+      "athlete_last": "G.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6179.9,
+      "moving_time_s": 2344,
+      "elapsed_time_s": 3853,
+      "elevation_m": 52
+    },
+    "8be596687be3472d7c35": {
+      "h": "8be596687be3472d7c35",
+      "first_seen_at": "2026-06-10T09:55:24.785Z",
+      "week_key": "2026-W24",
+      "athlete_first": "San",
+      "athlete_last": "S.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10344.6,
+      "moving_time_s": 3857,
+      "elapsed_time_s": 8123,
+      "elevation_m": 35
     }
   },
-  "last_synced_at": "2026-06-10T09:50:32.332Z",
+  "last_synced_at": "2026-06-10T09:55:24.785Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
