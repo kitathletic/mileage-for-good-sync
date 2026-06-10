@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T12:20:33.348Z",
+  "generated_at": "2026-06-10T12:25:27.303Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 98968.24,
-    "activities": 10944,
-    "moving_time_s": 41512837,
-    "elevation_m": 561909
+    "distance": 98974.11,
+    "activities": 10947,
+    "moving_time_s": 41515585,
+    "elevation_m": 561929
   },
   "rows": [
     {
@@ -372,12 +372,20 @@
       "rank": 43
     },
     {
+      "name": "ruel R.",
+      "activities": 41,
+      "distance": 494.95,
+      "moving_time_s": 330580,
+      "elevation_m": 19795,
+      "rank": 44
+    },
+    {
       "name": "Aaron A.",
       "activities": 42,
       "distance": 492.01,
       "moving_time_s": 209755,
       "elevation_m": 1349,
-      "rank": 44
+      "rank": 45
     },
     {
       "name": "Bayu A.",
@@ -385,14 +393,6 @@
       "distance": 491.19,
       "moving_time_s": 172653,
       "elevation_m": 962,
-      "rank": 45
-    },
-    {
-      "name": "ruel R.",
-      "activities": 40,
-      "distance": 490.66,
-      "moving_time_s": 328685,
-      "elevation_m": 19775,
       "rank": 46
     },
     {
@@ -1405,9 +1405,9 @@
     },
     {
       "name": "Melda H.",
-      "activities": 26,
-      "distance": 227.1,
-      "moving_time_s": 116372,
+      "activities": 27,
+      "distance": 228.1,
+      "moving_time_s": 116926,
       "elevation_m": 815,
       "rank": 173
     },
@@ -2892,19 +2892,19 @@
       "rank": 358
     },
     {
+      "name": "Putra I.",
+      "activities": 10,
+      "distance": 50.79,
+      "moving_time_s": 23328,
+      "elevation_m": 532,
+      "rank": 359
+    },
+    {
       "name": "Rizky H.",
       "activities": 8,
       "distance": 50.63,
       "moving_time_s": 22537,
       "elevation_m": 110,
-      "rank": 359
-    },
-    {
-      "name": "Putra I.",
-      "activities": 9,
-      "distance": 50.21,
-      "moving_time_s": 23029,
-      "elevation_m": 532,
       "rank": 360
     },
     {
