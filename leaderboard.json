@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T23:45:31.770Z",
+  "generated_at": "2026-06-10T23:50:27.702Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 88656.68,
-    "activities": 9923,
-    "moving_time_s": 37262741,
-    "elevation_m": 506383
+    "distance": 88674.9,
+    "activities": 9926,
+    "moving_time_s": 37268495,
+    "elevation_m": 506564
   },
   "rows": [
     {
@@ -276,12 +276,20 @@
       "rank": 31
     },
     {
+      "name": "Nanditya N.",
+      "activities": 68,
+      "distance": 505.24,
+      "moving_time_s": 160552,
+      "elevation_m": 3691,
+      "rank": 32
+    },
+    {
       "name": "Pedro V.",
       "activities": 48,
       "distance": 503.81,
       "moving_time_s": 156822,
       "elevation_m": 5870,
-      "rank": 32
+      "rank": 33
     },
     {
       "name": "Aswin Mahardi P.",
@@ -289,14 +297,6 @@
       "distance": 501.16,
       "moving_time_s": 181479,
       "elevation_m": 1551,
-      "rank": 33
-    },
-    {
-      "name": "Nanditya N.",
-      "activities": 67,
-      "distance": 494.9,
-      "moving_time_s": 157132,
-      "elevation_m": 3541,
       "rank": 34
     },
     {
@@ -613,10 +613,10 @@
     },
     {
       "name": "Rudi P.",
-      "activities": 38,
-      "distance": 355.76,
-      "moving_time_s": 163434,
-      "elevation_m": 1643,
+      "activities": 39,
+      "distance": 358.63,
+      "moving_time_s": 163991,
+      "elevation_m": 1659,
       "rank": 74
     },
     {
@@ -1132,12 +1132,20 @@
       "rank": 138
     },
     {
+      "name": "Bimantoro B.",
+      "activities": 46,
+      "distance": 245.93,
+      "moving_time_s": 136295,
+      "elevation_m": 1838,
+      "rank": 139
+    },
+    {
       "name": "Tommy P.",
       "activities": 23,
       "distance": 244.97,
       "moving_time_s": 97724,
       "elevation_m": 232,
-      "rank": 139
+      "rank": 140
     },
     {
       "name": "Rio P.",
@@ -1145,14 +1153,6 @@
       "distance": 241.37,
       "moving_time_s": 103839,
       "elevation_m": 11,
-      "rank": 140
-    },
-    {
-      "name": "Bimantoro B.",
-      "activities": 45,
-      "distance": 240.92,
-      "moving_time_s": 134518,
-      "elevation_m": 1823,
       "rank": 141
     },
     {

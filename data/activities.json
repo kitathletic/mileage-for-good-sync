@@ -155651,9 +155651,51 @@
       "moving_time_s": 5902,
       "elapsed_time_s": 5938,
       "elevation_m": 69
+    },
+    "b98ec82854cb379a94ec": {
+      "h": "b98ec82854cb379a94ec",
+      "first_seen_at": "2026-06-10T23:50:27.702Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Rudi",
+      "athlete_last": "P.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2870.6,
+      "moving_time_s": 557,
+      "elapsed_time_s": 713,
+      "elevation_m": 15.3
+    },
+    "ce17fdd819b61cdc789c": {
+      "h": "ce17fdd819b61cdc789c",
+      "first_seen_at": "2026-06-10T23:50:27.702Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Bimantoro",
+      "athlete_last": "B.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5013.4,
+      "moving_time_s": 1777,
+      "elapsed_time_s": 1777,
+      "elevation_m": 15
+    },
+    "d6069dfe3745d0a81699": {
+      "h": "d6069dfe3745d0a81699",
+      "first_seen_at": "2026-06-10T23:50:27.702Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Nanditya",
+      "athlete_last": "N.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10341.3,
+      "moving_time_s": 3420,
+      "elapsed_time_s": 3430,
+      "elevation_m": 150
     }
   },
-  "last_synced_at": "2026-06-10T23:45:31.770Z",
+  "last_synced_at": "2026-06-10T23:50:27.702Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
