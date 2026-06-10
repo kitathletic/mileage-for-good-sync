@@ -154153,9 +154153,51 @@
       "moving_time_s": 785,
       "elapsed_time_s": 785,
       "elevation_m": 21
+    },
+    "e3e4095ee4f2a48923d5": {
+      "h": "e3e4095ee4f2a48923d5",
+      "first_seen_at": "2026-06-10T12:20:33.348Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Unishka",
+      "athlete_last": "K.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3012.2,
+      "moving_time_s": 1550,
+      "elapsed_time_s": 1663,
+      "elevation_m": 0
+    },
+    "8165a61f886b49b47bfc": {
+      "h": "8165a61f886b49b47bfc",
+      "first_seen_at": "2026-06-10T12:20:33.348Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Zapro",
+      "athlete_last": "Z.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12000,
+      "moving_time_s": 5432,
+      "elapsed_time_s": 5499,
+      "elevation_m": 6
+    },
+    "a563301981f7ec917906": {
+      "h": "a563301981f7ec917906",
+      "first_seen_at": "2026-06-10T12:20:33.348Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Crystal",
+      "athlete_last": "Y.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6284.5,
+      "moving_time_s": 2701,
+      "elapsed_time_s": 2701,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-06-10T12:15:31.202Z",
+  "last_synced_at": "2026-06-10T12:20:33.348Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
