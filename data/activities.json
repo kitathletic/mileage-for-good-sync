@@ -157359,9 +157359,37 @@
       "moving_time_s": 5853,
       "elapsed_time_s": 5955,
       "elevation_m": 6
+    },
+    "1238e896a7053581b6c5": {
+      "h": "1238e896a7053581b6c5",
+      "first_seen_at": "2026-06-11T12:45:29.337Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Muhammad",
+      "athlete_last": "H.",
+      "name": "Taper Two Miler",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6061.6,
+      "moving_time_s": 2490,
+      "elapsed_time_s": 3219,
+      "elevation_m": 3.4
+    },
+    "d5e0933cc50b75164bf1": {
+      "h": "d5e0933cc50b75164bf1",
+      "first_seen_at": "2026-06-11T12:45:29.337Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Hilal",
+      "athlete_last": "H.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8000,
+      "moving_time_s": 3973,
+      "elapsed_time_s": 4092,
+      "elevation_m": 8
     }
   },
-  "last_synced_at": "2026-06-11T12:40:30.779Z",
+  "last_synced_at": "2026-06-11T12:45:29.337Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
