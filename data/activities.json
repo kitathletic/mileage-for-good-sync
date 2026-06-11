@@ -156729,9 +156729,65 @@
       "moving_time_s": 1541,
       "elapsed_time_s": 1579,
       "elevation_m": 17.7
+    },
+    "e6d31b5d8ed10e802897": {
+      "h": "e6d31b5d8ed10e802897",
+      "first_seen_at": "2026-06-11T02:20:27.238Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Edy",
+      "athlete_last": "C.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5550.7,
+      "moving_time_s": 2548,
+      "elapsed_time_s": 3904,
+      "elevation_m": 120
+    },
+    "061fb0731c86d987d289": {
+      "h": "061fb0731c86d987d289",
+      "first_seen_at": "2026-06-11T02:20:27.238Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Andri",
+      "athlete_last": "K.",
+      "name": "Night Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1143.3,
+      "moving_time_s": 749,
+      "elapsed_time_s": 759,
+      "elevation_m": 4
+    },
+    "81b0e99d0eec102ac8ad": {
+      "h": "81b0e99d0eec102ac8ad",
+      "first_seen_at": "2026-06-11T02:20:27.238Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Andri",
+      "athlete_last": "K.",
+      "name": "Night Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1094,
+      "moving_time_s": 982,
+      "elapsed_time_s": 1033,
+      "elevation_m": 20
+    },
+    "f5ccef25775b5ebd6e39": {
+      "h": "f5ccef25775b5ebd6e39",
+      "first_seen_at": "2026-06-11T02:20:27.238Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Andri",
+      "athlete_last": "K.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2291.9,
+      "moving_time_s": 767,
+      "elapsed_time_s": 776,
+      "elevation_m": 2
     }
   },
-  "last_synced_at": "2026-06-11T02:15:26.006Z",
+  "last_synced_at": "2026-06-11T02:20:27.238Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
