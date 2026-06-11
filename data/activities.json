@@ -156855,9 +156855,37 @@
       "moving_time_s": 1605,
       "elapsed_time_s": 1605,
       "elevation_m": 0
+    },
+    "a65c9f588f42b1fea09e": {
+      "h": "a65c9f588f42b1fea09e",
+      "first_seen_at": "2026-06-11T03:25:22.628Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Soleiman",
+      "athlete_last": "P.",
+      "name": "Run #76 5.8Km-When heavy rain",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5834,
+      "moving_time_s": 2059,
+      "elapsed_time_s": 2318,
+      "elevation_m": 27
+    },
+    "5b1f34a214007e4f95f4": {
+      "h": "5b1f34a214007e4f95f4",
+      "first_seen_at": "2026-06-11T03:25:22.628Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Soleiman",
+      "athlete_last": "P.",
+      "name": "Run #76 5.8Km-Before heavy rain",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5891,
+      "moving_time_s": 2035,
+      "elapsed_time_s": 2043,
+      "elevation_m": 19
     }
   },
-  "last_synced_at": "2026-06-11T03:20:26.988Z",
+  "last_synced_at": "2026-06-11T03:25:22.628Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
