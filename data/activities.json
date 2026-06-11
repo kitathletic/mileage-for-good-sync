@@ -158339,9 +158339,37 @@
       "moving_time_s": 24869,
       "elapsed_time_s": 51501,
       "elevation_m": 0
+    },
+    "aca7a84c0ce99cdfc3ea": {
+      "h": "aca7a84c0ce99cdfc3ea",
+      "first_seen_at": "2026-06-11T23:30:32.214Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Arya",
+      "athlete_last": ".",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9994.2,
+      "moving_time_s": 4453,
+      "elapsed_time_s": 4453,
+      "elevation_m": 24
+    },
+    "d40431eae0559df8f5ba": {
+      "h": "d40431eae0559df8f5ba",
+      "first_seen_at": "2026-06-11T23:30:32.214Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Evan",
+      "athlete_last": "B.",
+      "name": "Almost every species in the universe has an irrational fear of the dark. But they're wrong. ‘Cause it's not irrational.",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 49254,
+      "moving_time_s": 24869,
+      "elapsed_time_s": 51501,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-06-11T23:25:24.309Z",
+  "last_synced_at": "2026-06-11T23:30:32.214Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
