@@ -157597,9 +157597,65 @@
       "moving_time_s": 2404,
       "elapsed_time_s": 2595,
       "elevation_m": 38
+    },
+    "f7812f364f41c1ab5e12": {
+      "h": "f7812f364f41c1ab5e12",
+      "first_seen_at": "2026-06-11T13:50:34.374Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Ahmad Danar",
+      "athlete_last": "S.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5501.4,
+      "moving_time_s": 2405,
+      "elapsed_time_s": 2790,
+      "elevation_m": 5
+    },
+    "19bcef0b5cf70c94cfbd": {
+      "h": "19bcef0b5cf70c94cfbd",
+      "first_seen_at": "2026-06-11T13:50:34.374Z",
+      "week_key": "2026-W24",
+      "athlete_first": "R",
+      "athlete_last": "I.",
+      "name": "SHAKEOUT SSYNC JAKIM",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5070.8,
+      "moving_time_s": 1805,
+      "elapsed_time_s": 1805,
+      "elevation_m": 6
+    },
+    "3d8edf5e779cc0d9bab7": {
+      "h": "3d8edf5e779cc0d9bab7",
+      "first_seen_at": "2026-06-11T13:50:34.374Z",
+      "week_key": "2026-W24",
+      "athlete_first": "\"𝑫𝑨𝒱 𝑰𝑫🥇",
+      "athlete_last": "G.",
+      "name": "Afternoon Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 7765.6,
+      "moving_time_s": 2727,
+      "elapsed_time_s": 2766,
+      "elevation_m": 32
+    },
+    "be1fcb297dedc1a2fe66": {
+      "h": "be1fcb297dedc1a2fe66",
+      "first_seen_at": "2026-06-11T13:50:34.374Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Arya",
+      "athlete_last": "M.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8569.7,
+      "moving_time_s": 3686,
+      "elapsed_time_s": 3696,
+      "elevation_m": 24
     }
   },
-  "last_synced_at": "2026-06-11T13:45:31.603Z",
+  "last_synced_at": "2026-06-11T13:50:34.374Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
