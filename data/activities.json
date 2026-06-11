@@ -157149,9 +157149,51 @@
       "moving_time_s": 3201,
       "elapsed_time_s": 3201,
       "elevation_m": 57
+    },
+    "bc1b6185e71a996c2551": {
+      "h": "bc1b6185e71a996c2551",
+      "first_seen_at": "2026-06-11T10:55:26.323Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Aldi",
+      "athlete_last": "A.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5004.3,
+      "moving_time_s": 2038,
+      "elapsed_time_s": 2100,
+      "elevation_m": 2
+    },
+    "ad01b9a1cfedde3f4225": {
+      "h": "ad01b9a1cfedde3f4225",
+      "first_seen_at": "2026-06-11T10:55:26.323Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Aditya",
+      "athlete_last": "K.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5633.1,
+      "moving_time_s": 2508,
+      "elapsed_time_s": 2902,
+      "elevation_m": 23
+    },
+    "8cac587a0e877c139c14": {
+      "h": "8cac587a0e877c139c14",
+      "first_seen_at": "2026-06-11T10:55:26.323Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Femi",
+      "athlete_last": "N.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9007.8,
+      "moving_time_s": 3657,
+      "elapsed_time_s": 3713,
+      "elevation_m": 17
     }
   },
-  "last_synced_at": "2026-06-11T10:50:29.735Z",
+  "last_synced_at": "2026-06-11T10:55:26.323Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T10:50:29.735Z",
+  "generated_at": "2026-06-11T10:55:26.323Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 100464.31,
-    "activities": 11155,
-    "moving_time_s": 42122978,
-    "elevation_m": 566493
+    "distance": 100483.96,
+    "activities": 11158,
+    "moving_time_s": 42131181,
+    "elevation_m": 566535
   },
   "rows": [
     {
@@ -844,12 +844,20 @@
       "rank": 102
     },
     {
+      "name": "Aldi A.",
+      "activities": 39,
+      "distance": 331.61,
+      "moving_time_s": 154084,
+      "elevation_m": 1182,
+      "rank": 103
+    },
+    {
       "name": "Irwan Sastra W.",
       "activities": 40,
       "distance": 330.05,
       "moving_time_s": 143344,
       "elevation_m": 1878,
-      "rank": 103
+      "rank": 104
     },
     {
       "name": "Taufan S.",
@@ -857,14 +865,6 @@
       "distance": 326.7,
       "moving_time_s": 145873,
       "elevation_m": 4023,
-      "rank": 104
-    },
-    {
-      "name": "Aldi A.",
-      "activities": 38,
-      "distance": 326.6,
-      "moving_time_s": 152046,
-      "elevation_m": 1180,
       "rank": 105
     },
     {
@@ -1004,19 +1004,19 @@
       "rank": 122
     },
     {
+      "name": "Femi N.",
+      "activities": 35,
+      "distance": 305.08,
+      "moving_time_s": 136321,
+      "elevation_m": 714,
+      "rank": 123
+    },
+    {
       "name": "Febio S.",
       "activities": 42,
       "distance": 302.09,
       "moving_time_s": 117216,
       "elevation_m": 425,
-      "rank": 123
-    },
-    {
-      "name": "Femi N.",
-      "activities": 34,
-      "distance": 296.07,
-      "moving_time_s": 132664,
-      "elevation_m": 697,
       "rank": 124
     },
     {
@@ -1844,19 +1844,19 @@
       "rank": 227
     },
     {
+      "name": "Aditya K.",
+      "activities": 18,
+      "distance": 168.85,
+      "moving_time_s": 77709,
+      "elevation_m": 1873,
+      "rank": 228
+    },
+    {
       "name": "Ambar S.",
       "activities": 14,
       "distance": 166,
       "moving_time_s": 72682,
       "elevation_m": 2626,
-      "rank": 228
-    },
-    {
-      "name": "Aditya K.",
-      "activities": 17,
-      "distance": 163.22,
-      "moving_time_s": 75201,
-      "elevation_m": 1850,
       "rank": 229
     },
     {
