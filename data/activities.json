@@ -158311,9 +158311,37 @@
       "moving_time_s": 4216,
       "elapsed_time_s": 4230,
       "elevation_m": 16
+    },
+    "e5b9e6eb66c7a9f907b1": {
+      "h": "e5b9e6eb66c7a9f907b1",
+      "first_seen_at": "2026-06-11T23:25:24.309Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Ahmad",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 13008.5,
+      "moving_time_s": 4704,
+      "elapsed_time_s": 4791,
+      "elevation_m": 58
+    },
+    "4986e7e34b3fd943b3de": {
+      "h": "4986e7e34b3fd943b3de",
+      "first_seen_at": "2026-06-11T23:25:24.309Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Evan",
+      "athlete_last": "B.",
+      "name": "That genie was right, salty meat sweat was a bad wish.",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 49254,
+      "moving_time_s": 24869,
+      "elapsed_time_s": 51501,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-06-11T23:20:28.643Z",
+  "last_synced_at": "2026-06-11T23:25:24.309Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
