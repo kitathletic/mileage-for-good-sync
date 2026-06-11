@@ -157401,9 +157401,51 @@
       "moving_time_s": 1665,
       "elapsed_time_s": 2173,
       "elevation_m": 8
+    },
+    "1cab287f10e6d12b896e": {
+      "h": "1cab287f10e6d12b896e",
+      "first_seen_at": "2026-06-11T13:05:25.567Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Aurasafira",
+      "athlete_last": "P.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5280.3,
+      "moving_time_s": 2633,
+      "elapsed_time_s": 2770,
+      "elevation_m": 0
+    },
+    "964f281b01fcf994aea3": {
+      "h": "964f281b01fcf994aea3",
+      "first_seen_at": "2026-06-11T13:05:25.567Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Deri",
+      "athlete_last": "J.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 16060.5,
+      "moving_time_s": 7174,
+      "elapsed_time_s": 7201,
+      "elevation_m": 15.1
+    },
+    "209b30ca047faf22fc5a": {
+      "h": "209b30ca047faf22fc5a",
+      "first_seen_at": "2026-06-11T13:05:25.567Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Avniel",
+      "athlete_last": "L.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10348.2,
+      "moving_time_s": 4096,
+      "elapsed_time_s": 4602,
+      "elevation_m": 22
     }
   },
-  "last_synced_at": "2026-06-11T13:00:47.831Z",
+  "last_synced_at": "2026-06-11T13:05:25.567Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
