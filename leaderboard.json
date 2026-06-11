@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T21:25:24.422Z",
+  "generated_at": "2026-06-11T21:35:24.802Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 89827.11,
-    "activities": 10085,
-    "moving_time_s": 37735659,
-    "elevation_m": 509603
+    "distance": 89892.4,
+    "activities": 10087,
+    "moving_time_s": 37764789,
+    "elevation_m": 509768
   },
   "rows": [
     {
@@ -76,19 +76,19 @@
       "rank": 6
     },
     {
+      "name": "Evan B.",
+      "activities": 25,
+      "distance": 804.16,
+      "moving_time_s": 377050,
+      "elevation_m": 4563,
+      "rank": 7
+    },
+    {
       "name": "Prana R.",
       "activities": 96,
       "distance": 784.77,
       "moving_time_s": 319077,
       "elevation_m": 10427,
-      "rank": 7
-    },
-    {
-      "name": "Evan B.",
-      "activities": 24,
-      "distance": 754.9,
-      "moving_time_s": 352181,
-      "elevation_m": 4563,
       "rank": 8
     },
     {
@@ -276,12 +276,20 @@
       "rank": 31
     },
     {
+      "name": "Pedro V.",
+      "activities": 49,
+      "distance": 519.84,
+      "moving_time_s": 161083,
+      "elevation_m": 6035,
+      "rank": 32
+    },
+    {
       "name": "Nanditya N.",
       "activities": 69,
       "distance": 515.58,
       "moving_time_s": 163972,
       "elevation_m": 3735,
-      "rank": 32
+      "rank": 33
     },
     {
       "name": "Aswin Mahardi P.",
@@ -289,14 +297,6 @@
       "distance": 511.92,
       "moving_time_s": 186219,
       "elevation_m": 1573,
-      "rank": 33
-    },
-    {
-      "name": "Pedro V.",
-      "activities": 48,
-      "distance": 503.81,
-      "moving_time_s": 156822,
-      "elevation_m": 5870,
       "rank": 34
     },
     {

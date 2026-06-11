@@ -157919,9 +157919,37 @@
       "moving_time_s": 2896,
       "elapsed_time_s": 3329,
       "elevation_m": 140.5
+    },
+    "c74a09b5a8f521f67306": {
+      "h": "c74a09b5a8f521f67306",
+      "first_seen_at": "2026-06-11T21:35:24.802Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Pedro",
+      "athlete_last": "V.",
+      "name": "Corrida da tarde",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 16028.1,
+      "moving_time_s": 4261,
+      "elapsed_time_s": 4261,
+      "elevation_m": 165
+    },
+    "ad825c8ab4673b8e152e": {
+      "h": "ad825c8ab4673b8e152e",
+      "first_seen_at": "2026-06-11T21:35:24.802Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Evan",
+      "athlete_last": "B.",
+      "name": "Trust me. I've seen every zombie film ever made.",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 49254,
+      "moving_time_s": 24869,
+      "elapsed_time_s": 51501,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-06-11T21:25:24.422Z",
+  "last_synced_at": "2026-06-11T21:35:24.802Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
