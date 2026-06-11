@@ -156701,9 +156701,37 @@
       "moving_time_s": 3929,
       "elapsed_time_s": 3980,
       "elevation_m": 56.3
+    },
+    "00ccbca4d727479de6d1": {
+      "h": "00ccbca4d727479de6d1",
+      "first_seen_at": "2026-06-11T02:15:26.006Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Muhammed",
+      "athlete_last": "D.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2044,
+      "moving_time_s": 757,
+      "elapsed_time_s": 757,
+      "elevation_m": 0
+    },
+    "b53c6f2f8202d1db40f0": {
+      "h": "b53c6f2f8202d1db40f0",
+      "first_seen_at": "2026-06-11T02:15:26.006Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Adystra",
+      "athlete_last": "B.",
+      "name": "Watchless run with Aldo. #MindfulProgression",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4035.1,
+      "moving_time_s": 1541,
+      "elapsed_time_s": 1579,
+      "elevation_m": 17.7
     }
   },
-  "last_synced_at": "2026-06-11T02:10:29.350Z",
+  "last_synced_at": "2026-06-11T02:15:26.006Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
