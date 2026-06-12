@@ -159403,9 +159403,37 @@
       "moving_time_s": 2985,
       "elapsed_time_s": 3010,
       "elevation_m": 3.1
+    },
+    "70ebe001572b630ca72b": {
+      "h": "70ebe001572b630ca72b",
+      "first_seen_at": "2026-06-12T01:25:22.674Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Levian",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7506.6,
+      "moving_time_s": 3193,
+      "elapsed_time_s": 3213,
+      "elevation_m": 12
+    },
+    "15b6b02d5c7649efa96a": {
+      "h": "15b6b02d5c7649efa96a",
+      "first_seen_at": "2026-06-12T01:25:22.674Z",
+      "week_key": "2026-W24",
+      "athlete_first": "agnes",
+      "athlete_last": "Y.",
+      "name": "Shake out run with NIKE",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8432.8,
+      "moving_time_s": 3850,
+      "elapsed_time_s": 5804,
+      "elevation_m": 12
     }
   },
-  "last_synced_at": "2026-06-12T01:20:30.136Z",
+  "last_synced_at": "2026-06-12T01:25:22.674Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
