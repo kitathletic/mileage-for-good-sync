@@ -159613,9 +159613,37 @@
       "moving_time_s": 255,
       "elapsed_time_s": 255,
       "elevation_m": 0
+    },
+    "72de5b75274ffa0ade6e": {
+      "h": "72de5b75274ffa0ade6e",
+      "first_seen_at": "2026-06-12T02:15:27.342Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Deviana W.",
+      "athlete_last": "W.",
+      "name": "20 mins Shake Out",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3048.8,
+      "moving_time_s": 1259,
+      "elapsed_time_s": 1390,
+      "elevation_m": 0
+    },
+    "b25d54695302108290c5": {
+      "h": "b25d54695302108290c5",
+      "first_seen_at": "2026-06-12T02:15:27.342Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Yandri",
+      "athlete_last": "F.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5042.5,
+      "moving_time_s": 2518,
+      "elapsed_time_s": 2766,
+      "elevation_m": 5.3
     }
   },
-  "last_synced_at": "2026-06-12T02:10:28.323Z",
+  "last_synced_at": "2026-06-12T02:15:27.342Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
