@@ -158745,9 +158745,51 @@
       "moving_time_s": 3252,
       "elapsed_time_s": 3252,
       "elevation_m": 0
+    },
+    "e195b83609ba1c906097": {
+      "h": "e195b83609ba1c906097",
+      "first_seen_at": "2026-06-12T00:13:12.150Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Ivan Andrey",
+      "athlete_last": "Y.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4510.5,
+      "moving_time_s": 1953,
+      "elapsed_time_s": 2040,
+      "elevation_m": 31
+    },
+    "52699ad39e37964d8d4e": {
+      "h": "52699ad39e37964d8d4e",
+      "first_seen_at": "2026-06-12T00:13:12.150Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Wahyu Bangkit",
+      "athlete_last": "M.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10007.8,
+      "moving_time_s": 3805,
+      "elapsed_time_s": 3828,
+      "elevation_m": 0
+    },
+    "0e73057af0857a1df36a": {
+      "h": "0e73057af0857a1df36a",
+      "first_seen_at": "2026-06-12T00:13:12.150Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Zefan",
+      "athlete_last": "P.",
+      "name": "Lari Trail Pagi",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 7770.9,
+      "moving_time_s": 4454,
+      "elapsed_time_s": 4477,
+      "elevation_m": 247
     }
   },
-  "last_synced_at": "2026-06-12T00:10:29.225Z",
+  "last_synced_at": "2026-06-12T00:13:12.150Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
