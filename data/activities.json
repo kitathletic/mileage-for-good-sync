@@ -159991,9 +159991,37 @@
       "moving_time_s": 2495,
       "elapsed_time_s": 2768,
       "elevation_m": 9
+    },
+    "2d6383ab03034960f6c0": {
+      "h": "2d6383ab03034960f6c0",
+      "first_seen_at": "2026-06-12T04:40:28.906Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Jazzy",
+      "athlete_last": "Z.",
+      "name": "stride 5x100",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 725.7,
+      "moving_time_s": 204,
+      "elapsed_time_s": 210,
+      "elevation_m": 0
+    },
+    "acc7cdcf6ed4dc1c970f": {
+      "h": "acc7cdcf6ed4dc1c970f",
+      "first_seen_at": "2026-06-12T04:40:28.906Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Jazzy",
+      "athlete_last": "Z.",
+      "name": "steady",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5007.2,
+      "moving_time_s": 1350,
+      "elapsed_time_s": 1350,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-06-12T04:35:22.517Z",
+  "last_synced_at": "2026-06-12T04:40:28.906Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
