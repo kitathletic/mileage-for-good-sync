@@ -160859,9 +160859,37 @@
       "moving_time_s": 4041,
       "elapsed_time_s": 5156,
       "elevation_m": 25.6
+    },
+    "88e6ad2b4a5254ced03a": {
+      "h": "88e6ad2b4a5254ced03a",
+      "first_seen_at": "2026-06-12T21:15:38.143Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Cicak",
+      "athlete_last": "T.",
+      "name": "Night Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3018.2,
+      "moving_time_s": 1001,
+      "elapsed_time_s": 1001,
+      "elevation_m": 21.4
+    },
+    "aff9684e2b98e69f5424": {
+      "h": "aff9684e2b98e69f5424",
+      "first_seen_at": "2026-06-12T21:15:38.143Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Pedro",
+      "athlete_last": "V.",
+      "name": "Corrida da tarde",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9320.1,
+      "moving_time_s": 2924,
+      "elapsed_time_s": 2924,
+      "elevation_m": 91
     }
   },
-  "last_synced_at": "2026-06-12T21:10:37.574Z",
+  "last_synced_at": "2026-06-12T21:15:38.143Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
