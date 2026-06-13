@@ -164317,9 +164317,37 @@
       "moving_time_s": 4193,
       "elapsed_time_s": 4451,
       "elevation_m": 33
+    },
+    "48043d427457a7e3993d": {
+      "h": "48043d427457a7e3993d",
+      "first_seen_at": "2026-06-13T23:05:31.406Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Cath",
+      "athlete_last": "H.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2547,
+      "moving_time_s": 1130,
+      "elapsed_time_s": 1210,
+      "elevation_m": 16
+    },
+    "e2cd03f3bc1c96a59474": {
+      "h": "e2cd03f3bc1c96a59474",
+      "first_seen_at": "2026-06-13T23:05:31.406Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Faisal",
+      "athlete_last": "J.",
+      "name": "I don't know how but they found me",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10229.3,
+      "moving_time_s": 3892,
+      "elapsed_time_s": 3900,
+      "elevation_m": 30
     }
   },
-  "last_synced_at": "2026-06-13T23:00:53.806Z",
+  "last_synced_at": "2026-06-13T23:05:31.406Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
