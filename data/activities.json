@@ -161909,9 +161909,37 @@
       "moving_time_s": 3864,
       "elapsed_time_s": 3933,
       "elevation_m": 42.8
+    },
+    "a870b60aae06aa8a3dc8": {
+      "h": "a870b60aae06aa8a3dc8",
+      "first_seen_at": "2026-06-13T00:05:27.912Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Yandri",
+      "athlete_last": "F.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5017.5,
+      "moving_time_s": 2026,
+      "elapsed_time_s": 2149,
+      "elevation_m": 102.7
+    },
+    "5277c1515dfca2e35a38": {
+      "h": "5277c1515dfca2e35a38",
+      "first_seen_at": "2026-06-13T00:05:27.912Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Zad",
+      "athlete_last": "K.",
+      "name": "Hot & tired morning run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6509.4,
+      "moving_time_s": 2221,
+      "elapsed_time_s": 2221,
+      "elevation_m": 37
     }
   },
-  "last_synced_at": "2026-06-13T00:00:55.942Z",
+  "last_synced_at": "2026-06-13T00:05:27.912Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
