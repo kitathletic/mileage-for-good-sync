@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T03:55:29.063Z",
+  "generated_at": "2026-06-13T04:05:27.635Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 92777.58,
-    "activities": 10466,
-    "moving_time_s": 38934132,
-    "elevation_m": 520465
+    "distance": 92817.91,
+    "activities": 10469,
+    "moving_time_s": 38957408,
+    "elevation_m": 522661
   },
   "rows": [
     {
@@ -76,19 +76,19 @@
       "rank": 6
     },
     {
+      "name": "Prana R.",
+      "activities": 99,
+      "distance": 820.78,
+      "moving_time_s": 334046,
+      "elevation_m": 11584,
+      "rank": 7
+    },
+    {
       "name": "Irvan C.",
       "activities": 39,
       "distance": 808.91,
       "moving_time_s": 414323,
       "elevation_m": 5167,
-      "rank": 7
-    },
-    {
-      "name": "Prana R.",
-      "activities": 98,
-      "distance": 802.78,
-      "moving_time_s": 325183,
-      "elevation_m": 10553,
       "rank": 8
     },
     {
@@ -316,12 +316,20 @@
       "rank": 36
     },
     {
+      "name": "Bibip D.",
+      "activities": 56,
+      "distance": 511.77,
+      "moving_time_s": 244925,
+      "elevation_m": 8735,
+      "rank": 37
+    },
+    {
       "name": "Wahyu Bangkit M.",
       "activities": 43,
       "distance": 508.79,
       "moving_time_s": 195682,
       "elevation_m": 445,
-      "rank": 37
+      "rank": 38
     },
     {
       "name": "Erik S.",
@@ -329,14 +337,6 @@
       "distance": 490.99,
       "moving_time_s": 178760,
       "elevation_m": 5081,
-      "rank": 38
-    },
-    {
-      "name": "Bibip D.",
-      "activities": 55,
-      "distance": 490.47,
-      "moving_time_s": 230815,
-      "elevation_m": 7570,
       "rank": 39
     },
     {
@@ -1925,9 +1925,9 @@
     },
     {
       "name": "Viren S.",
-      "activities": 30,
-      "distance": 144.58,
-      "moving_time_s": 51606,
+      "activities": 31,
+      "distance": 145.61,
+      "moving_time_s": 51909,
       "elevation_m": 152,
       "rank": 238
     },
