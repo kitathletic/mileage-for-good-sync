@@ -163561,9 +163561,37 @@
       "moving_time_s": 5402,
       "elapsed_time_s": 5489,
       "elevation_m": 0
+    },
+    "31a768eee41ed4aaa2d4": {
+      "h": "31a768eee41ed4aaa2d4",
+      "first_seen_at": "2026-06-13T09:30:45.741Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Paulo",
+      "athlete_last": "R.",
+      "name": "Corrida matinal",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5053.4,
+      "moving_time_s": 1642,
+      "elapsed_time_s": 1658,
+      "elevation_m": 31.9
+    },
+    "e785fcaec60f534ab12f": {
+      "h": "e785fcaec60f534ab12f",
+      "first_seen_at": "2026-06-13T09:30:45.741Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Rio",
+      "athlete_last": "P.",
+      "name": "BTN JAKIM 10K Race",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10123.4,
+      "moving_time_s": 3462,
+      "elapsed_time_s": 3493,
+      "elevation_m": 32
     }
   },
-  "last_synced_at": "2026-06-13T09:25:28.707Z",
+  "last_synced_at": "2026-06-13T09:30:45.741Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
