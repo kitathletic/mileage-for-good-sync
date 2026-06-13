@@ -164751,9 +164751,37 @@
       "moving_time_s": 8341,
       "elapsed_time_s": 8705,
       "elevation_m": 64
+    },
+    "83d463824807ca66481c": {
+      "h": "83d463824807ca66481c",
+      "first_seen_at": "2026-06-13T23:56:00.131Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Yova",
+      "athlete_last": "G.",
+      "name": "8 x 1000m",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8038,
+      "moving_time_s": 3063,
+      "elapsed_time_s": 4705,
+      "elevation_m": 13
+    },
+    "de425507c5c4402e3ec9": {
+      "h": "de425507c5c4402e3ec9",
+      "first_seen_at": "2026-06-13T23:56:00.131Z",
+      "week_key": "2026-W24",
+      "athlete_first": "El",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 21241.9,
+      "moving_time_s": 7082,
+      "elapsed_time_s": 7089,
+      "elevation_m": 60
     }
   },
-  "last_synced_at": "2026-06-13T23:55:28.351Z",
+  "last_synced_at": "2026-06-13T23:56:00.131Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
