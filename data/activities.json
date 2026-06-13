@@ -163715,9 +163715,37 @@
       "moving_time_s": 1859,
       "elapsed_time_s": 1927,
       "elevation_m": 38
+    },
+    "6dd19e5948c646e67f02": {
+      "h": "6dd19e5948c646e67f02",
+      "first_seen_at": "2026-06-13T11:00:50.786Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Deri",
+      "athlete_last": "J.",
+      "name": "Afternoon Treadmill Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6112.6,
+      "moving_time_s": 2703,
+      "elapsed_time_s": 2703,
+      "elevation_m": 0
+    },
+    "ccecfcacee1aa5805d1b": {
+      "h": "ccecfcacee1aa5805d1b",
+      "first_seen_at": "2026-06-13T11:00:50.786Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Pandu",
+      "athlete_last": "P.",
+      "name": "Latihan Kesabaran 2.0",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5003.7,
+      "moving_time_s": 2426,
+      "elapsed_time_s": 2426,
+      "elevation_m": 18
     }
   },
-  "last_synced_at": "2026-06-13T10:55:27.297Z",
+  "last_synced_at": "2026-06-13T11:00:50.786Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
