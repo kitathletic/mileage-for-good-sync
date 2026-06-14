@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T21:35:25.983Z",
+  "generated_at": "2026-06-14T21:40:33.700Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 39.02,
-    "activities": 3,
-    "moving_time_s": 18818,
-    "elevation_m": 126
+    "distance": 53.04,
+    "activities": 5,
+    "moving_time_s": 23398,
+    "elevation_m": 164
   },
   "rows": [
     {
@@ -35,11 +35,19 @@
     },
     {
       "name": "Cicak T.",
-      "activities": 2,
-      "distance": 9.02,
-      "moving_time_s": 2562,
+      "activities": 3,
+      "distance": 14.03,
+      "moving_time_s": 3614,
       "elevation_m": 0,
       "rank": 2
+    },
+    {
+      "name": "Ken K.",
+      "activities": 1,
+      "distance": 9.01,
+      "moving_time_s": 3528,
+      "elevation_m": 38,
+      "rank": 3
     }
   ]
 }
