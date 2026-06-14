@@ -168349,9 +168349,37 @@
       "moving_time_s": 196,
       "elapsed_time_s": 1298,
       "elevation_m": 0
+    },
+    "2697c5f734ded0650419": {
+      "h": "2697c5f734ded0650419",
+      "first_seen_at": "2026-06-14T11:40:32.642Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Adn",
+      "athlete_last": "X.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5003.5,
+      "moving_time_s": 2659,
+      "elapsed_time_s": 2659,
+      "elevation_m": 8
+    },
+    "ffd9ad7618cc472eea2b": {
+      "h": "ffd9ad7618cc472eea2b",
+      "first_seen_at": "2026-06-14T11:40:32.642Z",
+      "week_key": "2026-W24",
+      "athlete_first": "win",
+      "athlete_last": "C.",
+      "name": "WK05 | BUILD - Speedwork",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8011,
+      "moving_time_s": 2561,
+      "elapsed_time_s": 2561,
+      "elevation_m": 14
     }
   },
-  "last_synced_at": "2026-06-14T11:35:29.303Z",
+  "last_synced_at": "2026-06-14T11:40:32.642Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
