@@ -168111,9 +168111,51 @@
       "moving_time_s": 10308,
       "elapsed_time_s": 10838,
       "elevation_m": 81.8
+    },
+    "44981631a706b1eb5a78": {
+      "h": "44981631a706b1eb5a78",
+      "first_seen_at": "2026-06-14T09:45:34.955Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Paulo",
+      "athlete_last": "R.",
+      "name": "Corrida matinal",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5190.3,
+      "moving_time_s": 1828,
+      "elapsed_time_s": 1841,
+      "elevation_m": 73.3
+    },
+    "c3870f707245d75a41bc": {
+      "h": "c3870f707245d75a41bc",
+      "first_seen_at": "2026-06-14T09:45:34.955Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Ikhya",
+      "athlete_last": "A.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5505.5,
+      "moving_time_s": 1992,
+      "elapsed_time_s": 1994,
+      "elevation_m": 0
+    },
+    "8eddc0ac2ce437ecf640": {
+      "h": "8eddc0ac2ce437ecf640",
+      "first_seen_at": "2026-06-14T09:45:34.955Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Prima",
+      "athlete_last": "S.",
+      "name": "Morning Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 12474.4,
+      "moving_time_s": 20967,
+      "elapsed_time_s": 24480,
+      "elevation_m": 1263
     }
   },
-  "last_synced_at": "2026-06-14T09:40:37.203Z",
+  "last_synced_at": "2026-06-14T09:45:34.955Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
