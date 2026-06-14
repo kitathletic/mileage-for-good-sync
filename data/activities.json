@@ -168237,9 +168237,37 @@
       "moving_time_s": 2730,
       "elapsed_time_s": 2730,
       "elevation_m": 35
+    },
+    "dc4cad7ee1dd1ced6130": {
+      "h": "dc4cad7ee1dd1ced6130",
+      "first_seen_at": "2026-06-14T11:00:50.351Z",
+      "week_key": "2026-W24",
+      "athlete_first": "win",
+      "athlete_last": "C.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8011,
+      "moving_time_s": 2561,
+      "elapsed_time_s": 2561,
+      "elevation_m": 14
+    },
+    "c009ff7b180733807af9": {
+      "h": "c009ff7b180733807af9",
+      "first_seen_at": "2026-06-14T11:00:50.351Z",
+      "week_key": "2026-W24",
+      "athlete_first": "Nyabang",
+      "athlete_last": "G.",
+      "name": "Night Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2474.5,
+      "moving_time_s": 898,
+      "elapsed_time_s": 909,
+      "elevation_m": 29.2
     }
   },
-  "last_synced_at": "2026-06-14T10:55:25.705Z",
+  "last_synced_at": "2026-06-14T11:00:50.351Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
