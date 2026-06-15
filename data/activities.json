@@ -170491,9 +170491,51 @@
       "moving_time_s": 1319,
       "elapsed_time_s": 1319,
       "elevation_m": 0
+    },
+    "bdbadc6cea3a41b3a4b2": {
+      "h": "bdbadc6cea3a41b3a4b2",
+      "first_seen_at": "2026-06-15T23:50:39.065Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Faris",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3854.9,
+      "moving_time_s": 1500,
+      "elapsed_time_s": 1841,
+      "elevation_m": 3.5
+    },
+    "6bf23d50b1934dde2712": {
+      "h": "6bf23d50b1934dde2712",
+      "first_seen_at": "2026-06-15T23:50:39.065Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Denny",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6543.1,
+      "moving_time_s": 2342,
+      "elapsed_time_s": 2366,
+      "elevation_m": 4
+    },
+    "a09f502ef63556b90b83": {
+      "h": "a09f502ef63556b90b83",
+      "first_seen_at": "2026-06-15T23:50:39.065Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Gede Bagol",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10019,
+      "moving_time_s": 4507,
+      "elapsed_time_s": 4532,
+      "elevation_m": 6
     }
   },
-  "last_synced_at": "2026-06-15T23:45:34.136Z",
+  "last_synced_at": "2026-06-15T23:50:39.065Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
