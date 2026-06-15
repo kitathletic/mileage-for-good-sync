@@ -169917,9 +169917,37 @@
       "moving_time_s": 5582,
       "elapsed_time_s": 5630,
       "elevation_m": 12.8
+    },
+    "1592de9ece1b185b68e9": {
+      "h": "1592de9ece1b185b68e9",
+      "first_seen_at": "2026-06-15T13:40:42.629Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Zad",
+      "athlete_last": "K.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2152.1,
+      "moving_time_s": 2894,
+      "elapsed_time_s": 3312,
+      "elevation_m": 0
+    },
+    "1fb4d8511ab2fa7c5600": {
+      "h": "1fb4d8511ab2fa7c5600",
+      "first_seen_at": "2026-06-15T13:40:42.629Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Tanvir",
+      "athlete_last": "S.",
+      "name": "June Challenge 300K",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3539.8,
+      "moving_time_s": 2110,
+      "elapsed_time_s": 2398,
+      "elevation_m": 4.1
     }
   },
-  "last_synced_at": "2026-06-15T13:35:30.606Z",
+  "last_synced_at": "2026-06-15T13:40:42.629Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
