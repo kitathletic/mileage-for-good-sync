@@ -169357,9 +169357,37 @@
       "moving_time_s": 2979,
       "elapsed_time_s": 3013,
       "elevation_m": 2
+    },
+    "3a77eb50ca46451f311f": {
+      "h": "3a77eb50ca46451f311f",
+      "first_seen_at": "2026-06-15T01:00:50.226Z",
+      "week_key": "2026-W25",
+      "athlete_first": "uCokz",
+      "athlete_last": "M.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3161.1,
+      "moving_time_s": 1471,
+      "elapsed_time_s": 1482,
+      "elevation_m": 0
+    },
+    "894c1e5db9a0fed48e87": {
+      "h": "894c1e5db9a0fed48e87",
+      "first_seen_at": "2026-06-15T01:00:50.226Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Kevin",
+      "athlete_last": "T.",
+      "name": "Long after leggies",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 19118.8,
+      "moving_time_s": 5908,
+      "elapsed_time_s": 5911,
+      "elevation_m": 311
     }
   },
-  "last_synced_at": "2026-06-15T00:55:26.420Z",
+  "last_synced_at": "2026-06-15T01:00:50.226Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
