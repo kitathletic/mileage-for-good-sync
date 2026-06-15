@@ -169609,9 +169609,37 @@
       "moving_time_s": 2233,
       "elapsed_time_s": 2233,
       "elevation_m": 0
+    },
+    "679b80948dceff9c59d5": {
+      "h": "679b80948dceff9c59d5",
+      "first_seen_at": "2026-06-15T09:20:37.628Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Johan",
+      "athlete_last": "T.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10518,
+      "moving_time_s": 3684,
+      "elapsed_time_s": 4008,
+      "elevation_m": 46
+    },
+    "22027cac07fa52d776f9": {
+      "h": "22027cac07fa52d776f9",
+      "first_seen_at": "2026-06-15T09:20:37.628Z",
+      "week_key": "2026-W25",
+      "athlete_first": "𝕵𝖆𝖏𝖆𝖓𝖌",
+      "athlete_last": "𝕹.",
+      "name": "Recovery Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4030,
+      "moving_time_s": 2233,
+      "elapsed_time_s": 2233,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-06-15T09:15:36.909Z",
+  "last_synced_at": "2026-06-15T09:20:37.628Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
