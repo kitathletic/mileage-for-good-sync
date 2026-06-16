@@ -171569,9 +171569,37 @@
       "moving_time_s": 6116,
       "elapsed_time_s": 6582,
       "elevation_m": 66.7
+    },
+    "cf75d1bbffbf79b8fc77": {
+      "h": "cf75d1bbffbf79b8fc77",
+      "first_seen_at": "2026-06-16T01:00:48.860Z",
+      "week_key": "2026-W25",
+      "athlete_first": "William",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5007.3,
+      "moving_time_s": 2191,
+      "elapsed_time_s": 2191,
+      "elevation_m": 0
+    },
+    "39629eb2ef894eb18c92": {
+      "h": "39629eb2ef894eb18c92",
+      "first_seen_at": "2026-06-16T01:00:48.860Z",
+      "week_key": "2026-W25",
+      "athlete_first": "𝕵𝖆𝖏𝖆𝖓𝖌",
+      "athlete_last": "𝕹.",
+      "name": "01 Muharam Long Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 14481.6,
+      "moving_time_s": 6256,
+      "elapsed_time_s": 6332,
+      "elevation_m": 64.1
     }
   },
-  "last_synced_at": "2026-06-16T00:55:28.767Z",
+  "last_synced_at": "2026-06-16T01:00:48.860Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
