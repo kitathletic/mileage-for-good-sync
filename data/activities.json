@@ -171975,9 +171975,51 @@
       "moving_time_s": 5213,
       "elapsed_time_s": 5213,
       "elevation_m": 17
+    },
+    "0d5ca2f2256d2c81922d": {
+      "h": "0d5ca2f2256d2c81922d",
+      "first_seen_at": "2026-06-16T01:45:32.705Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Leon",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11163.7,
+      "moving_time_s": 3613,
+      "elapsed_time_s": 3744,
+      "elevation_m": 15
+    },
+    "1ea91e8865023be8ccae": {
+      "h": "1ea91e8865023be8ccae",
+      "first_seen_at": "2026-06-16T01:45:32.705Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Jeremiah",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10173.7,
+      "moving_time_s": 4213,
+      "elapsed_time_s": 4242,
+      "elevation_m": 60
+    },
+    "222f9159127f8dc43d6c": {
+      "h": "222f9159127f8dc43d6c",
+      "first_seen_at": "2026-06-16T01:45:32.705Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Andreas",
+      "athlete_last": "T.",
+      "name": "Morning Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 14388.3,
+      "moving_time_s": 8481,
+      "elapsed_time_s": 8834,
+      "elevation_m": 602
     }
   },
-  "last_synced_at": "2026-06-16T01:40:39.131Z",
+  "last_synced_at": "2026-06-16T01:45:32.705Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
