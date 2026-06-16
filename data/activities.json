@@ -172717,9 +172717,37 @@
       "moving_time_s": 18060,
       "elapsed_time_s": 30412,
       "elevation_m": 583
+    },
+    "0d32dbf1be7d18678b77": {
+      "h": "0d32dbf1be7d18678b77",
+      "first_seen_at": "2026-06-16T08:05:35.798Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Revi",
+      "athlete_last": "P.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5011,
+      "moving_time_s": 2826,
+      "elapsed_time_s": 2826,
+      "elevation_m": 0
+    },
+    "dee91e34f29855b9d3c5": {
+      "h": "dee91e34f29855b9d3c5",
+      "first_seen_at": "2026-06-16T08:05:35.798Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Bondan",
+      "athlete_last": "S.",
+      "name": "Ciberem HM",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 21133.3,
+      "moving_time_s": 9876,
+      "elapsed_time_s": 9881,
+      "elevation_m": 172
     }
   },
-  "last_synced_at": "2026-06-16T08:00:55.119Z",
+  "last_synced_at": "2026-06-16T08:05:35.798Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
