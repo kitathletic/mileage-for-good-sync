@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T12:05:36.863Z",
+  "generated_at": "2026-06-16T12:10:35.762Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 102614.4,
-    "activities": 11183,
-    "moving_time_s": 43218061,
-    "elevation_m": 581974
+    "distance": 102621,
+    "activities": 11184,
+    "moving_time_s": 43220825,
+    "elevation_m": 581991
   },
   "rows": [
     {
@@ -556,12 +556,20 @@
       "rank": 66
     },
     {
+      "name": "Reno Y.",
+      "activities": 49,
+      "distance": 432.79,
+      "moving_time_s": 182139,
+      "elevation_m": 3750,
+      "rank": 67
+    },
+    {
       "name": "Rama E.",
       "activities": 29,
       "distance": 430.31,
       "moving_time_s": 174894,
       "elevation_m": 1688,
-      "rank": 67
+      "rank": 68
     },
     {
       "name": "Indra Z.",
@@ -569,7 +577,7 @@
       "distance": 429.21,
       "moving_time_s": 153003,
       "elevation_m": 701,
-      "rank": 68
+      "rank": 69
     },
     {
       "name": "rimico A.",
@@ -577,14 +585,6 @@
       "distance": 426.86,
       "moving_time_s": 149277,
       "elevation_m": 855,
-      "rank": 69
-    },
-    {
-      "name": "Reno Y.",
-      "activities": 48,
-      "distance": 426.19,
-      "moving_time_s": 179375,
-      "elevation_m": 3733,
       "rank": 70
     },
     {
