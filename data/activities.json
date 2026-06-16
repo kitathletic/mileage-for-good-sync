@@ -172241,9 +172241,37 @@
       "moving_time_s": 3431,
       "elapsed_time_s": 3489,
       "elevation_m": 48
+    },
+    "440e19db2aaa5f2ca791": {
+      "h": "440e19db2aaa5f2ca791",
+      "first_seen_at": "2026-06-16T02:25:29.510Z",
+      "week_key": "2026-W25",
+      "athlete_first": "win",
+      "athlete_last": "C.",
+      "name": "WK06 | BUILD - Easy",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12008,
+      "moving_time_s": 5115,
+      "elapsed_time_s": 5115,
+      "elevation_m": 20
+    },
+    "60e695fed23b046fe6ac": {
+      "h": "60e695fed23b046fe6ac",
+      "first_seen_at": "2026-06-16T02:25:29.510Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Aziz Wahyu",
+      "athlete_last": "P.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 31131.7,
+      "moving_time_s": 10128,
+      "elapsed_time_s": 11336,
+      "elevation_m": 36.3
     }
   },
-  "last_synced_at": "2026-06-16T02:20:39.115Z",
+  "last_synced_at": "2026-06-16T02:25:29.510Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
