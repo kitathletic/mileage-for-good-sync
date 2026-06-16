@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T23:30:41.872Z",
+  "generated_at": "2026-06-16T23:35:33.231Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 102975.09,
-    "activities": 11233,
-    "moving_time_s": 43371366,
-    "elevation_m": 584129
+    "distance": 102990.65,
+    "activities": 11235,
+    "moving_time_s": 43378461,
+    "elevation_m": 584164
   },
   "rows": [
     {
@@ -133,10 +133,10 @@
     },
     {
       "name": "Faris A.",
-      "activities": 63,
-      "distance": 758.39,
-      "moving_time_s": 287169,
-      "elevation_m": 2771,
+      "activities": 64,
+      "distance": 766.55,
+      "moving_time_s": 290254,
+      "elevation_m": 2773,
       "rank": 14
     },
     {
@@ -1572,12 +1572,20 @@
       "rank": 193
     },
     {
+      "name": "Abdu B.",
+      "activities": 33,
+      "distance": 208.63,
+      "moving_time_s": 122560,
+      "elevation_m": 1220,
+      "rank": 194
+    },
+    {
       "name": "Veronika H.",
       "activities": 19,
       "distance": 207.41,
       "moving_time_s": 96376,
       "elevation_m": 573,
-      "rank": 194
+      "rank": 195
     },
     {
       "name": "Andre R.",
@@ -1585,7 +1593,7 @@
       "distance": 207.09,
       "moving_time_s": 74460,
       "elevation_m": 255,
-      "rank": 195
+      "rank": 196
     },
     {
       "name": "Harry W.",
@@ -1593,7 +1601,7 @@
       "distance": 207.07,
       "moving_time_s": 72647,
       "elevation_m": 256,
-      "rank": 196
+      "rank": 197
     },
     {
       "name": "Martin T.",
@@ -1601,7 +1609,7 @@
       "distance": 206.07,
       "moving_time_s": 65102,
       "elevation_m": 376,
-      "rank": 197
+      "rank": 198
     },
     {
       "name": "Arie T.",
@@ -1609,7 +1617,7 @@
       "distance": 205.59,
       "moving_time_s": 69900,
       "elevation_m": 259,
-      "rank": 198
+      "rank": 199
     },
     {
       "name": "Rifqi M.",
@@ -1617,14 +1625,6 @@
       "distance": 202.45,
       "moving_time_s": 101915,
       "elevation_m": 1520,
-      "rank": 199
-    },
-    {
-      "name": "Abdu B.",
-      "activities": 32,
-      "distance": 201.23,
-      "moving_time_s": 118550,
-      "elevation_m": 1187,
       "rank": 200
     },
     {
