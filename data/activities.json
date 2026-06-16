@@ -172857,9 +172857,37 @@
       "moving_time_s": 4068,
       "elapsed_time_s": 4342,
       "elevation_m": 119.5
+    },
+    "996af3c7adfc9bf96a5d": {
+      "h": "996af3c7adfc9bf96a5d",
+      "first_seen_at": "2026-06-16T10:10:44.391Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Aditya",
+      "athlete_last": "Y.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7012,
+      "moving_time_s": 2062,
+      "elapsed_time_s": 2094,
+      "elevation_m": 2
+    },
+    "c2ba70a9bf5636008ba2": {
+      "h": "c2ba70a9bf5636008ba2",
+      "first_seen_at": "2026-06-16T10:10:44.391Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Irwan Sastra",
+      "athlete_last": "W.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5000,
+      "moving_time_s": 2280,
+      "elapsed_time_s": 2280,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-06-16T10:05:39.944Z",
+  "last_synced_at": "2026-06-16T10:10:44.391Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
