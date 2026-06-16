@@ -172339,9 +172339,37 @@
       "moving_time_s": 3345,
       "elapsed_time_s": 4065,
       "elevation_m": 5
+    },
+    "7a439db82830c09949f3": {
+      "h": "7a439db82830c09949f3",
+      "first_seen_at": "2026-06-16T02:45:38.024Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Indra",
+      "athlete_last": "D.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5018.5,
+      "moving_time_s": 2219,
+      "elapsed_time_s": 2223,
+      "elevation_m": 11
+    },
+    "d5be2fcac63b0a51e79a": {
+      "h": "d5be2fcac63b0a51e79a",
+      "first_seen_at": "2026-06-16T02:45:38.024Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Soleiman",
+      "athlete_last": "P.",
+      "name": "Run #79 12.5Km-Combo practices",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12562,
+      "moving_time_s": 3970,
+      "elapsed_time_s": 4507,
+      "elevation_m": 22
     }
   },
-  "last_synced_at": "2026-06-16T02:40:41.243Z",
+  "last_synced_at": "2026-06-16T02:45:38.024Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
