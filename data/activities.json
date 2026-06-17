@@ -175937,9 +175937,65 @@
       "moving_time_s": 1495,
       "elapsed_time_s": 1495,
       "elevation_m": 4
+    },
+    "1ec58ca247d6c07a5467": {
+      "h": "1ec58ca247d6c07a5467",
+      "first_seen_at": "2026-06-17T13:40:36.739Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Peter Nichlas",
+      "athlete_last": "S.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5000,
+      "moving_time_s": 1505,
+      "elapsed_time_s": 1505,
+      "elevation_m": 0
+    },
+    "9c43b0f6bf0548cccdff": {
+      "h": "9c43b0f6bf0548cccdff",
+      "first_seen_at": "2026-06-17T13:40:36.739Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Leon",
+      "athlete_last": "R.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7054.7,
+      "moving_time_s": 2706,
+      "elapsed_time_s": 2838,
+      "elevation_m": 9
+    },
+    "e47777e43d784665ae80": {
+      "h": "e47777e43d784665ae80",
+      "first_seen_at": "2026-06-17T13:40:36.739Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Ivan Andrey",
+      "athlete_last": "Y.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9251.3,
+      "moving_time_s": 4190,
+      "elapsed_time_s": 4204,
+      "elevation_m": 12.2
+    },
+    "28173de9fc5b5956d738": {
+      "h": "28173de9fc5b5956d738",
+      "first_seen_at": "2026-06-17T13:40:36.739Z",
+      "week_key": "2026-W25",
+      "athlete_first": "David",
+      "athlete_last": "P.",
+      "name": "Lari",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1097.9,
+      "moving_time_s": 465,
+      "elapsed_time_s": 670,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-06-17T13:35:37.957Z",
+  "last_synced_at": "2026-06-17T13:40:36.739Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
