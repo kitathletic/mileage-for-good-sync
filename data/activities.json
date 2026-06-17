@@ -175657,9 +175657,37 @@
       "moving_time_s": 2827,
       "elapsed_time_s": 3877,
       "elevation_m": 58
+    },
+    "2e1e9b25daa0995eaa3b": {
+      "h": "2e1e9b25daa0995eaa3b",
+      "first_seen_at": "2026-06-17T12:15:37.516Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Aditya",
+      "athlete_last": "Y.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10011.1,
+      "moving_time_s": 2602,
+      "elapsed_time_s": 2618,
+      "elevation_m": 2
+    },
+    "51f2d8d261b1b71b8999": {
+      "h": "51f2d8d261b1b71b8999",
+      "first_seen_at": "2026-06-17T12:15:37.516Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Teuku",
+      "athlete_last": "U.",
+      "name": "Wake-up the legs run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5052,
+      "moving_time_s": 2206,
+      "elapsed_time_s": 2213,
+      "elevation_m": 15
     }
   },
-  "last_synced_at": "2026-06-17T12:10:35.182Z",
+  "last_synced_at": "2026-06-17T12:15:37.516Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
