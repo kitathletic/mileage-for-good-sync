@@ -175909,9 +175909,37 @@
       "moving_time_s": 2403,
       "elapsed_time_s": 2403,
       "elevation_m": 1
+    },
+    "5f50cf780d407ef47739": {
+      "h": "5f50cf780d407ef47739",
+      "first_seen_at": "2026-06-17T13:30:46.814Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Jazzy",
+      "athlete_last": "Z.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2112.1,
+      "moving_time_s": 1015,
+      "elapsed_time_s": 1015,
+      "elevation_m": 9.8
+    },
+    "9a91a27bbbc7b15881d3": {
+      "h": "9a91a27bbbc7b15881d3",
+      "first_seen_at": "2026-06-17T13:30:46.814Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Nasya",
+      "athlete_last": "Z.",
+      "name": "easy cute run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3006.5,
+      "moving_time_s": 1495,
+      "elapsed_time_s": 1495,
+      "elevation_m": 4
     }
   },
-  "last_synced_at": "2026-06-17T13:25:33.073Z",
+  "last_synced_at": "2026-06-17T13:30:46.814Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
