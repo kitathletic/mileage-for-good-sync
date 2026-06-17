@@ -174915,9 +174915,37 @@
       "moving_time_s": 1715,
       "elapsed_time_s": 1718,
       "elevation_m": 48.3
+    },
+    "9a794c77dab26b2850b2": {
+      "h": "9a794c77dab26b2850b2",
+      "first_seen_at": "2026-06-17T02:05:33.638Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Danny",
+      "athlete_last": "C.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10063.1,
+      "moving_time_s": 4355,
+      "elapsed_time_s": 4750,
+      "elevation_m": 36
+    },
+    "a9e7bd6a00f1a4317d97": {
+      "h": "a9e7bd6a00f1a4317d97",
+      "first_seen_at": "2026-06-17T02:05:33.638Z",
+      "week_key": "2026-W25",
+      "athlete_first": "BUDI",
+      "athlete_last": "P.",
+      "name": "500m Kuling Don",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 504.2,
+      "moving_time_s": 240,
+      "elapsed_time_s": 245,
+      "elevation_m": 1
     }
   },
-  "last_synced_at": "2026-06-17T02:00:48.153Z",
+  "last_synced_at": "2026-06-17T02:05:33.638Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
