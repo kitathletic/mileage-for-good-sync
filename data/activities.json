@@ -175195,9 +175195,37 @@
       "moving_time_s": 3102,
       "elapsed_time_s": 3146,
       "elevation_m": 4
+    },
+    "e34ba1330a765e6d2e6f": {
+      "h": "e34ba1330a765e6d2e6f",
+      "first_seen_at": "2026-06-17T10:10:40.962Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Dhiell",
+      "athlete_last": "R.",
+      "name": "Berlari di luar ruangan",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5281.4,
+      "moving_time_s": 1853,
+      "elapsed_time_s": 1885,
+      "elevation_m": 18.8
+    },
+    "807a36df33bdd97405e4": {
+      "h": "807a36df33bdd97405e4",
+      "first_seen_at": "2026-06-17T10:10:40.962Z",
+      "week_key": "2026-W25",
+      "athlete_first": "San",
+      "athlete_last": "S.",
+      "name": "Recovery Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10007.9,
+      "moving_time_s": 4451,
+      "elapsed_time_s": 4630,
+      "elevation_m": 63
     }
   },
-  "last_synced_at": "2026-06-17T10:05:30.322Z",
+  "last_synced_at": "2026-06-17T10:10:40.962Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
