@@ -174355,9 +174355,65 @@
       "moving_time_s": 1045,
       "elapsed_time_s": 1243,
       "elevation_m": 24
+    },
+    "34ab2bd2c48edd40a71f": {
+      "h": "34ab2bd2c48edd40a71f",
+      "first_seen_at": "2026-06-17T00:25:35.889Z",
+      "week_key": "2026-W25",
+      "athlete_first": "RICO",
+      "athlete_last": "R.",
+      "name": "Recovery Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5011.6,
+      "moving_time_s": 2166,
+      "elapsed_time_s": 2173,
+      "elevation_m": 21
+    },
+    "80ac54926a78a0d4cdad": {
+      "h": "80ac54926a78a0d4cdad",
+      "first_seen_at": "2026-06-17T00:25:35.889Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Rian",
+      "athlete_last": "H.",
+      "name": "Fartlek Training",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8125.8,
+      "moving_time_s": 3058,
+      "elapsed_time_s": 3062,
+      "elevation_m": 30
+    },
+    "dca0a04f6d2b58d7b49f": {
+      "h": "dca0a04f6d2b58d7b49f",
+      "first_seen_at": "2026-06-17T00:25:35.889Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Cath",
+      "athlete_last": "H.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7358,
+      "moving_time_s": 3331,
+      "elapsed_time_s": 3489,
+      "elevation_m": 16
+    },
+    "a7e11fb88a4c1bcf4601": {
+      "h": "a7e11fb88a4c1bcf4601",
+      "first_seen_at": "2026-06-17T00:25:35.889Z",
+      "week_key": "2026-W25",
+      "athlete_first": "William Anthony",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9470,
+      "moving_time_s": 3293,
+      "elapsed_time_s": 3901,
+      "elevation_m": 202
     }
   },
-  "last_synced_at": "2026-06-17T00:20:39.670Z",
+  "last_synced_at": "2026-06-17T00:25:35.889Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
