@@ -175405,9 +175405,37 @@
       "moving_time_s": 1856,
       "elapsed_time_s": 1866,
       "elevation_m": 20
+    },
+    "d5c3f54f10e4b873699d": {
+      "h": "d5c3f54f10e4b873699d",
+      "first_seen_at": "2026-06-17T10:50:41.891Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Jeremy Christ",
+      "athlete_last": "J.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7320,
+      "moving_time_s": 2992,
+      "elapsed_time_s": 3411,
+      "elevation_m": 2.8
+    },
+    "5c85d4d29ba4d2bf7c5d": {
+      "h": "5c85d4d29ba4d2bf7c5d",
+      "first_seen_at": "2026-06-17T10:50:41.891Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Yova",
+      "athlete_last": "G.",
+      "name": "MR",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6236.3,
+      "moving_time_s": 2281,
+      "elapsed_time_s": 4140,
+      "elevation_m": 100.8
     }
   },
-  "last_synced_at": "2026-06-17T10:45:36.199Z",
+  "last_synced_at": "2026-06-17T10:50:41.891Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
