@@ -174215,9 +174215,37 @@
       "moving_time_s": 2042,
       "elapsed_time_s": 2062,
       "elevation_m": 30
+    },
+    "70278b49ba9bcdd44ecd": {
+      "h": "70278b49ba9bcdd44ecd",
+      "first_seen_at": "2026-06-17T00:10:41.465Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Adhitya",
+      "athlete_last": "H.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10411.9,
+      "moving_time_s": 3852,
+      "elapsed_time_s": 3946,
+      "elevation_m": 0
+    },
+    "f3f7a4b4b91045a3b1ba": {
+      "h": "f3f7a4b4b91045a3b1ba",
+      "first_seen_at": "2026-06-17T00:10:41.465Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Zefan",
+      "athlete_last": "P.",
+      "name": "Lari Trail Pagi",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 10703.7,
+      "moving_time_s": 6283,
+      "elapsed_time_s": 6873,
+      "elevation_m": 272
     }
   },
-  "last_synced_at": "2026-06-17T00:07:30.773Z",
+  "last_synced_at": "2026-06-17T00:10:41.465Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
