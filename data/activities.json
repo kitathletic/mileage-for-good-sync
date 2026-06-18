@@ -179017,9 +179017,37 @@
       "moving_time_s": 7046,
       "elapsed_time_s": 8066,
       "elevation_m": 15.1
+    },
+    "9d15dca7ed214e0d0632": {
+      "h": "9d15dca7ed214e0d0632",
+      "first_seen_at": "2026-06-18T17:40:36.482Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Hendri",
+      "athlete_last": "S.",
+      "name": "Night Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6008.4,
+      "moving_time_s": 3058,
+      "elapsed_time_s": 3058,
+      "elevation_m": 0
+    },
+    "f0b6b05f2d01e09ee6d1": {
+      "h": "f0b6b05f2d01e09ee6d1",
+      "first_seen_at": "2026-06-18T17:40:36.482Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Evan",
+      "athlete_last": "B.",
+      "name": "If history repeats itself, I'm getting a dinosaur.",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 35135.4,
+      "moving_time_s": 17181,
+      "elapsed_time_s": 28149,
+      "elevation_m": 166
     }
   },
-  "last_synced_at": "2026-06-18T17:30:48.892Z",
+  "last_synced_at": "2026-06-18T17:40:36.482Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
