@@ -178163,9 +178163,51 @@
       "moving_time_s": 1440,
       "elapsed_time_s": 2865,
       "elevation_m": 0
+    },
+    "3deab9dea0d122126a18": {
+      "h": "3deab9dea0d122126a18",
+      "first_seen_at": "2026-06-18T09:15:38.166Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Guillermo E",
+      "athlete_last": "O.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 404.9,
+      "moving_time_s": 373,
+      "elapsed_time_s": 377,
+      "elevation_m": 0
+    },
+    "07293425acbe045a1aa4": {
+      "h": "07293425acbe045a1aa4",
+      "first_seen_at": "2026-06-18T09:15:38.166Z",
+      "week_key": "2026-W25",
+      "athlete_first": "🌴Emmanuel",
+      "athlete_last": "J.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7020.9,
+      "moving_time_s": 2883,
+      "elapsed_time_s": 2883,
+      "elevation_m": 0
+    },
+    "fa8a0347e1dc899bb206": {
+      "h": "fa8a0347e1dc899bb206",
+      "first_seen_at": "2026-06-18T09:15:38.166Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Johan",
+      "athlete_last": "T.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 21731,
+      "moving_time_s": 7806,
+      "elapsed_time_s": 8960,
+      "elevation_m": 100
     }
   },
-  "last_synced_at": "2026-06-18T09:10:37.104Z",
+  "last_synced_at": "2026-06-18T09:15:38.166Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
