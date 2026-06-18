@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T02:10:39.809Z",
+  "generated_at": "2026-06-18T02:15:37.926Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 116134.08,
-    "activities": 12647,
-    "moving_time_s": 48788156,
-    "elevation_m": 651290
+    "distance": 116144.09,
+    "activities": 12648,
+    "moving_time_s": 48792290,
+    "elevation_m": 651315
   },
   "rows": [
     {
@@ -1324,12 +1324,20 @@
       "rank": 162
     },
     {
+      "name": "Ghani W.",
+      "activities": 30,
+      "distance": 280.2,
+      "moving_time_s": 114419,
+      "elevation_m": 834,
+      "rank": 163
+    },
+    {
       "name": "Donny Eka P.",
       "activities": 28,
       "distance": 279.78,
       "moving_time_s": 102730,
       "elevation_m": 499,
-      "rank": 163
+      "rank": 164
     },
     {
       "name": "Kamal H.",
@@ -1337,7 +1345,7 @@
       "distance": 279.03,
       "moving_time_s": 90854,
       "elevation_m": 1034,
-      "rank": 164
+      "rank": 165
     },
     {
       "name": "baphomet ..",
@@ -1345,7 +1353,7 @@
       "distance": 277.67,
       "moving_time_s": 107061,
       "elevation_m": 945,
-      "rank": 165
+      "rank": 166
     },
     {
       "name": "Rahmad S.",
@@ -1353,7 +1361,7 @@
       "distance": 276.52,
       "moving_time_s": 128451,
       "elevation_m": 638,
-      "rank": 166
+      "rank": 167
     },
     {
       "name": "M Doni M.",
@@ -1361,7 +1369,7 @@
       "distance": 276.27,
       "moving_time_s": 107364,
       "elevation_m": 420,
-      "rank": 167
+      "rank": 168
     },
     {
       "name": "Reynaldi O.",
@@ -1369,14 +1377,6 @@
       "distance": 275.63,
       "moving_time_s": 139970,
       "elevation_m": 687,
-      "rank": 168
-    },
-    {
-      "name": "Ghani W.",
-      "activities": 29,
-      "distance": 270.19,
-      "moving_time_s": 110285,
-      "elevation_m": 809,
       "rank": 169
     },
     {
