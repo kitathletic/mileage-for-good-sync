@@ -178709,9 +178709,37 @@
       "moving_time_s": 3074,
       "elapsed_time_s": 3127,
       "elevation_m": 12
+    },
+    "2c22eeb1e1769524c6d3": {
+      "h": "2c22eeb1e1769524c6d3",
+      "first_seen_at": "2026-06-18T12:20:36.438Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Tenesse",
+      "athlete_last": "D.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8010,
+      "moving_time_s": 3065,
+      "elapsed_time_s": 3259,
+      "elevation_m": 0
+    },
+    "cf8906d7bb2b23e02b06": {
+      "h": "cf8906d7bb2b23e02b06",
+      "first_seen_at": "2026-06-18T12:20:36.438Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Aaron",
+      "athlete_last": "A.",
+      "name": "Balik ke MAF",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8579.8,
+      "moving_time_s": 3596,
+      "elapsed_time_s": 3607,
+      "elevation_m": 47
     }
   },
-  "last_synced_at": "2026-06-18T12:15:37.184Z",
+  "last_synced_at": "2026-06-18T12:20:36.438Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
