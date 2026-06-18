@@ -178303,9 +178303,37 @@
       "moving_time_s": 4407,
       "elapsed_time_s": 4407,
       "elevation_m": 0
+    },
+    "3fb0cf8739343025d2c5": {
+      "h": "3fb0cf8739343025d2c5",
+      "first_seen_at": "2026-06-18T09:55:34.004Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Guillermo E",
+      "athlete_last": "O.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 408.5,
+      "moving_time_s": 267,
+      "elapsed_time_s": 271,
+      "elevation_m": 0
+    },
+    "c1e2c43228e41a5f1c38": {
+      "h": "c1e2c43228e41a5f1c38",
+      "first_seen_at": "2026-06-18T09:55:34.004Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Kasiadi",
+      "athlete_last": "I.",
+      "name": "Berlari Sore",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7166,
+      "moving_time_s": 2695,
+      "elapsed_time_s": 2703,
+      "elevation_m": 8.6
     }
   },
-  "last_synced_at": "2026-06-18T09:50:37.424Z",
+  "last_synced_at": "2026-06-18T09:55:34.004Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90

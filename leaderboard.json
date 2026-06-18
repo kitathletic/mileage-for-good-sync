@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T09:50:37.424Z",
+  "generated_at": "2026-06-18T09:55:34.004Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 105203.52,
-    "activities": 11541,
-    "moving_time_s": 44280807,
-    "elevation_m": 593798
+    "distance": 105211.1,
+    "activities": 11543,
+    "moving_time_s": 44283769,
+    "elevation_m": 593807
   },
   "rows": [
     {
@@ -2452,12 +2452,20 @@
       "rank": 303
     },
     {
+      "name": "Kasiadi I.",
+      "activities": 24,
+      "distance": 102.81,
+      "moving_time_s": 47922,
+      "elevation_m": 252,
+      "rank": 304
+    },
+    {
       "name": "Noval L.",
       "activities": 15,
       "distance": 102.29,
       "moving_time_s": 65247,
       "elevation_m": 283,
-      "rank": 304
+      "rank": 305
     },
     {
       "name": "Rido W.",
@@ -2465,7 +2473,7 @@
       "distance": 100.71,
       "moving_time_s": 80662,
       "elevation_m": 4188,
-      "rank": 305
+      "rank": 306
     },
     {
       "name": "Selvia M.",
@@ -2473,7 +2481,7 @@
       "distance": 100.29,
       "moving_time_s": 42761,
       "elevation_m": 182,
-      "rank": 306
+      "rank": 307
     },
     {
       "name": "Ichsan R.",
@@ -2481,7 +2489,7 @@
       "distance": 99.23,
       "moving_time_s": 50047,
       "elevation_m": 225,
-      "rank": 307
+      "rank": 308
     },
     {
       "name": "Reilly Rae D.",
@@ -2489,7 +2497,7 @@
       "distance": 99.03,
       "moving_time_s": 58830,
       "elevation_m": 88,
-      "rank": 308
+      "rank": 309
     },
     {
       "name": "Asa T.",
@@ -2497,7 +2505,7 @@
       "distance": 98.57,
       "moving_time_s": 43258,
       "elevation_m": 385,
-      "rank": 309
+      "rank": 310
     },
     {
       "name": "Amanda T.",
@@ -2505,14 +2513,6 @@
       "distance": 97.13,
       "moving_time_s": 41250,
       "elevation_m": 70,
-      "rank": 310
-    },
-    {
-      "name": "Kasiadi I.",
-      "activities": 23,
-      "distance": 95.64,
-      "moving_time_s": 45227,
-      "elevation_m": 243,
       "rank": 311
     },
     {
@@ -3085,9 +3085,9 @@
     },
     {
       "name": "Guillermo E O.",
-      "activities": 57,
-      "distance": 40.05,
-      "moving_time_s": 50077,
+      "activities": 58,
+      "distance": 40.46,
+      "moving_time_s": 50344,
       "elevation_m": 86,
       "rank": 383
     },
