@@ -178639,9 +178639,37 @@
       "moving_time_s": 9554,
       "elapsed_time_s": 9561,
       "elevation_m": 602
+    },
+    "fb161ec8b3d1e822779f": {
+      "h": "fb161ec8b3d1e822779f",
+      "first_seen_at": "2026-06-18T12:05:40.737Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Bimantoro",
+      "athlete_last": "B.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5592,
+      "moving_time_s": 2806,
+      "elapsed_time_s": 2993,
+      "elevation_m": 24
+    },
+    "cb5e392cb26aad3760b8": {
+      "h": "cb5e392cb26aad3760b8",
+      "first_seen_at": "2026-06-18T12:05:40.737Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Aaron",
+      "athlete_last": "A.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8579.8,
+      "moving_time_s": 3596,
+      "elapsed_time_s": 3607,
+      "elevation_m": 47
     }
   },
-  "last_synced_at": "2026-06-18T12:00:56.267Z",
+  "last_synced_at": "2026-06-18T12:05:40.737Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
