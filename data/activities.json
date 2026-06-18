@@ -177897,9 +177897,37 @@
       "moving_time_s": 2221,
       "elapsed_time_s": 2300,
       "elevation_m": 6
+    },
+    "ecbb15c3ccee9c19974e": {
+      "h": "ecbb15c3ccee9c19974e",
+      "first_seen_at": "2026-06-18T01:20:32.606Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Vania",
+      "athlete_last": "P.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7151.3,
+      "moving_time_s": 3616,
+      "elapsed_time_s": 3620,
+      "elevation_m": 13
+    },
+    "758c69f30cf4740c28c7": {
+      "h": "758c69f30cf4740c28c7",
+      "first_seen_at": "2026-06-18T01:20:32.606Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Soleiman",
+      "athlete_last": "P.",
+      "name": "Run #80 15Km-Combo practices",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 15007,
+      "moving_time_s": 5172,
+      "elapsed_time_s": 5976,
+      "elevation_m": 23
     }
   },
-  "last_synced_at": "2026-06-18T01:15:37.822Z",
+  "last_synced_at": "2026-06-18T01:20:32.606Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
