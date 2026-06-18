@@ -178737,9 +178737,37 @@
       "moving_time_s": 3596,
       "elapsed_time_s": 3607,
       "elevation_m": 47
+    },
+    "84d51fe6ecccd1cbc48f": {
+      "h": "84d51fe6ecccd1cbc48f",
+      "first_seen_at": "2026-06-18T12:25:29.557Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Wibs",
+      "athlete_last": "_.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3886,
+      "moving_time_s": 1673,
+      "elapsed_time_s": 1740,
+      "elevation_m": 0
+    },
+    "2a6567ff0b5e669f0b80": {
+      "h": "2a6567ff0b5e669f0b80",
+      "first_seen_at": "2026-06-18T12:25:29.557Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Bibip",
+      "athlete_last": "D.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12524.5,
+      "moving_time_s": 4621,
+      "elapsed_time_s": 4865,
+      "elevation_m": 13
     }
   },
-  "last_synced_at": "2026-06-18T12:20:36.438Z",
+  "last_synced_at": "2026-06-18T12:25:29.557Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
