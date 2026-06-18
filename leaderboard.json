@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T04:35:28.733Z",
+  "generated_at": "2026-06-18T04:55:29.018Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 105143.98,
-    "activities": 11528,
-    "moving_time_s": 44254991,
-    "elevation_m": 593595
+    "distance": 105150.64,
+    "activities": 11529,
+    "moving_time_s": 44257867,
+    "elevation_m": 593601
   },
   "rows": [
     {
@@ -1580,12 +1580,20 @@
       "rank": 194
     },
     {
+      "name": "Harry W.",
+      "activities": 25,
+      "distance": 213.73,
+      "moving_time_s": 75523,
+      "elevation_m": 262,
+      "rank": 195
+    },
+    {
       "name": "Martin T.",
       "activities": 21,
       "distance": 213.08,
       "moving_time_s": 67118,
       "elevation_m": 384,
-      "rank": 195
+      "rank": 196
     },
     {
       "name": "Syaifullah S.",
@@ -1593,7 +1601,7 @@
       "distance": 212.4,
       "moving_time_s": 88813,
       "elevation_m": 417,
-      "rank": 196
+      "rank": 197
     },
     {
       "name": "Gisela C.",
@@ -1601,7 +1609,7 @@
       "distance": 210.49,
       "moving_time_s": 94961,
       "elevation_m": 1387,
-      "rank": 197
+      "rank": 198
     },
     {
       "name": "Bondan S.",
@@ -1609,7 +1617,7 @@
       "distance": 209.88,
       "moving_time_s": 94377,
       "elevation_m": 1770,
-      "rank": 198
+      "rank": 199
     },
     {
       "name": "Mario T.",
@@ -1617,7 +1625,7 @@
       "distance": 207.63,
       "moving_time_s": 81109,
       "elevation_m": 167,
-      "rank": 199
+      "rank": 200
     },
     {
       "name": "Steffiani R.",
@@ -1625,7 +1633,7 @@
       "distance": 207.6,
       "moving_time_s": 86633,
       "elevation_m": 265,
-      "rank": 200
+      "rank": 201
     },
     {
       "name": "Veronika H.",
@@ -1633,7 +1641,7 @@
       "distance": 207.41,
       "moving_time_s": 96376,
       "elevation_m": 573,
-      "rank": 201
+      "rank": 202
     },
     {
       "name": "Andre R.",
@@ -1641,14 +1649,6 @@
       "distance": 207.09,
       "moving_time_s": 74460,
       "elevation_m": 255,
-      "rank": 202
-    },
-    {
-      "name": "Harry W.",
-      "activities": 24,
-      "distance": 207.07,
-      "moving_time_s": 72647,
-      "elevation_m": 256,
       "rank": 203
     },
     {
