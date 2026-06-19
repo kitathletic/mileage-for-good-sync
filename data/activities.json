@@ -181607,9 +181607,37 @@
       "moving_time_s": 3146,
       "elapsed_time_s": 3146,
       "elevation_m": 0
+    },
+    "371257ef02c47919a7e9": {
+      "h": "371257ef02c47919a7e9",
+      "first_seen_at": "2026-06-19T22:45:35.280Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Stefanus",
+      "athlete_last": "E.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7251.1,
+      "moving_time_s": 3109,
+      "elapsed_time_s": 3187,
+      "elevation_m": 6.3
+    },
+    "3103ef6d8eaffa65b994": {
+      "h": "3103ef6d8eaffa65b994",
+      "first_seen_at": "2026-06-19T22:45:35.280Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Zad",
+      "athlete_last": "K.",
+      "name": "FM target pace - Morning Long Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 16426.2,
+      "moving_time_s": 5402,
+      "elapsed_time_s": 5402,
+      "elevation_m": 50
     }
   },
-  "last_synced_at": "2026-06-19T22:40:35.003Z",
+  "last_synced_at": "2026-06-19T22:45:35.280Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
