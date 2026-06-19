@@ -181775,9 +181775,37 @@
       "moving_time_s": 6101,
       "elapsed_time_s": 6101,
       "elevation_m": 52
+    },
+    "17f3aa3383524dde59b5": {
+      "h": "17f3aa3383524dde59b5",
+      "first_seen_at": "2026-06-19T23:30:41.924Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Bondan",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5016,
+      "moving_time_s": 1755,
+      "elapsed_time_s": 1764,
+      "elevation_m": 21
+    },
+    "eaeaa1a2edddd030e347": {
+      "h": "eaeaa1a2edddd030e347",
+      "first_seen_at": "2026-06-19T23:30:41.924Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Gede Bagol",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8000,
+      "moving_time_s": 3442,
+      "elapsed_time_s": 3458,
+      "elevation_m": 6
     }
   },
-  "last_synced_at": "2026-06-19T23:25:29.837Z",
+  "last_synced_at": "2026-06-19T23:30:41.924Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
