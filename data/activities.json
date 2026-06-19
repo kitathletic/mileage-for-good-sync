@@ -180823,9 +180823,51 @@
       "moving_time_s": 7,
       "elapsed_time_s": 7,
       "elevation_m": 0
+    },
+    "bd3aa2b5afe465cd61e2": {
+      "h": "bd3aa2b5afe465cd61e2",
+      "first_seen_at": "2026-06-19T11:20:34.977Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Denny",
+      "athlete_last": "R.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5345.4,
+      "moving_time_s": 1871,
+      "elapsed_time_s": 1871,
+      "elevation_m": 2
+    },
+    "42dc361f18b5b5d71bc9": {
+      "h": "42dc361f18b5b5d71bc9",
+      "first_seen_at": "2026-06-19T11:20:34.977Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Nadia",
+      "athlete_last": "S.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3807,
+      "moving_time_s": 1836,
+      "elapsed_time_s": 1842,
+      "elevation_m": 17
+    },
+    "ac4e6a0dba7060921b88": {
+      "h": "ac4e6a0dba7060921b88",
+      "first_seen_at": "2026-06-19T11:20:34.977Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Ciang",
+      "athlete_last": "..",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10000,
+      "moving_time_s": 3614,
+      "elapsed_time_s": 3614,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-06-19T11:15:32.251Z",
+  "last_synced_at": "2026-06-19T11:20:34.977Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
