@@ -183833,9 +183833,51 @@
       "moving_time_s": 7231,
       "elapsed_time_s": 7587,
       "elevation_m": 52.2
+    },
+    "fa9fc0ead185eef7472a": {
+      "h": "fa9fc0ead185eef7472a",
+      "first_seen_at": "2026-06-20T03:20:33.976Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Suryanto",
+      "athlete_last": "F.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9218.6,
+      "moving_time_s": 3449,
+      "elapsed_time_s": 3543,
+      "elevation_m": 0
+    },
+    "fc3794695bd8cffe9460": {
+      "h": "fc3794695bd8cffe9460",
+      "first_seen_at": "2026-06-20T03:20:33.976Z",
+      "week_key": "2026-W25",
+      "athlete_first": "agnes",
+      "athlete_last": "Y.",
+      "name": "Longrun gagal",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 13300,
+      "moving_time_s": 4538,
+      "elapsed_time_s": 4538,
+      "elevation_m": 0
+    },
+    "2dd1af55327580a312a7": {
+      "h": "2dd1af55327580a312a7",
+      "first_seen_at": "2026-06-20T03:20:33.976Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Rama",
+      "athlete_last": "E.",
+      "name": "Morning Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 26097,
+      "moving_time_s": 14321,
+      "elapsed_time_s": 14930,
+      "elevation_m": 1038
     }
   },
-  "last_synced_at": "2026-06-20T03:15:33.886Z",
+  "last_synced_at": "2026-06-20T03:20:33.976Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
