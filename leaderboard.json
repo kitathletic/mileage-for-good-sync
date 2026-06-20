@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T11:00:48.527Z",
+  "generated_at": "2026-06-20T11:05:29.935Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 109117.44,
-    "activities": 11991,
-    "moving_time_s": 45866556,
-    "elevation_m": 613343
+    "distance": 109122.44,
+    "activities": 11992,
+    "moving_time_s": 45868413,
+    "elevation_m": 613352
   },
   "rows": [
     {
@@ -1540,12 +1540,20 @@
       "rank": 189
     },
     {
+      "name": "Pandu P.",
+      "activities": 42,
+      "distance": 227.55,
+      "moving_time_s": 95518,
+      "elevation_m": 669,
+      "rank": 190
+    },
+    {
       "name": "Prima S.",
       "activities": 19,
       "distance": 224.97,
       "moving_time_s": 230607,
       "elevation_m": 11444,
-      "rank": 190
+      "rank": 191
     },
     {
       "name": "Adystra B.",
@@ -1553,7 +1561,7 @@
       "distance": 224.96,
       "moving_time_s": 87516,
       "elevation_m": 819,
-      "rank": 191
+      "rank": 192
     },
     {
       "name": "Yazid I.",
@@ -1561,7 +1569,7 @@
       "distance": 224.88,
       "moving_time_s": 150814,
       "elevation_m": 2134,
-      "rank": 192
+      "rank": 193
     },
     {
       "name": "Dhiell R.",
@@ -1569,7 +1577,7 @@
       "distance": 223.29,
       "moving_time_s": 91058,
       "elevation_m": 515,
-      "rank": 193
+      "rank": 194
     },
     {
       "name": "Martin T.",
@@ -1577,7 +1585,7 @@
       "distance": 223.19,
       "moving_time_s": 70341,
       "elevation_m": 394,
-      "rank": 194
+      "rank": 195
     },
     {
       "name": "Arie T.",
@@ -1585,14 +1593,6 @@
       "distance": 222.62,
       "moving_time_s": 75562,
       "elevation_m": 383,
-      "rank": 195
-    },
-    {
-      "name": "Pandu P.",
-      "activities": 41,
-      "distance": 222.55,
-      "moving_time_s": 93661,
-      "elevation_m": 660,
       "rank": 196
     },
     {
