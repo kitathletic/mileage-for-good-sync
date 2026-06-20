@@ -184841,9 +184841,37 @@
       "moving_time_s": 186,
       "elapsed_time_s": 186,
       "elevation_m": 0
+    },
+    "cd2d1e391b438ef2cf68": {
+      "h": "cd2d1e391b438ef2cf68",
+      "first_seen_at": "2026-06-20T14:40:36.745Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Anasyusuf",
+      "athlete_last": "A.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10204,
+      "moving_time_s": 3906,
+      "elapsed_time_s": 4624,
+      "elevation_m": 74
+    },
+    "8774afee757b693dd38c": {
+      "h": "8774afee757b693dd38c",
+      "first_seen_at": "2026-06-20T14:40:36.745Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Tim",
+      "athlete_last": "W.",
+      "name": "Easy Long Run with SnS",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 15250.1,
+      "moving_time_s": 6031,
+      "elapsed_time_s": 6484,
+      "elevation_m": 29
     }
   },
-  "last_synced_at": "2026-06-20T14:35:29.941Z",
+  "last_synced_at": "2026-06-20T14:40:36.745Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
