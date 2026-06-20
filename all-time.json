@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T00:05:27.954Z",
+  "generated_at": "2026-06-20T00:10:33.599Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 118366.2,
-    "activities": 12950,
-    "moving_time_s": 49687885,
-    "elevation_m": 659025
+    "distance": 118375.76,
+    "activities": 12951,
+    "moving_time_s": 49691482,
+    "elevation_m": 659048
   },
   "rows": [
     {
@@ -1644,12 +1644,20 @@
       "rank": 202
     },
     {
+      "name": "Michael K.",
+      "activities": 28,
+      "distance": 233.44,
+      "moving_time_s": 81073,
+      "elevation_m": 200,
+      "rank": 203
+    },
+    {
       "name": "Yazid I.",
       "activities": 21,
       "distance": 232.9,
       "moving_time_s": 155657,
       "elevation_m": 2148,
-      "rank": 203
+      "rank": 204
     },
     {
       "name": "Naufal M.",
@@ -1657,7 +1665,7 @@
       "distance": 232.86,
       "moving_time_s": 91596,
       "elevation_m": 626,
-      "rank": 204
+      "rank": 205
     },
     {
       "name": "Joshua Y.",
@@ -1665,7 +1673,7 @@
       "distance": 230.34,
       "moving_time_s": 93339,
       "elevation_m": 707,
-      "rank": 205
+      "rank": 206
     },
     {
       "name": "Suryanto F.",
@@ -1673,7 +1681,7 @@
       "distance": 230.14,
       "moving_time_s": 94535,
       "elevation_m": 332,
-      "rank": 206
+      "rank": 207
     },
     {
       "name": "Rifqi M.",
@@ -1681,7 +1689,7 @@
       "distance": 229.69,
       "moving_time_s": 125663,
       "elevation_m": 2233,
-      "rank": 207
+      "rank": 208
     },
     {
       "name": "Gisela C.",
@@ -1689,14 +1697,6 @@
       "distance": 227.03,
       "moving_time_s": 101920,
       "elevation_m": 1463,
-      "rank": 208
-    },
-    {
-      "name": "Michael K.",
-      "activities": 27,
-      "distance": 223.88,
-      "moving_time_s": 77476,
-      "elevation_m": 177,
       "rank": 209
     },
     {
