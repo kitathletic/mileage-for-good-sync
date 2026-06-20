@@ -183889,9 +183889,37 @@
       "moving_time_s": 8025,
       "elapsed_time_s": 9473,
       "elevation_m": 64
+    },
+    "d9924fb56721495f16f4": {
+      "h": "d9924fb56721495f16f4",
+      "first_seen_at": "2026-06-20T03:40:38.029Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Dimas",
+      "athlete_last": "A.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5116.3,
+      "moving_time_s": 2224,
+      "elapsed_time_s": 2234,
+      "elevation_m": 13.7
+    },
+    "4851ee175c36981425c7": {
+      "h": "4851ee175c36981425c7",
+      "first_seen_at": "2026-06-20T03:40:38.029Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Prana",
+      "athlete_last": "R.",
+      "name": "Morning Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 12005,
+      "moving_time_s": 6580,
+      "elapsed_time_s": 6637,
+      "elevation_m": 783
     }
   },
-  "last_synced_at": "2026-06-20T03:35:29.040Z",
+  "last_synced_at": "2026-06-20T03:40:38.029Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
