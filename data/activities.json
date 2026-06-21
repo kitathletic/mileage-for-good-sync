@@ -186535,9 +186535,51 @@
       "moving_time_s": 6090,
       "elapsed_time_s": 6712,
       "elevation_m": 24.3
+    },
+    "849b76b6b68ca6cfff6b": {
+      "h": "849b76b6b68ca6cfff6b",
+      "first_seen_at": "2026-06-21T01:00:50.013Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Ghani",
+      "athlete_last": "W.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10023.3,
+      "moving_time_s": 3926,
+      "elapsed_time_s": 3977,
+      "elevation_m": 61
+    },
+    "1a7af236acc463a708c0": {
+      "h": "1a7af236acc463a708c0",
+      "first_seen_at": "2026-06-21T01:00:50.013Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Nanditya",
+      "athlete_last": "N.",
+      "name": "Pacing 1:50",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 18063.4,
+      "moving_time_s": 5590,
+      "elapsed_time_s": 6294,
+      "elevation_m": 20.7
+    },
+    "d143562fc347e3ae6477": {
+      "h": "d143562fc347e3ae6477",
+      "first_seen_at": "2026-06-21T01:00:50.013Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Theo",
+      "athlete_last": "N.",
+      "name": "Night Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 7299.1,
+      "moving_time_s": 7863,
+      "elapsed_time_s": 8799,
+      "elevation_m": 1091
     }
   },
-  "last_synced_at": "2026-06-21T00:55:27.452Z",
+  "last_synced_at": "2026-06-21T01:00:50.013Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
