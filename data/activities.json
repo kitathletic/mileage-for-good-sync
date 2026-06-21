@@ -188005,9 +188005,37 @@
       "moving_time_s": 17823,
       "elapsed_time_s": 17829,
       "elevation_m": 438
+    },
+    "02d38b66d36af7f5ec34": {
+      "h": "02d38b66d36af7f5ec34",
+      "first_seen_at": "2026-06-21T05:10:34.430Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Levian",
+      "athlete_last": "R.",
+      "name": "Lunch Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6020.2,
+      "moving_time_s": 2236,
+      "elapsed_time_s": 2237,
+      "elevation_m": 0
+    },
+    "60a1d7880ebdef77cf07": {
+      "h": "60a1d7880ebdef77cf07",
+      "first_seen_at": "2026-06-21T05:10:34.430Z",
+      "week_key": "2026-W25",
+      "athlete_first": "ALI",
+      "athlete_last": "..",
+      "name": "Berlari Pagi",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5675.9,
+      "moving_time_s": 2374,
+      "elapsed_time_s": 2423,
+      "elevation_m": 37
     }
   },
-  "last_synced_at": "2026-06-21T05:05:27.858Z",
+  "last_synced_at": "2026-06-21T05:10:34.430Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
