@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T17:10:35.598Z",
+  "generated_at": "2026-06-21T17:15:32.432Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,19 @@
     "Walk"
   ],
   "totals": {
-    "distance": 0,
-    "activities": 0,
-    "moving_time_s": 0,
+    "distance": 15.01,
+    "activities": 1,
+    "moving_time_s": 5075,
     "elevation_m": 0
   },
-  "rows": []
+  "rows": [
+    {
+      "name": "Irwan Sastra W.",
+      "activities": 1,
+      "distance": 15.01,
+      "moving_time_s": 5075,
+      "elevation_m": 0,
+      "rank": 1
+    }
+  ]
 }
