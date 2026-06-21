@@ -187907,9 +187907,51 @@
       "moving_time_s": 5630,
       "elapsed_time_s": 8890,
       "elevation_m": 38.6
+    },
+    "912ad2f88fbcafa3cbe5": {
+      "h": "912ad2f88fbcafa3cbe5",
+      "first_seen_at": "2026-06-21T03:55:29.705Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Rama",
+      "athlete_last": "E.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2447.2,
+      "moving_time_s": 1219,
+      "elapsed_time_s": 1245,
+      "elevation_m": 0
+    },
+    "61d8c519a7828e2e54d0": {
+      "h": "61d8c519a7828e2e54d0",
+      "first_seen_at": "2026-06-21T03:55:29.705Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Aldi",
+      "athlete_last": "..",
+      "name": "Dieng Caldera Race",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 10209.1,
+      "moving_time_s": 9631,
+      "elapsed_time_s": 9635,
+      "elevation_m": 561
+    },
+    "fbb2e400fc47c256fd28": {
+      "h": "fbb2e400fc47c256fd28",
+      "first_seen_at": "2026-06-21T03:55:29.705Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Drik",
+      "athlete_last": "R.",
+      "name": "recovery run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8682.1,
+      "moving_time_s": 3455,
+      "elapsed_time_s": 4616,
+      "elevation_m": 43.6
     }
   },
-  "last_synced_at": "2026-06-21T03:50:35.514Z",
+  "last_synced_at": "2026-06-21T03:55:29.705Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
