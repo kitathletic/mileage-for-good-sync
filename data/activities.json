@@ -188439,9 +188439,37 @@
       "moving_time_s": 2024,
       "elapsed_time_s": 2024,
       "elevation_m": 31.7
+    },
+    "1365b947f640d037031e": {
+      "h": "1365b947f640d037031e",
+      "first_seen_at": "2026-06-21T10:00:51.156Z",
+      "week_key": "2026-W25",
+      "athlete_first": "🌴Emmanuel",
+      "athlete_last": "J.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6430.5,
+      "moving_time_s": 2702,
+      "elapsed_time_s": 2702,
+      "elevation_m": 0
+    },
+    "7aebbac4344087f5ab2a": {
+      "h": "7aebbac4344087f5ab2a",
+      "first_seen_at": "2026-06-21T10:00:51.156Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Paulo",
+      "athlete_last": "R.",
+      "name": "Corrida matinal",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 15172.8,
+      "moving_time_s": 5484,
+      "elapsed_time_s": 5521,
+      "elevation_m": 28.9
     }
   },
-  "last_synced_at": "2026-06-21T09:55:29.128Z",
+  "last_synced_at": "2026-06-21T10:00:51.156Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
