@@ -185401,9 +185401,37 @@
       "moving_time_s": 9136,
       "elapsed_time_s": 9221,
       "elevation_m": 135
+    },
+    "fc0662e8f63c212e70a7": {
+      "h": "fc0662e8f63c212e70a7",
+      "first_seen_at": "2026-06-21T00:00:53.147Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Rian",
+      "athlete_last": "H.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5276.4,
+      "moving_time_s": 2919,
+      "elapsed_time_s": 2989,
+      "elevation_m": 10
+    },
+    "f13652705585729a0859": {
+      "h": "f13652705585729a0859",
+      "first_seen_at": "2026-06-21T00:00:53.147Z",
+      "week_key": "2026-W25",
+      "athlete_first": "Mario",
+      "athlete_last": "J.",
+      "name": "Etnique JRF Training Camp",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 14024.4,
+      "moving_time_s": 6066,
+      "elapsed_time_s": 6142,
+      "elevation_m": 33
     }
   },
-  "last_synced_at": "2026-06-20T23:59:46.204Z",
+  "last_synced_at": "2026-06-21T00:00:53.147Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
