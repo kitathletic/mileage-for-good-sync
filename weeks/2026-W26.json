@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T23:35:29.276Z",
+  "generated_at": "2026-06-21T23:40:35.066Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 182.04,
-    "activities": 22,
-    "moving_time_s": 71203,
-    "elevation_m": 455
+    "distance": 200.72,
+    "activities": 25,
+    "moving_time_s": 77465,
+    "elevation_m": 539
   },
   "rows": [
     {
@@ -122,12 +122,20 @@
       "rank": 12
     },
     {
+      "name": "Arie T.",
+      "activities": 1,
+      "distance": 8.01,
+      "moving_time_s": 2430,
+      "elevation_m": 0,
+      "rank": 13
+    },
+    {
       "name": "Arie A.",
       "activities": 1,
       "distance": 7.29,
       "moving_time_s": 2581,
       "elevation_m": 0,
-      "rank": 13
+      "rank": 14
     },
     {
       "name": "Ken K.",
@@ -135,7 +143,15 @@
       "distance": 7.02,
       "moving_time_s": 2863,
       "elevation_m": 21,
-      "rank": 14
+      "rank": 15
+    },
+    {
+      "name": "Andrew G.",
+      "activities": 1,
+      "distance": 6.1,
+      "moving_time_s": 1908,
+      "elevation_m": 53,
+      "rank": 16
     },
     {
       "name": "Billy S.",
@@ -143,7 +159,15 @@
       "distance": 5.01,
       "moving_time_s": 2264,
       "elevation_m": 0,
-      "rank": 15
+      "rank": 17
+    },
+    {
+      "name": "Bosca H.",
+      "activities": 1,
+      "distance": 4.57,
+      "moving_time_s": 1924,
+      "elevation_m": 31,
+      "rank": 18
     },
     {
       "name": "MORGAN ..",
@@ -151,7 +175,7 @@
       "distance": 3.09,
       "moving_time_s": 862,
       "elevation_m": 39,
-      "rank": 16
+      "rank": 19
     },
     {
       "name": "adiv O.",
@@ -159,7 +183,7 @@
       "distance": 2.51,
       "moving_time_s": 1235,
       "elevation_m": 9,
-      "rank": 17
+      "rank": 20
     },
     {
       "name": "Willy T.",
@@ -167,7 +191,7 @@
       "distance": 1.04,
       "moving_time_s": 375,
       "elevation_m": 3,
-      "rank": 18
+      "rank": 21
     }
   ]
 }
