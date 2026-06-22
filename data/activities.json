@@ -190791,9 +190791,37 @@
       "moving_time_s": 4006,
       "elapsed_time_s": 4006,
       "elevation_m": 9
+    },
+    "26bda5fe76a87f15dc3b": {
+      "h": "26bda5fe76a87f15dc3b",
+      "first_seen_at": "2026-06-22T23:10:35.002Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Pedro",
+      "athlete_last": "V.",
+      "name": "Corrida ao entardecer",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8014.1,
+      "moving_time_s": 2360,
+      "elapsed_time_s": 2360,
+      "elevation_m": 3
+    },
+    "b261ac144ff85d4c4ace": {
+      "h": "b261ac144ff85d4c4ace",
+      "first_seen_at": "2026-06-22T23:10:35.002Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Serigala",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 15018.5,
+      "moving_time_s": 4623,
+      "elapsed_time_s": 4763,
+      "elevation_m": 43
     }
   },
-  "last_synced_at": "2026-06-22T23:05:28.201Z",
+  "last_synced_at": "2026-06-22T23:10:35.002Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
