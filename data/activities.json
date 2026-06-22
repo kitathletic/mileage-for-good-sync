@@ -189685,9 +189685,37 @@
       "moving_time_s": 3659,
       "elapsed_time_s": 3668,
       "elevation_m": 16
+    },
+    "faf93ca43f7b1ca323eb": {
+      "h": "faf93ca43f7b1ca323eb",
+      "first_seen_at": "2026-06-22T00:40:36.584Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Veronika",
+      "athlete_last": "H.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2053.4,
+      "moving_time_s": 915,
+      "elapsed_time_s": 915,
+      "elevation_m": 0
+    },
+    "cbc3ed88426785116641": {
+      "h": "cbc3ed88426785116641",
+      "first_seen_at": "2026-06-22T00:40:36.584Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Rizky",
+      "athlete_last": "F.",
+      "name": "Recovery after Marathon MJM",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 21224.4,
+      "moving_time_s": 8177,
+      "elapsed_time_s": 8553,
+      "elevation_m": 101
     }
   },
-  "last_synced_at": "2026-06-22T00:35:27.665Z",
+  "last_synced_at": "2026-06-22T00:40:36.584Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
