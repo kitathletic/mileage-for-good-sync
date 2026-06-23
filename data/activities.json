@@ -193241,9 +193241,37 @@
       "moving_time_s": 3262,
       "elapsed_time_s": 3413,
       "elevation_m": 0
+    },
+    "a0ee3e833d2c014d1ef3": {
+      "h": "a0ee3e833d2c014d1ef3",
+      "first_seen_at": "2026-06-23T13:05:33.499Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Shannen",
+      "athlete_last": "A.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7358.6,
+      "moving_time_s": 2812,
+      "elapsed_time_s": 2812,
+      "elevation_m": 0
+    },
+    "29513f08f25237d1de4d": {
+      "h": "29513f08f25237d1de4d",
+      "first_seen_at": "2026-06-23T13:05:33.499Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Reno",
+      "athlete_last": "Y.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10105.3,
+      "moving_time_s": 4145,
+      "elapsed_time_s": 4265,
+      "elevation_m": 36.5
     }
   },
-  "last_synced_at": "2026-06-23T13:00:54.079Z",
+  "last_synced_at": "2026-06-23T13:05:33.499Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
