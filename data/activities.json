@@ -192163,9 +192163,51 @@
       "moving_time_s": 2190,
       "elapsed_time_s": 2199,
       "elevation_m": 25.8
+    },
+    "c16aa27ba6972384666b": {
+      "h": "c16aa27ba6972384666b",
+      "first_seen_at": "2026-06-23T01:45:32.496Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Prana",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11501,
+      "moving_time_s": 3626,
+      "elapsed_time_s": 3626,
+      "elevation_m": 4
+    },
+    "c1c5db4f48f9ba67f97c": {
+      "h": "c1c5db4f48f9ba67f97c",
+      "first_seen_at": "2026-06-23T01:45:32.496Z",
+      "week_key": "2026-W26",
+      "athlete_first": "win",
+      "athlete_last": "C.",
+      "name": "WK07 | BUILD - Interval",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10006.6,
+      "moving_time_s": 3534,
+      "elapsed_time_s": 3537,
+      "elevation_m": 0
+    },
+    "b837ec43c702614ca9a7": {
+      "h": "b837ec43c702614ca9a7",
+      "first_seen_at": "2026-06-23T01:45:32.496Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Indra",
+      "athlete_last": "Z.",
+      "name": "Interval: 3 x (1200m, 400m)",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11008.5,
+      "moving_time_s": 3981,
+      "elapsed_time_s": 3984,
+      "elevation_m": 15
     }
   },
-  "last_synced_at": "2026-06-23T01:40:36.812Z",
+  "last_synced_at": "2026-06-23T01:45:32.496Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
