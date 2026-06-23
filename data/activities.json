@@ -193199,9 +193199,51 @@
       "moving_time_s": 1486,
       "elapsed_time_s": 1515,
       "elevation_m": 75
+    },
+    "ab72d7997e641e34b0e0": {
+      "h": "ab72d7997e641e34b0e0",
+      "first_seen_at": "2026-06-23T13:00:54.079Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Alfian",
+      "athlete_last": "N.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9621,
+      "moving_time_s": 3250,
+      "elapsed_time_s": 3250,
+      "elevation_m": 8
+    },
+    "42ef3ebace728f4e9776": {
+      "h": "42ef3ebace728f4e9776",
+      "first_seen_at": "2026-06-23T13:00:54.079Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Jay",
+      "athlete_last": "..",
+      "name": "EZ Run with acceleration",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11005.7,
+      "moving_time_s": 3602,
+      "elapsed_time_s": 3606,
+      "elevation_m": 35.2
+    },
+    "d2c2c5d51b187c108d8e": {
+      "h": "d2c2c5d51b187c108d8e",
+      "first_seen_at": "2026-06-23T13:00:54.079Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Yehezkiel",
+      "athlete_last": "P.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7499.7,
+      "moving_time_s": 3262,
+      "elapsed_time_s": 3413,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-06-23T12:55:29.317Z",
+  "last_synced_at": "2026-06-23T13:00:54.079Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
