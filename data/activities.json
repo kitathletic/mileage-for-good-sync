@@ -192233,9 +192233,51 @@
       "moving_time_s": 3643,
       "elapsed_time_s": 3777,
       "elevation_m": 9
+    },
+    "8b42f6e87832351854b5": {
+      "h": "8b42f6e87832351854b5",
+      "first_seen_at": "2026-06-23T01:55:30.523Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Viren",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3020,
+      "moving_time_s": 1317,
+      "elapsed_time_s": 1333,
+      "elevation_m": 0
+    },
+    "3efc4b7c426e2c363b61": {
+      "h": "3efc4b7c426e2c363b61",
+      "first_seen_at": "2026-06-23T01:55:30.523Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Viren",
+      "athlete_last": "S.",
+      "name": "Pre Workout Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2810,
+      "moving_time_s": 1078,
+      "elapsed_time_s": 1098,
+      "elevation_m": 8.5
+    },
+    "9b3eac3391fb685faa96": {
+      "h": "9b3eac3391fb685faa96",
+      "first_seen_at": "2026-06-23T01:55:30.523Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Asen",
+      "athlete_last": "..",
+      "name": "2026-06-23 MAF Training HR Z2 (10K)",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10085,
+      "moving_time_s": 3608,
+      "elapsed_time_s": 3608,
+      "elevation_m": 18
     }
   },
-  "last_synced_at": "2026-06-23T01:50:36.061Z",
+  "last_synced_at": "2026-06-23T01:55:30.523Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
