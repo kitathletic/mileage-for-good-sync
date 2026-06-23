@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T23:20:35.412Z",
+  "generated_at": "2026-06-23T23:25:30.317Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 115431.51,
-    "activities": 12666,
-    "moving_time_s": 48547671,
-    "elevation_m": 654438
+    "distance": 115463.82,
+    "activities": 12669,
+    "moving_time_s": 48559224,
+    "elevation_m": 654520
   },
   "rows": [
     {
@@ -188,12 +188,20 @@
       "rank": 20
     },
     {
+      "name": "Serigala S.",
+      "activities": 44,
+      "distance": 728.21,
+      "moving_time_s": 275730,
+      "elevation_m": 2407,
+      "rank": 21
+    },
+    {
       "name": "Stefanus E.",
       "activities": 88,
       "distance": 716.64,
       "moving_time_s": 310959,
       "elevation_m": 2775,
-      "rank": 21
+      "rank": 22
     },
     {
       "name": "Wah E.",
@@ -201,14 +209,6 @@
       "distance": 716.13,
       "moving_time_s": 306600,
       "elevation_m": 3374,
-      "rank": 22
-    },
-    {
-      "name": "Serigala S.",
-      "activities": 43,
-      "distance": 713.2,
-      "moving_time_s": 270146,
-      "elevation_m": 2360,
       "rank": 23
     },
     {
@@ -253,10 +253,10 @@
     },
     {
       "name": "Arsi 🍀.",
-      "activities": 58,
-      "distance": 666.03,
-      "moving_time_s": 248188,
-      "elevation_m": 1902,
+      "activities": 59,
+      "distance": 675.25,
+      "moving_time_s": 251595,
+      "elevation_m": 1937,
       "rank": 29
     },
     {
@@ -1636,12 +1636,20 @@
       "rank": 201
     },
     {
+      "name": "Andrus E.",
+      "activities": 46,
+      "distance": 229.99,
+      "moving_time_s": 81018,
+      "elevation_m": 2581,
+      "rank": 202
+    },
+    {
       "name": "Suryanto F.",
       "activities": 26,
       "distance": 229.04,
       "moving_time_s": 93841,
       "elevation_m": 318,
-      "rank": 202
+      "rank": 203
     },
     {
       "name": "Harry W.",
@@ -1649,14 +1657,6 @@
       "distance": 228.47,
       "moving_time_s": 81514,
       "elevation_m": 278,
-      "rank": 203
-    },
-    {
-      "name": "Andrus E.",
-      "activities": 45,
-      "distance": 221.91,
-      "moving_time_s": 78456,
-      "elevation_m": 2581,
       "rank": 204
     },
     {
