@@ -191617,9 +191617,37 @@
       "moving_time_s": 3300,
       "elapsed_time_s": 5018,
       "elevation_m": 8
+    },
+    "be1db98b79250d3ed02a": {
+      "h": "be1db98b79250d3ed02a",
+      "first_seen_at": "2026-06-23T00:30:45.596Z",
+      "week_key": "2026-W26",
+      "athlete_first": "William Anthony",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8868.3,
+      "moving_time_s": 3600,
+      "elapsed_time_s": 3600,
+      "elevation_m": 80
+    },
+    "00067bf2f870521644cb": {
+      "h": "00067bf2f870521644cb",
+      "first_seen_at": "2026-06-23T00:30:45.596Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Leon",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 14500.3,
+      "moving_time_s": 5424,
+      "elapsed_time_s": 5429,
+      "elevation_m": 33
     }
   },
-  "last_synced_at": "2026-06-23T00:25:31.052Z",
+  "last_synced_at": "2026-06-23T00:30:45.596Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
