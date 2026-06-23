@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T01:35:28.344Z",
+  "generated_at": "2026-06-23T01:40:36.812Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 125535.75,
-    "activities": 13653,
-    "moving_time_s": 52726239,
-    "elevation_m": 709275
+    "distance": 125545.5,
+    "activities": 13656,
+    "moving_time_s": 52730982,
+    "elevation_m": 709302
   },
   "rows": [
     {
@@ -301,10 +301,10 @@
     },
     {
       "name": "Aswin Mahardi P.",
-      "activities": 80,
-      "distance": 682.7,
-      "moving_time_s": 246114,
-      "elevation_m": 2042,
+      "activities": 81,
+      "distance": 683.39,
+      "moving_time_s": 246400,
+      "elevation_m": 2043,
       "rank": 35
     },
     {
@@ -1212,12 +1212,20 @@
       "rank": 148
     },
     {
+      "name": "Yudong A.",
+      "activities": 48,
+      "distance": 329.78,
+      "moving_time_s": 152650,
+      "elevation_m": 669,
+      "rank": 149
+    },
+    {
       "name": "Adi R.",
       "activities": 54,
       "distance": 329.32,
       "moving_time_s": 155512,
       "elevation_m": 1590,
-      "rank": 149
+      "rank": 150
     },
     {
       "name": "Donny Eka P.",
@@ -1225,7 +1233,15 @@
       "distance": 328.21,
       "moving_time_s": 120830,
       "elevation_m": 722,
-      "rank": 150
+      "rank": 151
+    },
+    {
+      "name": "AnilKumar K.",
+      "activities": 53,
+      "distance": 327.22,
+      "moving_time_s": 156308,
+      "elevation_m": 2405,
+      "rank": 152
     },
     {
       "name": "Ivan S.",
@@ -1233,15 +1249,7 @@
       "distance": 326.64,
       "moving_time_s": 123675,
       "elevation_m": 1345,
-      "rank": 151
-    },
-    {
-      "name": "Yudong A.",
-      "activities": 47,
-      "distance": 325.78,
-      "moving_time_s": 150383,
-      "elevation_m": 669,
-      "rank": 152
+      "rank": 153
     },
     {
       "name": "Ciko N.",
@@ -1249,14 +1257,6 @@
       "distance": 324.27,
       "moving_time_s": 183455,
       "elevation_m": 3726,
-      "rank": 153
-    },
-    {
-      "name": "AnilKumar K.",
-      "activities": 52,
-      "distance": 322.16,
-      "moving_time_s": 154118,
-      "elevation_m": 2379,
       "rank": 154
     },
     {
