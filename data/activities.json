@@ -196055,9 +196055,37 @@
       "moving_time_s": 3272,
       "elapsed_time_s": 3272,
       "elevation_m": 0
+    },
+    "2e28c69329d0e8ff6b8d": {
+      "h": "2e28c69329d0e8ff6b8d",
+      "first_seen_at": "2026-06-24T12:25:31.592Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Nindita",
+      "athlete_last": "H.",
+      "name": "5k ez",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5175.7,
+      "moving_time_s": 2404,
+      "elapsed_time_s": 2424,
+      "elevation_m": 7.1
+    },
+    "fe69a7b985f07db0b36f": {
+      "h": "fe69a7b985f07db0b36f",
+      "first_seen_at": "2026-06-24T12:25:31.592Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Wibs",
+      "athlete_last": "_.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5558,
+      "moving_time_s": 2692,
+      "elapsed_time_s": 2695,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-06-24T12:20:39.131Z",
+  "last_synced_at": "2026-06-24T12:25:31.592Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
