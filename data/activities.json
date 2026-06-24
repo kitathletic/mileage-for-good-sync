@@ -196195,9 +196195,37 @@
       "moving_time_s": 6018,
       "elapsed_time_s": 9052,
       "elevation_m": 0
+    },
+    "5c03047a1b0fa89348e8": {
+      "h": "5c03047a1b0fa89348e8",
+      "first_seen_at": "2026-06-24T13:05:31.764Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Rido",
+      "athlete_last": "W.",
+      "name": "Berlari Sore",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5115.4,
+      "moving_time_s": 1757,
+      "elapsed_time_s": 1757,
+      "elevation_m": 37
+    },
+    "37ea99da7b5c78720229": {
+      "h": "37ea99da7b5c78720229",
+      "first_seen_at": "2026-06-24T13:05:31.764Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Ifal",
+      "athlete_last": "🥷.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5000,
+      "moving_time_s": 2443,
+      "elapsed_time_s": 2443,
+      "elevation_m": 2
     }
   },
-  "last_synced_at": "2026-06-24T13:00:50.813Z",
+  "last_synced_at": "2026-06-24T13:05:31.764Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
