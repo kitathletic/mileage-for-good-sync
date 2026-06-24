@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T14:35:30.047Z",
+  "generated_at": "2026-06-24T14:40:34.338Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 116681.12,
-    "activities": 12833,
-    "moving_time_s": 49031723,
-    "elevation_m": 657655
+    "distance": 116686.5,
+    "activities": 12834,
+    "moving_time_s": 49033874,
+    "elevation_m": 657820
   },
   "rows": [
     {
@@ -2604,12 +2604,20 @@
       "rank": 322
     },
     {
+      "name": "Dimas A.",
+      "activities": 15,
+      "distance": 95.78,
+      "moving_time_s": 40000,
+      "elevation_m": 426,
+      "rank": 323
+    },
+    {
       "name": "Arman Fellany L.",
       "activities": 9,
       "distance": 95.25,
       "moving_time_s": 45574,
       "elevation_m": 394,
-      "rank": 323
+      "rank": 324
     },
     {
       "name": "Gita D.",
@@ -2617,14 +2625,6 @@
       "distance": 93.55,
       "moving_time_s": 50847,
       "elevation_m": 323,
-      "rank": 324
-    },
-    {
-      "name": "Dimas A.",
-      "activities": 14,
-      "distance": 90.4,
-      "moving_time_s": 37849,
-      "elevation_m": 261,
       "rank": 325
     },
     {
