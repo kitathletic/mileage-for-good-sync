@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T21:30:41.747Z",
+  "generated_at": "2026-06-25T21:35:26.486Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 118290.02,
-    "activities": 13039,
-    "moving_time_s": 49692263,
-    "elevation_m": 663275
+    "distance": 118305.03,
+    "activities": 13040,
+    "moving_time_s": 49696848,
+    "elevation_m": 663441
   },
   "rows": [
     {
@@ -276,12 +276,20 @@
       "rank": 31
     },
     {
+      "name": "Pedro V.",
+      "activities": 62,
+      "distance": 681.51,
+      "moving_time_s": 209555,
+      "elevation_m": 7589,
+      "rank": 32
+    },
+    {
       "name": "Nayaka B.",
       "activities": 114,
       "distance": 679.54,
       "moving_time_s": 224071,
       "elevation_m": 2566,
-      "rank": 32
+      "rank": 33
     },
     {
       "name": "Aziz Wahyu P.",
@@ -289,14 +297,6 @@
       "distance": 674.22,
       "moving_time_s": 216093,
       "elevation_m": 1628,
-      "rank": 33
-    },
-    {
-      "name": "Pedro V.",
-      "activities": 61,
-      "distance": 666.5,
-      "moving_time_s": 204970,
-      "elevation_m": 7423,
       "rank": 34
     },
     {
