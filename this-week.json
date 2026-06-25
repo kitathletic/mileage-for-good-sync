@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T03:50:39.241Z",
+  "generated_at": "2026-06-25T03:55:30.524Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -20,8 +20,8 @@
   ],
   "totals": {
     "distance": 4946.63,
-    "activities": 651,
-    "moving_time_s": 1987642,
+    "activities": 652,
+    "moving_time_s": 1991242,
     "elevation_m": 15374
   },
   "rows": [
@@ -2072,6 +2072,14 @@
       "moving_time_s": 622,
       "elevation_m": 0,
       "rank": 256
+    },
+    {
+      "name": "Adystra B.",
+      "activities": 1,
+      "distance": 0,
+      "moving_time_s": 3600,
+      "elevation_m": 0,
+      "rank": 257
     }
   ]
 }
