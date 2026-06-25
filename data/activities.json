@@ -198813,9 +198813,37 @@
       "moving_time_s": 2311,
       "elapsed_time_s": 2357,
       "elevation_m": 0
+    },
+    "0fc132dae2dd986f8b0b": {
+      "h": "0fc132dae2dd986f8b0b",
+      "first_seen_at": "2026-06-25T12:55:30.629Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Safira",
+      "athlete_last": "P.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5008.2,
+      "moving_time_s": 1805,
+      "elapsed_time_s": 1818,
+      "elevation_m": 5
+    },
+    "49dedf918f32a4030f2a": {
+      "h": "49dedf918f32a4030f2a",
+      "first_seen_at": "2026-06-25T12:55:30.629Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Revi",
+      "athlete_last": "P.",
+      "name": "Evening Run - LT1 Re-Activation",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8008,
+      "moving_time_s": 4318,
+      "elapsed_time_s": 4323,
+      "elevation_m": 3
     }
   },
-  "last_synced_at": "2026-06-25T12:50:37.505Z",
+  "last_synced_at": "2026-06-25T12:55:30.629Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
