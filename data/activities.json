@@ -198603,9 +198603,37 @@
       "moving_time_s": 3280,
       "elapsed_time_s": 3283,
       "elevation_m": 15
+    },
+    "e0ca650bf024982b4a6e": {
+      "h": "e0ca650bf024982b4a6e",
+      "first_seen_at": "2026-06-25T11:40:38.116Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Ivan Andrey",
+      "athlete_last": "Y.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 151.3,
+      "moving_time_s": 74,
+      "elapsed_time_s": 74,
+      "elevation_m": 0
+    },
+    "326d6fc35290660195e2": {
+      "h": "326d6fc35290660195e2",
+      "first_seen_at": "2026-06-25T11:40:38.116Z",
+      "week_key": "2026-W26",
+      "athlete_first": "M Yudho",
+      "athlete_last": "F.",
+      "name": "Berlari Petang",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 155.8,
+      "moving_time_s": 67,
+      "elapsed_time_s": 2087,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-06-25T11:35:30.666Z",
+  "last_synced_at": "2026-06-25T11:40:38.116Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
