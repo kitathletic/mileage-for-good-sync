@@ -199527,9 +199527,37 @@
       "moving_time_s": 1245,
       "elapsed_time_s": 1248,
       "elevation_m": 2
+    },
+    "2fa2eb73e23f2da62fc5": {
+      "h": "2fa2eb73e23f2da62fc5",
+      "first_seen_at": "2026-06-25T23:30:41.723Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Briandie",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9222,
+      "moving_time_s": 3610,
+      "elapsed_time_s": 3610,
+      "elevation_m": 0
+    },
+    "0a2ba18ff083a66e1130": {
+      "h": "0a2ba18ff083a66e1130",
+      "first_seen_at": "2026-06-25T23:30:41.723Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Briandie",
+      "athlete_last": "S.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9685,
+      "moving_time_s": 3714,
+      "elapsed_time_s": 3719,
+      "elevation_m": 2
     }
   },
-  "last_synced_at": "2026-06-25T23:25:28.790Z",
+  "last_synced_at": "2026-06-25T23:30:41.723Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
