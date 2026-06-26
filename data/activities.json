@@ -201459,9 +201459,37 @@
       "moving_time_s": 2496,
       "elapsed_time_s": 2550,
       "elevation_m": 6.6
+    },
+    "eac818a0e1861f4410c3": {
+      "h": "eac818a0e1861f4410c3",
+      "first_seen_at": "2026-06-26T13:10:38.461Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Samuel Zeth",
+      "athlete_last": "A.",
+      "name": "Berlari Sore",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 773.8,
+      "moving_time_s": 411,
+      "elapsed_time_s": 490,
+      "elevation_m": 0
+    },
+    "a55a163d31ce96b83e08": {
+      "h": "a55a163d31ce96b83e08",
+      "first_seen_at": "2026-06-26T13:10:38.461Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Andri",
+      "athlete_last": "K.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 15779,
+      "moving_time_s": 5140,
+      "elapsed_time_s": 5144,
+      "elevation_m": 15
     }
   },
-  "last_synced_at": "2026-06-26T13:05:25.698Z",
+  "last_synced_at": "2026-06-26T13:10:38.461Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
