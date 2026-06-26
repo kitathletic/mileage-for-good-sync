@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T01:05:27.826Z",
+  "generated_at": "2026-06-26T01:10:35.069Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 118968.05,
-    "activities": 13129,
-    "moving_time_s": 49968291,
-    "elevation_m": 665263
+    "distance": 118981.5,
+    "activities": 13131,
+    "moving_time_s": 49973910,
+    "elevation_m": 665345
   },
   "rows": [
     {
@@ -524,19 +524,19 @@
       "rank": 62
     },
     {
+      "name": "Jeremiah S.",
+      "activities": 79,
+      "distance": 512.51,
+      "moving_time_s": 223702,
+      "elevation_m": 2445,
+      "rank": 63
+    },
+    {
       "name": "Reno Y.",
       "activities": 58,
       "distance": 507.92,
       "moving_time_s": 211796,
       "elevation_m": 4032,
-      "rank": 63
-    },
-    {
-      "name": "Jeremiah S.",
-      "activities": 78,
-      "distance": 505.07,
-      "moving_time_s": 220676,
-      "elevation_m": 2406,
       "rank": 64
     },
     {
@@ -1596,12 +1596,20 @@
       "rank": 196
     },
     {
+      "name": "Gisela C.",
+      "activities": 30,
+      "distance": 238.27,
+      "moving_time_s": 106824,
+      "elevation_m": 1596,
+      "rank": 197
+    },
+    {
       "name": "Suryanto F.",
       "activities": 27,
       "distance": 238.18,
       "moving_time_s": 97201,
       "elevation_m": 318,
-      "rank": 197
+      "rank": 198
     },
     {
       "name": "Andrus E.",
@@ -1609,7 +1617,7 @@
       "distance": 238.05,
       "moving_time_s": 83895,
       "elevation_m": 2581,
-      "rank": 198
+      "rank": 199
     },
     {
       "name": "Bondan S.",
@@ -1617,7 +1625,7 @@
       "distance": 237.83,
       "moving_time_s": 107974,
       "elevation_m": 1992,
-      "rank": 199
+      "rank": 200
     },
     {
       "name": "Yazid I.",
@@ -1625,7 +1633,7 @@
       "distance": 234.91,
       "moving_time_s": 156089,
       "elevation_m": 2144,
-      "rank": 200
+      "rank": 201
     },
     {
       "name": "Yogi A D.",
@@ -1633,7 +1641,7 @@
       "distance": 234.5,
       "moving_time_s": 101081,
       "elevation_m": 1915,
-      "rank": 201
+      "rank": 202
     },
     {
       "name": "Firmansyah Nur R.",
@@ -1641,14 +1649,6 @@
       "distance": 234.46,
       "moving_time_s": 102530,
       "elevation_m": 775,
-      "rank": 202
-    },
-    {
-      "name": "Gisela C.",
-      "activities": 29,
-      "distance": 232.26,
-      "moving_time_s": 104231,
-      "elevation_m": 1553,
       "rank": 203
     },
     {
