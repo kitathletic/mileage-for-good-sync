@@ -200703,9 +200703,37 @@
       "moving_time_s": 2954,
       "elapsed_time_s": 2954,
       "elevation_m": 0
+    },
+    "497b27868765f1674d94": {
+      "h": "497b27868765f1674d94",
+      "first_seen_at": "2026-06-26T02:15:31.219Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Viren",
+      "athlete_last": "S.",
+      "name": "Pre Workout Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1710,
+      "moving_time_s": 537,
+      "elapsed_time_s": 550,
+      "elevation_m": 4.6
+    },
+    "0d862580796b76665116": {
+      "h": "0d862580796b76665116",
+      "first_seen_at": "2026-06-26T02:15:31.219Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Petra",
+      "athlete_last": "V.",
+      "name": "Medium Long Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 15019.3,
+      "moving_time_s": 6519,
+      "elapsed_time_s": 7352,
+      "elevation_m": 34
     }
   },
-  "last_synced_at": "2026-06-26T02:10:34.064Z",
+  "last_synced_at": "2026-06-26T02:15:31.219Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
