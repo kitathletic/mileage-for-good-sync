@@ -200213,9 +200213,37 @@
       "moving_time_s": 4815,
       "elapsed_time_s": 4829,
       "elevation_m": 11.2
+    },
+    "87dc461392144400f0f1": {
+      "h": "87dc461392144400f0f1",
+      "first_seen_at": "2026-06-26T00:35:29.235Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Nanditya",
+      "athlete_last": "N.",
+      "name": "Pacing 1:50",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 14118.2,
+      "moving_time_s": 4413,
+      "elapsed_time_s": 4434,
+      "elevation_m": 153
+    },
+    "2afbaa509c22667ce8f4": {
+      "h": "2afbaa509c22667ce8f4",
+      "first_seen_at": "2026-06-26T00:35:29.235Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Novi",
+      "athlete_last": "E.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12120,
+      "moving_time_s": 5241,
+      "elapsed_time_s": 5281,
+      "elevation_m": 12
     }
   },
-  "last_synced_at": "2026-06-26T00:30:43.649Z",
+  "last_synced_at": "2026-06-26T00:35:29.235Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
