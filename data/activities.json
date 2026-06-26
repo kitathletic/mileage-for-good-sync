@@ -200591,9 +200591,51 @@
       "moving_time_s": 3058,
       "elapsed_time_s": 3291,
       "elevation_m": 4
+    },
+    "24c9d1f59bc1bad13590": {
+      "h": "24c9d1f59bc1bad13590",
+      "first_seen_at": "2026-06-26T01:30:42.573Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Willy",
+      "athlete_last": "T.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5019,
+      "moving_time_s": 2106,
+      "elapsed_time_s": 2106,
+      "elevation_m": 21
+    },
+    "3cd0e384b6d22fd21f3e": {
+      "h": "3cd0e384b6d22fd21f3e",
+      "first_seen_at": "2026-06-26T01:30:42.573Z",
+      "week_key": "2026-W26",
+      "athlete_first": "AnilKumar",
+      "athlete_last": "K.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7595.9,
+      "moving_time_s": 3664,
+      "elapsed_time_s": 3688,
+      "elevation_m": 57.3
+    },
+    "90b376a6b1397bb5d9a4": {
+      "h": "90b376a6b1397bb5d9a4",
+      "first_seen_at": "2026-06-26T01:30:42.573Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Ichsan",
+      "athlete_last": "R.",
+      "name": "Fitness Test",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5929,
+      "moving_time_s": 2622,
+      "elapsed_time_s": 2641,
+      "elevation_m": 6
     }
   },
-  "last_synced_at": "2026-06-26T01:25:27.693Z",
+  "last_synced_at": "2026-06-26T01:30:42.573Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
