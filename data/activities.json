@@ -201655,9 +201655,37 @@
       "moving_time_s": 3792,
       "elapsed_time_s": 4700,
       "elevation_m": 2.6
+    },
+    "64343f069af58179c289": {
+      "h": "64343f069af58179c289",
+      "first_seen_at": "2026-06-26T15:05:31.342Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Calvin",
+      "athlete_last": "R.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8055,
+      "moving_time_s": 4423,
+      "elapsed_time_s": 4547,
+      "elevation_m": 34
+    },
+    "cb44101cc267af3c3aeb": {
+      "h": "cb44101cc267af3c3aeb",
+      "first_seen_at": "2026-06-26T15:05:31.342Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Radifan",
+      "athlete_last": "H.",
+      "name": "Interval 4x1000",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7115.7,
+      "moving_time_s": 3142,
+      "elapsed_time_s": 3233,
+      "elevation_m": 14
     }
   },
-  "last_synced_at": "2026-06-26T15:00:50.151Z",
+  "last_synced_at": "2026-06-26T15:05:31.342Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
