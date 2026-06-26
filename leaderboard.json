@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T00:02:25.142Z",
+  "generated_at": "2026-06-26T00:05:26.034Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 118630.09,
-    "activities": 13082,
-    "moving_time_s": 49832859,
-    "elevation_m": 664088
+    "distance": 118640.28,
+    "activities": 13086,
+    "moving_time_s": 49837791,
+    "elevation_m": 664164
   },
   "rows": [
     {
@@ -61,10 +61,10 @@
     },
     {
       "name": "Prana R.",
-      "activities": 124,
-      "distance": 1035.17,
-      "moving_time_s": 423597,
-      "elevation_m": 15873,
+      "activities": 125,
+      "distance": 1041.17,
+      "moving_time_s": 426160,
+      "elevation_m": 15910,
       "rank": 5
     },
     {
@@ -972,12 +972,20 @@
       "rank": 118
     },
     {
+      "name": "Ciko N.",
+      "activities": 62,
+      "distance": 350.37,
+      "moving_time_s": 190656,
+      "elevation_m": 3965,
+      "rank": 119
+    },
+    {
       "name": "Fandi ‎.",
       "activities": 50,
       "distance": 350.18,
       "moving_time_s": 106755,
       "elevation_m": 1232,
-      "rank": 119
+      "rank": 120
     },
     {
       "name": "Dicky F.",
@@ -985,7 +993,7 @@
       "distance": 350.01,
       "moving_time_s": 148476,
       "elevation_m": 1456,
-      "rank": 120
+      "rank": 121
     },
     {
       "name": "Ken K.",
@@ -993,14 +1001,6 @@
       "distance": 347.65,
       "moving_time_s": 136380,
       "elevation_m": 1803,
-      "rank": 121
-    },
-    {
-      "name": "Ciko N.",
-      "activities": 61,
-      "distance": 347.61,
-      "moving_time_s": 188933,
-      "elevation_m": 3927,
       "rank": 122
     },
     {
@@ -3133,18 +3133,18 @@
     },
     {
       "name": "Guillermo E O.",
-      "activities": 62,
-      "distance": 42.5,
-      "moving_time_s": 52296,
+      "activities": 63,
+      "distance": 42.91,
+      "moving_time_s": 52566,
       "elevation_m": 88,
       "rank": 389
     },
     {
       "name": "Aldi ..",
-      "activities": 7,
-      "distance": 41.53,
-      "moving_time_s": 29635,
-      "elevation_m": 1150,
+      "activities": 8,
+      "distance": 42.55,
+      "moving_time_s": 30011,
+      "elevation_m": 1151,
       "rank": 390
     },
     {
