@@ -201515,9 +201515,37 @@
       "moving_time_s": 4363,
       "elapsed_time_s": 4708,
       "elevation_m": 45
+    },
+    "fb55de179ebdec0e9bcd": {
+      "h": "fb55de179ebdec0e9bcd",
+      "first_seen_at": "2026-06-26T13:30:40.888Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Reno",
+      "athlete_last": "Y.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9035.9,
+      "moving_time_s": 3955,
+      "elapsed_time_s": 3966,
+      "elevation_m": 42.9
+    },
+    "6638143528c032d487d6": {
+      "h": "6638143528c032d487d6",
+      "first_seen_at": "2026-06-26T13:30:40.888Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Jay",
+      "athlete_last": "..",
+      "name": "Friday Interval",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12481.5,
+      "moving_time_s": 3961,
+      "elapsed_time_s": 3973,
+      "elevation_m": 31.2
     }
   },
-  "last_synced_at": "2026-06-26T13:25:27.926Z",
+  "last_synced_at": "2026-06-26T13:30:40.888Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
