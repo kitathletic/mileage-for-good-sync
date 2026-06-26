@@ -200059,9 +200059,37 @@
       "moving_time_s": 5420,
       "elapsed_time_s": 5618,
       "elevation_m": 16
+    },
+    "1e7c204498f0ff8f8b15": {
+      "h": "1e7c204498f0ff8f8b15",
+      "first_seen_at": "2026-06-26T00:20:34.934Z",
+      "week_key": "2026-W26",
+      "athlete_first": "rimico",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10105.3,
+      "moving_time_s": 3404,
+      "elapsed_time_s": 3407,
+      "elevation_m": 8
+    },
+    "34a836c0f879e945b3f2": {
+      "h": "34a836c0f879e945b3f2",
+      "first_seen_at": "2026-06-26T00:20:34.934Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Wahyu Bangkit",
+      "athlete_last": "M.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10007.4,
+      "moving_time_s": 3876,
+      "elapsed_time_s": 4259,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-06-26T00:15:33.988Z",
+  "last_synced_at": "2026-06-26T00:20:34.934Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
