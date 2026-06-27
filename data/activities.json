@@ -205771,9 +205771,37 @@
       "moving_time_s": 5274,
       "elapsed_time_s": 5400,
       "elevation_m": 13
+    },
+    "81ab662bf091d5515976": {
+      "h": "81ab662bf091d5515976",
+      "first_seen_at": "2026-06-27T23:55:29.509Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Rayhan",
+      "athlete_last": "F.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5287,
+      "moving_time_s": 2654,
+      "elapsed_time_s": 2654,
+      "elevation_m": 4
+    },
+    "1c9d9b0d40ecb327e39f": {
+      "h": "1c9d9b0d40ecb327e39f",
+      "first_seen_at": "2026-06-27T23:55:29.509Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Abraham",
+      "athlete_last": "S.",
+      "name": "Tiento Run 2026",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10013.9,
+      "moving_time_s": 4172,
+      "elapsed_time_s": 4222,
+      "elevation_m": 67
     }
   },
-  "last_synced_at": "2026-06-27T23:51:26.335Z",
+  "last_synced_at": "2026-06-27T23:55:29.509Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
