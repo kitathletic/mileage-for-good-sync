@@ -204259,9 +204259,37 @@
       "moving_time_s": 7823,
       "elapsed_time_s": 9227,
       "elevation_m": 119
+    },
+    "1ecfc163bfbe2a96cf7f": {
+      "h": "1ecfc163bfbe2a96cf7f",
+      "first_seen_at": "2026-06-27T07:05:29.630Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Sandy",
+      "athlete_last": "S.",
+      "name": "Lunch Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1121,
+      "moving_time_s": 7688,
+      "elapsed_time_s": 7688,
+      "elevation_m": 0
+    },
+    "08c372d37c4069f9c292": {
+      "h": "08c372d37c4069f9c292",
+      "first_seen_at": "2026-06-27T07:05:29.630Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Alfian",
+      "athlete_last": "N.",
+      "name": "ROAD TO PANCASAKTI RUN 2026",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4012,
+      "moving_time_s": 1923,
+      "elapsed_time_s": 1926,
+      "elevation_m": 5
     }
   },
-  "last_synced_at": "2026-06-27T07:00:51.633Z",
+  "last_synced_at": "2026-06-27T07:05:29.630Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
