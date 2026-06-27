@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T10:40:37.542Z",
+  "generated_at": "2026-06-27T10:45:30.860Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 132880.63,
-    "activities": 14546,
-    "moving_time_s": 55741936,
-    "elevation_m": 741200
+    "distance": 132890.64,
+    "activities": 14548,
+    "moving_time_s": 55745966,
+    "elevation_m": 741258
   },
   "rows": [
     {
@@ -701,9 +701,9 @@
     },
     {
       "name": "Irwan Sastra W.",
-      "activities": 54,
-      "distance": 477.35,
-      "moving_time_s": 203551,
+      "activities": 55,
+      "distance": 482.35,
+      "moving_time_s": 205371,
       "elevation_m": 1932,
       "rank": 85
     },
@@ -1492,12 +1492,20 @@
       "rank": 183
     },
     {
+      "name": "Rifqi M.",
+      "activities": 18,
+      "distance": 283.09,
+      "moving_time_s": 148969,
+      "elevation_m": 2615,
+      "rank": 184
+    },
+    {
       "name": "Aris S.",
       "activities": 47,
       "distance": 282.8,
       "moving_time_s": 122732,
       "elevation_m": 216,
-      "rank": 184
+      "rank": 185
     },
     {
       "name": "Safira P.",
@@ -1505,7 +1513,7 @@
       "distance": 279.95,
       "moving_time_s": 115855,
       "elevation_m": 572,
-      "rank": 185
+      "rank": 186
     },
     {
       "name": "Pandu P.",
@@ -1513,14 +1521,6 @@
       "distance": 279.56,
       "moving_time_s": 116899,
       "elevation_m": 783,
-      "rank": 186
-    },
-    {
-      "name": "Rifqi M.",
-      "activities": 17,
-      "distance": 278.08,
-      "moving_time_s": 146759,
-      "elevation_m": 2557,
       "rank": 187
     },
     {
