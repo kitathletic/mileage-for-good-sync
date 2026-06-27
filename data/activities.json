@@ -204945,9 +204945,37 @@
       "moving_time_s": 536,
       "elapsed_time_s": 569,
       "elevation_m": 0
+    },
+    "5200d79ff3cd862bab92": {
+      "h": "5200d79ff3cd862bab92",
+      "first_seen_at": "2026-06-27T12:40:36.692Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Muhammad",
+      "athlete_last": "H.",
+      "name": "Saturday Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4412.8,
+      "moving_time_s": 2653,
+      "elapsed_time_s": 2761,
+      "elevation_m": 10
+    },
+    "c5ea6da82592131cb506": {
+      "h": "c5ea6da82592131cb506",
+      "first_seen_at": "2026-06-27T12:40:36.692Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Naufal",
+      "athlete_last": "M.",
+      "name": "Morning Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 20277.2,
+      "moving_time_s": 33251,
+      "elapsed_time_s": 45085,
+      "elevation_m": 1858.4
     }
   },
-  "last_synced_at": "2026-06-27T12:35:27.281Z",
+  "last_synced_at": "2026-06-27T12:40:36.692Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
