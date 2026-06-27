@@ -204693,9 +204693,37 @@
       "moving_time_s": 3700,
       "elapsed_time_s": 5120,
       "elevation_m": 30.2
+    },
+    "3ca8bc72825dbd81f4f5": {
+      "h": "3ca8bc72825dbd81f4f5",
+      "first_seen_at": "2026-06-27T11:00:50.455Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Irwan Sastra",
+      "athlete_last": "W.",
+      "name": "Treadmill RR",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5000,
+      "moving_time_s": 1820,
+      "elapsed_time_s": 1820,
+      "elevation_m": 0
+    },
+    "ed068ed73e191a602906": {
+      "h": "ed068ed73e191a602906",
+      "first_seen_at": "2026-06-27T11:00:50.455Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Didie",
+      "athlete_last": "N.",
+      "name": "Berlari Sore",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5006,
+      "moving_time_s": 2735,
+      "elapsed_time_s": 3410,
+      "elevation_m": 39
     }
   },
-  "last_synced_at": "2026-06-27T10:55:27.416Z",
+  "last_synced_at": "2026-06-27T11:00:50.455Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
