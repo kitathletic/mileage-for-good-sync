@@ -204777,9 +204777,51 @@
       "moving_time_s": 2921,
       "elapsed_time_s": 5568,
       "elevation_m": 0
+    },
+    "0db6d6ba2668f0486904": {
+      "h": "0db6d6ba2668f0486904",
+      "first_seen_at": "2026-06-27T11:30:49.346Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Michael",
+      "athlete_last": "K.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6240,
+      "moving_time_s": 2402,
+      "elapsed_time_s": 2402,
+      "elevation_m": 0
+    },
+    "f698ac87d8d57de7a5f3": {
+      "h": "f698ac87d8d57de7a5f3",
+      "first_seen_at": "2026-06-27T11:30:49.346Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Danis",
+      "athlete_last": "A.",
+      "name": "Berlari Petang",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 13002.6,
+      "moving_time_s": 5008,
+      "elapsed_time_s": 5066,
+      "elevation_m": 23.6
+    },
+    "689ae7ac5d7fe8348c17": {
+      "h": "689ae7ac5d7fe8348c17",
+      "first_seen_at": "2026-06-27T11:30:49.346Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Naufal",
+      "athlete_last": "M.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 20277.2,
+      "moving_time_s": 33251,
+      "elapsed_time_s": 45085,
+      "elevation_m": 1858.4
     }
   },
-  "last_synced_at": "2026-06-27T11:25:28.959Z",
+  "last_synced_at": "2026-06-27T11:30:49.346Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
