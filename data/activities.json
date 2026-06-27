@@ -205435,9 +205435,37 @@
       "moving_time_s": 4314,
       "elapsed_time_s": 6123,
       "elevation_m": 135
+    },
+    "537168d2dc41312a305a": {
+      "h": "537168d2dc41312a305a",
+      "first_seen_at": "2026-06-27T23:10:37.629Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Edy",
+      "athlete_last": "C.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5555.7,
+      "moving_time_s": 2299,
+      "elapsed_time_s": 2484,
+      "elevation_m": 62
+    },
+    "da1660badc51ac6fc816": {
+      "h": "da1660badc51ac6fc816",
+      "first_seen_at": "2026-06-27T23:10:37.629Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Kevin",
+      "athlete_last": "T.",
+      "name": "War-X 12k USAOCR National Championship",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 11550.4,
+      "moving_time_s": 4225,
+      "elapsed_time_s": 4880,
+      "elevation_m": 1176
     }
   },
-  "last_synced_at": "2026-06-27T23:05:26.550Z",
+  "last_synced_at": "2026-06-27T23:10:37.629Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
