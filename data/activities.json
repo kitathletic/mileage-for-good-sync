@@ -209131,9 +209131,37 @@
       "moving_time_s": 1905,
       "elapsed_time_s": 1919,
       "elevation_m": 12
+    },
+    "3d18bc142f4db8a3fb3d": {
+      "h": "3d18bc142f4db8a3fb3d",
+      "first_seen_at": "2026-06-28T14:55:28.578Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Aditya",
+      "athlete_last": "Y.",
+      "name": "Night Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6095.2,
+      "moving_time_s": 2215,
+      "elapsed_time_s": 2620,
+      "elevation_m": 0
+    },
+    "f447a2ab6b6782cfffbd": {
+      "h": "f447a2ab6b6782cfffbd",
+      "first_seen_at": "2026-06-28T14:55:28.578Z",
+      "week_key": "2026-W26",
+      "athlete_first": "agnes",
+      "athlete_last": "Y.",
+      "name": "HyroxINA",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7405.6,
+      "moving_time_s": 5745,
+      "elapsed_time_s": 5745,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-06-28T14:50:35.551Z",
+  "last_synced_at": "2026-06-28T14:55:28.578Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
