@@ -207381,9 +207381,37 @@
       "moving_time_s": 7829,
       "elapsed_time_s": 8129,
       "elevation_m": 188
+    },
+    "e904a93645bed0bdf51c": {
+      "h": "e904a93645bed0bdf51c",
+      "first_seen_at": "2026-06-28T01:40:35.989Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Alfian",
+      "athlete_last": "N.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 21200.4,
+      "moving_time_s": 7092,
+      "elapsed_time_s": 7111,
+      "elevation_m": 50
+    },
+    "ae3f608c900e470f971c": {
+      "h": "ae3f608c900e470f971c",
+      "first_seen_at": "2026-06-28T01:40:35.989Z",
+      "week_key": "2026-W26",
+      "athlete_first": "win",
+      "athlete_last": "C.",
+      "name": "WK07 | BUILD - Recovery",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 15000.2,
+      "moving_time_s": 7140,
+      "elapsed_time_s": 7280,
+      "elevation_m": 106
     }
   },
-  "last_synced_at": "2026-06-28T01:35:27.626Z",
+  "last_synced_at": "2026-06-28T01:40:35.989Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
