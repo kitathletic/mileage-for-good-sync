@@ -208165,9 +208165,37 @@
       "moving_time_s": 3852,
       "elapsed_time_s": 3857,
       "elevation_m": 53.6
+    },
+    "39247e6ed67922202c25": {
+      "h": "39247e6ed67922202c25",
+      "first_seen_at": "2026-06-28T07:30:45.919Z",
+      "week_key": "2026-W26",
+      "athlete_first": "🌴Emmanuel",
+      "athlete_last": "J.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 19250.4,
+      "moving_time_s": 6581,
+      "elapsed_time_s": 7147,
+      "elevation_m": 213
+    },
+    "f14b018071175a30d412": {
+      "h": "f14b018071175a30d412",
+      "first_seen_at": "2026-06-28T07:30:45.919Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Zefan",
+      "athlete_last": "P.",
+      "name": "Lari Trail Pagi",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 12120.1,
+      "moving_time_s": 11188,
+      "elapsed_time_s": 22446,
+      "elevation_m": 999
     }
   },
-  "last_synced_at": "2026-06-28T07:25:30.251Z",
+  "last_synced_at": "2026-06-28T07:30:45.919Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
