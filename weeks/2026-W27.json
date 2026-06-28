@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T23:30:44.592Z",
+  "generated_at": "2026-06-28T23:35:29.138Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 151.06,
-    "activities": 24,
-    "moving_time_s": 56797,
-    "elevation_m": 885
+    "distance": 153.89,
+    "activities": 25,
+    "moving_time_s": 57802,
+    "elevation_m": 923
   },
   "rows": [
     {
@@ -122,12 +122,20 @@
       "rank": 12
     },
     {
+      "name": "Rifqi M.",
+      "activities": 2,
+      "distance": 5.66,
+      "moving_time_s": 2010,
+      "elevation_m": 76,
+      "rank": 13
+    },
+    {
       "name": "Ciko N.",
       "activities": 1,
       "distance": 5.55,
       "moving_time_s": 3359,
       "elevation_m": 59,
-      "rank": 13
+      "rank": 14
     },
     {
       "name": "Fildza Ananda P.",
@@ -135,7 +143,7 @@
       "distance": 5,
       "moving_time_s": 2444,
       "elevation_m": 4,
-      "rank": 14
+      "rank": 15
     },
     {
       "name": "Pandu P.",
@@ -143,7 +151,7 @@
       "distance": 5,
       "moving_time_s": 2083,
       "elevation_m": 16,
-      "rank": 15
+      "rank": 16
     },
     {
       "name": "Ambar S.",
@@ -151,7 +159,7 @@
       "distance": 4.82,
       "moving_time_s": 2041,
       "elevation_m": 47,
-      "rank": 16
+      "rank": 17
     },
     {
       "name": "Vincent V.",
@@ -159,14 +167,6 @@
       "distance": 4,
       "moving_time_s": 1760,
       "elevation_m": 11,
-      "rank": 17
-    },
-    {
-      "name": "Rifqi M.",
-      "activities": 1,
-      "distance": 2.83,
-      "moving_time_s": 1005,
-      "elevation_m": 38,
       "rank": 18
     }
   ]
