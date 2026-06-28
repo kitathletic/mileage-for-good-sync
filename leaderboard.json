@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T13:20:35.418Z",
+  "generated_at": "2026-06-28T13:25:26.984Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 124748.95,
-    "activities": 13728,
-    "moving_time_s": 52541310,
-    "elevation_m": 709279
+    "distance": 124766.31,
+    "activities": 13730,
+    "moving_time_s": 52548744,
+    "elevation_m": 709386
   },
   "rows": [
     {
@@ -356,12 +356,20 @@
       "rank": 41
     },
     {
+      "name": "Samuel Zeth A.",
+      "activities": 68,
+      "distance": 636.77,
+      "moving_time_s": 303374,
+      "elevation_m": 2937,
+      "rank": 42
+    },
+    {
       "name": "Alexander Y.",
       "activities": 51,
       "distance": 636.37,
       "moving_time_s": 259185,
       "elevation_m": 1209,
-      "rank": 42
+      "rank": 43
     },
     {
       "name": "Bibip D.",
@@ -369,7 +377,7 @@
       "distance": 635.07,
       "moving_time_s": 325969,
       "elevation_m": 12912,
-      "rank": 43
+      "rank": 44
     },
     {
       "name": "dani S.",
@@ -377,7 +385,7 @@
       "distance": 634.81,
       "moving_time_s": 246716,
       "elevation_m": 3229,
-      "rank": 44
+      "rank": 45
     },
     {
       "name": "San S.",
@@ -385,14 +393,6 @@
       "distance": 622.41,
       "moving_time_s": 239422,
       "elevation_m": 4629,
-      "rank": 45
-    },
-    {
-      "name": "Samuel Zeth A.",
-      "activities": 67,
-      "distance": 619.49,
-      "moving_time_s": 295969,
-      "elevation_m": 2830,
       "rank": 46
     },
     {
@@ -1293,9 +1293,9 @@
     },
     {
       "name": "Adi R.",
-      "activities": 52,
-      "distance": 305.27,
-      "moving_time_s": 144735,
+      "activities": 53,
+      "distance": 305.35,
+      "moving_time_s": 144764,
       "elevation_m": 1576,
       "rank": 159
     },
