@@ -208949,9 +208949,51 @@
       "moving_time_s": 7405,
       "elapsed_time_s": 7423,
       "elevation_m": 107.6
+    },
+    "2a48e79c817eb0c6d114": {
+      "h": "2a48e79c817eb0c6d114",
+      "first_seen_at": "2026-06-28T13:40:37.083Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Faris",
+      "athlete_last": "A.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 500.4,
+      "moving_time_s": 278,
+      "elapsed_time_s": 307,
+      "elevation_m": 0
+    },
+    "593d979a3d350aecbb07": {
+      "h": "593d979a3d350aecbb07",
+      "first_seen_at": "2026-06-28T13:40:37.083Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Kevin",
+      "athlete_last": "T.",
+      "name": "Morning Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 3381.5,
+      "moving_time_s": 1158,
+      "elapsed_time_s": 1493,
+      "elevation_m": 184
+    },
+    "19b08951bd52a28fba41": {
+      "h": "19b08951bd52a28fba41",
+      "first_seen_at": "2026-06-28T13:40:37.083Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Kevin",
+      "athlete_last": "T.",
+      "name": "Morning Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 617.7,
+      "moving_time_s": 434,
+      "elapsed_time_s": 517,
+      "elevation_m": 11
     }
   },
-  "last_synced_at": "2026-06-28T13:35:30.002Z",
+  "last_synced_at": "2026-06-28T13:40:37.083Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
