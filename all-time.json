@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T22:15:34.894Z",
+  "generated_at": "2026-06-28T22:20:38.875Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 135947.89,
-    "activities": 14880,
-    "moving_time_s": 57176125,
-    "elevation_m": 767894
+    "distance": 135964.43,
+    "activities": 14882,
+    "moving_time_s": 57182110,
+    "elevation_m": 767926
   },
   "rows": [
     {
@@ -92,19 +92,19 @@
       "rank": 8
     },
     {
+      "name": "Zad K.",
+      "activities": 113,
+      "distance": 1095.86,
+      "moving_time_s": 514631,
+      "elevation_m": 6779,
+      "rank": 9
+    },
+    {
       "name": "Hanif R.",
       "activities": 81,
       "distance": 1091.97,
       "moving_time_s": 439896,
       "elevation_m": 11313,
-      "rank": 9
-    },
-    {
-      "name": "Zad K.",
-      "activities": 112,
-      "distance": 1084.32,
-      "moving_time_s": 511090,
-      "elevation_m": 6751,
       "rank": 10
     },
     {
@@ -2596,12 +2596,20 @@
       "rank": 321
     },
     {
+      "name": "Fildza Ananda P.",
+      "activities": 17,
+      "distance": 115.66,
+      "moving_time_s": 54341,
+      "elevation_m": 211,
+      "rank": 322
+    },
+    {
       "name": "Conns ©.",
       "activities": 12,
       "distance": 113.45,
       "moving_time_s": 43437,
       "elevation_m": 204,
-      "rank": 322
+      "rank": 323
     },
     {
       "name": "Ghiffa S.",
@@ -2609,7 +2617,7 @@
       "distance": 112.58,
       "moving_time_s": 27208,
       "elevation_m": 146,
-      "rank": 323
+      "rank": 324
     },
     {
       "name": "Arn T.",
@@ -2617,14 +2625,6 @@
       "distance": 110.71,
       "moving_time_s": 39210,
       "elevation_m": 31,
-      "rank": 324
-    },
-    {
-      "name": "Fildza Ananda P.",
-      "activities": 16,
-      "distance": 110.66,
-      "moving_time_s": 51897,
-      "elevation_m": 207,
       "rank": 325
     },
     {
