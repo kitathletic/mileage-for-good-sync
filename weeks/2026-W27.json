@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T23:05:27.836Z",
+  "generated_at": "2026-06-28T23:10:37.503Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 70.29,
-    "activities": 10,
-    "moving_time_s": 25460,
-    "elevation_m": 512
+    "distance": 103.64,
+    "activities": 16,
+    "moving_time_s": 36177,
+    "elevation_m": 594
   },
   "rows": [
     {
@@ -34,12 +34,28 @@
       "rank": 1
     },
     {
+      "name": "Serigala S.",
+      "activities": 1,
+      "distance": 15.03,
+      "moving_time_s": 5363,
+      "elevation_m": 45,
+      "rank": 2
+    },
+    {
       "name": "Diah I.",
       "activities": 1,
       "distance": 15.01,
       "moving_time_s": 5354,
       "elevation_m": 189,
-      "rank": 2
+      "rank": 3
+    },
+    {
+      "name": "Arya .",
+      "activities": 2,
+      "distance": 11.48,
+      "moving_time_s": 3593,
+      "elevation_m": 2,
+      "rank": 4
     },
     {
       "name": "Aziz Wahyu P.",
@@ -47,7 +63,15 @@
       "distance": 6.88,
       "moving_time_s": 1986,
       "elevation_m": 35,
-      "rank": 3
+      "rank": 5
+    },
+    {
+      "name": "Cicak T.",
+      "activities": 3,
+      "distance": 6.84,
+      "moving_time_s": 1761,
+      "elevation_m": 35,
+      "rank": 6
     },
     {
       "name": "andrew O.",
@@ -55,7 +79,7 @@
       "distance": 5.8,
       "moving_time_s": 2475,
       "elevation_m": 70,
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "_ph.87 |.",
@@ -63,7 +87,7 @@
       "distance": 5.69,
       "moving_time_s": 2318,
       "elevation_m": 100,
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "Fildza Ananda P.",
@@ -71,7 +95,7 @@
       "distance": 5,
       "moving_time_s": 2444,
       "elevation_m": 4,
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "Ambar S.",
@@ -79,7 +103,7 @@
       "distance": 4.82,
       "moving_time_s": 2041,
       "elevation_m": 47,
-      "rank": 7
+      "rank": 10
     },
     {
       "name": "Vincent V.",
@@ -87,7 +111,7 @@
       "distance": 4,
       "moving_time_s": 1760,
       "elevation_m": 11,
-      "rank": 8
+      "rank": 11
     }
   ]
 }
