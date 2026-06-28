@@ -208515,9 +208515,37 @@
       "moving_time_s": 662,
       "elapsed_time_s": 7468,
       "elevation_m": 14
+    },
+    "f3a8589ab1d93dc84139": {
+      "h": "f3a8589ab1d93dc84139",
+      "first_seen_at": "2026-06-28T10:40:36.885Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Vincent",
+      "athlete_last": "V.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6005.6,
+      "moving_time_s": 2691,
+      "elapsed_time_s": 2691,
+      "elevation_m": 0
+    },
+    "25bbb62ca2fe4b0bdccd": {
+      "h": "25bbb62ca2fe4b0bdccd",
+      "first_seen_at": "2026-06-28T10:40:36.885Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Reynaldi",
+      "athlete_last": "O.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10008.1,
+      "moving_time_s": 4367,
+      "elapsed_time_s": 4376,
+      "elevation_m": 29
     }
   },
-  "last_synced_at": "2026-06-28T10:35:27.344Z",
+  "last_synced_at": "2026-06-28T10:40:36.885Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
