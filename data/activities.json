@@ -207801,9 +207801,37 @@
       "moving_time_s": 1563,
       "elapsed_time_s": 1564,
       "elevation_m": 16
+    },
+    "06e3cd286ff282bf6582": {
+      "h": "06e3cd286ff282bf6582",
+      "first_seen_at": "2026-06-28T03:20:35.727Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Crystal",
+      "athlete_last": "Y.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 571.3,
+      "moving_time_s": 282,
+      "elapsed_time_s": 287,
+      "elevation_m": 11
+    },
+    "aedc5fb7facb96a8d223": {
+      "h": "aedc5fb7facb96a8d223",
+      "first_seen_at": "2026-06-28T03:20:35.727Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Nanditya",
+      "athlete_last": "N.",
+      "name": "2 Hours Long Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 24121.7,
+      "moving_time_s": 7200,
+      "elapsed_time_s": 7822,
+      "elevation_m": 206
     }
   },
-  "last_synced_at": "2026-06-28T03:15:33.742Z",
+  "last_synced_at": "2026-06-28T03:20:35.727Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
