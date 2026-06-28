@@ -208599,9 +208599,37 @@
       "moving_time_s": 4200,
       "elapsed_time_s": 4232,
       "elevation_m": 8
+    },
+    "66cf76377b87bac01dc0": {
+      "h": "66cf76377b87bac01dc0",
+      "first_seen_at": "2026-06-28T11:15:32.579Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Dhiwa",
+      "athlete_last": "S.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 15010.4,
+      "moving_time_s": 5054,
+      "elapsed_time_s": 5547,
+      "elevation_m": 23.5
+    },
+    "0d32aada92fe88ead5a7": {
+      "h": "0d32aada92fe88ead5a7",
+      "first_seen_at": "2026-06-28T11:15:32.579Z",
+      "week_key": "2026-W26",
+      "athlete_first": "Paulo",
+      "athlete_last": "R.",
+      "name": "39° CORRIDA DO FOGO",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10004.7,
+      "moving_time_s": 3654,
+      "elapsed_time_s": 3672,
+      "elevation_m": 59
     }
   },
-  "last_synced_at": "2026-06-28T11:10:41.779Z",
+  "last_synced_at": "2026-06-28T11:15:32.579Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
