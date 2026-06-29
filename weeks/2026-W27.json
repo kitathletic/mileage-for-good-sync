@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T06:00:52.400Z",
+  "generated_at": "2026-06-29T06:05:26.925Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -20,8 +20,8 @@
   ],
   "totals": {
     "distance": 385.62,
-    "activities": 55,
-    "moving_time_s": 165339,
+    "activities": 56,
+    "moving_time_s": 170973,
     "elevation_m": 2601
   },
   "rows": [
@@ -360,6 +360,14 @@
       "moving_time_s": 864,
       "elevation_m": 5,
       "rank": 42
+    },
+    {
+      "name": "Albert A.",
+      "activities": 1,
+      "distance": 0,
+      "moving_time_s": 5634,
+      "elevation_m": 0,
+      "rank": 43
     }
   ]
 }
