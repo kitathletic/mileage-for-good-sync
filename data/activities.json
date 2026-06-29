@@ -210167,9 +210167,37 @@
       "moving_time_s": 2751,
       "elapsed_time_s": 2985,
       "elevation_m": 4.2
+    },
+    "69cacd314f15dc5e70ae": {
+      "h": "69cacd314f15dc5e70ae",
+      "first_seen_at": "2026-06-29T11:00:52.795Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Ammar",
+      "athlete_last": "G.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10009.6,
+      "moving_time_s": 3668,
+      "elapsed_time_s": 3922,
+      "elevation_m": 10
+    },
+    "788bc0041272500a1a6c": {
+      "h": "788bc0041272500a1a6c",
+      "first_seen_at": "2026-06-29T11:00:52.795Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Rizky",
+      "athlete_last": "F.",
+      "name": "Lunch Run - Treadmill Marathon",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 42420,
+      "moving_time_s": 15396,
+      "elapsed_time_s": 15396,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-06-29T10:55:29.316Z",
+  "last_synced_at": "2026-06-29T11:00:52.795Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
