@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T12:35:29.776Z",
+  "generated_at": "2026-06-30T12:40:47.230Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 137966.81,
-    "activities": 15140,
-    "moving_time_s": 57990799,
-    "elevation_m": 775772
+    "distance": 137974.05,
+    "activities": 15144,
+    "moving_time_s": 57994331,
+    "elevation_m": 775775
   },
   "rows": [
     {
@@ -1084,12 +1084,20 @@
       "rank": 132
     },
     {
+      "name": "Naufal R.",
+      "activities": 47,
+      "distance": 379.03,
+      "moving_time_s": 181568,
+      "elevation_m": 505,
+      "rank": 133
+    },
+    {
       "name": "Akbar M.",
       "activities": 54,
       "distance": 379.02,
       "moving_time_s": 178384,
       "elevation_m": 3413,
-      "rank": 133
+      "rank": 134
     },
     {
       "name": "Ario S.",
@@ -1097,7 +1105,7 @@
       "distance": 377.9,
       "moving_time_s": 173519,
       "elevation_m": 757,
-      "rank": 134
+      "rank": 135
     },
     {
       "name": "Rey M.",
@@ -1105,7 +1113,7 @@
       "distance": 376.06,
       "moving_time_s": 153758,
       "elevation_m": 1476,
-      "rank": 135
+      "rank": 136
     },
     {
       "name": "AnilKumar K.",
@@ -1113,7 +1121,7 @@
       "distance": 375.68,
       "moving_time_s": 178827,
       "elevation_m": 2721,
-      "rank": 136
+      "rank": 137
     },
     {
       "name": "Donny Eka P.",
@@ -1121,14 +1129,6 @@
       "distance": 373.78,
       "moving_time_s": 138730,
       "elevation_m": 837,
-      "rank": 137
-    },
-    {
-      "name": "Naufal R.",
-      "activities": 45,
-      "distance": 373.33,
-      "moving_time_s": 179198,
-      "elevation_m": 503,
       "rank": 138
     },
     {
@@ -1525,10 +1525,10 @@
     },
     {
       "name": "Ryan Adrian B.",
-      "activities": 40,
-      "distance": 290.46,
-      "moving_time_s": 131343,
-      "elevation_m": 709,
+      "activities": 41,
+      "distance": 291.75,
+      "moving_time_s": 132373,
+      "elevation_m": 710,
       "rank": 188
     },
     {
@@ -3077,9 +3077,9 @@
     },
     {
       "name": "Easter T.",
-      "activities": 10,
-      "distance": 57.47,
-      "moving_time_s": 33594,
+      "activities": 11,
+      "distance": 57.72,
+      "moving_time_s": 33726,
       "elevation_m": 310,
       "rank": 382
     },
