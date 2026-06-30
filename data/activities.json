@@ -212295,9 +212295,51 @@
       "moving_time_s": 4026,
       "elapsed_time_s": 4094,
       "elevation_m": 11
+    },
+    "f5cc85c6bd9121a5c894": {
+      "h": "f5cc85c6bd9121a5c894",
+      "first_seen_at": "2026-06-30T05:10:41.461Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Edy",
+      "athlete_last": "C.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3452.2,
+      "moving_time_s": 1221,
+      "elapsed_time_s": 1250,
+      "elevation_m": 29
+    },
+    "d8ec6d7043c9cc1a9f37": {
+      "h": "d8ec6d7043c9cc1a9f37",
+      "first_seen_at": "2026-06-30T05:10:41.461Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Indra",
+      "athlete_last": "Z.",
+      "name": "Interval: 5 x (600m, 200m)",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8474.7,
+      "moving_time_s": 3082,
+      "elapsed_time_s": 3088,
+      "elevation_m": 10
+    },
+    "5aa81e6449d641b4e1af": {
+      "h": "5aa81e6449d641b4e1af",
+      "first_seen_at": "2026-06-30T05:10:41.461Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Soleiman",
+      "athlete_last": "P.",
+      "name": "Run #87 11.5Km-Recovery run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11253,
+      "moving_time_s": 5157,
+      "elapsed_time_s": 5181,
+      "elevation_m": 4
     }
   },
-  "last_synced_at": "2026-06-30T05:05:28.352Z",
+  "last_synced_at": "2026-06-30T05:10:41.461Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
