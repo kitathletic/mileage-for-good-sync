@@ -214073,9 +214073,37 @@
       "moving_time_s": 1103,
       "elapsed_time_s": 1103,
       "elevation_m": 38
+    },
+    "cf097d8ad1b1b066824b": {
+      "h": "cf097d8ad1b1b066824b",
+      "first_seen_at": "2026-06-30T23:50:42.956Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Devandra",
+      "athlete_last": "D.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5016.9,
+      "moving_time_s": 2605,
+      "elapsed_time_s": 2622,
+      "elevation_m": 9
+    },
+    "bf860e1a9052d520b9e2": {
+      "h": "bf860e1a9052d520b9e2",
+      "first_seen_at": "2026-06-30T23:50:42.956Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Adi",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4393.7,
+      "moving_time_s": 1802,
+      "elapsed_time_s": 1802,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-06-30T23:45:31.733Z",
+  "last_synced_at": "2026-06-30T23:50:42.956Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
