@@ -212477,9 +212477,37 @@
       "moving_time_s": 2938,
       "elapsed_time_s": 2938,
       "elevation_m": 41
+    },
+    "a1f801d128d0835ee404": {
+      "h": "a1f801d128d0835ee404",
+      "first_seen_at": "2026-06-30T10:22:06.538Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Aldi",
+      "athlete_last": "..",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1156.6,
+      "moving_time_s": 398,
+      "elapsed_time_s": 602,
+      "elevation_m": 3
+    },
+    "dfd1a7ce613d5f0f80d4": {
+      "h": "dfd1a7ce613d5f0f80d4",
+      "first_seen_at": "2026-06-30T10:22:06.538Z",
+      "week_key": "2026-W27",
+      "athlete_first": "dani",
+      "athlete_last": "S.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10029.2,
+      "moving_time_s": 3676,
+      "elapsed_time_s": 3676,
+      "elevation_m": 64
     }
   },
-  "last_synced_at": "2026-06-30T10:20:42.388Z",
+  "last_synced_at": "2026-06-30T10:22:06.538Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
