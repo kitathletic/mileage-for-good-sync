@@ -213695,9 +213695,37 @@
       "moving_time_s": 2121,
       "elapsed_time_s": 2149,
       "elevation_m": 22
+    },
+    "e7bf204b55e3ba4a9f10": {
+      "h": "e7bf204b55e3ba4a9f10",
+      "first_seen_at": "2026-06-30T22:40:43.432Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Adriandy",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10022,
+      "moving_time_s": 4807,
+      "elapsed_time_s": 5339,
+      "elevation_m": 40
+    },
+    "ebc9e00a4a5ec83bec98": {
+      "h": "ebc9e00a4a5ec83bec98",
+      "first_seen_at": "2026-06-30T22:40:43.432Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Asen",
+      "athlete_last": "..",
+      "name": "2026-06-30 Time Trial 5K",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5050,
+      "moving_time_s": 1392,
+      "elapsed_time_s": 1392,
+      "elevation_m": 19
     }
   },
-  "last_synced_at": "2026-06-30T22:35:26.740Z",
+  "last_synced_at": "2026-06-30T22:40:43.432Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
