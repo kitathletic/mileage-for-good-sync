@@ -212001,9 +212001,51 @@
       "moving_time_s": 3442,
       "elapsed_time_s": 3804,
       "elevation_m": 30
+    },
+    "77130f76e37b11f28efd": {
+      "h": "77130f76e37b11f28efd",
+      "first_seen_at": "2026-06-30T01:20:39.212Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Indra",
+      "athlete_last": "Z.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8474.7,
+      "moving_time_s": 3082,
+      "elapsed_time_s": 3088,
+      "elevation_m": 10
+    },
+    "53050b4209856a8a3588": {
+      "h": "53050b4209856a8a3588",
+      "first_seen_at": "2026-06-30T01:20:39.212Z",
+      "week_key": "2026-W27",
+      "athlete_first": "win",
+      "athlete_last": "C.",
+      "name": "WK08 | BUILD - Interval",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 13011.5,
+      "moving_time_s": 4951,
+      "elapsed_time_s": 4972,
+      "elevation_m": 31
+    },
+    "a636003cff636f41db65": {
+      "h": "a636003cff636f41db65",
+      "first_seen_at": "2026-06-30T01:20:39.212Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Hanif",
+      "athlete_last": "R.",
+      "name": "Easy on cloudy tuesday",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12002.1,
+      "moving_time_s": 4075,
+      "elapsed_time_s": 4148,
+      "elevation_m": 89
     }
   },
-  "last_synced_at": "2026-06-30T01:15:33.780Z",
+  "last_synced_at": "2026-06-30T01:20:39.212Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
