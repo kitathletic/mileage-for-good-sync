@@ -216327,9 +216327,37 @@
       "moving_time_s": 3635,
       "elapsed_time_s": 4297,
       "elevation_m": 10
+    },
+    "abfacf18b07fd48b1edf": {
+      "h": "abfacf18b07fd48b1edf",
+      "first_seen_at": "2026-07-01T13:30:52.986Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Reynaldi",
+      "athlete_last": "O.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6894.2,
+      "moving_time_s": 2746,
+      "elapsed_time_s": 2775,
+      "elevation_m": 12
+    },
+    "cda95641988c30c9ad94": {
+      "h": "cda95641988c30c9ad94",
+      "first_seen_at": "2026-07-01T13:30:52.986Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Devin",
+      "athlete_last": "S.",
+      "name": "Berlari Sore",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 15015.4,
+      "moving_time_s": 4804,
+      "elapsed_time_s": 4804,
+      "elevation_m": 58
     }
   },
-  "last_synced_at": "2026-07-01T13:25:27.459Z",
+  "last_synced_at": "2026-07-01T13:30:52.986Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
