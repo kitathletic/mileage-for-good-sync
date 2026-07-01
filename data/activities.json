@@ -215375,9 +215375,37 @@
       "moving_time_s": 7481,
       "elapsed_time_s": 7481,
       "elevation_m": 0
+    },
+    "472e53c87958b6a36599": {
+      "h": "472e53c87958b6a36599",
+      "first_seen_at": "2026-07-01T04:00:56.525Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Nindia",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2701.4,
+      "moving_time_s": 1208,
+      "elapsed_time_s": 1208,
+      "elevation_m": 0
+    },
+    "8e1fda549ad56f4e0126": {
+      "h": "8e1fda549ad56f4e0126",
+      "first_seen_at": "2026-07-01T04:00:56.525Z",
+      "week_key": "2026-W27",
+      "athlete_first": "agnes",
+      "athlete_last": "Y.",
+      "name": "Recovery run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6196.6,
+      "moving_time_s": 2401,
+      "elapsed_time_s": 2401,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-07-01T03:55:26.831Z",
+  "last_synced_at": "2026-07-01T04:00:56.525Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
