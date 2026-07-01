@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T10:35:31.697Z",
+  "generated_at": "2026-07-01T10:40:47.783Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 139410.45,
-    "activities": 15337,
-    "moving_time_s": 58551353,
-    "elevation_m": 781349
+    "distance": 139425.51,
+    "activities": 15340,
+    "moving_time_s": 58557214,
+    "elevation_m": 781454
   },
   "rows": [
     {
@@ -404,19 +404,19 @@
       "rank": 47
     },
     {
+      "name": "dani S.",
+      "activities": 64,
+      "distance": 659.92,
+      "moving_time_s": 256502,
+      "elevation_m": 3337,
+      "rank": 48
+    },
+    {
       "name": "Novi E.",
       "activities": 41,
       "distance": 653.63,
       "moving_time_s": 280794,
       "elevation_m": 3820,
-      "rank": 48
-    },
-    {
-      "name": "dani S.",
-      "activities": 62,
-      "distance": 649.87,
-      "moving_time_s": 252542,
-      "elevation_m": 3299,
       "rank": 49
     },
     {
@@ -1924,12 +1924,20 @@
       "rank": 237
     },
     {
+      "name": "M Yudho F.",
+      "activities": 50,
+      "distance": 213.78,
+      "moving_time_s": 95483,
+      "elevation_m": 1862,
+      "rank": 238
+    },
+    {
       "name": "Danis A.",
       "activities": 36,
       "distance": 213.12,
       "moving_time_s": 83509,
       "elevation_m": 1151,
-      "rank": 238
+      "rank": 239
     },
     {
       "name": "Syaifullah S.",
@@ -1937,7 +1945,7 @@
       "distance": 212.4,
       "moving_time_s": 88813,
       "elevation_m": 417,
-      "rank": 239
+      "rank": 240
     },
     {
       "name": "Fransiskus K.",
@@ -1945,14 +1953,6 @@
       "distance": 209.79,
       "moving_time_s": 83397,
       "elevation_m": 496,
-      "rank": 240
-    },
-    {
-      "name": "M Yudho F.",
-      "activities": 49,
-      "distance": 208.77,
-      "moving_time_s": 93582,
-      "elevation_m": 1795,
       "rank": 241
     },
     {
