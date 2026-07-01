@@ -216173,9 +216173,37 @@
       "moving_time_s": 2322,
       "elapsed_time_s": 2339,
       "elevation_m": 0
+    },
+    "cc68d49dcf53ea0a3272": {
+      "h": "cc68d49dcf53ea0a3272",
+      "first_seen_at": "2026-07-01T12:50:46.492Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Arif",
+      "athlete_last": "B.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9774.7,
+      "moving_time_s": 4706,
+      "elapsed_time_s": 4706,
+      "elevation_m": 0
+    },
+    "ea074d3ae99ec9e5f77f": {
+      "h": "ea074d3ae99ec9e5f77f",
+      "first_seen_at": "2026-07-01T12:50:46.492Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Febio",
+      "athlete_last": "S.",
+      "name": "Threshold",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10496.4,
+      "moving_time_s": 3732,
+      "elapsed_time_s": 3750,
+      "elevation_m": 5
     }
   },
-  "last_synced_at": "2026-07-01T12:45:32.465Z",
+  "last_synced_at": "2026-07-01T12:50:46.492Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
