@@ -215935,9 +215935,37 @@
       "moving_time_s": 2706,
       "elapsed_time_s": 2706,
       "elevation_m": 0
+    },
+    "e89fc4ed11cb5a6a71ac": {
+      "h": "e89fc4ed11cb5a6a71ac",
+      "first_seen_at": "2026-07-01T11:30:54.862Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Selvia",
+      "athlete_last": "M.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5333.4,
+      "moving_time_s": 2292,
+      "elapsed_time_s": 2403,
+      "elevation_m": 5
+    },
+    "94c9c96456af9da03869": {
+      "h": "94c9c96456af9da03869",
+      "first_seen_at": "2026-07-01T11:30:54.862Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Alief Rafael",
+      "athlete_last": "G.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10021.5,
+      "moving_time_s": 3761,
+      "elapsed_time_s": 4229,
+      "elevation_m": 61
     }
   },
-  "last_synced_at": "2026-07-01T11:25:28.285Z",
+  "last_synced_at": "2026-07-01T11:30:54.862Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
