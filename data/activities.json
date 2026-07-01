@@ -215865,9 +215865,37 @@
       "moving_time_s": 2258,
       "elapsed_time_s": 2271,
       "elevation_m": 22.2
+    },
+    "3d2ef2fcf9bc7d6537ed": {
+      "h": "3d2ef2fcf9bc7d6537ed",
+      "first_seen_at": "2026-07-01T11:15:37.488Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Febio",
+      "athlete_last": "S.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10496.4,
+      "moving_time_s": 3732,
+      "elapsed_time_s": 3750,
+      "elevation_m": 5
+    },
+    "99b8dfe7f5d5ed16f400": {
+      "h": "99b8dfe7f5d5ed16f400",
+      "first_seen_at": "2026-07-01T11:15:37.488Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Yudong",
+      "athlete_last": "A.",
+      "name": "Berlari Sore",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8013.8,
+      "moving_time_s": 4184,
+      "elapsed_time_s": 4985,
+      "elevation_m": 14
     }
   },
-  "last_synced_at": "2026-07-01T11:10:46.862Z",
+  "last_synced_at": "2026-07-01T11:15:37.488Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
