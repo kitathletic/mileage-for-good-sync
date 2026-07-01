@@ -216635,9 +216635,37 @@
       "moving_time_s": 6736,
       "elapsed_time_s": 7009,
       "elevation_m": 33.6
+    },
+    "aba4933a52a4fbbbe5bb": {
+      "h": "aba4933a52a4fbbbe5bb",
+      "first_seen_at": "2026-07-01T16:05:29.162Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Joshua",
+      "athlete_last": "Y.",
+      "name": "Night Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1007.3,
+      "moving_time_s": 392,
+      "elapsed_time_s": 399,
+      "elevation_m": 2
+    },
+    "c85273dd4076dc19373c": {
+      "h": "c85273dd4076dc19373c",
+      "first_seen_at": "2026-07-01T16:05:29.162Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Joshua",
+      "athlete_last": "Y.",
+      "name": "Night Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8008,
+      "moving_time_s": 2670,
+      "elapsed_time_s": 2674,
+      "elevation_m": 40
     }
   },
-  "last_synced_at": "2026-07-01T16:01:07.924Z",
+  "last_synced_at": "2026-07-01T16:05:29.162Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
