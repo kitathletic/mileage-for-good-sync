@@ -218777,9 +218777,65 @@
       "moving_time_s": 2347,
       "elapsed_time_s": 390391,
       "elevation_m": 9
+    },
+    "72d53b78817b5b104194": {
+      "h": "72d53b78817b5b104194",
+      "first_seen_at": "2026-07-02T12:01:00.544Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Ivan Andrey",
+      "athlete_last": "Y.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 260.6,
+      "moving_time_s": 145,
+      "elapsed_time_s": 145,
+      "elevation_m": 0
+    },
+    "1c2dc8708f14cfcd0ebc": {
+      "h": "1c2dc8708f14cfcd0ebc",
+      "first_seen_at": "2026-07-02T12:01:00.544Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Ichsan",
+      "athlete_last": "R.",
+      "name": "Easy Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5002.4,
+      "moving_time_s": 2493,
+      "elapsed_time_s": 2493,
+      "elevation_m": 0
+    },
+    "a5ce4bb4d18c9b82a091": {
+      "h": "a5ce4bb4d18c9b82a091",
+      "first_seen_at": "2026-07-02T12:01:00.544Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Danis",
+      "athlete_last": "A.",
+      "name": "pr binloop",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 14703.1,
+      "moving_time_s": 5505,
+      "elapsed_time_s": 5595,
+      "elevation_m": 207.8
+    },
+    "8b7d5a4303aca80140b7": {
+      "h": "8b7d5a4303aca80140b7",
+      "first_seen_at": "2026-07-02T12:01:00.544Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Yandri",
+      "athlete_last": "F.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12834.8,
+      "moving_time_s": 5712,
+      "elapsed_time_s": 5802,
+      "elevation_m": 14.4
     }
   },
-  "last_synced_at": "2026-07-02T11:50:44.568Z",
+  "last_synced_at": "2026-07-02T12:01:00.544Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
