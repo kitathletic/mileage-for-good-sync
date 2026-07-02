@@ -219561,9 +219561,37 @@
       "moving_time_s": 1801,
       "elapsed_time_s": 1801,
       "elevation_m": 3
+    },
+    "e06ea0bf3a15684a6af1": {
+      "h": "e06ea0bf3a15684a6af1",
+      "first_seen_at": "2026-07-02T23:05:27.324Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Jazzy",
+      "athlete_last": "Z.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2005.8,
+      "moving_time_s": 850,
+      "elapsed_time_s": 850,
+      "elevation_m": 13.6
+    },
+    "77c660a5a43e33f9971f": {
+      "h": "77c660a5a43e33f9971f",
+      "first_seen_at": "2026-07-02T23:05:27.324Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Gregory",
+      "athlete_last": "M.",
+      "name": "Easy Hilly",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6035.6,
+      "moving_time_s": 2629,
+      "elapsed_time_s": 2629,
+      "elevation_m": 63
     }
   },
-  "last_synced_at": "2026-07-02T23:00:57.768Z",
+  "last_synced_at": "2026-07-02T23:05:27.324Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
