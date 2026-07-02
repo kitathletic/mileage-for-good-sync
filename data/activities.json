@@ -219267,9 +219267,37 @@
       "moving_time_s": 20908,
       "elapsed_time_s": 45977,
       "elevation_m": 280
+    },
+    "b72be84d89f74382c1fb": {
+      "h": "b72be84d89f74382c1fb",
+      "first_seen_at": "2026-07-02T21:30:52.451Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Andri",
+      "athlete_last": "K.",
+      "name": "Night Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 17857.3,
+      "moving_time_s": 5143,
+      "elapsed_time_s": 5143,
+      "elevation_m": 36
+    },
+    "8fbd50e620146ce18b4f": {
+      "h": "8fbd50e620146ce18b4f",
+      "first_seen_at": "2026-07-02T21:30:52.451Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Andri",
+      "athlete_last": "K.",
+      "name": "Lunch Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10175.5,
+      "moving_time_s": 2762,
+      "elapsed_time_s": 2780,
+      "elevation_m": 9
     }
   },
-  "last_synced_at": "2026-07-02T21:25:26.618Z",
+  "last_synced_at": "2026-07-02T21:30:52.451Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
