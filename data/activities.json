@@ -218343,9 +218343,23 @@
       "moving_time_s": 89,
       "elapsed_time_s": 97,
       "elevation_m": 0
+    },
+    "edc613ea5ddabb78a65b": {
+      "h": "edc613ea5ddabb78a65b",
+      "first_seen_at": "2026-07-02T03:05:27.865Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Hilal",
+      "athlete_last": "H.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10496,
+      "moving_time_s": 5469,
+      "elapsed_time_s": 6156,
+      "elevation_m": 54
     }
   },
-  "last_synced_at": "2026-07-02T03:00:59.383Z",
+  "last_synced_at": "2026-07-02T03:05:27.865Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
