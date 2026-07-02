@@ -218693,9 +218693,37 @@
       "moving_time_s": 4420,
       "elapsed_time_s": 4420,
       "elevation_m": 0
+    },
+    "1e9ec5ae415820be5b7c": {
+      "h": "1e9ec5ae415820be5b7c",
+      "first_seen_at": "2026-07-02T11:35:30.517Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Andika",
+      "athlete_last": "S.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5009.3,
+      "moving_time_s": 3465,
+      "elapsed_time_s": 3466,
+      "elevation_m": 82
+    },
+    "58a384edb722ec3caf90": {
+      "h": "58a384edb722ec3caf90",
+      "first_seen_at": "2026-07-02T11:35:30.517Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Bayu",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5151.8,
+      "moving_time_s": 2129,
+      "elapsed_time_s": 2386,
+      "elevation_m": 22
     }
   },
-  "last_synced_at": "2026-07-02T11:30:57.308Z",
+  "last_synced_at": "2026-07-02T11:35:30.517Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
