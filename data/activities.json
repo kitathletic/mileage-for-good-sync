@@ -217615,9 +217615,37 @@
       "moving_time_s": 3621,
       "elapsed_time_s": 3627,
       "elevation_m": 34.2
+    },
+    "5cff5cded68cbde5d23d": {
+      "h": "5cff5cded68cbde5d23d",
+      "first_seen_at": "2026-07-02T00:25:28.066Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Iwan",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7027.1,
+      "moving_time_s": 3000,
+      "elapsed_time_s": 3009,
+      "elevation_m": 50.1
+    },
+    "dbf85ce7425c627badfb": {
+      "h": "dbf85ce7425c627badfb",
+      "first_seen_at": "2026-07-02T00:25:28.066Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Faris",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 13121,
+      "moving_time_s": 5164,
+      "elapsed_time_s": 5875,
+      "elevation_m": 6.1
     }
   },
-  "last_synced_at": "2026-07-02T00:20:44.804Z",
+  "last_synced_at": "2026-07-02T00:25:28.066Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
