@@ -220527,9 +220527,65 @@
       "moving_time_s": 4660,
       "elapsed_time_s": 4724,
       "elevation_m": 75.5
+    },
+    "2c78c4530f41556bae08": {
+      "h": "2c78c4530f41556bae08",
+      "first_seen_at": "2026-07-03T00:55:28.529Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Mario",
+      "athlete_last": "J.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7918.1,
+      "moving_time_s": 3605,
+      "elapsed_time_s": 3605,
+      "elevation_m": 0
+    },
+    "ae9b3d5e4cec1d36694d": {
+      "h": "ae9b3d5e4cec1d36694d",
+      "first_seen_at": "2026-07-03T00:55:28.529Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Jagad",
+      "athlete_last": "M.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9421.9,
+      "moving_time_s": 3592,
+      "elapsed_time_s": 3600,
+      "elevation_m": 13
+    },
+    "9b1b7066b9ff73791987": {
+      "h": "9b1b7066b9ff73791987",
+      "first_seen_at": "2026-07-03T00:55:28.529Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Wah",
+      "athlete_last": "E.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10238.2,
+      "moving_time_s": 4150,
+      "elapsed_time_s": 4502,
+      "elevation_m": 19.7
+    },
+    "eced06c2269a8ce4f10f": {
+      "h": "eced06c2269a8ce4f10f",
+      "first_seen_at": "2026-07-03T00:55:28.529Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Guillermo E",
+      "athlete_last": "O.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2394.2,
+      "moving_time_s": 1831,
+      "elapsed_time_s": 8068,
+      "elevation_m": 21
     }
   },
-  "last_synced_at": "2026-07-03T00:50:44.970Z",
+  "last_synced_at": "2026-07-03T00:55:28.529Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
