@@ -222081,9 +222081,37 @@
       "moving_time_s": 214,
       "elapsed_time_s": 281,
       "elevation_m": 0
+    },
+    "348cd26b04f030ee7951": {
+      "h": "348cd26b04f030ee7951",
+      "first_seen_at": "2026-07-03T21:30:58.326Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Pedro",
+      "athlete_last": "V.",
+      "name": "Corrida da tarde",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5019.3,
+      "moving_time_s": 1497,
+      "elapsed_time_s": 1503,
+      "elevation_m": 52
+    },
+    "328339de90bc29d9ff4c": {
+      "h": "328339de90bc29d9ff4c",
+      "first_seen_at": "2026-07-03T21:30:58.326Z",
+      "week_key": "2026-W27",
+      "athlete_first": "\"𝑫𝑨𝒱 𝑰𝑫🥇",
+      "athlete_last": "G.",
+      "name": "Carrera de montaña nocturna",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 5238.4,
+      "moving_time_s": 1945,
+      "elapsed_time_s": 1965,
+      "elevation_m": 12
     }
   },
-  "last_synced_at": "2026-07-03T21:25:29.818Z",
+  "last_synced_at": "2026-07-03T21:30:58.326Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
