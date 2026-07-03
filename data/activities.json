@@ -221059,9 +221059,37 @@
       "moving_time_s": 5736,
       "elapsed_time_s": 5736,
       "elevation_m": 44
+    },
+    "85cc6faa5229e0103d50": {
+      "h": "85cc6faa5229e0103d50",
+      "first_seen_at": "2026-07-03T02:40:44.199Z",
+      "week_key": "2026-W27",
+      "athlete_first": "win",
+      "athlete_last": "C.",
+      "name": "WK08 | BUILD - Tempo",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12005.1,
+      "moving_time_s": 4304,
+      "elapsed_time_s": 4304,
+      "elevation_m": 15.7
+    },
+    "c0d6e1048686a756e1bb": {
+      "h": "c0d6e1048686a756e1bb",
+      "first_seen_at": "2026-07-03T02:40:44.199Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Dicky",
+      "athlete_last": "F.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8007.5,
+      "moving_time_s": 3330,
+      "elapsed_time_s": 3338,
+      "elevation_m": 6
     }
   },
-  "last_synced_at": "2026-07-03T02:35:29.722Z",
+  "last_synced_at": "2026-07-03T02:40:44.199Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
