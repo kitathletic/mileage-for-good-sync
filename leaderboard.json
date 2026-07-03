@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T12:15:36.540Z",
+  "generated_at": "2026-07-03T12:20:49.222Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 131645.11,
-    "activities": 14634,
-    "moving_time_s": 55305046,
-    "elevation_m": 736770
+    "distance": 131665.67,
+    "activities": 14636,
+    "moving_time_s": 55312343,
+    "elevation_m": 736816
   },
   "rows": [
     {
@@ -508,12 +508,20 @@
       "rank": 60
     },
     {
+      "name": "Irwan Sastra W.",
+      "activities": 62,
+      "distance": 564.36,
+      "moving_time_s": 237134,
+      "elevation_m": 2040,
+      "rank": 61
+    },
+    {
       "name": "Muhammad Ikhwansyah P.",
       "activities": 51,
       "distance": 559.11,
       "moving_time_s": 234347,
       "elevation_m": 1292,
-      "rank": 61
+      "rank": 62
     },
     {
       "name": "Alief Rafael G.",
@@ -521,7 +529,7 @@
       "distance": 558.08,
       "moving_time_s": 196119,
       "elevation_m": 2732,
-      "rank": 62
+      "rank": 63
     },
     {
       "name": "Tanvir S.",
@@ -529,14 +537,6 @@
       "distance": 557.22,
       "moving_time_s": 295982,
       "elevation_m": 520,
-      "rank": 63
-    },
-    {
-      "name": "Irwan Sastra W.",
-      "activities": 61,
-      "distance": 554.36,
-      "moving_time_s": 233266,
-      "elevation_m": 2018,
       "rank": 64
     },
     {
@@ -652,19 +652,19 @@
       "rank": 78
     },
     {
+      "name": "Jay ..",
+      "activities": 49,
+      "distance": 517.25,
+      "moving_time_s": 170098,
+      "elevation_m": 1733,
+      "rank": 79
+    },
+    {
       "name": "Lintang R.",
       "activities": 59,
       "distance": 509.06,
       "moving_time_s": 179923,
       "elevation_m": 2042,
-      "rank": 79
-    },
-    {
-      "name": "Jay ..",
-      "activities": 48,
-      "distance": 506.69,
-      "moving_time_s": 166669,
-      "elevation_m": 1709,
       "rank": 80
     },
     {

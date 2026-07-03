@@ -221605,9 +221605,37 @@
       "moving_time_s": 1246,
       "elapsed_time_s": 1246,
       "elevation_m": 0
+    },
+    "f1641a32bea12173496d": {
+      "h": "f1641a32bea12173496d",
+      "first_seen_at": "2026-07-03T12:20:49.222Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Jay",
+      "athlete_last": "..",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10562.5,
+      "moving_time_s": 3429,
+      "elapsed_time_s": 3610,
+      "elevation_m": 23.6
+    },
+    "2bb3352b87eaf12acfa5": {
+      "h": "2bb3352b87eaf12acfa5",
+      "first_seen_at": "2026-07-03T12:20:49.222Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Irwan Sastra",
+      "athlete_last": "W.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10003.6,
+      "moving_time_s": 3868,
+      "elapsed_time_s": 3953,
+      "elevation_m": 22
     }
   },
-  "last_synced_at": "2026-07-03T12:15:36.540Z",
+  "last_synced_at": "2026-07-03T12:20:49.222Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
