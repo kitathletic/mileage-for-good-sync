@@ -221563,9 +221563,37 @@
       "moving_time_s": 3658,
       "elapsed_time_s": 3788,
       "elevation_m": 6
+    },
+    "72e864eb2ff48f85b661": {
+      "h": "72e864eb2ff48f85b661",
+      "first_seen_at": "2026-07-03T12:10:50.185Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Suryanto",
+      "athlete_last": "F.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7305.8,
+      "moving_time_s": 3150,
+      "elapsed_time_s": 3159,
+      "elevation_m": 14
+    },
+    "3f63ceee576182df342b": {
+      "h": "3f63ceee576182df342b",
+      "first_seen_at": "2026-07-03T12:10:50.185Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Ichsan",
+      "athlete_last": "R.",
+      "name": "Easy Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7002,
+      "moving_time_s": 3658,
+      "elapsed_time_s": 3788,
+      "elevation_m": 6
     }
   },
-  "last_synced_at": "2026-07-03T12:05:29.179Z",
+  "last_synced_at": "2026-07-03T12:10:50.185Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
