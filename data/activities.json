@@ -221423,9 +221423,51 @@
       "moving_time_s": 5190,
       "elapsed_time_s": 5190,
       "elevation_m": 27
+    },
+    "cacd2b3c5468e819583b": {
+      "h": "cacd2b3c5468e819583b",
+      "first_seen_at": "2026-07-03T11:10:47.050Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Annisa",
+      "athlete_last": "C.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4023.2,
+      "moving_time_s": 1808,
+      "elapsed_time_s": 1808,
+      "elevation_m": 0
+    },
+    "a29b0ce6eea0daf122a9": {
+      "h": "a29b0ce6eea0daf122a9",
+      "first_seen_at": "2026-07-03T11:10:47.050Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Jason",
+      "athlete_last": "P.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10022.5,
+      "moving_time_s": 3879,
+      "elapsed_time_s": 3879,
+      "elevation_m": 7
+    },
+    "b2c88165ae62bbbff8c0": {
+      "h": "b2c88165ae62bbbff8c0",
+      "first_seen_at": "2026-07-03T11:10:47.050Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Kevin",
+      "athlete_last": "S.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8166.8,
+      "moving_time_s": 3178,
+      "elapsed_time_s": 3419,
+      "elevation_m": 11
     }
   },
-  "last_synced_at": "2026-07-03T11:05:40.950Z",
+  "last_synced_at": "2026-07-03T11:10:47.050Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
