@@ -224769,9 +224769,37 @@
       "moving_time_s": 2056,
       "elapsed_time_s": 2059,
       "elevation_m": 9.1
+    },
+    "b01bdc3e685d19e251ab": {
+      "h": "b01bdc3e685d19e251ab",
+      "first_seen_at": "2026-07-04T09:45:34.445Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Samuel",
+      "athlete_last": "W.",
+      "name": "Lunch Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5108.9,
+      "moving_time_s": 2459,
+      "elapsed_time_s": 2466,
+      "elevation_m": 20
+    },
+    "62f6c4f4cc177482ff5d": {
+      "h": "62f6c4f4cc177482ff5d",
+      "first_seen_at": "2026-07-04T09:45:34.445Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Samuel",
+      "athlete_last": "W.",
+      "name": "2nd round of the day x Gold Coast 10km",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10146.9,
+      "moving_time_s": 4779,
+      "elapsed_time_s": 4785,
+      "elevation_m": 46
     }
   },
-  "last_synced_at": "2026-07-04T09:40:54.415Z",
+  "last_synced_at": "2026-07-04T09:45:34.445Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
