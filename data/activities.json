@@ -223005,9 +223005,37 @@
       "moving_time_s": 5668,
       "elapsed_time_s": 5716,
       "elevation_m": 37.9
+    },
+    "e6ecab52fd6ab46f88fc": {
+      "h": "e6ecab52fd6ab46f88fc",
+      "first_seen_at": "2026-07-04T00:25:28.757Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Yazid",
+      "athlete_last": "I.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10022,
+      "moving_time_s": 5078,
+      "elapsed_time_s": 5099,
+      "elevation_m": 13
+    },
+    "db14c8f33c916bda1a01": {
+      "h": "db14c8f33c916bda1a01",
+      "first_seen_at": "2026-07-04T00:25:28.757Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Chrisnadya",
+      "athlete_last": "P.",
+      "name": "Bhinneka run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9653.6,
+      "moving_time_s": 4149,
+      "elapsed_time_s": 4193,
+      "elevation_m": 27.4
     }
   },
-  "last_synced_at": "2026-07-04T00:20:49.542Z",
+  "last_synced_at": "2026-07-04T00:25:28.757Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
