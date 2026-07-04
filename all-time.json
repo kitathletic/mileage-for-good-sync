@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T01:55:26.387Z",
+  "generated_at": "2026-07-04T02:01:00.923Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 144219.61,
-    "activities": 15920,
-    "moving_time_s": 60465403,
-    "elevation_m": 800138
+    "distance": 144254.64,
+    "activities": 15923,
+    "moving_time_s": 60477964,
+    "elevation_m": 800223
   },
   "rows": [
     {
@@ -244,19 +244,19 @@
       "rank": 27
     },
     {
+      "name": "Aswin Mahardi P.",
+      "activities": 98,
+      "distance": 862.58,
+      "moving_time_s": 314035,
+      "elevation_m": 2737,
+      "rank": 28
+    },
+    {
       "name": "Aziz Wahyu P.",
       "activities": 71,
       "distance": 840.61,
       "moving_time_s": 268022,
       "elevation_m": 1997,
-      "rank": 28
-    },
-    {
-      "name": "Aswin Mahardi P.",
-      "activities": 97,
-      "distance": 837.56,
-      "moving_time_s": 305533,
-      "elevation_m": 2670,
       "rank": 29
     },
     {
@@ -2540,12 +2540,20 @@
       "rank": 314
     },
     {
+      "name": "Selvia M.",
+      "activities": 20,
+      "distance": 133.81,
+      "moving_time_s": 58448,
+      "elevation_m": 253,
+      "rank": 315
+    },
+    {
       "name": "rendy G.",
       "activities": 19,
       "distance": 133.67,
       "moving_time_s": 60567,
       "elevation_m": 1663,
-      "rank": 315
+      "rank": 316
     },
     {
       "name": "Rido W.",
@@ -2553,7 +2561,7 @@
       "distance": 132.04,
       "moving_time_s": 95830,
       "elevation_m": 5575,
-      "rank": 316
+      "rank": 317
     },
     {
       "name": "Slopslop S.",
@@ -2561,7 +2569,7 @@
       "distance": 127.45,
       "moving_time_s": 71545,
       "elevation_m": 385,
-      "rank": 317
+      "rank": 318
     },
     {
       "name": "Yuri A.",
@@ -2569,14 +2577,6 @@
       "distance": 123.86,
       "moving_time_s": 51772,
       "elevation_m": 364,
-      "rank": 318
-    },
-    {
-      "name": "Selvia M.",
-      "activities": 19,
-      "distance": 123.8,
-      "moving_time_s": 54406,
-      "elevation_m": 235,
       "rank": 319
     },
     {
@@ -3101,9 +3101,9 @@
     },
     {
       "name": "savana O.",
-      "activities": 11,
+      "activities": 12,
       "distance": 56.84,
-      "moving_time_s": 28642,
+      "moving_time_s": 28659,
       "elevation_m": 363,
       "rank": 385
     },
