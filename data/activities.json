@@ -224125,9 +224125,37 @@
       "moving_time_s": 4967,
       "elapsed_time_s": 5001,
       "elevation_m": 62
+    },
+    "222ce0160b78a9df532e": {
+      "h": "222ce0160b78a9df532e",
+      "first_seen_at": "2026-07-04T02:40:49.871Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Edrick",
+      "athlete_last": "L.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2540.1,
+      "moving_time_s": 692,
+      "elapsed_time_s": 692,
+      "elevation_m": 0
+    },
+    "eb36010b66deee3e45df": {
+      "h": "eb36010b66deee3e45df",
+      "first_seen_at": "2026-07-04T02:40:49.871Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Rudy",
+      "athlete_last": "W.",
+      "name": "GoldCoast Airport 5KM 2026",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5087.4,
+      "moving_time_s": 2688,
+      "elapsed_time_s": 2697,
+      "elevation_m": 12
     }
   },
-  "last_synced_at": "2026-07-04T02:35:29.203Z",
+  "last_synced_at": "2026-07-04T02:40:49.871Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
