@@ -225133,9 +225133,37 @@
       "moving_time_s": 2712,
       "elapsed_time_s": 2905,
       "elevation_m": 9
+    },
+    "70a5aecb971b22018070": {
+      "h": "70a5aecb971b22018070",
+      "first_seen_at": "2026-07-04T12:40:52.152Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Prasena",
+      "athlete_last": "P.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4750.5,
+      "moving_time_s": 1559,
+      "elapsed_time_s": 1559,
+      "elevation_m": 0
+    },
+    "53f3d257fb839afecef2": {
+      "h": "53f3d257fb839afecef2",
+      "first_seen_at": "2026-07-04T12:40:52.152Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Yehezkiel",
+      "athlete_last": "P.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11012,
+      "moving_time_s": 4017,
+      "elapsed_time_s": 4661,
+      "elevation_m": 55
     }
   },
-  "last_synced_at": "2026-07-04T12:35:27.105Z",
+  "last_synced_at": "2026-07-04T12:40:52.152Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
