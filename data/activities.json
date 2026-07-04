@@ -224279,9 +224279,37 @@
       "moving_time_s": 3696,
       "elapsed_time_s": 4104,
       "elevation_m": 18
+    },
+    "ab637b6b6c566d46fc9e": {
+      "h": "ab637b6b6c566d46fc9e",
+      "first_seen_at": "2026-07-04T03:20:45.373Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Nindia",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2598.3,
+      "moving_time_s": 1215,
+      "elapsed_time_s": 1215,
+      "elevation_m": 0
+    },
+    "f01d0b270e8a90b2a646": {
+      "h": "f01d0b270e8a90b2a646",
+      "first_seen_at": "2026-07-04T03:20:45.373Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Pandi",
+      "athlete_last": "W.",
+      "name": "GPS Menjalankan",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 0,
+      "moving_time_s": 4070,
+      "elapsed_time_s": 4070,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-07-04T03:15:33.313Z",
+  "last_synced_at": "2026-07-04T03:20:45.373Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
