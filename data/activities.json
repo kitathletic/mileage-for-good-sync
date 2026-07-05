@@ -228591,9 +228591,37 @@
       "moving_time_s": 3255,
       "elapsed_time_s": 5078,
       "elevation_m": 25.4
+    },
+    "ba8b69fddb2d3235e45e": {
+      "h": "ba8b69fddb2d3235e45e",
+      "first_seen_at": "2026-07-05T03:05:27.537Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Gita",
+      "athlete_last": "D.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12013,
+      "moving_time_s": 6502,
+      "elapsed_time_s": 6515,
+      "elevation_m": 65
+    },
+    "6d48e8d0ba8fdaa76c0a": {
+      "h": "6d48e8d0ba8fdaa76c0a",
+      "first_seen_at": "2026-07-05T03:05:27.537Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Nathania",
+      "athlete_last": "L.",
+      "name": "Smartfren Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10084.5,
+      "moving_time_s": 3347,
+      "elapsed_time_s": 3351,
+      "elevation_m": 24
     }
   },
-  "last_synced_at": "2026-07-05T03:01:03.857Z",
+  "last_synced_at": "2026-07-05T03:05:27.537Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
