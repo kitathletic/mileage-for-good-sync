@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T07:40:49.110Z",
+  "generated_at": "2026-07-05T07:45:34.344Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 12674.61,
-    "activities": 1405,
-    "moving_time_s": 5234019,
-    "elevation_m": 75863
+    "distance": 12675.19,
+    "activities": 1406,
+    "moving_time_s": 5234555,
+    "elevation_m": 75898
   },
   "rows": [
     {
@@ -866,12 +866,20 @@
       "rank": 105
     },
     {
+      "name": "Prima S.",
+      "activities": 5,
+      "distance": 42.64,
+      "moving_time_s": 32370,
+      "elevation_m": 1370,
+      "rank": 106
+    },
+    {
       "name": "Kevin T.",
       "activities": 5,
       "distance": 42.44,
       "moving_time_s": 12555,
       "elevation_m": 499,
-      "rank": 106
+      "rank": 107
     },
     {
       "name": "Sandy S.",
@@ -879,7 +887,7 @@
       "distance": 42.22,
       "moving_time_s": 32618,
       "elevation_m": 177,
-      "rank": 107
+      "rank": 108
     },
     {
       "name": "Annisa C.",
@@ -887,14 +895,6 @@
       "distance": 42.09,
       "moving_time_s": 19202,
       "elevation_m": 478,
-      "rank": 108
-    },
-    {
-      "name": "Prima S.",
-      "activities": 4,
-      "distance": 42.06,
-      "moving_time_s": 31834,
-      "elevation_m": 1335,
       "rank": 109
     },
     {
