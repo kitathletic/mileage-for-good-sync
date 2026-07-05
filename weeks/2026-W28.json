@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T17:35:27.075Z",
+  "generated_at": "2026-07-05T17:40:49.512Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,19 @@
     "Walk"
   ],
   "totals": {
-    "distance": 0,
-    "activities": 0,
-    "moving_time_s": 0,
-    "elevation_m": 0
+    "distance": 5.07,
+    "activities": 1,
+    "moving_time_s": 3575,
+    "elevation_m": 9
   },
-  "rows": []
+  "rows": [
+    {
+      "name": "Tanvir S.",
+      "activities": 1,
+      "distance": 5.07,
+      "moving_time_s": 3575,
+      "elevation_m": 9,
+      "rank": 1
+    }
+  ]
 }
