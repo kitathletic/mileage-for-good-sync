@@ -229501,9 +229501,37 @@
       "moving_time_s": 10176,
       "elapsed_time_s": 10176,
       "elevation_m": 74.8
+    },
+    "05861ff3c7a6d0715898": {
+      "h": "05861ff3c7a6d0715898",
+      "first_seen_at": "2026-07-05T16:05:30.030Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Yandri",
+      "athlete_last": "F.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6338.6,
+      "moving_time_s": 3738,
+      "elapsed_time_s": 3945,
+      "elevation_m": 53
+    },
+    "47afcaa1fba81f0fc5d8": {
+      "h": "47afcaa1fba81f0fc5d8",
+      "first_seen_at": "2026-07-05T16:05:30.030Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Yandri",
+      "athlete_last": "F.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 30034.6,
+      "moving_time_s": 15871,
+      "elapsed_time_s": 16102,
+      "elevation_m": 191
     }
   },
-  "last_synced_at": "2026-07-05T16:01:06.311Z",
+  "last_synced_at": "2026-07-05T16:05:30.030Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
