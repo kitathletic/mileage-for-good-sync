@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T23:10:55.401Z",
+  "generated_at": "2026-07-05T23:15:32.710Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 98.95,
-    "activities": 10,
-    "moving_time_s": 40036,
-    "elevation_m": 1693
+    "distance": 150.09,
+    "activities": 13,
+    "moving_time_s": 57454,
+    "elevation_m": 1821
   },
   "rows": [
     {
@@ -34,12 +34,36 @@
       "rank": 1
     },
     {
+      "name": "Diah I.",
+      "activities": 1,
+      "distance": 20.02,
+      "moving_time_s": 7086,
+      "elevation_m": 57,
+      "rank": 2
+    },
+    {
+      "name": "Serigala S.",
+      "activities": 1,
+      "distance": 20.01,
+      "moving_time_s": 7092,
+      "elevation_m": 56,
+      "rank": 3
+    },
+    {
       "name": "Hendri S.",
       "activities": 1,
       "distance": 12.59,
       "moving_time_s": 5934,
       "elevation_m": 0,
-      "rank": 2
+      "rank": 4
+    },
+    {
+      "name": "Aziz Wahyu P.",
+      "activities": 1,
+      "distance": 11.11,
+      "moving_time_s": 3240,
+      "elevation_m": 15,
+      "rank": 5
     },
     {
       "name": "Ryan A.",
@@ -47,7 +71,7 @@
       "distance": 8.51,
       "moving_time_s": 3275,
       "elevation_m": 16,
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "Arya .",
@@ -55,7 +79,7 @@
       "distance": 8.02,
       "moving_time_s": 2906,
       "elevation_m": 16,
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "Zad K.",
@@ -63,7 +87,7 @@
       "distance": 7.01,
       "moving_time_s": 2381,
       "elevation_m": 41,
-      "rank": 5
+      "rank": 8
     },
     {
       "name": "Revi P.",
@@ -71,7 +95,7 @@
       "distance": 6.02,
       "moving_time_s": 3570,
       "elevation_m": 0,
-      "rank": 6
+      "rank": 9
     },
     {
       "name": "Alit D.",
@@ -79,7 +103,7 @@
       "distance": 6.02,
       "moving_time_s": 2758,
       "elevation_m": 21,
-      "rank": 7
+      "rank": 10
     },
     {
       "name": "Arsi 🍀.",
@@ -87,7 +111,7 @@
       "distance": 5.21,
       "moving_time_s": 2397,
       "elevation_m": 6,
-      "rank": 8
+      "rank": 11
     },
     {
       "name": "Tanvir S.",
@@ -95,7 +119,7 @@
       "distance": 5.07,
       "moving_time_s": 3575,
       "elevation_m": 9,
-      "rank": 9
+      "rank": 12
     }
   ]
 }
