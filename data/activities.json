@@ -229109,9 +229109,37 @@
       "moving_time_s": 9452,
       "elapsed_time_s": 13101,
       "elevation_m": 776
+    },
+    "71fdfcd3917ed7f5fae4": {
+      "h": "71fdfcd3917ed7f5fae4",
+      "first_seen_at": "2026-07-05T10:25:27.383Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Fikhriya",
+      "athlete_last": "A.",
+      "name": "After Tempo",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 897.2,
+      "moving_time_s": 296,
+      "elapsed_time_s": 300,
+      "elevation_m": 5.7
+    },
+    "a2319767bc9b97ae4d8f": {
+      "h": "a2319767bc9b97ae4d8f",
+      "first_seen_at": "2026-07-05T10:25:27.383Z",
+      "week_key": "2026-W27",
+      "athlete_first": "Adam",
+      "athlete_last": "V.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3010.6,
+      "moving_time_s": 1475,
+      "elapsed_time_s": 1475,
+      "elevation_m": 7
     }
   },
-  "last_synced_at": "2026-07-05T10:20:53.121Z",
+  "last_synced_at": "2026-07-05T10:25:27.383Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
