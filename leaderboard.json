@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T06:40:52.550Z",
+  "generated_at": "2026-07-05T06:45:32.194Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 137544.44,
-    "activities": 15152,
-    "moving_time_s": 57841970,
-    "elevation_m": 785759
+    "distance": 137573.06,
+    "activities": 15154,
+    "moving_time_s": 57852316,
+    "elevation_m": 785804
   },
   "rows": [
     {
@@ -180,12 +180,20 @@
       "rank": 19
     },
     {
+      "name": "Soleiman P.",
+      "activities": 63,
+      "distance": 906.54,
+      "moving_time_s": 317215,
+      "elevation_m": 1904,
+      "rank": 20
+    },
+    {
       "name": "Wah E.",
       "activities": 86,
       "distance": 896.92,
       "moving_time_s": 382236,
       "elevation_m": 4213,
-      "rank": 20
+      "rank": 21
     },
     {
       "name": "Aditya Y.",
@@ -193,7 +201,7 @@
       "distance": 893.33,
       "moving_time_s": 303787,
       "elevation_m": 5243,
-      "rank": 21
+      "rank": 22
     },
     {
       "name": "Serigala S.",
@@ -201,14 +209,6 @@
       "distance": 886.34,
       "moving_time_s": 329732,
       "elevation_m": 2868,
-      "rank": 22
-    },
-    {
-      "name": "Soleiman P.",
-      "activities": 62,
-      "distance": 885.93,
-      "moving_time_s": 310075,
-      "elevation_m": 1874,
       "rank": 23
     },
     {
@@ -468,19 +468,19 @@
       "rank": 55
     },
     {
+      "name": "Novi E.",
+      "activities": 41,
+      "distance": 613.57,
+      "moving_time_s": 263157,
+      "elevation_m": 3625,
+      "rank": 56
+    },
+    {
       "name": "Francesco S.",
       "activities": 59,
       "distance": 611.93,
       "moving_time_s": 279071,
       "elevation_m": 1591,
-      "rank": 56
-    },
-    {
-      "name": "Novi E.",
-      "activities": 40,
-      "distance": 605.56,
-      "moving_time_s": 259951,
-      "elevation_m": 3610,
       "rank": 57
     },
     {
