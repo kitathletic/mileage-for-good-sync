@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T03:05:27.464Z",
+  "generated_at": "2026-07-06T03:10:53.187Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,9 +19,9 @@
     "Walk"
   ],
   "totals": {
-    "distance": 435.93,
-    "activities": 47,
-    "moving_time_s": 173559,
+    "distance": 438.93,
+    "activities": 48,
+    "moving_time_s": 174783,
     "elevation_m": 3013
   },
   "rows": [
@@ -352,6 +352,14 @@
       "moving_time_s": 1129,
       "elevation_m": 2,
       "rank": 41
+    },
+    {
+      "name": "Ikhya A.",
+      "activities": 1,
+      "distance": 3,
+      "moving_time_s": 1224,
+      "elevation_m": 0,
+      "rank": 42
     }
   ]
 }
