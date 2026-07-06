@@ -230957,9 +230957,37 @@
       "moving_time_s": 2482,
       "elapsed_time_s": 2482,
       "elevation_m": 21
+    },
+    "5b7ef76e70e857ac9a0a": {
+      "h": "5b7ef76e70e857ac9a0a",
+      "first_seen_at": "2026-07-06T15:40:57.119Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Christopher",
+      "athlete_last": "G.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5054.3,
+      "moving_time_s": 2122,
+      "elapsed_time_s": 2138,
+      "elevation_m": 41.5
+    },
+    "94a758d802f8cb595702": {
+      "h": "94a758d802f8cb595702",
+      "first_seen_at": "2026-07-06T15:40:57.119Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Revi",
+      "athlete_last": "P.",
+      "name": "Night Run - LT1 Medium",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7025,
+      "moving_time_s": 3878,
+      "elapsed_time_s": 3914,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-07-06T15:35:28.253Z",
+  "last_synced_at": "2026-07-06T15:40:57.119Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
