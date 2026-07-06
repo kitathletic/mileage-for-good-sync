@@ -229921,9 +229921,51 @@
       "moving_time_s": 4411,
       "elapsed_time_s": 4498,
       "elevation_m": 70
+    },
+    "dc5e95eff55986115828": {
+      "h": "dc5e95eff55986115828",
+      "first_seen_at": "2026-07-06T00:15:34.101Z",
+      "week_key": "2026-W28",
+      "athlete_first": "M Doni",
+      "athlete_last": "M.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7306.5,
+      "moving_time_s": 2700,
+      "elapsed_time_s": 2880,
+      "elevation_m": 7
+    },
+    "5e01fa63610b74b6ae37": {
+      "h": "5e01fa63610b74b6ae37",
+      "first_seen_at": "2026-07-06T00:15:34.101Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Ewoq",
+      "athlete_last": "😈.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8004,
+      "moving_time_s": 3506,
+      "elapsed_time_s": 3513,
+      "elevation_m": 24
+    },
+    "e728d11d168faa9716a9": {
+      "h": "e728d11d168faa9716a9",
+      "first_seen_at": "2026-07-06T00:15:34.101Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Tim",
+      "athlete_last": "W.",
+      "name": "Recovery Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8012.3,
+      "moving_time_s": 3081,
+      "elapsed_time_s": 3092,
+      "elevation_m": 10
     }
   },
-  "last_synced_at": "2026-07-06T00:10:53.692Z",
+  "last_synced_at": "2026-07-06T00:15:34.101Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
