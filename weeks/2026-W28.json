@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T12:41:01.344Z",
+  "generated_at": "2026-07-07T12:45:33.075Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 2547.7,
-    "activities": 310,
-    "moving_time_s": 1025374,
-    "elevation_m": 14106
+    "distance": 2548.31,
+    "activities": 311,
+    "moving_time_s": 1025657,
+    "elevation_m": 14117
   },
   "rows": [
     {
@@ -1528,6 +1528,14 @@
       "moving_time_s": 838,
       "elevation_m": 0,
       "rank": 188
+    },
+    {
+      "name": "Crystal Y.",
+      "activities": 1,
+      "distance": 0.61,
+      "moving_time_s": 283,
+      "elevation_m": 11,
+      "rank": 189
     }
   ]
 }
