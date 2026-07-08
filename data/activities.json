@@ -236641,9 +236641,37 @@
       "moving_time_s": 2662,
       "elapsed_time_s": 4029,
       "elevation_m": 0
+    },
+    "673d79b6e969e0dcd636": {
+      "h": "673d79b6e969e0dcd636",
+      "first_seen_at": "2026-07-08T10:45:31.973Z",
+      "week_key": "2026-W28",
+      "athlete_first": "M Yudho",
+      "athlete_last": "F.",
+      "name": "Berlari Sore",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5001.6,
+      "moving_time_s": 1714,
+      "elapsed_time_s": 1740,
+      "elevation_m": 62.3
+    },
+    "f335b824a52c22080aa2": {
+      "h": "f335b824a52c22080aa2",
+      "first_seen_at": "2026-07-08T10:45:31.973Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Andrew",
+      "athlete_last": "G.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7011.3,
+      "moving_time_s": 2808,
+      "elapsed_time_s": 2822,
+      "elevation_m": 61
     }
   },
-  "last_synced_at": "2026-07-08T10:41:01.742Z",
+  "last_synced_at": "2026-07-08T10:45:31.973Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
