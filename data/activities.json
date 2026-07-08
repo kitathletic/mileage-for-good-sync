@@ -235899,9 +235899,37 @@
       "moving_time_s": 4543,
       "elapsed_time_s": 4596,
       "elevation_m": 47
+    },
+    "5f1b6e56df66ceed8852": {
+      "h": "5f1b6e56df66ceed8852",
+      "first_seen_at": "2026-07-08T01:05:28.212Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Dimas",
+      "athlete_last": "A.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6039.7,
+      "moving_time_s": 2569,
+      "elapsed_time_s": 2578,
+      "elevation_m": 10.5
+    },
+    "a7e69389ea4c54b788d4": {
+      "h": "a7e69389ea4c54b788d4",
+      "first_seen_at": "2026-07-08T01:05:28.212Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Aldi",
+      "athlete_last": "O.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2808.3,
+      "moving_time_s": 1204,
+      "elapsed_time_s": 1212,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-07-08T01:01:12.930Z",
+  "last_synced_at": "2026-07-08T01:05:28.212Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
