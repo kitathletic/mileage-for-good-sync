@@ -237621,9 +237621,37 @@
       "moving_time_s": 2569,
       "elapsed_time_s": 2578,
       "elevation_m": 10.5
+    },
+    "2d4cd3d47887c9997403": {
+      "h": "2d4cd3d47887c9997403",
+      "first_seen_at": "2026-07-08T14:25:31.162Z",
+      "week_key": "2026-W28",
+      "athlete_first": "dani",
+      "athlete_last": "S.",
+      "name": "Berlari Malam",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1308.2,
+      "moving_time_s": 981,
+      "elapsed_time_s": 1025,
+      "elevation_m": 5
+    },
+    "4dc0706ab76df5fde7c2": {
+      "h": "4dc0706ab76df5fde7c2",
+      "first_seen_at": "2026-07-08T14:25:31.162Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Rama",
+      "athlete_last": "E.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12609,
+      "moving_time_s": 4220,
+      "elapsed_time_s": 4316,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-07-08T14:21:00.441Z",
+  "last_synced_at": "2026-07-08T14:25:31.162Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
