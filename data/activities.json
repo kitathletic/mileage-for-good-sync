@@ -237159,9 +237159,37 @@
       "moving_time_s": 2940,
       "elapsed_time_s": 2940,
       "elevation_m": 0
+    },
+    "36dcdc4b08f5bd45f35a": {
+      "h": "36dcdc4b08f5bd45f35a",
+      "first_seen_at": "2026-07-08T13:01:19.663Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Mario",
+      "athlete_last": "J.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5035.3,
+      "moving_time_s": 1688,
+      "elapsed_time_s": 2395,
+      "elevation_m": 9
+    },
+    "ac40d69e5ee0ed46100c": {
+      "h": "ac40d69e5ee0ed46100c",
+      "first_seen_at": "2026-07-08T13:01:19.663Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Muhammed",
+      "athlete_last": "D.",
+      "name": "FS Interval Run 400x12",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5258.6,
+      "moving_time_s": 2268,
+      "elapsed_time_s": 2992,
+      "elevation_m": 3
     }
   },
-  "last_synced_at": "2026-07-08T12:55:29.249Z",
+  "last_synced_at": "2026-07-08T13:01:19.663Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
