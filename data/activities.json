@@ -236865,9 +236865,37 @@
       "moving_time_s": 5131,
       "elapsed_time_s": 5211,
       "elevation_m": 51.3
+    },
+    "80b625b807e6ef186c8a": {
+      "h": "80b625b807e6ef186c8a",
+      "first_seen_at": "2026-07-08T11:40:59.044Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Annisa",
+      "athlete_last": "C.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10552.5,
+      "moving_time_s": 4500,
+      "elapsed_time_s": 4505,
+      "elevation_m": 0
+    },
+    "e517ede849953b19fae3": {
+      "h": "e517ede849953b19fae3",
+      "first_seen_at": "2026-07-08T11:40:59.044Z",
+      "week_key": "2026-W28",
+      "athlete_first": "San",
+      "athlete_last": "S.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7005.5,
+      "moving_time_s": 2612,
+      "elapsed_time_s": 3836,
+      "elevation_m": 23
     }
   },
-  "last_synced_at": "2026-07-08T11:35:30.893Z",
+  "last_synced_at": "2026-07-08T11:40:59.044Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
