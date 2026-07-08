@@ -237285,9 +237285,37 @@
       "moving_time_s": 3137,
       "elapsed_time_s": 3207,
       "elevation_m": 5.4
+    },
+    "3de597191c3755dd2182": {
+      "h": "3de597191c3755dd2182",
+      "first_seen_at": "2026-07-08T13:20:56.834Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Michael",
+      "athlete_last": "K.",
+      "name": "Easy Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9550,
+      "moving_time_s": 3629,
+      "elapsed_time_s": 3629,
+      "elevation_m": 0
+    },
+    "86d913f80486ca79bd31": {
+      "h": "86d913f80486ca79bd31",
+      "first_seen_at": "2026-07-08T13:20:56.834Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Peter Nichlas",
+      "athlete_last": "S.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 13000,
+      "moving_time_s": 5075,
+      "elapsed_time_s": 5075,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-07-08T13:15:33.660Z",
+  "last_synced_at": "2026-07-08T13:20:56.834Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
