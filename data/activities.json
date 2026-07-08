@@ -237663,9 +237663,51 @@
       "moving_time_s": 2542,
       "elapsed_time_s": 2560,
       "elevation_m": 4.5
+    },
+    "6f3a80254e096826ba9e": {
+      "h": "6f3a80254e096826ba9e",
+      "first_seen_at": "2026-07-08T14:55:30.877Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Mario",
+      "athlete_last": "J.",
+      "name": "Cooling Down",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1234.1,
+      "moving_time_s": 494,
+      "elapsed_time_s": 494,
+      "elevation_m": 2
+    },
+    "fa4f6ef9dae21359c768": {
+      "h": "fa4f6ef9dae21359c768",
+      "first_seen_at": "2026-07-08T14:55:30.877Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Mario",
+      "athlete_last": "J.",
+      "name": "Pyramid Interval",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5035.3,
+      "moving_time_s": 1688,
+      "elapsed_time_s": 2395,
+      "elevation_m": 9
+    },
+    "4b19cb10049c51d822de": {
+      "h": "4b19cb10049c51d822de",
+      "first_seen_at": "2026-07-08T14:55:30.877Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Mario",
+      "athlete_last": "J.",
+      "name": "Warming Up",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2069.5,
+      "moving_time_s": 884,
+      "elapsed_time_s": 884,
+      "elevation_m": 2
     }
   },
-  "last_synced_at": "2026-07-08T14:51:00.821Z",
+  "last_synced_at": "2026-07-08T14:55:30.877Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
