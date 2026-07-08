@@ -237901,9 +237901,37 @@
       "moving_time_s": 342,
       "elapsed_time_s": 351,
       "elevation_m": 0
+    },
+    "f332bf94925ede1e9f19": {
+      "h": "f332bf94925ede1e9f19",
+      "first_seen_at": "2026-07-08T21:45:33.151Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Handy",
+      "athlete_last": "C.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5017.1,
+      "moving_time_s": 1810,
+      "elapsed_time_s": 1846,
+      "elevation_m": 9
+    },
+    "8ba0d394742e6c124658": {
+      "h": "8ba0d394742e6c124658",
+      "first_seen_at": "2026-07-08T21:45:33.151Z",
+      "week_key": "2026-W28",
+      "athlete_first": "\"𝑫𝑨𝒱 𝑰𝑫🥇",
+      "athlete_last": "G.",
+      "name": "Night Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 10170.3,
+      "moving_time_s": 3797,
+      "elapsed_time_s": 4053,
+      "elevation_m": 205
     }
   },
-  "last_synced_at": "2026-07-08T21:40:59.053Z",
+  "last_synced_at": "2026-07-08T21:45:33.151Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
