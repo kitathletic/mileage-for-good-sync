@@ -236935,9 +236935,37 @@
       "moving_time_s": 601,
       "elapsed_time_s": 601,
       "elevation_m": 3
+    },
+    "1a69e0af12b5c3d8fc41": {
+      "h": "1a69e0af12b5c3d8fc41",
+      "first_seen_at": "2026-07-08T11:55:31.235Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Ryan Adrian",
+      "athlete_last": "B.",
+      "name": "Evening Walk",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1298.9,
+      "moving_time_s": 1075,
+      "elapsed_time_s": 1107,
+      "elevation_m": 0
+    },
+    "028da0adb18fb778f6fc": {
+      "h": "028da0adb18fb778f6fc",
+      "first_seen_at": "2026-07-08T11:55:31.235Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Randy",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4005.5,
+      "moving_time_s": 1500,
+      "elapsed_time_s": 1505,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-07-08T11:51:01.673Z",
+  "last_synced_at": "2026-07-08T11:55:31.235Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
