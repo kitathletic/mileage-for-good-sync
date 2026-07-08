@@ -236613,9 +236613,37 @@
       "moving_time_s": 2740,
       "elapsed_time_s": 3926,
       "elevation_m": 27
+    },
+    "96da4f0d7979469e32f4": {
+      "h": "96da4f0d7979469e32f4",
+      "first_seen_at": "2026-07-08T10:41:01.742Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Amal",
+      "athlete_last": "M.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11167.5,
+      "moving_time_s": 4094,
+      "elapsed_time_s": 4094,
+      "elevation_m": 20
+    },
+    "040ef3e66419c0a95887": {
+      "h": "040ef3e66419c0a95887",
+      "first_seen_at": "2026-07-08T10:41:01.742Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Paulo",
+      "athlete_last": "R.",
+      "name": "Treino de Corrida",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6757.5,
+      "moving_time_s": 2662,
+      "elapsed_time_s": 4029,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-07-08T10:35:28.111Z",
+  "last_synced_at": "2026-07-08T10:41:01.742Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
