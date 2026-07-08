@@ -237775,9 +237775,37 @@
       "moving_time_s": 1397,
       "elapsed_time_s": 2016,
       "elevation_m": 2.1
+    },
+    "fabfe859a59502c37cb6": {
+      "h": "fabfe859a59502c37cb6",
+      "first_seen_at": "2026-07-08T15:15:35.784Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Jay",
+      "athlete_last": "..",
+      "name": "Fartlek Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11073.4,
+      "moving_time_s": 3548,
+      "elapsed_time_s": 3600,
+      "elevation_m": 5.2
+    },
+    "1cfef57ba9d91b3c439a": {
+      "h": "1cfef57ba9d91b3c439a",
+      "first_seen_at": "2026-07-08T15:15:35.784Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Hilal",
+      "athlete_last": "H.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 221.6,
+      "moving_time_s": 78,
+      "elapsed_time_s": 89,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-07-08T15:11:02.268Z",
+  "last_synced_at": "2026-07-08T15:15:35.784Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
