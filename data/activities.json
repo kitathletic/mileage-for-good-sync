@@ -238895,9 +238895,23 @@
       "moving_time_s": 3600,
       "elapsed_time_s": 3600,
       "elevation_m": 59
+    },
+    "9d5c4370b85f42a86f7c": {
+      "h": "9d5c4370b85f42a86f7c",
+      "first_seen_at": "2026-07-09T00:05:28.483Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Abdu",
+      "athlete_last": "B.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10000.3,
+      "moving_time_s": 5715,
+      "elapsed_time_s": 5752,
+      "elevation_m": 44.4
     }
   },
-  "last_synced_at": "2026-07-09T00:01:59.513Z",
+  "last_synced_at": "2026-07-09T00:05:28.483Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
