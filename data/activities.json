@@ -241807,9 +241807,37 @@
       "moving_time_s": 2966,
       "elapsed_time_s": 3026,
       "elevation_m": 21.2
+    },
+    "e4e70cd76c5092bdb9f7": {
+      "h": "e4e70cd76c5092bdb9f7",
+      "first_seen_at": "2026-07-09T23:55:30.570Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Bimantoro",
+      "athlete_last": "B.",
+      "name": "Morning Run - dnf",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4529.9,
+      "moving_time_s": 1576,
+      "elapsed_time_s": 1576,
+      "elevation_m": 9
+    },
+    "d0bec667a4e68402570c": {
+      "h": "d0bec667a4e68402570c",
+      "first_seen_at": "2026-07-09T23:55:30.570Z",
+      "week_key": "2026-W28",
+      "athlete_first": "dani",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11028.1,
+      "moving_time_s": 3577,
+      "elapsed_time_s": 3577,
+      "elevation_m": 22
     }
   },
-  "last_synced_at": "2026-07-09T23:50:58.612Z",
+  "last_synced_at": "2026-07-09T23:55:30.570Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
