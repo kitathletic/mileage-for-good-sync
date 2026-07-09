@@ -240631,9 +240631,65 @@
       "moving_time_s": 3443,
       "elapsed_time_s": 3443,
       "elevation_m": 0
+    },
+    "512f6760cc12f4728147": {
+      "h": "512f6760cc12f4728147",
+      "first_seen_at": "2026-07-09T12:57:32.775Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Nindia",
+      "athlete_last": "S.",
+      "name": "speed",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3600,
+      "moving_time_s": 1440,
+      "elapsed_time_s": 1440,
+      "elevation_m": 0
+    },
+    "4d82fd22e200b88b15a2": {
+      "h": "4d82fd22e200b88b15a2",
+      "first_seen_at": "2026-07-09T12:57:32.775Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Soleiman",
+      "athlete_last": "P.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6703,
+      "moving_time_s": 2112,
+      "elapsed_time_s": 2118,
+      "elevation_m": 0
+    },
+    "17bd327a0d64e840ae52": {
+      "h": "17bd327a0d64e840ae52",
+      "first_seen_at": "2026-07-09T12:57:32.775Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Ammar",
+      "athlete_last": "G.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6010,
+      "moving_time_s": 2200,
+      "elapsed_time_s": 2208,
+      "elevation_m": 4
+    },
+    "91f90edf38044f80a8c4": {
+      "h": "91f90edf38044f80a8c4",
+      "first_seen_at": "2026-07-09T12:57:32.775Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Devin",
+      "athlete_last": "S.",
+      "name": "Berlari Sore",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10021.6,
+      "moving_time_s": 3359,
+      "elapsed_time_s": 3359,
+      "elevation_m": 42
     }
   },
-  "last_synced_at": "2026-07-09T12:54:12.119Z",
+  "last_synced_at": "2026-07-09T12:57:32.775Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
