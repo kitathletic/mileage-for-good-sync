@@ -240687,9 +240687,37 @@
       "moving_time_s": 3359,
       "elapsed_time_s": 3359,
       "elevation_m": 42
+    },
+    "bc4d58254566958fed6c": {
+      "h": "bc4d58254566958fed6c",
+      "first_seen_at": "2026-07-09T13:02:04.815Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Khori",
+      "athlete_last": "T.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2609.3,
+      "moving_time_s": 1333,
+      "elapsed_time_s": 1504,
+      "elevation_m": 0
+    },
+    "07a2631fbe525dfa020b": {
+      "h": "07a2631fbe525dfa020b",
+      "first_seen_at": "2026-07-09T13:02:04.815Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Sulthan",
+      "athlete_last": "A.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9035.7,
+      "moving_time_s": 3795,
+      "elapsed_time_s": 6203,
+      "elevation_m": 6
     }
   },
-  "last_synced_at": "2026-07-09T12:57:32.775Z",
+  "last_synced_at": "2026-07-09T13:02:04.815Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
