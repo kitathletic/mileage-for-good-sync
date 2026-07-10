@@ -244383,9 +244383,37 @@
       "moving_time_s": 2179,
       "elapsed_time_s": 2372,
       "elevation_m": 125
+    },
+    "eae9b3c891adb14c362a": {
+      "h": "eae9b3c891adb14c362a",
+      "first_seen_at": "2026-07-10T23:45:24.865Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Bondan",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6157.1,
+      "moving_time_s": 2827,
+      "elapsed_time_s": 2830,
+      "elevation_m": 59
+    },
+    "4ea746bfc22f5172f749": {
+      "h": "4ea746bfc22f5172f749",
+      "first_seen_at": "2026-07-10T23:45:24.865Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Peter Nichlas",
+      "athlete_last": "S.",
+      "name": "Hills",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11502,
+      "moving_time_s": 4756,
+      "elapsed_time_s": 5459,
+      "elevation_m": 227.1
     }
   },
-  "last_synced_at": "2026-07-10T23:40:58.825Z",
+  "last_synced_at": "2026-07-10T23:45:24.865Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
