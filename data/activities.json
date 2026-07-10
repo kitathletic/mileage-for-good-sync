@@ -243627,9 +243627,37 @@
       "moving_time_s": 3600,
       "elapsed_time_s": 3618,
       "elevation_m": 12
+    },
+    "02e5e16ad83a85b18e4a": {
+      "h": "02e5e16ad83a85b18e4a",
+      "first_seen_at": "2026-07-10T11:35:29.774Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Danny",
+      "athlete_last": "T.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10046,
+      "moving_time_s": 3255,
+      "elapsed_time_s": 3388,
+      "elevation_m": 43
+    },
+    "41ac1a96a1bfa9ee5fcf": {
+      "h": "41ac1a96a1bfa9ee5fcf",
+      "first_seen_at": "2026-07-10T11:35:29.774Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Suryanto",
+      "athlete_last": "F.",
+      "name": "Base W5 - Tempo 7 K",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7002.7,
+      "moving_time_s": 2467,
+      "elapsed_time_s": 2479,
+      "elevation_m": 5
     }
   },
-  "last_synced_at": "2026-07-10T11:31:08.742Z",
+  "last_synced_at": "2026-07-10T11:35:29.774Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
