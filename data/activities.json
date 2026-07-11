@@ -246217,9 +246217,65 @@
       "moving_time_s": 9630,
       "elapsed_time_s": 9882,
       "elevation_m": 207
+    },
+    "d733a393bbd907cbf527": {
+      "h": "d733a393bbd907cbf527",
+      "first_seen_at": "2026-07-11T02:25:29.290Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Michael",
+      "athlete_last": "K.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8010,
+      "moving_time_s": 3032,
+      "elapsed_time_s": 3032,
+      "elevation_m": 0
+    },
+    "5e2acacc3e4c49d30f9f": {
+      "h": "5e2acacc3e4c49d30f9f",
+      "first_seen_at": "2026-07-11T02:25:29.290Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Leandro",
+      "athlete_last": "T.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 20220.3,
+      "moving_time_s": 8887,
+      "elapsed_time_s": 9250,
+      "elevation_m": 214
+    },
+    "58d631fa9ab031fedf70": {
+      "h": "58d631fa9ab031fedf70",
+      "first_seen_at": "2026-07-11T02:25:29.290Z",
+      "week_key": "2026-W28",
+      "athlete_first": "win",
+      "athlete_last": "C.",
+      "name": "WK09 | Build - LR 22",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 22008.9,
+      "moving_time_s": 8643,
+      "elapsed_time_s": 8658,
+      "elevation_m": 57
+    },
+    "b2232a1bb02e7d4b05ef": {
+      "h": "b2232a1bb02e7d4b05ef",
+      "first_seen_at": "2026-07-11T02:25:29.290Z",
+      "week_key": "2026-W28",
+      "athlete_first": "rendy",
+      "athlete_last": "G.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11807.9,
+      "moving_time_s": 4772,
+      "elapsed_time_s": 7560,
+      "elevation_m": 78.8
     }
   },
-  "last_synced_at": "2026-07-11T02:20:57.737Z",
+  "last_synced_at": "2026-07-11T02:25:29.290Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
