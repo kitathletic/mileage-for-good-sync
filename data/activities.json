@@ -245755,9 +245755,37 @@
       "moving_time_s": 6302,
       "elapsed_time_s": 6302,
       "elevation_m": 64
+    },
+    "ff00fe59e5d7f83a6565": {
+      "h": "ff00fe59e5d7f83a6565",
+      "first_seen_at": "2026-07-11T01:25:29.067Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Slopslop",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2022.6,
+      "moving_time_s": 911,
+      "elapsed_time_s": 935,
+      "elevation_m": 0
+    },
+    "f383a52a4ffedc5654f5": {
+      "h": "f383a52a4ffedc5654f5",
+      "first_seen_at": "2026-07-11T01:25:29.067Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Rey",
+      "athlete_last": "M.",
+      "name": "Gior x USS Running: Easy Saturday",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10167.8,
+      "moving_time_s": 5037,
+      "elapsed_time_s": 5762,
+      "elevation_m": 52
     }
   },
-  "last_synced_at": "2026-07-11T01:23:23.293Z",
+  "last_synced_at": "2026-07-11T01:25:29.067Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
