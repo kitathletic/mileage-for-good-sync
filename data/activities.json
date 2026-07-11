@@ -247659,9 +247659,51 @@
       "moving_time_s": 3917,
       "elapsed_time_s": 4109,
       "elevation_m": 32
+    },
+    "1891f47ee89d95d9f00b": {
+      "h": "1891f47ee89d95d9f00b",
+      "first_seen_at": "2026-07-11T16:55:28.160Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Hendri",
+      "athlete_last": "S.",
+      "name": "Night Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2203.6,
+      "moving_time_s": 1308,
+      "elapsed_time_s": 1432,
+      "elevation_m": 6
+    },
+    "2a27496dbd975fabd1ae": {
+      "h": "2a27496dbd975fabd1ae",
+      "first_seen_at": "2026-07-11T16:55:28.160Z",
+      "week_key": "2026-W28",
+      "athlete_first": "marselli",
+      "athlete_last": "T.",
+      "name": "Night Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 4426.6,
+      "moving_time_s": 4063,
+      "elapsed_time_s": 6963,
+      "elevation_m": 530
+    },
+    "71430344581f315912d1": {
+      "h": "71430344581f315912d1",
+      "first_seen_at": "2026-07-11T16:55:28.160Z",
+      "week_key": "2026-W28",
+      "athlete_first": "marselli",
+      "athlete_last": "T.",
+      "name": "Night Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 19.4,
+      "moving_time_s": 1,
+      "elapsed_time_s": 76,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-07-11T16:50:59.807Z",
+  "last_synced_at": "2026-07-11T16:55:28.160Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
