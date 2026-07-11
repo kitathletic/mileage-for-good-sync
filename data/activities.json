@@ -247183,9 +247183,51 @@
       "moving_time_s": 4445,
       "elapsed_time_s": 4995,
       "elevation_m": 0
+    },
+    "6e4557208de08898080d": {
+      "h": "6e4557208de08898080d",
+      "first_seen_at": "2026-07-11T10:50:56.080Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Febio",
+      "athlete_last": "S.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10330,
+      "moving_time_s": 3600,
+      "elapsed_time_s": 3648,
+      "elevation_m": 24
+    },
+    "144ed20a2a178ad567b1": {
+      "h": "144ed20a2a178ad567b1",
+      "first_seen_at": "2026-07-11T10:50:56.080Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Fransiskus",
+      "athlete_last": "K.",
+      "name": "Pocari Sweat Run Lombok",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4187,
+      "moving_time_s": 1124,
+      "elapsed_time_s": 1124,
+      "elevation_m": 5
+    },
+    "40baf9ed433ea318e66a": {
+      "h": "40baf9ed433ea318e66a",
+      "first_seen_at": "2026-07-11T10:50:56.080Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Sulthan",
+      "athlete_last": "A.",
+      "name": "PT 1",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 19005.8,
+      "moving_time_s": 7585,
+      "elapsed_time_s": 7881,
+      "elevation_m": 42
     }
   },
-  "last_synced_at": "2026-07-11T10:45:34.390Z",
+  "last_synced_at": "2026-07-11T10:50:56.080Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90

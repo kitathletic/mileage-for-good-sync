@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T10:45:34.390Z",
+  "generated_at": "2026-07-11T10:50:56.080Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 159578.93,
-    "activities": 17586,
-    "moving_time_s": 66834914,
-    "elevation_m": 904683
+    "distance": 159612.45,
+    "activities": 17589,
+    "moving_time_s": 66847223,
+    "elevation_m": 904754
   },
   "rows": [
     {
@@ -148,12 +148,20 @@
       "rank": 15
     },
     {
+      "name": "Sulthan A.",
+      "activities": 80,
+      "distance": 1110.11,
+      "moving_time_s": 565022,
+      "elevation_m": 4965,
+      "rank": 16
+    },
+    {
       "name": "Edy C.",
       "activities": 80,
       "distance": 1106.01,
       "moving_time_s": 616702,
       "elevation_m": 29311,
-      "rank": 16
+      "rank": 17
     },
     {
       "name": "Irvan C.",
@@ -161,14 +169,6 @@
       "distance": 1102.48,
       "moving_time_s": 620437,
       "elevation_m": 15093,
-      "rank": 17
-    },
-    {
-      "name": "Sulthan A.",
-      "activities": 79,
-      "distance": 1091.11,
-      "moving_time_s": 557437,
-      "elevation_m": 4923,
       "rank": 18
     },
     {
@@ -860,19 +860,19 @@
       "rank": 104
     },
     {
+      "name": "Febio S.",
+      "activities": 65,
+      "distance": 514.37,
+      "moving_time_s": 198742,
+      "elevation_m": 737,
+      "rank": 105
+    },
+    {
       "name": "Jessica T.",
       "activities": 49,
       "distance": 509.74,
       "moving_time_s": 201447,
       "elevation_m": 1101,
-      "rank": 105
-    },
-    {
-      "name": "Febio S.",
-      "activities": 64,
-      "distance": 504.04,
-      "moving_time_s": 195142,
-      "elevation_m": 713,
       "rank": 106
     },
     {
@@ -1900,12 +1900,20 @@
       "rank": 234
     },
     {
+      "name": "Fransiskus K.",
+      "activities": 31,
+      "distance": 243.52,
+      "moving_time_s": 94690,
+      "elevation_m": 559,
+      "rank": 235
+    },
+    {
       "name": "Dadan K.",
       "activities": 22,
       "distance": 241.74,
       "moving_time_s": 83423,
       "elevation_m": 2865,
-      "rank": 235
+      "rank": 236
     },
     {
       "name": "M Yudho F.",
@@ -1913,14 +1921,6 @@
       "distance": 240.03,
       "moving_time_s": 104744,
       "elevation_m": 1980,
-      "rank": 236
-    },
-    {
-      "name": "Fransiskus K.",
-      "activities": 30,
-      "distance": 239.33,
-      "moving_time_s": 93566,
-      "elevation_m": 554,
       "rank": 237
     },
     {
