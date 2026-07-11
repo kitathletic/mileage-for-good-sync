@@ -248289,9 +248289,37 @@
       "moving_time_s": 1882,
       "elapsed_time_s": 1887,
       "elevation_m": 10
+    },
+    "641b5fedf77bdd830ddf": {
+      "h": "641b5fedf77bdd830ddf",
+      "first_seen_at": "2026-07-11T23:45:34.692Z",
+      "week_key": "2026-W28",
+      "athlete_first": "M Doni",
+      "athlete_last": "M.",
+      "name": "Morning Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 10096.2,
+      "moving_time_s": 4770,
+      "elapsed_time_s": 4801,
+      "elevation_m": 45
+    },
+    "d92b1dbbcce4d0bb3e9c": {
+      "h": "d92b1dbbcce4d0bb3e9c",
+      "first_seen_at": "2026-07-11T23:45:34.692Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Samuel",
+      "athlete_last": "W.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 14003.5,
+      "moving_time_s": 5671,
+      "elapsed_time_s": 8428,
+      "elevation_m": 65
     }
   },
-  "last_synced_at": "2026-07-11T23:41:00.856Z",
+  "last_synced_at": "2026-07-11T23:45:34.692Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
