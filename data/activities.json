@@ -246833,9 +246833,37 @@
       "moving_time_s": 4318,
       "elapsed_time_s": 4341,
       "elevation_m": 36.7
+    },
+    "22671ad4b3fc8d7de449": {
+      "h": "22671ad4b3fc8d7de449",
+      "first_seen_at": "2026-07-11T09:01:12.600Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Andrew",
+      "athlete_last": "G.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9692.7,
+      "moving_time_s": 3818,
+      "elapsed_time_s": 3905,
+      "elevation_m": 83
+    },
+    "a9dcecb441d9a1882c24": {
+      "h": "a9dcecb441d9a1882c24",
+      "first_seen_at": "2026-07-11T09:01:12.600Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Cicak",
+      "athlete_last": "T.",
+      "name": "Recovery Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10001.8,
+      "moving_time_s": 3220,
+      "elapsed_time_s": 3241,
+      "elevation_m": 5.3
     }
   },
-  "last_synced_at": "2026-07-11T08:55:27.355Z",
+  "last_synced_at": "2026-07-11T09:01:12.600Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
