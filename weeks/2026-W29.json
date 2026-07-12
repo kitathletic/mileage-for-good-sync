@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T22:40:58.573Z",
+  "generated_at": "2026-07-12T22:45:34.478Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,26 +19,26 @@
     "Walk"
   ],
   "totals": {
-    "distance": 60.72,
-    "activities": 9,
-    "moving_time_s": 21946,
-    "elevation_m": 256
+    "distance": 78.34,
+    "activities": 12,
+    "moving_time_s": 27794,
+    "elevation_m": 340
   },
   "rows": [
+    {
+      "name": "Cicak T.",
+      "activities": 5,
+      "distance": 26.76,
+      "moving_time_s": 6538,
+      "elevation_m": 130,
+      "rank": 1
+    },
     {
       "name": "Ken K.",
       "activities": 3,
       "distance": 19.43,
       "moving_time_s": 7568,
       "elevation_m": 119,
-      "rank": 1
-    },
-    {
-      "name": "Cicak T.",
-      "activities": 3,
-      "distance": 16.17,
-      "moving_time_s": 3846,
-      "elevation_m": 79,
       "rank": 2
     },
     {
@@ -58,12 +58,20 @@
       "rank": 4
     },
     {
+      "name": "baphomet ..",
+      "activities": 1,
+      "distance": 7.03,
+      "moving_time_s": 3156,
+      "elevation_m": 33,
+      "rank": 5
+    },
+    {
       "name": "Adystra B.",
       "activities": 1,
       "distance": 3.48,
       "moving_time_s": 1406,
       "elevation_m": 12,
-      "rank": 5
+      "rank": 6
     }
   ]
 }
