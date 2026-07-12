@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T10:25:29.554Z",
+  "generated_at": "2026-07-12T10:31:15.032Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 163065.4,
-    "activities": 17902,
-    "moving_time_s": 68276969,
-    "elevation_m": 926458
+    "distance": 163071.41,
+    "activities": 17903,
+    "moving_time_s": 68279521,
+    "elevation_m": 926535
   },
   "rows": [
     {
@@ -2164,12 +2164,20 @@
       "rank": 267
     },
     {
+      "name": "_ph.87 |.",
+      "activities": 35,
+      "distance": 207.7,
+      "moving_time_s": 80706,
+      "elevation_m": 1277,
+      "rank": 268
+    },
+    {
       "name": "Ambar S.",
       "activities": 20,
       "distance": 207.18,
       "moving_time_s": 91154,
       "elevation_m": 3000,
-      "rank": 268
+      "rank": 269
     },
     {
       "name": "Linda Z.",
@@ -2177,7 +2185,7 @@
       "distance": 207.1,
       "moving_time_s": 130240,
       "elevation_m": 5643,
-      "rank": 269
+      "rank": 270
     },
     {
       "name": "Gede Bagol A.",
@@ -2185,7 +2193,7 @@
       "distance": 206.89,
       "moving_time_s": 93848,
       "elevation_m": 395,
-      "rank": 270
+      "rank": 271
     },
     {
       "name": "Devin S.",
@@ -2193,7 +2201,7 @@
       "distance": 206.21,
       "moving_time_s": 73272,
       "elevation_m": 1402,
-      "rank": 271
+      "rank": 272
     },
     {
       "name": "Michael H.",
@@ -2201,7 +2209,7 @@
       "distance": 205.6,
       "moving_time_s": 71325,
       "elevation_m": 172,
-      "rank": 272
+      "rank": 273
     },
     {
       "name": "Silviany S.",
@@ -2209,14 +2217,6 @@
       "distance": 202.67,
       "moving_time_s": 114986,
       "elevation_m": 177,
-      "rank": 273
-    },
-    {
-      "name": "_ph.87 |.",
-      "activities": 34,
-      "distance": 201.69,
-      "moving_time_s": 78154,
-      "elevation_m": 1200,
       "rank": 274
     },
     {
