@@ -251747,9 +251747,37 @@
       "moving_time_s": 7200,
       "elapsed_time_s": 7937,
       "elevation_m": 43
+    },
+    "83c6bb955cacc8135ef7": {
+      "h": "83c6bb955cacc8135ef7",
+      "first_seen_at": "2026-07-12T11:15:35.224Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Tanvir",
+      "athlete_last": "S.",
+      "name": "Fast Running",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3003.3,
+      "moving_time_s": 780,
+      "elapsed_time_s": 785,
+      "elevation_m": 0
+    },
+    "2afd3a529cb7eafdbe43": {
+      "h": "2afd3a529cb7eafdbe43",
+      "first_seen_at": "2026-07-12T11:15:35.224Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Aurasafira",
+      "athlete_last": "P.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7363,
+      "moving_time_s": 3618,
+      "elapsed_time_s": 3787,
+      "elevation_m": 7
     }
   },
-  "last_synced_at": "2026-07-12T11:11:02.778Z",
+  "last_synced_at": "2026-07-12T11:15:35.224Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
