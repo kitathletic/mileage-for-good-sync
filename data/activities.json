@@ -252489,9 +252489,37 @@
       "moving_time_s": 4388,
       "elapsed_time_s": 4413,
       "elevation_m": 24
+    },
+    "9d30b8cfbfe05af81b66": {
+      "h": "9d30b8cfbfe05af81b66",
+      "first_seen_at": "2026-07-12T23:05:30.332Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Ghiffa",
+      "athlete_last": "S.",
+      "name": "Berlari Pagi",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3001,
+      "moving_time_s": 1491,
+      "elapsed_time_s": 1491,
+      "elevation_m": 11.8
+    },
+    "f23ef4f5d482c04ec96a": {
+      "h": "f23ef4f5d482c04ec96a",
+      "first_seen_at": "2026-07-12T23:05:30.332Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Abraham",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5075,
+      "moving_time_s": 2259,
+      "elapsed_time_s": 2323,
+      "elevation_m": 4
     }
   },
-  "last_synced_at": "2026-07-12T23:01:12.416Z",
+  "last_synced_at": "2026-07-12T23:05:30.332Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
