@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T23:50:58.135Z",
+  "generated_at": "2026-07-12T23:55:29.180Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 163.86,
-    "activities": 23,
-    "moving_time_s": 61978,
-    "elevation_m": 642
+    "distance": 176.68,
+    "activities": 25,
+    "moving_time_s": 66536,
+    "elevation_m": 671
   },
   "rows": [
     {
@@ -106,12 +106,20 @@
       "rank": 10
     },
     {
+      "name": "Syamsurrijal M.",
+      "activities": 1,
+      "distance": 7.77,
+      "moving_time_s": 3126,
+      "elevation_m": 19,
+      "rank": 11
+    },
+    {
       "name": "baphomet ..",
       "activities": 1,
       "distance": 7.03,
       "moving_time_s": 3156,
       "elevation_m": 33,
-      "rank": 11
+      "rank": 12
     },
     {
       "name": "Bosca H.",
@@ -119,7 +127,7 @@
       "distance": 5.35,
       "moving_time_s": 2489,
       "elevation_m": 42,
-      "rank": 12
+      "rank": 13
     },
     {
       "name": "Abraham S.",
@@ -127,7 +135,15 @@
       "distance": 5.08,
       "moving_time_s": 2259,
       "elevation_m": 4,
-      "rank": 13
+      "rank": 14
+    },
+    {
+      "name": "Asen ..",
+      "activities": 1,
+      "distance": 5.05,
+      "moving_time_s": 1432,
+      "elevation_m": 10,
+      "rank": 15
     },
     {
       "name": "Kevin T.",
@@ -135,7 +151,7 @@
       "distance": 4.64,
       "moving_time_s": 1260,
       "elevation_m": 47,
-      "rank": 14
+      "rank": 16
     },
     {
       "name": "Adystra B.",
@@ -143,7 +159,7 @@
       "distance": 3.48,
       "moving_time_s": 1406,
       "elevation_m": 12,
-      "rank": 15
+      "rank": 17
     },
     {
       "name": "Ciko N.",
@@ -151,7 +167,7 @@
       "distance": 3.04,
       "moving_time_s": 2113,
       "elevation_m": 27,
-      "rank": 16
+      "rank": 18
     },
     {
       "name": "Ghiffa S.",
@@ -159,7 +175,7 @@
       "distance": 3,
       "moving_time_s": 1491,
       "elevation_m": 12,
-      "rank": 17
+      "rank": 19
     }
   ]
 }
