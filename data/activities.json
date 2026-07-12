@@ -248485,9 +248485,51 @@
       "moving_time_s": 3669,
       "elapsed_time_s": 3693,
       "elevation_m": 6
+    },
+    "ca7f55a61a6dc3b58335": {
+      "h": "ca7f55a61a6dc3b58335",
+      "first_seen_at": "2026-07-12T00:05:28.034Z",
+      "week_key": "2026-W28",
+      "athlete_first": "rendy",
+      "athlete_last": "G.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5216.7,
+      "moving_time_s": 2212,
+      "elapsed_time_s": 2299,
+      "elevation_m": 57.7
+    },
+    "0c6b07a65b803a4cf048": {
+      "h": "0c6b07a65b803a4cf048",
+      "first_seen_at": "2026-07-12T00:05:28.034Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Handy",
+      "athlete_last": "C.",
+      "name": "Morning Run + AP",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12015.5,
+      "moving_time_s": 4505,
+      "elapsed_time_s": 7344,
+      "elevation_m": 51
+    },
+    "937362b0412e492dec77": {
+      "h": "937362b0412e492dec77",
+      "first_seen_at": "2026-07-12T00:05:28.034Z",
+      "week_key": "2026-W28",
+      "athlete_first": "Samuel",
+      "athlete_last": "W.",
+      "name": "HMRC x AP morning run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 14003.5,
+      "moving_time_s": 5671,
+      "elapsed_time_s": 8428,
+      "elevation_m": 65
     }
   },
-  "last_synced_at": "2026-07-12T00:01:18.852Z",
+  "last_synced_at": "2026-07-12T00:05:28.034Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
