@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T11:51:05.011Z",
+  "generated_at": "2026-07-13T11:55:29.150Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 153055.07,
-    "activities": 16905,
-    "moving_time_s": 64144061,
-    "elevation_m": 872780
+    "distance": 153068.96,
+    "activities": 16907,
+    "moving_time_s": 64150086,
+    "elevation_m": 872801
   },
   "rows": [
     {
@@ -740,19 +740,19 @@
       "rank": 89
     },
     {
+      "name": "Deri J.",
+      "activities": 56,
+      "distance": 543.13,
+      "moving_time_s": 238855,
+      "elevation_m": 1514,
+      "rank": 90
+    },
+    {
       "name": "Lintang R.",
       "activities": 61,
       "distance": 539.6,
       "moving_time_s": 190412,
       "elevation_m": 2190,
-      "rank": 90
-    },
-    {
-      "name": "Deri J.",
-      "activities": 55,
-      "distance": 534.25,
-      "moving_time_s": 234971,
-      "elevation_m": 1496,
       "rank": 91
     },
     {
@@ -2252,12 +2252,20 @@
       "rank": 278
     },
     {
+      "name": "Michellin K.",
+      "activities": 26,
+      "distance": 183.7,
+      "moving_time_s": 80493,
+      "elevation_m": 451,
+      "rank": 279
+    },
+    {
       "name": "_ph.87 |.",
       "activities": 31,
       "distance": 183.36,
       "moving_time_s": 71717,
       "elevation_m": 1194,
-      "rank": 279
+      "rank": 280
     },
     {
       "name": "Denny R.",
@@ -2265,7 +2273,7 @@
       "distance": 179.36,
       "moving_time_s": 64601,
       "elevation_m": 35,
-      "rank": 280
+      "rank": 281
     },
     {
       "name": "Aldrian B.",
@@ -2273,14 +2281,6 @@
       "distance": 178.78,
       "moving_time_s": 74385,
       "elevation_m": 805,
-      "rank": 281
-    },
-    {
-      "name": "Michellin K.",
-      "activities": 25,
-      "distance": 178.69,
-      "moving_time_s": 78352,
-      "elevation_m": 448,
       "rank": 282
     },
     {
