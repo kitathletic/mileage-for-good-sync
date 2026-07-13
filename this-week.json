@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T09:25:32.341Z",
+  "generated_at": "2026-07-13T09:31:13.899Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,9 +19,9 @@
     "Walk"
   ],
   "totals": {
-    "distance": 478.63,
-    "activities": 66,
-    "moving_time_s": 193731,
+    "distance": 480.64,
+    "activities": 67,
+    "moving_time_s": 194542,
     "elevation_m": 2184
   },
   "rows": [
@@ -440,6 +440,14 @@
       "moving_time_s": 675,
       "elevation_m": 7,
       "rank": 52
+    },
+    {
+      "name": "Prana R.",
+      "activities": 1,
+      "distance": 2.01,
+      "moving_time_s": 811,
+      "elevation_m": 0,
+      "rank": 53
     }
   ]
 }
