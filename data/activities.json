@@ -255303,9 +255303,37 @@
       "moving_time_s": 2743,
       "elapsed_time_s": 2778,
       "elevation_m": 12
+    },
+    "b6c51c75c65fd3c2caa6": {
+      "h": "b6c51c75c65fd3c2caa6",
+      "first_seen_at": "2026-07-14T01:15:33.904Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Michael",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10020.8,
+      "moving_time_s": 4507,
+      "elapsed_time_s": 4744,
+      "elevation_m": 17
+    },
+    "44c64630cc350afc1a62": {
+      "h": "44c64630cc350afc1a62",
+      "first_seen_at": "2026-07-14T01:15:33.904Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Ryan",
+      "athlete_last": "R.",
+      "name": "Last time we saw you, you were trying to kill everyone. What are you up to these days?",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12014.3,
+      "moving_time_s": 5617,
+      "elapsed_time_s": 5770,
+      "elevation_m": 181
     }
   },
-  "last_synced_at": "2026-07-14T01:11:00.775Z",
+  "last_synced_at": "2026-07-14T01:15:33.904Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
