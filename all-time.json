@@ -1,7 +1,10 @@
 {
-  "generated_at": "2026-07-14T23:41:00.682Z",
+  "generated_at": "2026-07-14T23:45:35.452Z",
   "club": {
-    "id": 1826399
+    "id": 1826399,
+    "name": "Kit Athletic",
+    "member_count": 580,
+    "url": "kitathletic"
   },
   "units": "km",
   "view": "all-time",
@@ -18,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 166445.63,
-    "activities": 18329,
-    "moving_time_s": 69635006,
-    "elevation_m": 938455
+    "distance": 166470.21,
+    "activities": 18332,
+    "moving_time_s": 69643622,
+    "elevation_m": 938492
   },
   "rows": [
     {
@@ -193,19 +196,19 @@
       "rank": 21
     },
     {
+      "name": "Aswin Mahardi P.",
+      "activities": 117,
+      "distance": 1089.4,
+      "moving_time_s": 396267,
+      "elevation_m": 3603,
+      "rank": 22
+    },
+    {
       "name": "Petra V.",
       "activities": 103,
       "distance": 1087.59,
       "moving_time_s": 473261,
       "elevation_m": 2194,
-      "rank": 22
-    },
-    {
-      "name": "Aswin Mahardi P.",
-      "activities": 116,
-      "distance": 1079.39,
-      "moving_time_s": 392998,
-      "elevation_m": 3575,
       "rank": 23
     },
     {
@@ -281,19 +284,19 @@
       "rank": 32
     },
     {
+      "name": "Albert K.",
+      "activities": 73,
+      "distance": 922.1,
+      "moving_time_s": 341534,
+      "elevation_m": 1267,
+      "rank": 33
+    },
+    {
       "name": "Pedro V.",
       "activities": 84,
       "distance": 917.62,
       "moving_time_s": 279820,
       "elevation_m": 10067,
-      "rank": 33
-    },
-    {
-      "name": "Albert K.",
-      "activities": 72,
-      "distance": 910.09,
-      "moving_time_s": 337281,
-      "elevation_m": 1258,
       "rank": 34
     },
     {
@@ -721,19 +724,19 @@
       "rank": 87
     },
     {
+      "name": "William A.",
+      "activities": 92,
+      "distance": 588.58,
+      "moving_time_s": 259083,
+      "elevation_m": 532,
+      "rank": 88
+    },
+    {
       "name": "Lintang R.",
       "activities": 66,
       "distance": 587.2,
       "moving_time_s": 207189,
       "elevation_m": 2287,
-      "rank": 88
-    },
-    {
-      "name": "William A.",
-      "activities": 91,
-      "distance": 586.02,
-      "moving_time_s": 257989,
-      "elevation_m": 532,
       "rank": 89
     },
     {

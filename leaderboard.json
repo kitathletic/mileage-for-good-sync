@@ -1,7 +1,10 @@
 {
-  "generated_at": "2026-07-14T23:41:00.682Z",
+  "generated_at": "2026-07-14T23:45:35.452Z",
   "club": {
-    "id": 1826399
+    "id": 1826399,
+    "name": "Kit Athletic",
+    "member_count": 580,
+    "url": "kitathletic"
   },
   "units": "km",
   "view": "cycle",
@@ -18,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 155424.17,
-    "activities": 17204,
-    "moving_time_s": 65089812,
-    "elevation_m": 880730
+    "distance": 155448.74,
+    "activities": 17207,
+    "moving_time_s": 65098428,
+    "elevation_m": 880767
   },
   "rows": [
     {
@@ -161,19 +164,19 @@
       "rank": 17
     },
     {
+      "name": "Aswin Mahardi P.",
+      "activities": 114,
+      "distance": 1059.33,
+      "moving_time_s": 385111,
+      "elevation_m": 3543,
+      "rank": 18
+    },
+    {
       "name": "Randy S.",
       "activities": 101,
       "distance": 1058.23,
       "moving_time_s": 436989,
       "elevation_m": 3910,
-      "rank": 18
-    },
-    {
-      "name": "Aswin Mahardi P.",
-      "activities": 113,
-      "distance": 1049.32,
-      "moving_time_s": 381842,
-      "elevation_m": 3515,
       "rank": 19
     },
     {
@@ -289,19 +292,19 @@
       "rank": 33
     },
     {
+      "name": "Albert K.",
+      "activities": 67,
+      "distance": 854.62,
+      "moving_time_s": 315823,
+      "elevation_m": 1214,
+      "rank": 34
+    },
+    {
       "name": "Aziz Wahyu P.",
       "activities": 71,
       "distance": 853.49,
       "moving_time_s": 275960,
       "elevation_m": 3060,
-      "rank": 34
-    },
-    {
-      "name": "Albert K.",
-      "activities": 66,
-      "distance": 842.62,
-      "moving_time_s": 311570,
-      "elevation_m": 1205,
       "rank": 35
     },
     {
@@ -738,9 +741,9 @@
     },
     {
       "name": "William A.",
-      "activities": 85,
-      "distance": 545.96,
-      "moving_time_s": 239226,
+      "activities": 86,
+      "distance": 548.52,
+      "moving_time_s": 240320,
       "elevation_m": 516,
       "rank": 90
     },
