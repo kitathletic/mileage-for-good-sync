@@ -256913,9 +256913,37 @@
       "moving_time_s": 2743,
       "elapsed_time_s": 2778,
       "elevation_m": 12
+    },
+    "faf2f860b6cd26e0d12b": {
+      "h": "faf2f860b6cd26e0d12b",
+      "first_seen_at": "2026-07-14T14:41:02.675Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Peter Nichlas",
+      "athlete_last": "S.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 15050,
+      "moving_time_s": 5863,
+      "elapsed_time_s": 5863,
+      "elevation_m": 0
+    },
+    "05573ee832243f7fa9b3": {
+      "h": "05573ee832243f7fa9b3",
+      "first_seen_at": "2026-07-14T14:41:02.675Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Adissa",
+      "athlete_last": "R.",
+      "name": "Speedo Day — 1000x5",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8043.2,
+      "moving_time_s": 3423,
+      "elapsed_time_s": 3635,
+      "elevation_m": 9.1
     }
   },
-  "last_synced_at": "2026-07-14T14:35:32.709Z",
+  "last_synced_at": "2026-07-14T14:41:02.675Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
