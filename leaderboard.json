@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T14:25:29.887Z",
+  "generated_at": "2026-07-14T14:31:11.630Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 155058.31,
-    "activities": 17154,
-    "moving_time_s": 64947596,
-    "elevation_m": 879619
+    "distance": 155080.68,
+    "activities": 17156,
+    "moving_time_s": 64955524,
+    "elevation_m": 879634
   },
   "rows": [
     {
@@ -156,19 +156,19 @@
       "rank": 16
     },
     {
+      "name": "Soleiman P.",
+      "activities": 77,
+      "distance": 1067.25,
+      "moving_time_s": 373891,
+      "elevation_m": 2022,
+      "rank": 17
+    },
+    {
       "name": "Randy S.",
       "activities": 101,
       "distance": 1058.23,
       "moving_time_s": 436989,
       "elevation_m": 3910,
-      "rank": 17
-    },
-    {
-      "name": "Soleiman P.",
-      "activities": 76,
-      "distance": 1052.24,
-      "moving_time_s": 368706,
-      "elevation_m": 2019,
       "rank": 18
     },
     {
@@ -1060,12 +1060,20 @@
       "rank": 129
     },
     {
+      "name": "Hanis F.",
+      "activities": 56,
+      "distance": 426.85,
+      "moving_time_s": 176468,
+      "elevation_m": 1278,
+      "rank": 130
+    },
+    {
       "name": "Taufan S.",
       "activities": 34,
       "distance": 424.01,
       "moving_time_s": 184242,
       "elevation_m": 4442,
-      "rank": 130
+      "rank": 131
     },
     {
       "name": "Arya M.",
@@ -1073,7 +1081,7 @@
       "distance": 423.88,
       "moving_time_s": 177631,
       "elevation_m": 1316,
-      "rank": 131
+      "rank": 132
     },
     {
       "name": "sijakiii ㅤ.",
@@ -1081,14 +1089,6 @@
       "distance": 423.53,
       "moving_time_s": 222788,
       "elevation_m": 6242,
-      "rank": 132
-    },
-    {
-      "name": "Hanis F.",
-      "activities": 55,
-      "distance": 419.49,
-      "moving_time_s": 173725,
-      "elevation_m": 1266,
       "rank": 133
     },
     {
