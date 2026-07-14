@@ -257557,9 +257557,37 @@
       "moving_time_s": 1609,
       "elapsed_time_s": 1642,
       "elevation_m": 54
+    },
+    "b21f1fbadc75d3c7cf59": {
+      "h": "b21f1fbadc75d3c7cf59",
+      "first_seen_at": "2026-07-14T23:41:00.682Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Arya",
+      "athlete_last": "M.",
+      "name": "Morning Run at Surabaya",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10058.6,
+      "moving_time_s": 3747,
+      "elapsed_time_s": 3814,
+      "elevation_m": 11
+    },
+    "5748a2e59205378831c6": {
+      "h": "5748a2e59205378831c6",
+      "first_seen_at": "2026-07-14T23:41:00.682Z",
+      "week_key": "2026-W29",
+      "athlete_first": "thomyoum",
+      "athlete_last": "_.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10014,
+      "moving_time_s": 4279,
+      "elapsed_time_s": 4283,
+      "elevation_m": 43
     }
   },
-  "last_synced_at": "2026-07-14T23:40:17.776Z",
+  "last_synced_at": "2026-07-14T23:41:00.682Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
