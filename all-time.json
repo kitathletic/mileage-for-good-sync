@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T12:50:59.666Z",
+  "generated_at": "2026-07-14T12:55:31.556Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 165913.66,
-    "activities": 18255,
-    "moving_time_s": 69424476,
-    "elevation_m": 936694
+    "distance": 165922.66,
+    "activities": 18257,
+    "moving_time_s": 69428985,
+    "elevation_m": 936831
   },
   "rows": [
     {
@@ -1580,19 +1580,19 @@
       "rank": 194
     },
     {
+      "name": "Melda H.",
+      "activities": 38,
+      "distance": 329.32,
+      "moving_time_s": 167530,
+      "elevation_m": 1373,
+      "rank": 195
+    },
+    {
       "name": "Yandri F.",
       "activities": 53,
       "distance": 327.88,
       "moving_time_s": 153047,
       "elevation_m": 1726,
-      "rank": 195
-    },
-    {
-      "name": "Melda H.",
-      "activities": 37,
-      "distance": 325.5,
-      "moving_time_s": 165474,
-      "elevation_m": 1236,
       "rank": 196
     },
     {
@@ -2732,12 +2732,20 @@
       "rank": 338
     },
     {
+      "name": "Nadya R.",
+      "activities": 19,
+      "distance": 117.68,
+      "moving_time_s": 59980,
+      "elevation_m": 265,
+      "rank": 339
+    },
+    {
       "name": "Yan K.",
       "activities": 21,
       "distance": 117.46,
       "moving_time_s": 54154,
       "elevation_m": 111,
-      "rank": 339
+      "rank": 340
     },
     {
       "name": "Fildza Ananda P.",
@@ -2745,7 +2753,7 @@
       "distance": 115.66,
       "moving_time_s": 54341,
       "elevation_m": 211,
-      "rank": 340
+      "rank": 341
     },
     {
       "name": "Amir 0.",
@@ -2753,14 +2761,6 @@
       "distance": 114.5,
       "moving_time_s": 40706,
       "elevation_m": 1379,
-      "rank": 341
-    },
-    {
-      "name": "Nadya R.",
-      "activities": 18,
-      "distance": 112.5,
-      "moving_time_s": 57527,
-      "elevation_m": 265,
       "rank": 342
     },
     {
