@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T10:35:28.076Z",
+  "generated_at": "2026-07-15T10:41:02.102Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 167259.2,
-    "activities": 18435,
-    "moving_time_s": 69944518,
-    "elevation_m": 941251
+    "distance": 167264.22,
+    "activities": 18436,
+    "moving_time_s": 69945990,
+    "elevation_m": 941253
   },
   "rows": [
     {
@@ -1212,12 +1212,20 @@
       "rank": 148
     },
     {
+      "name": "Albert A.",
+      "activities": 52,
+      "distance": 422.8,
+      "moving_time_s": 175107,
+      "elevation_m": 620,
+      "rank": 149
+    },
+    {
       "name": "Ario S.",
       "activities": 42,
       "distance": 420.57,
       "moving_time_s": 195204,
       "elevation_m": 865,
-      "rank": 149
+      "rank": 150
     },
     {
       "name": "Fandi ‎.",
@@ -1225,7 +1233,7 @@
       "distance": 420.41,
       "moving_time_s": 129326,
       "elevation_m": 1682,
-      "rank": 150
+      "rank": 151
     },
     {
       "name": "Teuku U.",
@@ -1233,14 +1241,6 @@
       "distance": 418.04,
       "moving_time_s": 149185,
       "elevation_m": 1216,
-      "rank": 151
-    },
-    {
-      "name": "Albert A.",
-      "activities": 51,
-      "distance": 417.78,
-      "moving_time_s": 173635,
-      "elevation_m": 618,
       "rank": 152
     },
     {
