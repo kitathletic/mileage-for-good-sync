@@ -258523,9 +258523,37 @@
       "moving_time_s": 5097,
       "elapsed_time_s": 5477,
       "elevation_m": 11
+    },
+    "e0312df2bbf58ca59f7d": {
+      "h": "e0312df2bbf58ca59f7d",
+      "first_seen_at": "2026-07-15T01:40:57.717Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Hanis",
+      "athlete_last": "F.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6064.3,
+      "moving_time_s": 2624,
+      "elapsed_time_s": 2741,
+      "elevation_m": 25
+    },
+    "5fd55d357992dcce8b52": {
+      "h": "5fd55d357992dcce8b52",
+      "first_seen_at": "2026-07-15T01:40:57.717Z",
+      "week_key": "2026-W29",
+      "athlete_first": "RWTS",
+      "athlete_last": "..",
+      "name": "JACKPOT KM 3.03 KM 4.53\nHR MELETUP 185",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5005,
+      "moving_time_s": 1659,
+      "elapsed_time_s": 2020,
+      "elevation_m": 15
     }
   },
-  "last_synced_at": "2026-07-15T01:35:30.893Z",
+  "last_synced_at": "2026-07-15T01:40:57.717Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
