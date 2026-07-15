@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T02:31:09.735Z",
+  "generated_at": "2026-07-15T02:35:30.152Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 167029.56,
-    "activities": 18405,
-    "moving_time_s": 69858210,
-    "elevation_m": 940469
+    "distance": 167055.65,
+    "activities": 18408,
+    "moving_time_s": 69868953,
+    "elevation_m": 940546
   },
   "rows": [
     {
@@ -53,10 +53,10 @@
     },
     {
       "name": "Prana R.",
-      "activities": 172,
-      "distance": 1599.76,
-      "moving_time_s": 682487,
-      "elevation_m": 30477,
+      "activities": 173,
+      "distance": 1607.76,
+      "moving_time_s": 685543,
+      "elevation_m": 30481,
       "rank": 4
     },
     {
@@ -372,19 +372,19 @@
       "rank": 43
     },
     {
+      "name": "Dimas P.",
+      "activities": 53,
+      "distance": 823.27,
+      "moving_time_s": 353766,
+      "elevation_m": 8368,
+      "rank": 44
+    },
+    {
       "name": "Indra D.",
       "activities": 87,
       "distance": 815.79,
       "moving_time_s": 340179,
       "elevation_m": 6256,
-      "rank": 44
-    },
-    {
-      "name": "Dimas P.",
-      "activities": 52,
-      "distance": 810.24,
-      "moving_time_s": 348089,
-      "elevation_m": 8295,
       "rank": 45
     },
     {
@@ -1740,12 +1740,20 @@
       "rank": 214
     },
     {
+      "name": "Emilio R.",
+      "activities": 39,
+      "distance": 291.07,
+      "moving_time_s": 117708,
+      "elevation_m": 528,
+      "rank": 215
+    },
+    {
       "name": "Niky T.",
       "activities": 40,
       "distance": 288.88,
       "moving_time_s": 130401,
       "elevation_m": 582,
-      "rank": 215
+      "rank": 216
     },
     {
       "name": "Didie N.",
@@ -1753,14 +1761,6 @@
       "distance": 287.26,
       "moving_time_s": 150665,
       "elevation_m": 987,
-      "rank": 216
-    },
-    {
-      "name": "Emilio R.",
-      "activities": 38,
-      "distance": 286.01,
-      "moving_time_s": 115698,
-      "elevation_m": 528,
       "rank": 217
     },
     {
