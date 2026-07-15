@@ -259167,9 +259167,37 @@
       "moving_time_s": 2170,
       "elapsed_time_s": 2564,
       "elevation_m": 28
+    },
+    "839bc4813fbf2058a1e7": {
+      "h": "839bc4813fbf2058a1e7",
+      "first_seen_at": "2026-07-15T11:01:16.561Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Aldi",
+      "athlete_last": "..",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5005,
+      "moving_time_s": 1948,
+      "elapsed_time_s": 1988,
+      "elevation_m": 3
+    },
+    "02b3ce5c0087bd616c00": {
+      "h": "02b3ce5c0087bd616c00",
+      "first_seen_at": "2026-07-15T11:01:16.561Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Muhammad",
+      "athlete_last": "I.",
+      "name": "Afternoon Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 8619.1,
+      "moving_time_s": 3865,
+      "elapsed_time_s": 4564,
+      "elevation_m": 107.3
     }
   },
-  "last_synced_at": "2026-07-15T10:55:28.969Z",
+  "last_synced_at": "2026-07-15T11:01:16.561Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
