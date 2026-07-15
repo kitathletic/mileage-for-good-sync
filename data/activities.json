@@ -259027,9 +259027,37 @@
       "moving_time_s": 2560,
       "elapsed_time_s": 2560,
       "elevation_m": 0
+    },
+    "1f807eddbc02931cacf4": {
+      "h": "1f807eddbc02931cacf4",
+      "first_seen_at": "2026-07-15T10:25:30.953Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Dhany",
+      "athlete_last": "N.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5014.4,
+      "moving_time_s": 2588,
+      "elapsed_time_s": 2588,
+      "elevation_m": 21
+    },
+    "a9c713266f7cf739abd8": {
+      "h": "a9c713266f7cf739abd8",
+      "first_seen_at": "2026-07-15T10:25:30.953Z",
+      "week_key": "2026-W29",
+      "athlete_first": "San",
+      "athlete_last": "S.",
+      "name": "Interval 7k",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7004.6,
+      "moving_time_s": 2031,
+      "elapsed_time_s": 3965,
+      "elevation_m": 21
     }
   },
-  "last_synced_at": "2026-07-15T10:21:03.809Z",
+  "last_synced_at": "2026-07-15T10:25:30.953Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90

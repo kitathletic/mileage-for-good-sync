@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T10:21:03.809Z",
+  "generated_at": "2026-07-15T10:25:30.953Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 167236.77,
-    "activities": 18432,
-    "moving_time_s": 69936505,
-    "elevation_m": 941183
+    "distance": 167248.79,
+    "activities": 18434,
+    "moving_time_s": 69941124,
+    "elevation_m": 941225
   },
   "rows": [
     {
@@ -380,19 +380,19 @@
       "rank": 44
     },
     {
+      "name": "San S.",
+      "activities": 59,
+      "distance": 818.56,
+      "moving_time_s": 306691,
+      "elevation_m": 5424,
+      "rank": 45
+    },
+    {
       "name": "Indra D.",
       "activities": 87,
       "distance": 815.79,
       "moving_time_s": 340179,
       "elevation_m": 6256,
-      "rank": 45
-    },
-    {
-      "name": "San S.",
-      "activities": 58,
-      "distance": 811.56,
-      "moving_time_s": 304660,
-      "elevation_m": 5403,
       "rank": 46
     },
     {
@@ -1780,12 +1780,20 @@
       "rank": 219
     },
     {
+      "name": "Dhany N.",
+      "activities": 40,
+      "distance": 283.85,
+      "moving_time_s": 150845,
+      "elevation_m": 4140,
+      "rank": 220
+    },
+    {
       "name": "Faat S.",
       "activities": 17,
       "distance": 282.64,
       "moving_time_s": 110186,
       "elevation_m": 1421,
-      "rank": 220
+      "rank": 221
     },
     {
       "name": "Arif B.",
@@ -1793,7 +1801,7 @@
       "distance": 280.19,
       "moving_time_s": 124513,
       "elevation_m": 1344,
-      "rank": 221
+      "rank": 222
     },
     {
       "name": "Andre R.",
@@ -1801,7 +1809,7 @@
       "distance": 279.97,
       "moving_time_s": 98804,
       "elevation_m": 662,
-      "rank": 222
+      "rank": 223
     },
     {
       "name": "Mikhael Y.",
@@ -1809,14 +1817,6 @@
       "distance": 279.23,
       "moving_time_s": 137736,
       "elevation_m": 2110,
-      "rank": 223
-    },
-    {
-      "name": "Dhany N.",
-      "activities": 39,
-      "distance": 278.83,
-      "moving_time_s": 148257,
-      "elevation_m": 4119,
       "rank": 224
     },
     {
