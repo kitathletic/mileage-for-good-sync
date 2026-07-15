@@ -260567,9 +260567,65 @@
       "moving_time_s": 4600,
       "elapsed_time_s": 4651,
       "elevation_m": 4
+    },
+    "71e8ab5c256446482912": {
+      "h": "71e8ab5c256446482912",
+      "first_seen_at": "2026-07-15T23:15:35.865Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Edy",
+      "athlete_last": "C.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6668.4,
+      "moving_time_s": 2346,
+      "elapsed_time_s": 3066,
+      "elevation_m": 85
+    },
+    "fd92c46b195f1528bf73": {
+      "h": "fd92c46b195f1528bf73",
+      "first_seen_at": "2026-07-15T23:15:35.865Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Cicak",
+      "athlete_last": "T.",
+      "name": "Threshold",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10025.8,
+      "moving_time_s": 2824,
+      "elapsed_time_s": 2824,
+      "elevation_m": 47.5
+    },
+    "000c438a222e833c2b44": {
+      "h": "000c438a222e833c2b44",
+      "first_seen_at": "2026-07-15T23:15:35.865Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Ahmad",
+      "athlete_last": "R.",
+      "name": "Recovery Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8007.1,
+      "moving_time_s": 3270,
+      "elapsed_time_s": 3270,
+      "elevation_m": 59
+    },
+    "59174a554baa7d28e3f0": {
+      "h": "59174a554baa7d28e3f0",
+      "first_seen_at": "2026-07-15T23:15:35.865Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Abraham",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6105.5,
+      "moving_time_s": 2554,
+      "elapsed_time_s": 3486,
+      "elevation_m": 10
     }
   },
-  "last_synced_at": "2026-07-15T23:10:59.082Z",
+  "last_synced_at": "2026-07-15T23:15:35.865Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
