@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T01:01:21.578Z",
+  "generated_at": "2026-07-15T01:05:32.292Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 166906.34,
-    "activities": 18388,
-    "moving_time_s": 69808000,
-    "elevation_m": 940178
+    "distance": 166918.32,
+    "activities": 18390,
+    "moving_time_s": 69813086,
+    "elevation_m": 940196
   },
   "rows": [
     {
@@ -1620,12 +1620,20 @@
       "rank": 199
     },
     {
+      "name": "Iskandar L.",
+      "activities": 56,
+      "distance": 319.56,
+      "moving_time_s": 140523,
+      "elevation_m": 1668,
+      "rank": 200
+    },
+    {
       "name": "Dinur Y.",
       "activities": 40,
       "distance": 317.49,
       "moving_time_s": 145143,
       "elevation_m": 739,
-      "rank": 200
+      "rank": 201
     },
     {
       "name": "Pandu P.",
@@ -1633,14 +1641,6 @@
       "distance": 316.57,
       "moving_time_s": 132940,
       "elevation_m": 907,
-      "rank": 201
-    },
-    {
-      "name": "Iskandar L.",
-      "activities": 55,
-      "distance": 314.58,
-      "moving_time_s": 138137,
-      "elevation_m": 1650,
       "rank": 202
     },
     {
@@ -1684,19 +1684,19 @@
       "rank": 207
     },
     {
+      "name": "Adystra B.",
+      "activities": 40,
+      "distance": 305.47,
+      "moving_time_s": 123797,
+      "elevation_m": 1116,
+      "rank": 208
+    },
+    {
       "name": "Yazid I.",
       "activities": 31,
       "distance": 304.71,
       "moving_time_s": 192982,
       "elevation_m": 2220,
-      "rank": 208
-    },
-    {
-      "name": "Adystra B.",
-      "activities": 39,
-      "distance": 298.47,
-      "moving_time_s": 121097,
-      "elevation_m": 1116,
       "rank": 209
     },
     {
