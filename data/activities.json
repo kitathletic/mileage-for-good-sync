@@ -260273,9 +260273,37 @@
       "moving_time_s": 8617,
       "elapsed_time_s": 11916,
       "elevation_m": 10.3
+    },
+    "46b22dbed36002f7aa1a": {
+      "h": "46b22dbed36002f7aa1a",
+      "first_seen_at": "2026-07-15T17:25:29.771Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Nadia",
+      "athlete_last": "S.",
+      "name": "Interval Session (Easy Version)",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3961.1,
+      "moving_time_s": 1467,
+      "elapsed_time_s": 1883,
+      "elevation_m": 2
+    },
+    "f33e12f0cf8d1a2ac97e": {
+      "h": "f33e12f0cf8d1a2ac97e",
+      "first_seen_at": "2026-07-15T17:25:29.771Z",
+      "week_key": "2026-W29",
+      "athlete_first": "M",
+      "athlete_last": "I.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1010,
+      "moving_time_s": 370,
+      "elapsed_time_s": 370,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-07-15T17:21:04.737Z",
+  "last_synced_at": "2026-07-15T17:25:29.771Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
