@@ -258775,9 +258775,37 @@
       "moving_time_s": 2520,
       "elapsed_time_s": 2679,
       "elevation_m": 0
+    },
+    "b4e5e407d9824aa23ac0": {
+      "h": "b4e5e407d9824aa23ac0",
+      "first_seen_at": "2026-07-15T03:31:08.680Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Kevin",
+      "athlete_last": "T.",
+      "name": "Easy",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11700.9,
+      "moving_time_s": 3600,
+      "elapsed_time_s": 3646,
+      "elevation_m": 72
+    },
+    "3f43ce9d87fa45bf7459": {
+      "h": "3f43ce9d87fa45bf7459",
+      "first_seen_at": "2026-07-15T03:31:08.680Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Rhamdan",
+      "athlete_last": "I.",
+      "name": "Tempo Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5991.3,
+      "moving_time_s": 1949,
+      "elapsed_time_s": 2103,
+      "elevation_m": 8
     }
   },
-  "last_synced_at": "2026-07-15T03:25:26.749Z",
+  "last_synced_at": "2026-07-15T03:31:08.680Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
