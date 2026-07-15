@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T11:41:03.132Z",
+  "generated_at": "2026-07-15T11:45:33.957Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 156363.43,
-    "activities": 17327,
-    "moving_time_s": 65449879,
-    "elevation_m": 883876
+    "distance": 156371.1,
+    "activities": 17329,
+    "moving_time_s": 65453220,
+    "elevation_m": 883888
   },
   "rows": [
     {
@@ -1124,12 +1124,20 @@
       "rank": 137
     },
     {
+      "name": "vincent L.",
+      "activities": 53,
+      "distance": 418.8,
+      "moving_time_s": 180541,
+      "elevation_m": 738,
+      "rank": 138
+    },
+    {
       "name": "Teuku U.",
       "activities": 48,
       "distance": 418.04,
       "moving_time_s": 149185,
       "elevation_m": 1216,
-      "rank": 138
+      "rank": 139
     },
     {
       "name": "Kamal H.",
@@ -1137,7 +1145,7 @@
       "distance": 417.78,
       "moving_time_s": 137772,
       "elevation_m": 1649,
-      "rank": 139
+      "rank": 140
     },
     {
       "name": "Syamsurrijal M.",
@@ -1145,7 +1153,7 @@
       "distance": 417.22,
       "moving_time_s": 180579,
       "elevation_m": 1235,
-      "rank": 140
+      "rank": 141
     },
     {
       "name": "Leandro T.",
@@ -1153,14 +1161,6 @@
       "distance": 414.72,
       "moving_time_s": 163947,
       "elevation_m": 3624,
-      "rank": 141
-    },
-    {
-      "name": "vincent L.",
-      "activities": 52,
-      "distance": 411.78,
-      "moving_time_s": 177398,
-      "elevation_m": 726,
       "rank": 142
     },
     {
@@ -1213,9 +1213,9 @@
     },
     {
       "name": "Yudong A.",
-      "activities": 59,
-      "distance": 398.86,
-      "moving_time_s": 187337,
+      "activities": 60,
+      "distance": 399.51,
+      "moving_time_s": 187535,
       "elevation_m": 803,
       "rank": 149
     },
