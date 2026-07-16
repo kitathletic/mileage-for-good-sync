@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T12:01:15.593Z",
+  "generated_at": "2026-07-16T12:05:28.476Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 169119.44,
-    "activities": 18689,
-    "moving_time_s": 70681907,
-    "elevation_m": 948405
+    "distance": 169141.48,
+    "activities": 18692,
+    "moving_time_s": 70689973,
+    "elevation_m": 948432
   },
   "rows": [
     {
@@ -893,11 +893,19 @@
     },
     {
       "name": "Rey M.",
-      "activities": 72,
-      "distance": 534.76,
-      "moving_time_s": 215179,
-      "elevation_m": 2502,
+      "activities": 73,
+      "distance": 538.79,
+      "moving_time_s": 216555,
+      "elevation_m": 2515,
       "rank": 109
+    },
+    {
+      "name": "Michael K.",
+      "activities": 56,
+      "distance": 538.63,
+      "moving_time_s": 185788,
+      "elevation_m": 537,
+      "rank": 110
     },
     {
       "name": "Mochamad R.",
@@ -905,14 +913,6 @@
       "distance": 528.65,
       "moving_time_s": 197611,
       "elevation_m": 1124,
-      "rank": 110
-    },
-    {
-      "name": "Michael K.",
-      "activities": 55,
-      "distance": 528.62,
-      "moving_time_s": 182182,
-      "elevation_m": 537,
       "rank": 111
     },
     {
@@ -1372,19 +1372,19 @@
       "rank": 168
     },
     {
+      "name": "Suryanto F.",
+      "activities": 45,
+      "distance": 394.31,
+      "moving_time_s": 160364,
+      "elevation_m": 551,
+      "rank": 169
+    },
+    {
       "name": "Cath H.",
       "activities": 60,
       "distance": 391.78,
       "moving_time_s": 161838,
       "elevation_m": 838,
-      "rank": 169
-    },
-    {
-      "name": "Suryanto F.",
-      "activities": 44,
-      "distance": 386.31,
-      "moving_time_s": 157280,
-      "elevation_m": 537,
       "rank": 170
     },
     {

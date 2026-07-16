@@ -262625,9 +262625,51 @@
       "moving_time_s": 1245,
       "elapsed_time_s": 1245,
       "elevation_m": 1
+    },
+    "99e01bc6d7076ac5086f": {
+      "h": "99e01bc6d7076ac5086f",
+      "first_seen_at": "2026-07-16T12:05:28.476Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Suryanto",
+      "athlete_last": "F.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8007.3,
+      "moving_time_s": 3084,
+      "elapsed_time_s": 3116,
+      "elevation_m": 14
+    },
+    "da335ac9203613380ca8": {
+      "h": "da335ac9203613380ca8",
+      "first_seen_at": "2026-07-16T12:05:28.476Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Michael",
+      "athlete_last": "K.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10010,
+      "moving_time_s": 3606,
+      "elapsed_time_s": 3606,
+      "elevation_m": 0
+    },
+    "aa2577aff56ca0a4fe56": {
+      "h": "aa2577aff56ca0a4fe56",
+      "first_seen_at": "2026-07-16T12:05:28.476Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Rey",
+      "athlete_last": "M.",
+      "name": "Nike Run Club: Thursday Afternoon Easy Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4033.2,
+      "moving_time_s": 1376,
+      "elapsed_time_s": 1384,
+      "elevation_m": 13
     }
   },
-  "last_synced_at": "2026-07-16T12:01:15.593Z",
+  "last_synced_at": "2026-07-16T12:05:28.476Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
