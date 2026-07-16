@@ -262793,9 +262793,37 @@
       "moving_time_s": 7195,
       "elapsed_time_s": 7249,
       "elevation_m": 55
+    },
+    "cd1142896f570eb00416": {
+      "h": "cd1142896f570eb00416",
+      "first_seen_at": "2026-07-16T13:01:17.754Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Kevin",
+      "athlete_last": "W.",
+      "name": "Stride x 10",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4303,
+      "moving_time_s": 1959,
+      "elapsed_time_s": 2028,
+      "elevation_m": 3
+    },
+    "d423d1941ee2469c356e": {
+      "h": "d423d1941ee2469c356e",
+      "first_seen_at": "2026-07-16T13:01:17.754Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Kevin",
+      "athlete_last": "W.",
+      "name": "Pre-Stride Warm Up",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2016,
+      "moving_time_s": 1079,
+      "elapsed_time_s": 1079,
+      "elevation_m": 1
     }
   },
-  "last_synced_at": "2026-07-16T12:55:29.787Z",
+  "last_synced_at": "2026-07-16T13:01:17.754Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
