@@ -261883,9 +261883,37 @@
       "moving_time_s": 1762,
       "elapsed_time_s": 1887,
       "elevation_m": 30
+    },
+    "8e5b548cd1513c0b2d53": {
+      "h": "8e5b548cd1513c0b2d53",
+      "first_seen_at": "2026-07-16T02:40:57.591Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Budi",
+      "athlete_last": "P.",
+      "name": "Tridmill",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 15000,
+      "moving_time_s": 4442,
+      "elapsed_time_s": 4442,
+      "elevation_m": 0
+    },
+    "ae1f8d0fa023db3c1c34": {
+      "h": "ae1f8d0fa023db3c1c34",
+      "first_seen_at": "2026-07-16T02:40:57.591Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Slopslop",
+      "athlete_last": "S.",
+      "name": "Long Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10043.9,
+      "moving_time_s": 5675,
+      "elapsed_time_s": 5828,
+      "elevation_m": 50.4
     }
   },
-  "last_synced_at": "2026-07-16T02:35:29.730Z",
+  "last_synced_at": "2026-07-16T02:40:57.591Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
