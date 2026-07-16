@@ -263927,9 +263927,51 @@
       "moving_time_s": 1801,
       "elapsed_time_s": 1801,
       "elevation_m": 6
+    },
+    "0f9111f8831a7a19ba25": {
+      "h": "0f9111f8831a7a19ba25",
+      "first_seen_at": "2026-07-16T23:40:41.821Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Rudi",
+      "athlete_last": "P.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8385.3,
+      "moving_time_s": 3555,
+      "elapsed_time_s": 3566,
+      "elevation_m": 39.9
+    },
+    "8a02992fba6df814900a": {
+      "h": "8a02992fba6df814900a",
+      "first_seen_at": "2026-07-16T23:40:41.821Z",
+      "week_key": "2026-W29",
+      "athlete_first": "baphomet",
+      "athlete_last": "..",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10056.1,
+      "moving_time_s": 3600,
+      "elapsed_time_s": 3657,
+      "elevation_m": 31
+    },
+    "3a7172a625ac05dbf531": {
+      "h": "3a7172a625ac05dbf531",
+      "first_seen_at": "2026-07-16T23:40:41.821Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Pedro",
+      "athlete_last": "V.",
+      "name": "Corrida da tarde",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 15010,
+      "moving_time_s": 4657,
+      "elapsed_time_s": 4661,
+      "elevation_m": 203.1
     }
   },
-  "last_synced_at": "2026-07-16T23:35:31.976Z",
+  "last_synced_at": "2026-07-16T23:40:41.821Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
