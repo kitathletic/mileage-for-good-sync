@@ -262177,9 +262177,37 @@
       "moving_time_s": 2815,
       "elapsed_time_s": 2836,
       "elevation_m": 11
+    },
+    "807fa2ab6c07c3965d20": {
+      "h": "807fa2ab6c07c3965d20",
+      "first_seen_at": "2026-07-16T06:51:01.731Z",
+      "week_key": "2026-W29",
+      "athlete_first": "dani",
+      "athlete_last": "S.",
+      "name": "Lari Trail Siang",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 3803.4,
+      "moving_time_s": 2286,
+      "elapsed_time_s": 5966,
+      "elevation_m": 12
+    },
+    "b7b5603e3ba8a190dbfd": {
+      "h": "b7b5603e3ba8a190dbfd",
+      "first_seen_at": "2026-07-16T06:51:01.731Z",
+      "week_key": "2026-W29",
+      "athlete_first": "dani",
+      "athlete_last": "S.",
+      "name": "Morning Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 4013,
+      "moving_time_s": 4568,
+      "elapsed_time_s": 6254,
+      "elevation_m": 800
     }
   },
-  "last_synced_at": "2026-07-16T06:45:35.555Z",
+  "last_synced_at": "2026-07-16T06:51:01.731Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
