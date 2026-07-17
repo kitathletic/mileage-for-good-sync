@@ -266097,9 +266097,37 @@
       "moving_time_s": 26,
       "elapsed_time_s": 26,
       "elevation_m": 0
+    },
+    "7e5d850807b357f4fb5f": {
+      "h": "7e5d850807b357f4fb5f",
+      "first_seen_at": "2026-07-17T16:30:49.373Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Yandri",
+      "athlete_last": "F.",
+      "name": "EJSports Interval Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1240.1,
+      "moving_time_s": 442,
+      "elapsed_time_s": 732,
+      "elevation_m": 39
+    },
+    "5172381e11f9f3025c67": {
+      "h": "5172381e11f9f3025c67",
+      "first_seen_at": "2026-07-17T16:30:49.373Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Yandri",
+      "athlete_last": "F.",
+      "name": "EJSports Fartlek Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2500.5,
+      "moving_time_s": 918,
+      "elapsed_time_s": 927,
+      "elevation_m": 77.8
     }
   },
-  "last_synced_at": "2026-07-17T16:25:30.971Z",
+  "last_synced_at": "2026-07-17T16:30:49.373Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
