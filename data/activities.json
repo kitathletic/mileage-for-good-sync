@@ -265481,9 +265481,37 @@
       "moving_time_s": 3281,
       "elapsed_time_s": 3310,
       "elevation_m": 10
+    },
+    "d057563abf60c5759300": {
+      "h": "d057563abf60c5759300",
+      "first_seen_at": "2026-07-17T10:55:29.898Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Ciang",
+      "athlete_last": "..",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10000,
+      "moving_time_s": 3576,
+      "elapsed_time_s": 3619,
+      "elevation_m": 0
+    },
+    "70c1d4702f1fd5f715b3": {
+      "h": "70c1d4702f1fd5f715b3",
+      "first_seen_at": "2026-07-17T10:55:29.898Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Paulo",
+      "athlete_last": "R.",
+      "name": "Treino de Corrida Circuito Cerca",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8131.2,
+      "moving_time_s": 3567,
+      "elapsed_time_s": 4111,
+      "elevation_m": 26
     }
   },
-  "last_synced_at": "2026-07-17T10:50:40.432Z",
+  "last_synced_at": "2026-07-17T10:55:29.898Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
