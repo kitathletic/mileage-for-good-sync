@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T13:35:28.692Z",
+  "generated_at": "2026-07-17T13:40:46.327Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 171024.93,
-    "activities": 18919,
-    "moving_time_s": 71430083,
-    "elevation_m": 955713
+    "distance": 171032.57,
+    "activities": 18921,
+    "moving_time_s": 71433644,
+    "elevation_m": 955737
   },
   "rows": [
     {
@@ -1604,12 +1604,20 @@
       "rank": 197
     },
     {
+      "name": "Prima S.",
+      "activities": 33,
+      "distance": 329.66,
+      "moving_time_s": 296483,
+      "elevation_m": 13696,
+      "rank": 198
+    },
+    {
       "name": "Levian R.",
       "activities": 41,
       "distance": 325.06,
       "moving_time_s": 126952,
       "elevation_m": 694,
-      "rank": 198
+      "rank": 199
     },
     {
       "name": "Iskandar L.",
@@ -1617,7 +1625,7 @@
       "distance": 324.7,
       "moving_time_s": 142720,
       "elevation_m": 1668,
-      "rank": 199
+      "rank": 200
     },
     {
       "name": "Jagad M.",
@@ -1625,7 +1633,7 @@
       "distance": 324.62,
       "moving_time_s": 123502,
       "elevation_m": 1336,
-      "rank": 200
+      "rank": 201
     },
     {
       "name": "Dinur Y.",
@@ -1633,14 +1641,6 @@
       "distance": 324.59,
       "moving_time_s": 148743,
       "elevation_m": 750,
-      "rank": 201
-    },
-    {
-      "name": "Prima S.",
-      "activities": 32,
-      "distance": 324.41,
-      "moving_time_s": 293822,
-      "elevation_m": 13676,
       "rank": 202
     },
     {
@@ -2212,12 +2212,20 @@
       "rank": 273
     },
     {
+      "name": "Ahmad Danar S.",
+      "activities": 20,
+      "distance": 208.55,
+      "moving_time_s": 94629,
+      "elevation_m": 548,
+      "rank": 274
+    },
+    {
       "name": "Linda Z.",
       "activities": 16,
       "distance": 207.1,
       "moving_time_s": 130240,
       "elevation_m": 5643,
-      "rank": 274
+      "rank": 275
     },
     {
       "name": "Gede Bagol A.",
@@ -2225,7 +2233,7 @@
       "distance": 206.89,
       "moving_time_s": 93848,
       "elevation_m": 395,
-      "rank": 275
+      "rank": 276
     },
     {
       "name": "Devin S.",
@@ -2233,14 +2241,6 @@
       "distance": 206.21,
       "moving_time_s": 73272,
       "elevation_m": 1402,
-      "rank": 276
-    },
-    {
-      "name": "Ahmad Danar S.",
-      "activities": 19,
-      "distance": 206.16,
-      "moving_time_s": 93729,
-      "elevation_m": 544,
       "rank": 277
     },
     {

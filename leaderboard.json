@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T13:35:28.692Z",
+  "generated_at": "2026-07-17T13:40:46.327Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 160003.43,
-    "activities": 17794,
-    "moving_time_s": 66884889,
-    "elevation_m": 897984
+    "distance": 160011.07,
+    "activities": 17796,
+    "moving_time_s": 66888450,
+    "elevation_m": 898008
   },
   "rows": [
     {
@@ -1500,12 +1500,20 @@
       "rank": 184
     },
     {
+      "name": "Prima S.",
+      "activities": 32,
+      "distance": 325.8,
+      "moving_time_s": 293842,
+      "elevation_m": 13557,
+      "rank": 185
+    },
+    {
       "name": "Yandri F.",
       "activities": 51,
       "distance": 325.49,
       "moving_time_s": 151142,
       "elevation_m": 1712,
-      "rank": 185
+      "rank": 186
     },
     {
       "name": "Naufal M.",
@@ -1513,7 +1521,7 @@
       "distance": 325.21,
       "moving_time_s": 178844,
       "elevation_m": 4429,
-      "rank": 186
+      "rank": 187
     },
     {
       "name": "Anasyusuf A.",
@@ -1521,14 +1529,6 @@
       "distance": 324.7,
       "moving_time_s": 131645,
       "elevation_m": 2820,
-      "rank": 187
-    },
-    {
-      "name": "Prima S.",
-      "activities": 31,
-      "distance": 320.55,
-      "moving_time_s": 291181,
-      "elevation_m": 13537,
       "rank": 188
     },
     {
@@ -2140,12 +2140,20 @@
       "rank": 264
     },
     {
+      "name": "Ahmad Danar S.",
+      "activities": 20,
+      "distance": 208.55,
+      "moving_time_s": 94629,
+      "elevation_m": 548,
+      "rank": 265
+    },
+    {
       "name": "Linda Z.",
       "activities": 16,
       "distance": 207.1,
       "moving_time_s": 130240,
       "elevation_m": 5643,
-      "rank": 265
+      "rank": 266
     },
     {
       "name": "Gede Bagol A.",
@@ -2153,14 +2161,6 @@
       "distance": 206.89,
       "moving_time_s": 93848,
       "elevation_m": 395,
-      "rank": 266
-    },
-    {
-      "name": "Ahmad Danar S.",
-      "activities": 19,
-      "distance": 206.16,
-      "moving_time_s": 93729,
-      "elevation_m": 544,
       "rank": 267
     },
     {
