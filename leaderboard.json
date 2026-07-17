@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T16:06:22.832Z",
+  "generated_at": "2026-07-17T16:10:40.210Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 160118.94,
-    "activities": 17810,
-    "moving_time_s": 66939197,
-    "elevation_m": 898751
+    "distance": 160131.85,
+    "activities": 17812,
+    "moving_time_s": 66943559,
+    "elevation_m": 899123
   },
   "rows": [
     {
@@ -588,12 +588,20 @@
       "rank": 70
     },
     {
+      "name": "Kevin T.",
+      "activities": 68,
+      "distance": 649.28,
+      "moving_time_s": 204529,
+      "elevation_m": 12170,
+      "rank": 71
+    },
+    {
       "name": "Aylie T.",
       "activities": 71,
       "distance": 642.44,
       "moving_time_s": 252843,
       "elevation_m": 877,
-      "rank": 71
+      "rank": 72
     },
     {
       "name": "Muhammad Ikhwansyah P.",
@@ -601,7 +609,7 @@
       "distance": 641.28,
       "moving_time_s": 266961,
       "elevation_m": 1492,
-      "rank": 72
+      "rank": 73
     },
     {
       "name": "Bayu A.",
@@ -609,14 +617,6 @@
       "distance": 640.58,
       "moving_time_s": 237038,
       "elevation_m": 1440,
-      "rank": 73
-    },
-    {
-      "name": "Kevin T.",
-      "activities": 67,
-      "distance": 636.4,
-      "moving_time_s": 200193,
-      "elevation_m": 11798,
       "rank": 74
     },
     {
@@ -1917,9 +1917,9 @@
     },
     {
       "name": "Crystal Y.",
-      "activities": 47,
-      "distance": 236.35,
-      "moving_time_s": 103737,
+      "activities": 48,
+      "distance": 236.38,
+      "moving_time_s": 103763,
       "elevation_m": 560,
       "rank": 237
     },
