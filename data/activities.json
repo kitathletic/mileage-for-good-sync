@@ -269121,9 +269121,51 @@
       "moving_time_s": 1864,
       "elapsed_time_s": 1864,
       "elevation_m": 0
+    },
+    "1fe1c8aa50ae2475d770": {
+      "h": "1fe1c8aa50ae2475d770",
+      "first_seen_at": "2026-07-18T07:35:28.968Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Corryn",
+      "athlete_last": "F.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5015.4,
+      "moving_time_s": 2014,
+      "elapsed_time_s": 2020,
+      "elevation_m": 3.7
+    },
+    "8edd5a944640680df08b": {
+      "h": "8edd5a944640680df08b",
+      "first_seen_at": "2026-07-18T07:35:28.968Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Prana",
+      "athlete_last": "R.",
+      "name": "Morning Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 24139.5,
+      "moving_time_s": 13144,
+      "elapsed_time_s": 13557,
+      "elevation_m": 1315
+    },
+    "ddc3703d97c2b6df996b": {
+      "h": "ddc3703d97c2b6df996b",
+      "first_seen_at": "2026-07-18T07:35:28.968Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Irvan",
+      "athlete_last": "C.",
+      "name": "Road To Yuki Ultra Run🤭",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 26328.4,
+      "moving_time_s": 12692,
+      "elapsed_time_s": 14801,
+      "elevation_m": 83
     }
   },
-  "last_synced_at": "2026-07-18T07:30:41.393Z",
+  "last_synced_at": "2026-07-18T07:35:28.968Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
