@@ -268421,9 +268421,51 @@
       "moving_time_s": 2030,
       "elapsed_time_s": 2035,
       "elevation_m": 7
+    },
+    "cf8754f923809bfb7305": {
+      "h": "cf8754f923809bfb7305",
+      "first_seen_at": "2026-07-18T02:05:27.863Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Slopslop",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 905.1,
+      "moving_time_s": 495,
+      "elapsed_time_s": 514,
+      "elevation_m": 11.4
+    },
+    "71016cf4a28aae5a3311": {
+      "h": "71016cf4a28aae5a3311",
+      "first_seen_at": "2026-07-18T02:05:27.863Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Dimas",
+      "athlete_last": "A.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10040,
+      "moving_time_s": 4483,
+      "elapsed_time_s": 4660,
+      "elevation_m": 22.9
+    },
+    "5dcaff310b2178fc1e47": {
+      "h": "5dcaff310b2178fc1e47",
+      "first_seen_at": "2026-07-18T02:05:27.863Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Adhitya",
+      "athlete_last": "H.",
+      "name": "Sentul Morning Run part 02",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 25547.6,
+      "moving_time_s": 10357,
+      "elapsed_time_s": 10763,
+      "elevation_m": 360
     }
   },
-  "last_synced_at": "2026-07-18T02:00:48.573Z",
+  "last_synced_at": "2026-07-18T02:05:27.863Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
