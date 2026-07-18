@@ -270143,9 +270143,37 @@
       "moving_time_s": 1699,
       "elapsed_time_s": 1699,
       "elevation_m": 2
+    },
+    "7f147edab5ea08112662": {
+      "h": "7f147edab5ea08112662",
+      "first_seen_at": "2026-07-18T22:50:36.014Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Samuel",
+      "athlete_last": "W.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10006,
+      "moving_time_s": 4040,
+      "elapsed_time_s": 4671,
+      "elevation_m": 34
+    },
+    "7d4b66a0219b3f65af47": {
+      "h": "7d4b66a0219b3f65af47",
+      "first_seen_at": "2026-07-18T22:50:36.014Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Yova",
+      "athlete_last": "G.",
+      "name": "Happy Miles",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8004.1,
+      "moving_time_s": 3556,
+      "elapsed_time_s": 4539,
+      "elevation_m": 25.4
     }
   },
-  "last_synced_at": "2026-07-18T22:45:34.270Z",
+  "last_synced_at": "2026-07-18T22:50:36.014Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90

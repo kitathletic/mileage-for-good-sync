@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T22:45:34.270Z",
+  "generated_at": "2026-07-18T22:50:36.014Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 163104.84,
-    "activities": 18101,
-    "moving_time_s": 68227158,
-    "elevation_m": 925183
+    "distance": 163122.85,
+    "activities": 18103,
+    "moving_time_s": 68234754,
+    "elevation_m": 925242
   },
   "rows": [
     {
@@ -1060,19 +1060,19 @@
       "rank": 129
     },
     {
+      "name": "Samuel W.",
+      "activities": 28,
+      "distance": 455.07,
+      "moving_time_s": 232035,
+      "elevation_m": 5833,
+      "rank": 130
+    },
+    {
       "name": "Arya M.",
       "activities": 42,
       "distance": 454.05,
       "moving_time_s": 188677,
       "elevation_m": 1350,
-      "rank": 130
-    },
-    {
-      "name": "Samuel W.",
-      "activities": 27,
-      "distance": 445.06,
-      "moving_time_s": 227995,
-      "elevation_m": 5799,
       "rank": 131
     },
     {
@@ -1772,12 +1772,20 @@
       "rank": 218
     },
     {
+      "name": "Yova G.",
+      "activities": 25,
+      "distance": 278.22,
+      "moving_time_s": 121989,
+      "elevation_m": 3582,
+      "rank": 219
+    },
+    {
       "name": "Niky T.",
       "activities": 38,
       "distance": 277.62,
       "moving_time_s": 125579,
       "elevation_m": 549,
-      "rank": 219
+      "rank": 220
     },
     {
       "name": "Pandu P.",
@@ -1785,7 +1793,7 @@
       "distance": 275.57,
       "moving_time_s": 115552,
       "elevation_m": 818,
-      "rank": 220
+      "rank": 221
     },
     {
       "name": "Teguh W.",
@@ -1793,14 +1801,6 @@
       "distance": 273.23,
       "moving_time_s": 119234,
       "elevation_m": 568,
-      "rank": 221
-    },
-    {
-      "name": "Yova G.",
-      "activities": 24,
-      "distance": 270.22,
-      "moving_time_s": 118433,
-      "elevation_m": 3557,
       "rank": 222
     },
     {
