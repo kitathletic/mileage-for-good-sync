@@ -268715,9 +268715,37 @@
       "moving_time_s": 4206,
       "elapsed_time_s": 4457,
       "elevation_m": 0
+    },
+    "74a53afe9109c3aa93ab": {
+      "h": "74a53afe9109c3aa93ab",
+      "first_seen_at": "2026-07-18T03:05:29.178Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Vimal",
+      "athlete_last": "M.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6015.5,
+      "moving_time_s": 2932,
+      "elapsed_time_s": 2939,
+      "elevation_m": 48.2
+    },
+    "a0cb6b33d67014762a66": {
+      "h": "a0cb6b33d67014762a66",
+      "first_seen_at": "2026-07-18T03:05:29.178Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Dimas",
+      "athlete_last": "A.",
+      "name": "10K Anta Pra Blok M",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10040,
+      "moving_time_s": 4483,
+      "elapsed_time_s": 4660,
+      "elevation_m": 22.9
     }
   },
-  "last_synced_at": "2026-07-18T03:00:48.688Z",
+  "last_synced_at": "2026-07-18T03:05:29.178Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
