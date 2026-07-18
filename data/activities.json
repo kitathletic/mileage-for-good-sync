@@ -269891,9 +269891,37 @@
       "moving_time_s": 1725,
       "elapsed_time_s": 2727,
       "elevation_m": 253.7
+    },
+    "cf8fd668e26940326246": {
+      "h": "cf8fd668e26940326246",
+      "first_seen_at": "2026-07-18T14:35:29.428Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Hendri",
+      "athlete_last": "S.",
+      "name": "Night Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1006.8,
+      "moving_time_s": 628,
+      "elapsed_time_s": 787,
+      "elevation_m": 0
+    },
+    "169abd76c880edea1bc5": {
+      "h": "169abd76c880edea1bc5",
+      "first_seen_at": "2026-07-18T14:35:29.428Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Prana",
+      "athlete_last": "R.",
+      "name": "#RUNSTREAK DAY 246 - LAST RUNSTREAK TQTQ",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 24139.5,
+      "moving_time_s": 13144,
+      "elapsed_time_s": 13557,
+      "elevation_m": 1315
     }
   },
-  "last_synced_at": "2026-07-18T14:30:45.027Z",
+  "last_synced_at": "2026-07-18T14:35:29.428Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
