@@ -268575,9 +268575,37 @@
       "moving_time_s": 10300,
       "elapsed_time_s": 13663,
       "elevation_m": 57
+    },
+    "24eae3c8ef1421da14a8": {
+      "h": "24eae3c8ef1421da14a8",
+      "first_seen_at": "2026-07-18T02:35:26.058Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Junias",
+      "athlete_last": "T.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7773.6,
+      "moving_time_s": 3569,
+      "elapsed_time_s": 3570,
+      "elevation_m": 39.8
+    },
+    "52ccd2779ffe250398d1": {
+      "h": "52ccd2779ffe250398d1",
+      "first_seen_at": "2026-07-18T02:35:26.058Z",
+      "week_key": "2026-W29",
+      "athlete_first": "Rey",
+      "athlete_last": "M.",
+      "name": "Runhood: Long Run Road to Glory",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10094,
+      "moving_time_s": 4486,
+      "elapsed_time_s": 4711,
+      "elevation_m": 64
     }
   },
-  "last_synced_at": "2026-07-18T02:30:44.984Z",
+  "last_synced_at": "2026-07-18T02:35:26.058Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
