@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T10:20:37.806Z",
+  "generated_at": "2026-07-19T10:25:30.813Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 177244.8,
-    "activities": 19516,
-    "moving_time_s": 74031992,
-    "elevation_m": 995580
+    "distance": 177251.84,
+    "activities": 19517,
+    "moving_time_s": 74035618,
+    "elevation_m": 995591
   },
   "rows": [
     {
@@ -1940,12 +1940,20 @@
       "rank": 239
     },
     {
+      "name": "John Carlo F.",
+      "activities": 49,
+      "distance": 266.43,
+      "moving_time_s": 116452,
+      "elevation_m": 751,
+      "rank": 240
+    },
+    {
       "name": "Crystal Y.",
       "activities": 53,
       "distance": 265.42,
       "moving_time_s": 117794,
       "elevation_m": 624,
-      "rank": 240
+      "rank": 241
     },
     {
       "name": "Michelle L.",
@@ -1953,7 +1961,7 @@
       "distance": 263.91,
       "moving_time_s": 114303,
       "elevation_m": 554,
-      "rank": 241
+      "rank": 242
     },
     {
       "name": "Erry S.",
@@ -1961,14 +1969,6 @@
       "distance": 260.78,
       "moving_time_s": 108535,
       "elevation_m": 2456,
-      "rank": 242
-    },
-    {
-      "name": "John Carlo F.",
-      "activities": 48,
-      "distance": 259.39,
-      "moving_time_s": 112826,
-      "elevation_m": 740,
       "rank": 243
     },
     {

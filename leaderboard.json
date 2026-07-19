@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T10:20:37.806Z",
+  "generated_at": "2026-07-19T10:25:30.813Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 166223.35,
-    "activities": 18391,
-    "moving_time_s": 69486798,
-    "elevation_m": 937843
+    "distance": 166230.39,
+    "activities": 18392,
+    "moving_time_s": 69490424,
+    "elevation_m": 937854
   },
   "rows": [
     {
@@ -1844,12 +1844,20 @@
       "rank": 227
     },
     {
+      "name": "John Carlo F.",
+      "activities": 49,
+      "distance": 266.43,
+      "moving_time_s": 116452,
+      "elevation_m": 751,
+      "rank": 228
+    },
+    {
       "name": "Rio P.",
       "activities": 28,
       "distance": 265.59,
       "moving_time_s": 112428,
       "elevation_m": 84,
-      "rank": 228
+      "rank": 229
     },
     {
       "name": "M Yudho F.",
@@ -1857,7 +1865,7 @@
       "distance": 264.57,
       "moving_time_s": 117887,
       "elevation_m": 2090,
-      "rank": 229
+      "rank": 230
     },
     {
       "name": "Faat S.",
@@ -1865,14 +1873,6 @@
       "distance": 263.56,
       "moving_time_s": 102990,
       "elevation_m": 1326,
-      "rank": 230
-    },
-    {
-      "name": "John Carlo F.",
-      "activities": 48,
-      "distance": 259.39,
-      "moving_time_s": 112826,
-      "elevation_m": 740,
       "rank": 231
     },
     {
