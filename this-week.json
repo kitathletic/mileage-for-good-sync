@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T23:15:34.590Z",
+  "generated_at": "2026-07-19T23:20:35.000Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,19 +19,27 @@
     "Walk"
   ],
   "totals": {
-    "distance": 136.69,
-    "activities": 10,
-    "moving_time_s": 52574,
-    "elevation_m": 503
+    "distance": 161.3,
+    "activities": 12,
+    "moving_time_s": 60890,
+    "elevation_m": 609
   },
   "rows": [
+    {
+      "name": "\"𝑫𝑨𝒱 𝑰𝑫🥇 G.",
+      "activities": 2,
+      "distance": 27.12,
+      "moving_time_s": 9380,
+      "elevation_m": 202,
+      "rank": 1
+    },
     {
       "name": "Irwan Sastra W.",
       "activities": 1,
       "distance": 27,
       "moving_time_s": 11643,
       "elevation_m": 42,
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "Serigala S.",
@@ -39,7 +47,7 @@
       "distance": 20.01,
       "moving_time_s": 7249,
       "elevation_m": 58,
-      "rank": 2
+      "rank": 3
     },
     {
       "name": "Diah I.",
@@ -47,7 +55,7 @@
       "distance": 20.01,
       "moving_time_s": 7235,
       "elevation_m": 193,
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "Hendri S.",
@@ -55,15 +63,15 @@
       "distance": 15.03,
       "moving_time_s": 6619,
       "elevation_m": 0,
-      "rank": 4
+      "rank": 5
     },
     {
-      "name": "\"𝑫𝑨𝒱 𝑰𝑫🥇 G.",
+      "name": "Arya .",
       "activities": 1,
-      "distance": 13.56,
-      "moving_time_s": 4690,
-      "elevation_m": 101,
-      "rank": 5
+      "distance": 11.05,
+      "moving_time_s": 3626,
+      "elevation_m": 5,
+      "rank": 6
     },
     {
       "name": "Johan T.",
@@ -71,7 +79,7 @@
       "distance": 10.55,
       "moving_time_s": 3822,
       "elevation_m": 42,
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "Aziz Wahyu P.",
@@ -79,7 +87,7 @@
       "distance": 10.5,
       "moving_time_s": 3072,
       "elevation_m": 14,
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "Zad K.",
@@ -87,7 +95,7 @@
       "distance": 8.68,
       "moving_time_s": 2881,
       "elevation_m": 47,
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "Ryan A.",
@@ -95,7 +103,7 @@
       "distance": 8.16,
       "moving_time_s": 3141,
       "elevation_m": 6,
-      "rank": 9
+      "rank": 10
     },
     {
       "name": "Ciko N.",
@@ -103,7 +111,7 @@
       "distance": 3.19,
       "moving_time_s": 2222,
       "elevation_m": 0,
-      "rank": 10
+      "rank": 11
     }
   ]
 }
