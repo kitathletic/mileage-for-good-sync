@@ -275477,9 +275477,37 @@
       "moving_time_s": 4176,
       "elapsed_time_s": 5045,
       "elevation_m": 40
+    },
+    "7e1ff86afa775f1b9ab4": {
+      "h": "7e1ff86afa775f1b9ab4",
+      "first_seen_at": "2026-07-20T10:20:34.780Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Reilly Rae",
+      "athlete_last": "D.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6176.9,
+      "moving_time_s": 2155,
+      "elapsed_time_s": 2538,
+      "elevation_m": 26
+    },
+    "dd83579b59cd6e9282c2": {
+      "h": "dd83579b59cd6e9282c2",
+      "first_seen_at": "2026-07-20T10:20:34.780Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Didie",
+      "athlete_last": "N.",
+      "name": "Berlari Sore",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5009.2,
+      "moving_time_s": 2724,
+      "elapsed_time_s": 3530,
+      "elevation_m": 38
     }
   },
-  "last_synced_at": "2026-07-20T10:15:36.894Z",
+  "last_synced_at": "2026-07-20T10:20:34.780Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
