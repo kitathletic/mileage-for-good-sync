@@ -275645,9 +275645,37 @@
       "moving_time_s": 1261,
       "elapsed_time_s": 2174,
       "elevation_m": 80
+    },
+    "4d595accfa6f5a5b0a32": {
+      "h": "4d595accfa6f5a5b0a32",
+      "first_seen_at": "2026-07-20T13:25:29.158Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Andryan",
+      "athlete_last": "N.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3982.2,
+      "moving_time_s": 1239,
+      "elapsed_time_s": 1256,
+      "elevation_m": 7.5
+    },
+    "22f63223c353f518e155": {
+      "h": "22f63223c353f518e155",
+      "first_seen_at": "2026-07-20T13:25:29.158Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Silviany",
+      "athlete_last": "S.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5334.2,
+      "moving_time_s": 2946,
+      "elapsed_time_s": 2999,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-07-20T13:20:35.646Z",
+  "last_synced_at": "2026-07-20T13:25:29.158Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
