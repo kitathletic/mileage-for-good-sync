@@ -275281,9 +275281,51 @@
       "moving_time_s": 2302,
       "elapsed_time_s": 2319,
       "elevation_m": 35
+    },
+    "fd00cca7c730ebe34722": {
+      "h": "fd00cca7c730ebe34722",
+      "first_seen_at": "2026-07-20T03:00:06.949Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Vimal",
+      "athlete_last": "M.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6549.3,
+      "moving_time_s": 2263,
+      "elapsed_time_s": 2263,
+      "elevation_m": 49.6
+    },
+    "21c910abe6d1888085da": {
+      "h": "21c910abe6d1888085da",
+      "first_seen_at": "2026-07-20T03:00:06.949Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Fandi",
+      "athlete_last": "‎.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5020,
+      "moving_time_s": 1585,
+      "elapsed_time_s": 1585,
+      "elevation_m": 0
+    },
+    "73958ce861b6a417e139": {
+      "h": "73958ce861b6a417e139",
+      "first_seen_at": "2026-07-20T03:00:06.949Z",
+      "week_key": "2026-W30",
+      "athlete_first": "win",
+      "athlete_last": "C.",
+      "name": "WK11 | MS - Easy",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12019,
+      "moving_time_s": 5066,
+      "elapsed_time_s": 5066,
+      "elevation_m": 15.6
     }
   },
-  "last_synced_at": "2026-07-20T01:27:58.171Z",
+  "last_synced_at": "2026-07-20T03:00:06.949Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90

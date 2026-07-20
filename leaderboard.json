@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T01:27:58.171Z",
+  "generated_at": "2026-07-20T03:00:06.949Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 166982.39,
-    "activities": 18468,
-    "moving_time_s": 69803390,
-    "elevation_m": 941440
+    "distance": 167005.98,
+    "activities": 18471,
+    "moving_time_s": 69812304,
+    "elevation_m": 941504
   },
   "rows": [
     {
@@ -37,10 +37,10 @@
     },
     {
       "name": "win C.",
-      "activities": 160,
-      "distance": 1749.56,
-      "moving_time_s": 725370,
-      "elevation_m": 14377,
+      "activities": 161,
+      "distance": 1761.58,
+      "moving_time_s": 730436,
+      "elevation_m": 14392,
       "rank": 2
     },
     {
@@ -820,19 +820,19 @@
       "rank": 99
     },
     {
+      "name": "Vimal M.",
+      "activities": 69,
+      "distance": 554.49,
+      "moving_time_s": 194097,
+      "elevation_m": 4066,
+      "rank": 100
+    },
+    {
       "name": "Rhamdan I.",
       "activities": 63,
       "distance": 553.95,
       "moving_time_s": 213750,
       "elevation_m": 2107,
-      "rank": 100
-    },
-    {
-      "name": "Vimal M.",
-      "activities": 68,
-      "distance": 547.94,
-      "moving_time_s": 191834,
-      "elevation_m": 4017,
       "rank": 101
     },
     {
@@ -1052,12 +1052,20 @@
       "rank": 128
     },
     {
+      "name": "Fandi ‎.",
+      "activities": 65,
+      "distance": 471.77,
+      "moving_time_s": 144935,
+      "elevation_m": 1751,
+      "rank": 129
+    },
+    {
       "name": "Ivan S.",
       "activities": 32,
       "distance": 468.37,
       "moving_time_s": 176276,
       "elevation_m": 1710,
-      "rank": 129
+      "rank": 130
     },
     {
       "name": "Hanis F.",
@@ -1065,7 +1073,7 @@
       "distance": 467.77,
       "moving_time_s": 192782,
       "elevation_m": 1389,
-      "rank": 130
+      "rank": 131
     },
     {
       "name": "Mario T.",
@@ -1073,14 +1081,6 @@
       "distance": 467.18,
       "moving_time_s": 185025,
       "elevation_m": 424,
-      "rank": 131
-    },
-    {
-      "name": "Fandi ‎.",
-      "activities": 64,
-      "distance": 466.75,
-      "moving_time_s": 143350,
-      "elevation_m": 1751,
       "rank": 132
     },
     {
