@@ -279285,9 +279285,37 @@
       "moving_time_s": 2906,
       "elapsed_time_s": 2910,
       "elevation_m": 2
+    },
+    "2d6fcf5f6693956c3e64": {
+      "h": "2d6fcf5f6693956c3e64",
+      "first_seen_at": "2026-07-21T23:05:28.648Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Rudi",
+      "athlete_last": "P.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4076.4,
+      "moving_time_s": 2021,
+      "elapsed_time_s": 2025,
+      "elevation_m": 19.8
+    },
+    "c5b06c9dcbee212e7b2b": {
+      "h": "c5b06c9dcbee212e7b2b",
+      "first_seen_at": "2026-07-21T23:05:28.648Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Ario",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10044.1,
+      "moving_time_s": 4889,
+      "elapsed_time_s": 5033,
+      "elevation_m": 18
     }
   },
-  "last_synced_at": "2026-07-21T23:00:49.267Z",
+  "last_synced_at": "2026-07-21T23:05:28.648Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
