@@ -277703,9 +277703,37 @@
       "moving_time_s": 2098,
       "elapsed_time_s": 2125,
       "elevation_m": 38.6
+    },
+    "f3d5535c22ef6a89813c": {
+      "h": "f3d5535c22ef6a89813c",
+      "first_seen_at": "2026-07-21T03:35:30.146Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Christopher",
+      "athlete_last": "G.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5110.8,
+      "moving_time_s": 2107,
+      "elapsed_time_s": 2107,
+      "elevation_m": 70.1
+    },
+    "01669ece41cb00151435": {
+      "h": "01669ece41cb00151435",
+      "first_seen_at": "2026-07-21T03:35:30.146Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Hanis",
+      "athlete_last": "F.",
+      "name": "10 x 400 m",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10064.2,
+      "moving_time_s": 3651,
+      "elapsed_time_s": 3657,
+      "elevation_m": 3
     }
   },
-  "last_synced_at": "2026-07-21T03:30:42.535Z",
+  "last_synced_at": "2026-07-21T03:35:30.146Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
