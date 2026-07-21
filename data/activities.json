@@ -279383,9 +279383,37 @@
       "moving_time_s": 3282,
       "elapsed_time_s": 3282,
       "elevation_m": 61
+    },
+    "83961f3ab6247debe1ac": {
+      "h": "83961f3ab6247debe1ac",
+      "first_seen_at": "2026-07-21T23:20:36.794Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Aziz Wahyu",
+      "athlete_last": "P.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10935.5,
+      "moving_time_s": 3211,
+      "elapsed_time_s": 3223,
+      "elevation_m": 20.1
+    },
+    "e5a700ae01b509389753": {
+      "h": "e5a700ae01b509389753",
+      "first_seen_at": "2026-07-21T23:20:36.794Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Rhamdan",
+      "athlete_last": "I.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6015.9,
+      "moving_time_s": 2730,
+      "elapsed_time_s": 2741,
+      "elevation_m": 38
     }
   },
-  "last_synced_at": "2026-07-21T23:15:35.479Z",
+  "last_synced_at": "2026-07-21T23:20:36.794Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
