@@ -277549,9 +277549,65 @@
       "moving_time_s": 1223,
       "elapsed_time_s": 1250,
       "elevation_m": 7
+    },
+    "a06e96a8df5a376311bc": {
+      "h": "a06e96a8df5a376311bc",
+      "first_seen_at": "2026-07-21T02:20:37.128Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Faris",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 400.4,
+      "moving_time_s": 264,
+      "elapsed_time_s": 323,
+      "elevation_m": 0
+    },
+    "aaab3772e92b76d6d996": {
+      "h": "aaab3772e92b76d6d996",
+      "first_seen_at": "2026-07-21T02:20:37.128Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Dania",
+      "athlete_last": "J.",
+      "name": "Recovery Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 636.8,
+      "moving_time_s": 291,
+      "elapsed_time_s": 304,
+      "elevation_m": 36
+    },
+    "6db530c766e8d2e3e765": {
+      "h": "6db530c766e8d2e3e765",
+      "first_seen_at": "2026-07-21T02:20:37.128Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Jessica",
+      "athlete_last": "T.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9712.9,
+      "moving_time_s": 3862,
+      "elapsed_time_s": 4576,
+      "elevation_m": 7
+    },
+    "1454fdfeb09598a7d708": {
+      "h": "1454fdfeb09598a7d708",
+      "first_seen_at": "2026-07-21T02:20:37.128Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Dania",
+      "athlete_last": "J.",
+      "name": "Selasa Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2967.1,
+      "moving_time_s": 1223,
+      "elapsed_time_s": 1250,
+      "elevation_m": 7
     }
   },
-  "last_synced_at": "2026-07-21T02:15:34.607Z",
+  "last_synced_at": "2026-07-21T02:20:37.128Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
