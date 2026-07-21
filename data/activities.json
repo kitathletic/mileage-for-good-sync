@@ -276499,9 +276499,37 @@
       "moving_time_s": 2323,
       "elapsed_time_s": 2345,
       "elevation_m": 31.4
+    },
+    "48f744fb3a2e58e37562": {
+      "h": "48f744fb3a2e58e37562",
+      "first_seen_at": "2026-07-21T00:10:37.315Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Noval",
+      "athlete_last": "L.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5564.6,
+      "moving_time_s": 1945,
+      "elapsed_time_s": 1948,
+      "elevation_m": 11
+    },
+    "394b3b5436b1e2b52504": {
+      "h": "394b3b5436b1e2b52504",
+      "first_seen_at": "2026-07-21T00:10:37.315Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Dimas",
+      "athlete_last": "A.",
+      "name": "7K Anta Pra",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7035.8,
+      "moving_time_s": 3148,
+      "elapsed_time_s": 3184,
+      "elevation_m": 16.3
     }
   },
-  "last_synced_at": "2026-07-21T00:05:27.119Z",
+  "last_synced_at": "2026-07-21T00:10:37.315Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
