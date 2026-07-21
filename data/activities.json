@@ -278431,9 +278431,37 @@
       "moving_time_s": 3203,
       "elapsed_time_s": 3207,
       "elevation_m": 0
+    },
+    "2dbc732a5a93fa907862": {
+      "h": "2dbc732a5a93fa907862",
+      "first_seen_at": "2026-07-21T11:45:34.129Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Ananda Bella",
+      "athlete_last": "M.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5059.5,
+      "moving_time_s": 2738,
+      "elapsed_time_s": 2750,
+      "elevation_m": 23
+    },
+    "de1232a53c6dd8d0a07f": {
+      "h": "de1232a53c6dd8d0a07f",
+      "first_seen_at": "2026-07-21T11:45:34.129Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Bayu",
+      "athlete_last": "A.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7598.9,
+      "moving_time_s": 2568,
+      "elapsed_time_s": 2615,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-07-21T11:40:36.144Z",
+  "last_synced_at": "2026-07-21T11:45:34.129Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
