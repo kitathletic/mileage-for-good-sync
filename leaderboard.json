@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T00:30:45.453Z",
+  "generated_at": "2026-07-21T00:35:29.312Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 167880.9,
-    "activities": 18583,
-    "moving_time_s": 70174296,
-    "elevation_m": 948009
+    "distance": 167907.84,
+    "activities": 18586,
+    "moving_time_s": 70185923,
+    "elevation_m": 948042
   },
   "rows": [
     {
@@ -196,19 +196,19 @@
       "rank": 21
     },
     {
+      "name": "Wah E.",
+      "activities": 104,
+      "distance": 1087.9,
+      "moving_time_s": 459307,
+      "elevation_m": 5181,
+      "rank": 22
+    },
+    {
       "name": "Nanditya N.",
       "activities": 118,
       "distance": 1077.63,
       "moving_time_s": 340344,
       "elevation_m": 8353,
-      "rank": 22
-    },
-    {
-      "name": "Wah E.",
-      "activities": 103,
-      "distance": 1077.46,
-      "moving_time_s": 454962,
-      "elevation_m": 5158,
       "rank": 23
     },
     {
@@ -485,10 +485,10 @@
     },
     {
       "name": "Francesco S.",
-      "activities": 68,
-      "distance": 732.05,
-      "moving_time_s": 331311,
-      "elevation_m": 1805,
+      "activities": 69,
+      "distance": 741.05,
+      "moving_time_s": 335371,
+      "elevation_m": 1815,
       "rank": 58
     },
     {
@@ -1860,12 +1860,20 @@
       "rank": 229
     },
     {
+      "name": "Michelle L.",
+      "activities": 41,
+      "distance": 265.92,
+      "moving_time_s": 115575,
+      "elevation_m": 532,
+      "rank": 230
+    },
+    {
       "name": "Depri Maulana M.",
       "activities": 37,
       "distance": 265.79,
       "moving_time_s": 109422,
       "elevation_m": 1361,
-      "rank": 230
+      "rank": 231
     },
     {
       "name": "Rio P.",
@@ -1873,7 +1881,7 @@
       "distance": 265.59,
       "moving_time_s": 117167,
       "elevation_m": 84,
-      "rank": 231
+      "rank": 232
     },
     {
       "name": "M Yudho F.",
@@ -1881,14 +1889,6 @@
       "distance": 264.57,
       "moving_time_s": 117887,
       "elevation_m": 2090,
-      "rank": 232
-    },
-    {
-      "name": "Michelle L.",
-      "activities": 40,
-      "distance": 258.42,
-      "moving_time_s": 112353,
-      "elevation_m": 532,
       "rank": 233
     },
     {
