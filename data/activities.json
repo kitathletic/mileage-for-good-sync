@@ -279495,9 +279495,65 @@
       "moving_time_s": 5095,
       "elapsed_time_s": 5095,
       "elevation_m": 18
+    },
+    "c660a27a6149bf3d3aeb": {
+      "h": "c660a27a6149bf3d3aeb",
+      "first_seen_at": "2026-07-21T23:45:14.871Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Guillermo E",
+      "athlete_last": "O.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 191.4,
+      "moving_time_s": 112,
+      "elapsed_time_s": 1081,
+      "elevation_m": 1
+    },
+    "8efd679aef43d8fcb644": {
+      "h": "8efd679aef43d8fcb644",
+      "first_seen_at": "2026-07-21T23:45:14.871Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Ammar",
+      "athlete_last": "G.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5020,
+      "moving_time_s": 1813,
+      "elapsed_time_s": 1918,
+      "elevation_m": 20
+    },
+    "a38c1a6e4ccba04b975d": {
+      "h": "a38c1a6e4ccba04b975d",
+      "first_seen_at": "2026-07-21T23:45:14.871Z",
+      "week_key": "2026-W30",
+      "athlete_first": "William",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5001.5,
+      "moving_time_s": 2023,
+      "elapsed_time_s": 2036,
+      "elevation_m": 4
+    },
+    "c54a9a30187c63fe178b": {
+      "h": "c54a9a30187c63fe178b",
+      "first_seen_at": "2026-07-21T23:45:14.871Z",
+      "week_key": "2026-W30",
+      "athlete_first": "M Doni",
+      "athlete_last": "M.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8751.5,
+      "moving_time_s": 3333,
+      "elapsed_time_s": 3664,
+      "elevation_m": 5
     }
   },
-  "last_synced_at": "2026-07-21T23:40:34.646Z",
+  "last_synced_at": "2026-07-21T23:45:14.871Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
