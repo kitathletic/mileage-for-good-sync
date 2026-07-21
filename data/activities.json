@@ -278641,9 +278641,37 @@
       "moving_time_s": 7755,
       "elapsed_time_s": 7755,
       "elevation_m": 0
+    },
+    "10cdfbfbd2a5ca4e2f57": {
+      "h": "10cdfbfbd2a5ca4e2f57",
+      "first_seen_at": "2026-07-21T12:40:43.229Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Sulthan",
+      "athlete_last": "A.",
+      "name": "BALKE TEST",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3025.9,
+      "moving_time_s": 901,
+      "elapsed_time_s": 901,
+      "elevation_m": 1
+    },
+    "9c322fb43310aaf7a535": {
+      "h": "9c322fb43310aaf7a535",
+      "first_seen_at": "2026-07-21T12:40:43.229Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Sulthan",
+      "athlete_last": "A.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 966.8,
+      "moving_time_s": 394,
+      "elapsed_time_s": 394,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-07-21T12:35:37.392Z",
+  "last_synced_at": "2026-07-21T12:40:43.229Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
