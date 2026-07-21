@@ -278501,9 +278501,37 @@
       "moving_time_s": 2832,
       "elapsed_time_s": 3041,
       "elevation_m": 431
+    },
+    "c96dd0e2da0f5f40b97d": {
+      "h": "c96dd0e2da0f5f40b97d",
+      "first_seen_at": "2026-07-21T12:05:28.561Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Laura",
+      "athlete_last": "C.",
+      "name": "Berlari di luar ruangan",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5000,
+      "moving_time_s": 2621,
+      "elapsed_time_s": 2621,
+      "elevation_m": 0
+    },
+    "ec0b3df71c13e19d61dc": {
+      "h": "ec0b3df71c13e19d61dc",
+      "first_seen_at": "2026-07-21T12:05:28.561Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Devin",
+      "athlete_last": "S.",
+      "name": "Afternoon Run (flu)",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11171.4,
+      "moving_time_s": 3661,
+      "elapsed_time_s": 3664,
+      "elevation_m": 93
     }
   },
-  "last_synced_at": "2026-07-21T12:01:00.130Z",
+  "last_synced_at": "2026-07-21T12:05:28.561Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
