@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T12:20:40.878Z",
+  "generated_at": "2026-07-21T12:25:27.850Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 179823.09,
-    "activities": 19828,
-    "moving_time_s": 75079371,
-    "elevation_m": 1009526
+    "distance": 179832.12,
+    "activities": 19830,
+    "moving_time_s": 75083441,
+    "elevation_m": 1009535
   },
   "rows": [
     {
@@ -1484,12 +1484,20 @@
       "rank": 182
     },
     {
+      "name": "Teguh W.",
+      "activities": 42,
+      "distance": 366.33,
+      "moving_time_s": 158782,
+      "elevation_m": 899,
+      "rank": 183
+    },
+    {
       "name": "Ilham K.",
       "activities": 42,
       "distance": 364.7,
       "moving_time_s": 161995,
       "elevation_m": 458,
-      "rank": 183
+      "rank": 184
     },
     {
       "name": "Ghiyats G.",
@@ -1497,7 +1505,7 @@
       "distance": 358.95,
       "moving_time_s": 126340,
       "elevation_m": 834,
-      "rank": 184
+      "rank": 185
     },
     {
       "name": "Gisela C.",
@@ -1505,14 +1513,6 @@
       "distance": 358.88,
       "moving_time_s": 162042,
       "elevation_m": 2547,
-      "rank": 185
-    },
-    {
-      "name": "Teguh W.",
-      "activities": 41,
-      "distance": 358.31,
-      "moving_time_s": 155168,
-      "elevation_m": 890,
       "rank": 186
     },
     {
@@ -2612,19 +2612,19 @@
       "rank": 323
     },
     {
+      "name": "Nindita H.",
+      "activities": 19,
+      "distance": 160.04,
+      "moving_time_s": 66624,
+      "elevation_m": 416,
+      "rank": 324
+    },
+    {
       "name": "Dio A.",
       "activities": 19,
       "distance": 159.78,
       "moving_time_s": 74386,
       "elevation_m": 1259,
-      "rank": 324
-    },
-    {
-      "name": "Nindita H.",
-      "activities": 18,
-      "distance": 159.03,
-      "moving_time_s": 66168,
-      "elevation_m": 416,
       "rank": 325
     },
     {
