@@ -277423,9 +277423,37 @@
       "moving_time_s": 3970,
       "elapsed_time_s": 3970,
       "elevation_m": 31
+    },
+    "46d842f893e8181913dc": {
+      "h": "46d842f893e8181913dc",
+      "first_seen_at": "2026-07-21T01:45:32.843Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Yunita Dwi",
+      "athlete_last": "A.",
+      "name": "Finish Gak Harus TenK",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8262.2,
+      "moving_time_s": 3308,
+      "elapsed_time_s": 3312,
+      "elevation_m": 4.1
+    },
+    "a227baad0d677249a8c5": {
+      "h": "a227baad0d677249a8c5",
+      "first_seen_at": "2026-07-21T01:45:32.843Z",
+      "week_key": "2026-W30",
+      "athlete_first": "win",
+      "athlete_last": "C.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 15008.7,
+      "moving_time_s": 5307,
+      "elapsed_time_s": 5307,
+      "elevation_m": 14.2
     }
   },
-  "last_synced_at": "2026-07-21T01:40:34.292Z",
+  "last_synced_at": "2026-07-21T01:45:32.843Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
