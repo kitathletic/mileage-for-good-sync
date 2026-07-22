@@ -281665,9 +281665,51 @@
       "moving_time_s": 3985,
       "elapsed_time_s": 3985,
       "elevation_m": 114
+    },
+    "4b5f39c9810d9ac47042": {
+      "h": "4b5f39c9810d9ac47042",
+      "first_seen_at": "2026-07-22T12:05:30.336Z",
+      "week_key": "2026-W30",
+      "athlete_first": "M Doni",
+      "athlete_last": "M.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1952.1,
+      "moving_time_s": 883,
+      "elapsed_time_s": 981,
+      "elevation_m": 0
+    },
+    "ee0f14e589feec85c1b9": {
+      "h": "ee0f14e589feec85c1b9",
+      "first_seen_at": "2026-07-22T12:05:30.336Z",
+      "week_key": "2026-W30",
+      "athlete_first": "R.M.",
+      "athlete_last": "R.",
+      "name": "Berlari Sore",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5050.8,
+      "moving_time_s": 2302,
+      "elapsed_time_s": 2303,
+      "elevation_m": 27.4
+    },
+    "9fe77cdd7ac099eca4b5": {
+      "h": "9fe77cdd7ac099eca4b5",
+      "first_seen_at": "2026-07-22T12:05:30.336Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Vincent",
+      "athlete_last": "V.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10010.3,
+      "moving_time_s": 3873,
+      "elapsed_time_s": 4603,
+      "elevation_m": 10
     }
   },
-  "last_synced_at": "2026-07-22T12:00:54.450Z",
+  "last_synced_at": "2026-07-22T12:05:30.336Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
