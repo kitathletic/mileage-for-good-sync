@@ -281805,9 +281805,37 @@
       "moving_time_s": 4710,
       "elapsed_time_s": 4748,
       "elevation_m": 10.4
+    },
+    "ffb18b553555631f5050": {
+      "h": "ffb18b553555631f5050",
+      "first_seen_at": "2026-07-22T12:45:36.188Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Reynaldi",
+      "athlete_last": "O.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10008.7,
+      "moving_time_s": 3856,
+      "elapsed_time_s": 3856,
+      "elevation_m": 22
+    },
+    "359a99c21f007af18b30": {
+      "h": "359a99c21f007af18b30",
+      "first_seen_at": "2026-07-22T12:45:36.188Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Pedro",
+      "athlete_last": "V.",
+      "name": "Corrida matinal",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 16430,
+      "moving_time_s": 4731,
+      "elapsed_time_s": 4745,
+      "elevation_m": 69.3
     }
   },
-  "last_synced_at": "2026-07-22T12:40:36.593Z",
+  "last_synced_at": "2026-07-22T12:45:36.188Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T12:40:36.593Z",
+  "generated_at": "2026-07-22T12:45:36.188Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 170491.25,
-    "activities": 18934,
-    "moving_time_s": 71183227,
-    "elevation_m": 957568
+    "distance": 170517.68,
+    "activities": 18936,
+    "moving_time_s": 71191814,
+    "elevation_m": 957659
   },
   "rows": [
     {
@@ -244,19 +244,19 @@
       "rank": 27
     },
     {
+      "name": "Pedro V.",
+      "activities": 96,
+      "distance": 1034.89,
+      "moving_time_s": 313523,
+      "elevation_m": 11077,
+      "rank": 28
+    },
+    {
       "name": "Samuel Zeth A.",
       "activities": 118,
       "distance": 1027.52,
       "moving_time_s": 496317,
       "elevation_m": 5857,
-      "rank": 28
-    },
-    {
-      "name": "Pedro V.",
-      "activities": 95,
-      "distance": 1018.46,
-      "moving_time_s": 308792,
-      "elevation_m": 11008,
       "rank": 29
     },
     {
@@ -1108,12 +1108,20 @@
       "rank": 135
     },
     {
+      "name": "Reynaldi O.",
+      "activities": 58,
+      "distance": 459.95,
+      "moving_time_s": 206189,
+      "elevation_m": 1167,
+      "rank": 136
+    },
+    {
       "name": "Kamal H.",
       "activities": 37,
       "distance": 455.79,
       "moving_time_s": 150214,
       "elevation_m": 1791,
-      "rank": 136
+      "rank": 137
     },
     {
       "name": "Samuel W.",
@@ -1121,7 +1129,7 @@
       "distance": 455.07,
       "moving_time_s": 232035,
       "elevation_m": 5833,
-      "rank": 137
+      "rank": 138
     },
     {
       "name": "Taufan S.",
@@ -1129,14 +1137,6 @@
       "distance": 454.02,
       "moving_time_s": 197184,
       "elevation_m": 4635,
-      "rank": 138
-    },
-    {
-      "name": "Reynaldi O.",
-      "activities": 57,
-      "distance": 449.95,
-      "moving_time_s": 202333,
-      "elevation_m": 1145,
       "rank": 139
     },
     {
