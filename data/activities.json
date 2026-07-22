@@ -282323,9 +282323,37 @@
       "moving_time_s": 6366,
       "elapsed_time_s": 12699,
       "elevation_m": 0
+    },
+    "6eaebd89b2aa9abe50f6": {
+      "h": "6eaebd89b2aa9abe50f6",
+      "first_seen_at": "2026-07-22T14:05:29.998Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Defry",
+      "athlete_last": "N.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7003.4,
+      "moving_time_s": 2620,
+      "elapsed_time_s": 2620,
+      "elevation_m": 70
+    },
+    "91ad28787a50853afe2f": {
+      "h": "91ad28787a50853afe2f",
+      "first_seen_at": "2026-07-22T14:05:29.998Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Mario",
+      "athlete_last": "J.",
+      "name": "WU 800x6 CD",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7019.4,
+      "moving_time_s": 2514,
+      "elapsed_time_s": 3552,
+      "elevation_m": 7
     }
   },
-  "last_synced_at": "2026-07-22T14:00:54.759Z",
+  "last_synced_at": "2026-07-22T14:05:29.998Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
