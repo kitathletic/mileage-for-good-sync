@@ -280503,9 +280503,37 @@
       "moving_time_s": 2157,
       "elapsed_time_s": 2160,
       "elevation_m": 2.8
+    },
+    "4c33072f2ca5755defa6": {
+      "h": "4c33072f2ca5755defa6",
+      "first_seen_at": "2026-07-22T00:55:28.382Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Alieef",
+      "athlete_last": "P.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5000.4,
+      "moving_time_s": 1493,
+      "elapsed_time_s": 1493,
+      "elevation_m": 2.5
+    },
+    "ab9d265c1af5c87c1c03": {
+      "h": "ab9d265c1af5c87c1c03",
+      "first_seen_at": "2026-07-22T00:55:28.382Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Steffiani",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10004.7,
+      "moving_time_s": 4276,
+      "elapsed_time_s": 4809,
+      "elevation_m": 11
     }
   },
-  "last_synced_at": "2026-07-22T00:50:32.643Z",
+  "last_synced_at": "2026-07-22T00:55:28.382Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
