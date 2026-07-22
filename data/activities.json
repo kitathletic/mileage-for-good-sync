@@ -281511,9 +281511,37 @@
       "moving_time_s": 2839,
       "elapsed_time_s": 2866,
       "elevation_m": 122.9
+    },
+    "6d142ff53ed92ae0b820": {
+      "h": "6d142ff53ed92ae0b820",
+      "first_seen_at": "2026-07-22T11:00:53.212Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Jason",
+      "athlete_last": "P.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5004.2,
+      "moving_time_s": 1878,
+      "elapsed_time_s": 1878,
+      "elevation_m": 2
+    },
+    "2aa1bb70f954196eaeda": {
+      "h": "2aa1bb70f954196eaeda",
+      "first_seen_at": "2026-07-22T11:00:53.212Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Aditya Riska",
+      "athlete_last": "P.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5027,
+      "moving_time_s": 2894,
+      "elapsed_time_s": 2897,
+      "elevation_m": 12
     }
   },
-  "last_synced_at": "2026-07-22T10:55:31.359Z",
+  "last_synced_at": "2026-07-22T11:00:53.212Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
