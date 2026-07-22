@@ -280629,9 +280629,51 @@
       "moving_time_s": 7697,
       "elapsed_time_s": 7763,
       "elevation_m": 6.8
+    },
+    "7bfa973c907912d4800d": {
+      "h": "7bfa973c907912d4800d",
+      "first_seen_at": "2026-07-22T01:20:36.299Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Dimas",
+      "athlete_last": "A.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7057.5,
+      "moving_time_s": 3313,
+      "elapsed_time_s": 3337,
+      "elevation_m": 13.4
+    },
+    "66ec6fe6874397f2cc9c": {
+      "h": "66ec6fe6874397f2cc9c",
+      "first_seen_at": "2026-07-22T01:20:36.299Z",
+      "week_key": "2026-W30",
+      "athlete_first": "win",
+      "athlete_last": "C.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12008,
+      "moving_time_s": 4751,
+      "elapsed_time_s": 4751,
+      "elevation_m": 127
+    },
+    "37c15755d900be25db41": {
+      "h": "37c15755d900be25db41",
+      "first_seen_at": "2026-07-22T01:20:36.299Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Bosca",
+      "athlete_last": "H.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4503,
+      "moving_time_s": 1851,
+      "elapsed_time_s": 1866,
+      "elevation_m": 30
     }
   },
-  "last_synced_at": "2026-07-22T01:15:36.232Z",
+  "last_synced_at": "2026-07-22T01:20:36.299Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
