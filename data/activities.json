@@ -280811,9 +280811,37 @@
       "moving_time_s": 3615,
       "elapsed_time_s": 3855,
       "elevation_m": 0
+    },
+    "53cd32f44da93426a961": {
+      "h": "53cd32f44da93426a961",
+      "first_seen_at": "2026-07-22T01:55:28.329Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Faris",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7721.9,
+      "moving_time_s": 2728,
+      "elapsed_time_s": 2743,
+      "elevation_m": 19.7
+    },
+    "8c0a7493c6efb19d2b5d": {
+      "h": "8c0a7493c6efb19d2b5d",
+      "first_seen_at": "2026-07-22T01:55:28.329Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Richard",
+      "athlete_last": "R.",
+      "name": "4 menit x 5",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5333.6,
+      "moving_time_s": 1792,
+      "elapsed_time_s": 1948,
+      "elevation_m": 45.4
     }
   },
-  "last_synced_at": "2026-07-22T01:50:35.561Z",
+  "last_synced_at": "2026-07-22T01:55:28.329Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
