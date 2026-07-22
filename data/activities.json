@@ -281455,9 +281455,65 @@
       "moving_time_s": 2899,
       "elapsed_time_s": 3294,
       "elevation_m": 12
+    },
+    "a7868dbe1540b9eedb08": {
+      "h": "a7868dbe1540b9eedb08",
+      "first_seen_at": "2026-07-22T10:55:31.359Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Fadhil",
+      "athlete_last": "M.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3560.5,
+      "moving_time_s": 1549,
+      "elapsed_time_s": 1549,
+      "elevation_m": 50
+    },
+    "2fdb57b872b0943cda3b": {
+      "h": "2fdb57b872b0943cda3b",
+      "first_seen_at": "2026-07-22T10:55:31.359Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Abraham",
+      "athlete_last": "S.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3027.4,
+      "moving_time_s": 1527,
+      "elapsed_time_s": 1527,
+      "elevation_m": 0
+    },
+    "aae20ea0a6f3a6184846": {
+      "h": "aae20ea0a6f3a6184846",
+      "first_seen_at": "2026-07-22T10:55:31.359Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Febio",
+      "athlete_last": "S.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11497.1,
+      "moving_time_s": 3868,
+      "elapsed_time_s": 3904,
+      "elevation_m": 19
+    },
+    "0d6243e18ca50acf507c": {
+      "h": "0d6243e18ca50acf507c",
+      "first_seen_at": "2026-07-22T10:55:31.359Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Muhammad",
+      "athlete_last": "I.",
+      "name": "Afternoon Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 6090.2,
+      "moving_time_s": 2839,
+      "elapsed_time_s": 2866,
+      "elevation_m": 122.9
     }
   },
-  "last_synced_at": "2026-07-22T10:50:33.461Z",
+  "last_synced_at": "2026-07-22T10:55:31.359Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
