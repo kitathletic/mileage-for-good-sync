@@ -282211,9 +282211,37 @@
       "moving_time_s": 1038,
       "elapsed_time_s": 1060,
       "elevation_m": 9.8
+    },
+    "532a79f1e3b8f3f15f06": {
+      "h": "532a79f1e3b8f3f15f06",
+      "first_seen_at": "2026-07-22T13:45:32.680Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Bimantoro",
+      "athlete_last": "B.",
+      "name": "Interval",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6006.1,
+      "moving_time_s": 2255,
+      "elapsed_time_s": 2287,
+      "elevation_m": 17
+    },
+    "9668c420af6aeb0378f6": {
+      "h": "9668c420af6aeb0378f6",
+      "first_seen_at": "2026-07-22T13:45:32.680Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Bimantoro",
+      "athlete_last": "B.",
+      "name": "Warming Up",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1476.9,
+      "moving_time_s": 676,
+      "elapsed_time_s": 1502,
+      "elevation_m": 13
     }
   },
-  "last_synced_at": "2026-07-22T13:40:40.243Z",
+  "last_synced_at": "2026-07-22T13:45:32.680Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
