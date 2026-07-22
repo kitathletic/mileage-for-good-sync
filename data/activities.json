@@ -280671,9 +280671,37 @@
       "moving_time_s": 1851,
       "elapsed_time_s": 1866,
       "elevation_m": 30
+    },
+    "3ed701b3379fb74e4362": {
+      "h": "3ed701b3379fb74e4362",
+      "first_seen_at": "2026-07-22T01:25:28.741Z",
+      "week_key": "2026-W30",
+      "athlete_first": "David",
+      "athlete_last": "P.",
+      "name": "Interval ala ala",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9587,
+      "moving_time_s": 3817,
+      "elapsed_time_s": 4340,
+      "elevation_m": 59.2
+    },
+    "e3d805bc4d572b670483": {
+      "h": "e3d805bc4d572b670483",
+      "first_seen_at": "2026-07-22T01:25:28.741Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Danny",
+      "athlete_last": "T.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 20022.6,
+      "moving_time_s": 6403,
+      "elapsed_time_s": 6865,
+      "elevation_m": 77
     }
   },
-  "last_synced_at": "2026-07-22T01:21:37.068Z",
+  "last_synced_at": "2026-07-22T01:25:28.741Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
