@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T12:35:29.806Z",
+  "generated_at": "2026-07-22T12:40:36.593Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 181497.37,
-    "activities": 20057,
-    "moving_time_s": 75721976,
-    "elevation_m": 1015289
+    "distance": 181512.68,
+    "activities": 20059,
+    "moving_time_s": 75728421,
+    "elevation_m": 1015300
   },
   "rows": [
     {
@@ -476,19 +476,19 @@
       "rank": 56
     },
     {
+      "name": "Peter Nichlas S.",
+      "activities": 85,
+      "distance": 813.11,
+      "moving_time_s": 285651,
+      "elevation_m": 10318,
+      "rank": 57
+    },
+    {
       "name": "Francesco S.",
       "activities": 75,
       "distance": 802.22,
       "moving_time_s": 364248,
       "elevation_m": 1897,
-      "rank": 57
-    },
-    {
-      "name": "Peter Nichlas S.",
-      "activities": 84,
-      "distance": 800.32,
-      "moving_time_s": 280941,
-      "elevation_m": 10307,
       "rank": 58
     },
     {
@@ -3300,12 +3300,20 @@
       "rank": 409
     },
     {
+      "name": "Adn X.",
+      "activities": 10,
+      "distance": 47.14,
+      "moving_time_s": 24113,
+      "elevation_m": 52,
+      "rank": 410
+    },
+    {
       "name": "Deddy I.",
       "activities": 10,
       "distance": 45.87,
       "moving_time_s": 17965,
       "elevation_m": 2018,
-      "rank": 410
+      "rank": 411
     },
     {
       "name": "Justin P.",
@@ -3313,7 +3321,7 @@
       "distance": 45.18,
       "moving_time_s": 18737,
       "elevation_m": 68,
-      "rank": 411
+      "rank": 412
     },
     {
       "name": "RWTS ..",
@@ -3321,14 +3329,6 @@
       "distance": 44.81,
       "moving_time_s": 16909,
       "elevation_m": 114,
-      "rank": 412
-    },
-    {
-      "name": "Adn X.",
-      "activities": 9,
-      "distance": 44.62,
-      "moving_time_s": 22378,
-      "elevation_m": 52,
       "rank": 413
     },
     {
