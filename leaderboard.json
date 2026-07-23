@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T22:50:34.862Z",
+  "generated_at": "2026-07-23T22:55:27.173Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 172503.36,
-    "activities": 19219,
-    "moving_time_s": 71988496,
-    "elevation_m": 967513
+    "distance": 172546.87,
+    "activities": 19222,
+    "moving_time_s": 72002962,
+    "elevation_m": 967588
   },
   "rows": [
     {
@@ -101,10 +101,10 @@
     },
     {
       "name": "Zad K.",
-      "activities": 142,
-      "distance": 1365.77,
-      "moving_time_s": 633003,
-      "elevation_m": 7652,
+      "activities": 143,
+      "distance": 1389.78,
+      "moving_time_s": 640839,
+      "elevation_m": 7706,
       "rank": 10
     },
     {
@@ -308,19 +308,19 @@
       "rank": 35
     },
     {
+      "name": "Arya .",
+      "activities": 101,
+      "distance": 916.3,
+      "moving_time_s": 365608,
+      "elevation_m": 2821,
+      "rank": 36
+    },
+    {
       "name": "Wahyu Bangkit M.",
       "activities": 77,
       "distance": 908.07,
       "moving_time_s": 347044,
       "elevation_m": 750,
-      "rank": 36
-    },
-    {
-      "name": "Arya .",
-      "activities": 100,
-      "distance": 901.28,
-      "moving_time_s": 360780,
-      "elevation_m": 2808,
       "rank": 37
     },
     {
@@ -964,12 +964,20 @@
       "rank": 117
     },
     {
+      "name": "Faisal J.",
+      "activities": 69,
+      "distance": 510.06,
+      "moving_time_s": 192573,
+      "elevation_m": 1752,
+      "rank": 118
+    },
+    {
       "name": "Dicky F.",
       "activities": 54,
       "distance": 509.15,
       "moving_time_s": 213557,
       "elevation_m": 1829,
-      "rank": 118
+      "rank": 119
     },
     {
       "name": "Arwan W.",
@@ -977,7 +985,7 @@
       "distance": 508.7,
       "moving_time_s": 210635,
       "elevation_m": 6525,
-      "rank": 119
+      "rank": 120
     },
     {
       "name": "Hanis F.",
@@ -985,14 +993,6 @@
       "distance": 507.22,
       "moving_time_s": 207703,
       "elevation_m": 1443,
-      "rank": 120
-    },
-    {
-      "name": "Faisal J.",
-      "activities": 68,
-      "distance": 505.58,
-      "moving_time_s": 190771,
-      "elevation_m": 1744,
       "rank": 121
     },
     {
