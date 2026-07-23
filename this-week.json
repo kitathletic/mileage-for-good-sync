@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T12:00:58.975Z",
+  "generated_at": "2026-07-23T12:05:30.178Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 5570.81,
-    "activities": 746,
-    "moving_time_s": 2206332,
-    "elevation_m": 25125
+    "distance": 5572.35,
+    "activities": 747,
+    "moving_time_s": 2207010,
+    "elevation_m": 25137
   },
   "rows": [
     {
@@ -2282,12 +2282,20 @@
       "rank": 282
     },
     {
+      "name": "Pandi W.",
+      "activities": 1,
+      "distance": 1.54,
+      "moving_time_s": 678,
+      "elevation_m": 12,
+      "rank": 283
+    },
+    {
       "name": "Nindita H.",
       "activities": 1,
       "distance": 1.01,
       "moving_time_s": 456,
       "elevation_m": 0,
-      "rank": 283
+      "rank": 284
     },
     {
       "name": "Rido W.",
@@ -2295,7 +2303,7 @@
       "distance": 0.01,
       "moving_time_s": 0,
       "elevation_m": 0,
-      "rank": 284
+      "rank": 285
     },
     {
       "name": "Rio P.",
@@ -2303,7 +2311,7 @@
       "distance": 0,
       "moving_time_s": 8698,
       "elevation_m": 0,
-      "rank": 285
+      "rank": 286
     }
   ]
 }
