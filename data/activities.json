@@ -283709,9 +283709,51 @@
       "moving_time_s": 3626,
       "elapsed_time_s": 3645,
       "elevation_m": 10
+    },
+    "c1a01f5f1020499f22ff": {
+      "h": "c1a01f5f1020499f22ff",
+      "first_seen_at": "2026-07-23T00:25:27.174Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Avrino",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5114.7,
+      "moving_time_s": 2011,
+      "elapsed_time_s": 2018,
+      "elevation_m": 4.8
+    },
+    "dcba1bee2db3524facd5": {
+      "h": "dcba1bee2db3524facd5",
+      "first_seen_at": "2026-07-23T00:25:27.174Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Bimantoro",
+      "athlete_last": "B.",
+      "name": "Morning Run - Z1",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5090.2,
+      "moving_time_s": 2342,
+      "elapsed_time_s": 2347,
+      "elevation_m": 17
+    },
+    "f9f86bfe14ce1a8c6298": {
+      "h": "f9f86bfe14ce1a8c6298",
+      "first_seen_at": "2026-07-23T00:25:27.174Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Leon",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 14786.5,
+      "moving_time_s": 5366,
+      "elapsed_time_s": 5405,
+      "elevation_m": 20
     }
   },
-  "last_synced_at": "2026-07-23T00:20:33.534Z",
+  "last_synced_at": "2026-07-23T00:25:27.174Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
