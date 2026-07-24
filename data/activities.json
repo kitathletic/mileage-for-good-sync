@@ -288889,9 +288889,37 @@
       "moving_time_s": 1300,
       "elapsed_time_s": 1300,
       "elevation_m": 46
+    },
+    "e15e44794814131c3c18": {
+      "h": "e15e44794814131c3c18",
+      "first_seen_at": "2026-07-24T23:35:37.935Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Adi",
+      "athlete_last": "R.",
+      "name": "Berlari Pagi",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12491,
+      "moving_time_s": 4202,
+      "elapsed_time_s": 4202,
+      "elevation_m": 29.4
+    },
+    "c624d721879d3439e27b": {
+      "h": "c624d721879d3439e27b",
+      "first_seen_at": "2026-07-24T23:35:37.935Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Ihsan",
+      "athlete_last": "A.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6004.9,
+      "moving_time_s": 2438,
+      "elapsed_time_s": 37843,
+      "elevation_m": 21.9
     }
   },
-  "last_synced_at": "2026-07-24T23:30:46.324Z",
+  "last_synced_at": "2026-07-24T23:35:37.935Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
