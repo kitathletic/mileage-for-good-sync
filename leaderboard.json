@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T12:00:53.398Z",
+  "generated_at": "2026-07-24T12:05:30.863Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 173761.99,
-    "activities": 19374,
-    "moving_time_s": 72475536,
-    "elevation_m": 971774
+    "distance": 173771.66,
+    "activities": 19376,
+    "moving_time_s": 72479123,
+    "elevation_m": 971824
   },
   "rows": [
     {
@@ -524,12 +524,20 @@
       "rank": 62
     },
     {
+      "name": "Peter Nichlas S.",
+      "activities": 80,
+      "distance": 734.76,
+      "moving_time_s": 259739,
+      "elevation_m": 9647,
+      "rank": 63
+    },
+    {
       "name": "Rafly K.",
       "activities": 80,
       "distance": 733.3,
       "moving_time_s": 365073,
       "elevation_m": 1469,
-      "rank": 63
+      "rank": 64
     },
     {
       "name": "Ahmad R.",
@@ -537,7 +545,7 @@
       "distance": 731.46,
       "moving_time_s": 282120,
       "elevation_m": 3389,
-      "rank": 64
+      "rank": 65
     },
     {
       "name": "Alief Rafael G.",
@@ -545,7 +553,7 @@
       "distance": 730.43,
       "moving_time_s": 257719,
       "elevation_m": 4036,
-      "rank": 65
+      "rank": 66
     },
     {
       "name": "Rudy W.",
@@ -553,14 +561,6 @@
       "distance": 729.83,
       "moving_time_s": 317286,
       "elevation_m": 1239,
-      "rank": 66
-    },
-    {
-      "name": "Peter Nichlas S.",
-      "activities": 79,
-      "distance": 725.75,
-      "moving_time_s": 256924,
-      "elevation_m": 9597,
       "rank": 67
     },
     {
@@ -845,9 +845,9 @@
     },
     {
       "name": "Bimantoro B.",
-      "activities": 94,
-      "distance": 565.04,
-      "moving_time_s": 273928,
+      "activities": 95,
+      "distance": 565.7,
+      "moving_time_s": 274700,
       "elevation_m": 3115,
       "rank": 103
     },
