@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T12:55:27.986Z",
+  "generated_at": "2026-07-24T13:00:51.907Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 184845.26,
-    "activities": 20510,
-    "moving_time_s": 77044202,
-    "elevation_m": 1029634
+    "distance": 184853.55,
+    "activities": 20512,
+    "moving_time_s": 77047899,
+    "elevation_m": 1029641
   },
   "rows": [
     {
@@ -1692,12 +1692,20 @@
       "rank": 208
     },
     {
+      "name": "Ichsan R.",
+      "activities": 51,
+      "distance": 335.26,
+      "moving_time_s": 161642,
+      "elevation_m": 526,
+      "rank": 209
+    },
+    {
       "name": "Faat S.",
       "activities": 21,
       "distance": 333.73,
       "moving_time_s": 129337,
       "elevation_m": 1687,
-      "rank": 209
+      "rank": 210
     },
     {
       "name": "Prima S.",
@@ -1705,7 +1713,7 @@
       "distance": 329.66,
       "moving_time_s": 296483,
       "elevation_m": 13696,
-      "rank": 210
+      "rank": 211
     },
     {
       "name": "Zefan P.",
@@ -1713,14 +1721,6 @@
       "distance": 329.58,
       "moving_time_s": 221755,
       "elevation_m": 12068,
-      "rank": 211
-    },
-    {
-      "name": "Ichsan R.",
-      "activities": 50,
-      "distance": 327.26,
-      "moving_time_s": 158023,
-      "elevation_m": 519,
       "rank": 212
     },
     {
@@ -2133,9 +2133,9 @@
     },
     {
       "name": "Ahmad Danar S.",
-      "activities": 24,
-      "distance": 240.31,
-      "moving_time_s": 109217,
+      "activities": 25,
+      "distance": 240.6,
+      "moving_time_s": 109295,
       "elevation_m": 618,
       "rank": 264
     },
