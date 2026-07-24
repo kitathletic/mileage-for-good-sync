@@ -288721,9 +288721,51 @@
       "moving_time_s": 9400,
       "elapsed_time_s": 10132,
       "elevation_m": 113
+    },
+    "01bfc3b973508b305b80": {
+      "h": "01bfc3b973508b305b80",
+      "first_seen_at": "2026-07-24T23:05:26.971Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Junias",
+      "athlete_last": "T.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8427.3,
+      "moving_time_s": 3968,
+      "elapsed_time_s": 4581,
+      "elevation_m": 95.8
+    },
+    "c8e22a67850dc9feec32": {
+      "h": "c8e22a67850dc9feec32",
+      "first_seen_at": "2026-07-24T23:05:26.971Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Arya",
+      "athlete_last": ".",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 17016,
+      "moving_time_s": 5416,
+      "elapsed_time_s": 5416,
+      "elevation_m": 37
+    },
+    "eeb3ebd0cb3035df9167": {
+      "h": "eeb3ebd0cb3035df9167",
+      "first_seen_at": "2026-07-24T23:05:26.971Z",
+      "week_key": "2026-W30",
+      "athlete_first": "ruel",
+      "athlete_last": "R.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6156.3,
+      "moving_time_s": 2877,
+      "elapsed_time_s": 3026,
+      "elevation_m": 21
     }
   },
-  "last_synced_at": "2026-07-24T23:00:53.036Z",
+  "last_synced_at": "2026-07-24T23:05:26.971Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
