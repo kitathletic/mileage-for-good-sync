@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T01:15:32.874Z",
+  "generated_at": "2026-07-24T01:20:32.794Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 173274.39,
-    "activities": 19314,
-    "moving_time_s": 72284781,
-    "elevation_m": 969634
+    "distance": 173300.61,
+    "activities": 19318,
+    "moving_time_s": 72295919,
+    "elevation_m": 969696
   },
   "rows": [
     {
@@ -69,10 +69,10 @@
     },
     {
       "name": "Prana R.",
-      "activities": 179,
-      "distance": 1643.67,
-      "moving_time_s": 703783,
-      "elevation_m": 32660,
+      "activities": 180,
+      "distance": 1651.67,
+      "moving_time_s": 706728,
+      "elevation_m": 32663,
       "rank": 6
     },
     {
@@ -364,19 +364,19 @@
       "rank": 42
     },
     {
+      "name": "Alexander Y.",
+      "activities": 78,
+      "distance": 863.53,
+      "moving_time_s": 353630,
+      "elevation_m": 1695,
+      "rank": 43
+    },
+    {
       "name": "Amal M.",
       "activities": 67,
       "distance": 853.63,
       "moving_time_s": 321636,
       "elevation_m": 2790,
-      "rank": 43
-    },
-    {
-      "name": "Alexander Y.",
-      "activities": 76,
-      "distance": 853.05,
-      "moving_time_s": 349096,
-      "elevation_m": 1681,
       "rank": 44
     },
     {
@@ -1372,12 +1372,20 @@
       "rank": 168
     },
     {
+      "name": "Re H.",
+      "activities": 41,
+      "distance": 388.45,
+      "moving_time_s": 172348,
+      "elevation_m": 697,
+      "rank": 169
+    },
+    {
       "name": "Akbar M.",
       "activities": 58,
       "distance": 386.98,
       "moving_time_s": 178637,
       "elevation_m": 3537,
-      "rank": 169
+      "rank": 170
     },
     {
       "name": "Revli P.",
@@ -1385,7 +1393,7 @@
       "distance": 383.62,
       "moving_time_s": 183077,
       "elevation_m": 503,
-      "rank": 170
+      "rank": 171
     },
     {
       "name": "Danis A.",
@@ -1393,14 +1401,6 @@
       "distance": 382.54,
       "moving_time_s": 151769,
       "elevation_m": 2302,
-      "rank": 171
-    },
-    {
-      "name": "Re H.",
-      "activities": 40,
-      "distance": 380.71,
-      "moving_time_s": 168689,
-      "elevation_m": 652,
       "rank": 172
     },
     {
