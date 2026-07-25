@@ -291913,9 +291913,37 @@
       "moving_time_s": 2196,
       "elapsed_time_s": 2261,
       "elevation_m": 30
+    },
+    "483fe1ce057b7c96d90d": {
+      "h": "483fe1ce057b7c96d90d",
+      "first_seen_at": "2026-07-25T22:30:43.671Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Dhiwa",
+      "athlete_last": "S.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10015.9,
+      "moving_time_s": 2936,
+      "elapsed_time_s": 2948,
+      "elevation_m": 29.2
+    },
+    "eb7637ba384f1fc63bce": {
+      "h": "eb7637ba384f1fc63bce",
+      "first_seen_at": "2026-07-25T22:30:43.671Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Taufiq",
+      "athlete_last": "H.",
+      "name": "Lari Trail Pagi",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 4551.4,
+      "moving_time_s": 2911,
+      "elapsed_time_s": 2962,
+      "elevation_m": 18.7
     }
   },
-  "last_synced_at": "2026-07-25T22:25:28.700Z",
+  "last_synced_at": "2026-07-25T22:30:43.671Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
