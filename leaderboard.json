@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T14:55:30.553Z",
+  "generated_at": "2026-07-25T15:00:47.169Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 176576.97,
-    "activities": 19636,
-    "moving_time_s": 73643210,
-    "elevation_m": 989944
+    "distance": 176583.47,
+    "activities": 19637,
+    "moving_time_s": 73645883,
+    "elevation_m": 989978
   },
   "rows": [
     {
@@ -820,12 +820,20 @@
       "rank": 99
     },
     {
+      "name": "Rhamdan I.",
+      "activities": 68,
+      "distance": 589.48,
+      "moving_time_s": 228401,
+      "elevation_m": 2349,
+      "rank": 100
+    },
+    {
       "name": "Bimantoro B.",
       "activities": 99,
       "distance": 587.23,
       "moving_time_s": 283772,
       "elevation_m": 3171,
-      "rank": 100
+      "rank": 101
     },
     {
       "name": "David P.",
@@ -833,14 +841,6 @@
       "distance": 583.52,
       "moving_time_s": 249559,
       "elevation_m": 3723,
-      "rank": 101
-    },
-    {
-      "name": "Rhamdan I.",
-      "activities": 67,
-      "distance": 582.98,
-      "moving_time_s": 225728,
-      "elevation_m": 2315,
       "rank": 102
     },
     {
