@@ -295595,9 +295595,37 @@
       "moving_time_s": 1814,
       "elapsed_time_s": 1814,
       "elevation_m": 12
+    },
+    "bff084c5f60a3b5b9746": {
+      "h": "bff084c5f60a3b5b9746",
+      "first_seen_at": "2026-07-26T09:15:36.185Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Willy",
+      "athlete_last": "T.",
+      "name": "Treadmill",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10000,
+      "moving_time_s": 3601,
+      "elapsed_time_s": 3601,
+      "elevation_m": 0
+    },
+    "ec6bbe130a935b1131bb": {
+      "h": "ec6bbe130a935b1131bb",
+      "first_seen_at": "2026-07-26T09:15:36.185Z",
+      "week_key": "2026-W30",
+      "athlete_first": "\"𝑫𝑨𝒱 𝑰𝑫🥇",
+      "athlete_last": "G.",
+      "name": "Carrera de montaña matutina 🏖🏞🏃",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 10372.5,
+      "moving_time_s": 3158,
+      "elapsed_time_s": 3694,
+      "elevation_m": 115
     }
   },
-  "last_synced_at": "2026-07-26T09:10:34.135Z",
+  "last_synced_at": "2026-07-26T09:15:36.185Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
