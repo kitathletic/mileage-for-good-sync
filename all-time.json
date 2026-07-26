@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-26T03:30:43.498Z",
+  "generated_at": "2026-07-26T03:35:29.376Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
-    "member_count": 586,
+    "member_count": 587,
     "url": "kitathletic"
   },
   "units": "km",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 190532.71,
-    "activities": 21011,
-    "moving_time_s": 79402436,
-    "elevation_m": 1069823
+    "distance": 190543.51,
+    "activities": 21012,
+    "moving_time_s": 79409860,
+    "elevation_m": 1070322
   },
   "rows": [
     {
@@ -2092,12 +2092,20 @@
       "rank": 258
     },
     {
+      "name": "marselli T.",
+      "activities": 33,
+      "distance": 255.26,
+      "moving_time_s": 167679,
+      "elevation_m": 6977,
+      "rank": 259
+    },
+    {
       "name": "_ph.87 |.",
       "activities": 43,
       "distance": 254.12,
       "moving_time_s": 100182,
       "elevation_m": 1591,
-      "rank": 259
+      "rank": 260
     },
     {
       "name": "Artur B.",
@@ -2105,7 +2113,7 @@
       "distance": 253.67,
       "moving_time_s": 113555,
       "elevation_m": 1888,
-      "rank": 260
+      "rank": 261
     },
     {
       "name": "Viren S.",
@@ -2113,14 +2121,6 @@
       "distance": 244.68,
       "moving_time_s": 88520,
       "elevation_m": 448,
-      "rank": 261
-    },
-    {
-      "name": "marselli T.",
-      "activities": 32,
-      "distance": 244.46,
-      "moving_time_s": 160255,
-      "elevation_m": 6478,
       "rank": 262
     },
     {
