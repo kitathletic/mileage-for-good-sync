@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T23:30:46.589Z",
+  "generated_at": "2026-07-26T23:35:27.876Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 249.53,
-    "activities": 22,
-    "moving_time_s": 88151,
-    "elevation_m": 1103
+    "distance": 273.07,
+    "activities": 25,
+    "moving_time_s": 98192,
+    "elevation_m": 1138
   },
   "rows": [
     {
@@ -98,12 +98,20 @@
       "rank": 9
     },
     {
+      "name": "Ryan A.",
+      "activities": 1,
+      "distance": 10.26,
+      "moving_time_s": 4233,
+      "elevation_m": 7,
+      "rank": 10
+    },
+    {
       "name": "Arya .",
       "activities": 1,
       "distance": 10.12,
       "moving_time_s": 3952,
       "elevation_m": 15,
-      "rank": 10
+      "rank": 11
     },
     {
       "name": "Cicak T.",
@@ -111,7 +119,7 @@
       "distance": 10,
       "moving_time_s": 3300,
       "elevation_m": 48,
-      "rank": 11
+      "rank": 12
     },
     {
       "name": "Aziz Wahyu P.",
@@ -119,7 +127,7 @@
       "distance": 9.63,
       "moving_time_s": 2817,
       "elevation_m": 11,
-      "rank": 12
+      "rank": 13
     },
     {
       "name": "Ryan Adrian B.",
@@ -127,7 +135,7 @@
       "distance": 8.02,
       "moving_time_s": 3639,
       "elevation_m": 9,
-      "rank": 13
+      "rank": 14
     },
     {
       "name": "Linda Z.",
@@ -135,7 +143,15 @@
       "distance": 7.75,
       "moving_time_s": 3127,
       "elevation_m": 73,
-      "rank": 14
+      "rank": 15
+    },
+    {
+      "name": "ramdani R.",
+      "activities": 1,
+      "distance": 7.24,
+      "moving_time_s": 3070,
+      "elevation_m": 2,
+      "rank": 16
     },
     {
       "name": "Andrew G.",
@@ -143,7 +159,15 @@
       "distance": 7.21,
       "moving_time_s": 2520,
       "elevation_m": 0,
-      "rank": 15
+      "rank": 17
+    },
+    {
+      "name": "thomyoum _.",
+      "activities": 1,
+      "distance": 6.04,
+      "moving_time_s": 2738,
+      "elevation_m": 26,
+      "rank": 18
     },
     {
       "name": "Nayaka B.",
@@ -151,7 +175,7 @@
       "distance": 5.05,
       "moving_time_s": 1881,
       "elevation_m": 24,
-      "rank": 16
+      "rank": 19
     }
   ]
 }
