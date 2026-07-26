@@ -295091,9 +295091,37 @@
       "moving_time_s": 2722,
       "elapsed_time_s": 2878,
       "elevation_m": 22
+    },
+    "85acda7160bfd1683372": {
+      "h": "85acda7160bfd1683372",
+      "first_seen_at": "2026-07-26T03:00:46.928Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Andri",
+      "athlete_last": "K.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 32169.6,
+      "moving_time_s": 13419,
+      "elapsed_time_s": 14020,
+      "elevation_m": 78
+    },
+    "3d5e7d554cb6d8865cb5": {
+      "h": "3d5e7d554cb6d8865cb5",
+      "first_seen_at": "2026-07-26T03:00:46.928Z",
+      "week_key": "2026-W30",
+      "athlete_first": "Samuel",
+      "athlete_last": "W.",
+      "name": "Happy miles Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 12519.4,
+      "moving_time_s": 9367,
+      "elapsed_time_s": 12166,
+      "elevation_m": 328
     }
   },
-  "last_synced_at": "2026-07-26T02:55:30.480Z",
+  "last_synced_at": "2026-07-26T03:00:46.928Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
