@@ -297975,9 +297975,37 @@
       "moving_time_s": 3334,
       "elapsed_time_s": 3358,
       "elevation_m": 2
+    },
+    "c66350446f06a37f2c37": {
+      "h": "c66350446f06a37f2c37",
+      "first_seen_at": "2026-07-27T22:35:26.317Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Stefanus",
+      "athlete_last": "E.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6080,
+      "moving_time_s": 2346,
+      "elapsed_time_s": 2346,
+      "elevation_m": 0
+    },
+    "43333d563b74e2aca900": {
+      "h": "43333d563b74e2aca900",
+      "first_seen_at": "2026-07-27T22:35:26.317Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Stefanus",
+      "athlete_last": "E.",
+      "name": "6km Easy Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5500.1,
+      "moving_time_s": 2329,
+      "elapsed_time_s": 2348,
+      "elevation_m": 12.2
     }
   },
-  "last_synced_at": "2026-07-27T22:30:46.258Z",
+  "last_synced_at": "2026-07-27T22:35:26.317Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
