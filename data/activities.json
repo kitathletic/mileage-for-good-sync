@@ -297331,9 +297331,23 @@
       "moving_time_s": 3001,
       "elapsed_time_s": 3001,
       "elevation_m": 0
+    },
+    "dbf32eadc3458b4d83e0": {
+      "h": "dbf32eadc3458b4d83e0",
+      "first_seen_at": "2026-07-27T09:00:56.809Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Alieef",
+      "athlete_last": "P.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3500,
+      "moving_time_s": 1009,
+      "elapsed_time_s": 1009,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-07-27T08:55:31.675Z",
+  "last_synced_at": "2026-07-27T09:00:56.809Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
