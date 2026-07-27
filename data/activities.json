@@ -297569,9 +297569,37 @@
       "moving_time_s": 839,
       "elapsed_time_s": 839,
       "elevation_m": 0
+    },
+    "914a528f4b92b8ba7b75": {
+      "h": "914a528f4b92b8ba7b75",
+      "first_seen_at": "2026-07-27T11:20:33.617Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Sandy",
+      "athlete_last": "S.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6164,
+      "moving_time_s": 2417,
+      "elapsed_time_s": 2417,
+      "elevation_m": 0
+    },
+    "ce285174e42974fc0658": {
+      "h": "ce285174e42974fc0658",
+      "first_seen_at": "2026-07-27T11:20:33.617Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Faisal",
+      "athlete_last": "M.",
+      "name": "Berlari di luar ruangan",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5144.1,
+      "moving_time_s": 2773,
+      "elapsed_time_s": 2786,
+      "elevation_m": 2.7
     }
   },
-  "last_synced_at": "2026-07-27T11:15:36.053Z",
+  "last_synced_at": "2026-07-27T11:20:33.617Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
