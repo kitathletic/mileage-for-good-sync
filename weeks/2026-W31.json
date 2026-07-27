@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T14:10:34.877Z",
+  "generated_at": "2026-07-27T14:15:36.147Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -20,8 +20,8 @@
   ],
   "totals": {
     "distance": 845.85,
-    "activities": 95,
-    "moving_time_s": 328035,
+    "activities": 96,
+    "moving_time_s": 334154,
     "elevation_m": 3966
   },
   "rows": [
@@ -632,6 +632,14 @@
       "moving_time_s": 61,
       "elevation_m": 0,
       "rank": 76
+    },
+    {
+      "name": "Rio P.",
+      "activities": 1,
+      "distance": 0,
+      "moving_time_s": 6119,
+      "elevation_m": 0,
+      "rank": 77
     }
   ]
 }
