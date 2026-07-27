@@ -298059,9 +298059,51 @@
       "moving_time_s": 2029,
       "elapsed_time_s": 2037,
       "elevation_m": 0
+    },
+    "ea9ef246ff495a151a77": {
+      "h": "ea9ef246ff495a151a77",
+      "first_seen_at": "2026-07-27T23:00:48.307Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Rafly",
+      "athlete_last": "K.",
+      "name": "Time Trial",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5002.9,
+      "moving_time_s": 1732,
+      "elapsed_time_s": 1732,
+      "elevation_m": 5
+    },
+    "326cb98716a8d1a6abb6": {
+      "h": "326cb98716a8d1a6abb6",
+      "first_seen_at": "2026-07-27T23:00:48.307Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Rafly",
+      "athlete_last": "K.",
+      "name": "Warm up",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1003,
+      "moving_time_s": 486,
+      "elapsed_time_s": 486,
+      "elevation_m": 2
+    },
+    "984dd60a102bd1692e8f": {
+      "h": "984dd60a102bd1692e8f",
+      "first_seen_at": "2026-07-27T23:00:48.307Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Serigala",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 17007.4,
+      "moving_time_s": 4877,
+      "elapsed_time_s": 4880,
+      "elevation_m": 49
     }
   },
-  "last_synced_at": "2026-07-27T22:55:27.735Z",
+  "last_synced_at": "2026-07-27T23:00:48.307Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
