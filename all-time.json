@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T12:00:59.406Z",
+  "generated_at": "2026-07-27T12:05:31.465Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 192276.01,
-    "activities": 21188,
-    "moving_time_s": 80154961,
-    "elevation_m": 1086874
+    "distance": 192280.03,
+    "activities": 21189,
+    "moving_time_s": 80156826,
+    "elevation_m": 1086883
   },
   "rows": [
     {
@@ -1164,12 +1164,20 @@
       "rank": 142
     },
     {
+      "name": "vincent L.",
+      "activities": 62,
+      "distance": 485.3,
+      "moving_time_s": 209954,
+      "elevation_m": 879,
+      "rank": 143
+    },
+    {
       "name": "Yudong A.",
       "activities": 74,
       "distance": 484.15,
       "moving_time_s": 221809,
       "elevation_m": 989,
-      "rank": 143
+      "rank": 144
     },
     {
       "name": "Michael R.",
@@ -1177,7 +1185,7 @@
       "distance": 483.54,
       "moving_time_s": 192369,
       "elevation_m": 1026,
-      "rank": 144
+      "rank": 145
     },
     {
       "name": "Kamal H.",
@@ -1185,14 +1193,6 @@
       "distance": 482.34,
       "moving_time_s": 158680,
       "elevation_m": 1934,
-      "rank": 145
-    },
-    {
-      "name": "vincent L.",
-      "activities": 61,
-      "distance": 481.28,
-      "moving_time_s": 208089,
-      "elevation_m": 870,
       "rank": 146
     },
     {
