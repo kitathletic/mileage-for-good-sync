@@ -299291,9 +299291,65 @@
       "moving_time_s": 4023,
       "elapsed_time_s": 4162,
       "elevation_m": 33
+    },
+    "be08938a647631f5662a": {
+      "h": "be08938a647631f5662a",
+      "first_seen_at": "2026-07-28T01:00:54.191Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Willy",
+      "athlete_last": "T.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5017.9,
+      "moving_time_s": 1752,
+      "elapsed_time_s": 1752,
+      "elevation_m": 1
+    },
+    "e95f2f3d45ad8763e6dd": {
+      "h": "e95f2f3d45ad8763e6dd",
+      "first_seen_at": "2026-07-28T01:00:54.191Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Mario",
+      "athlete_last": "J.",
+      "name": "ER on treadmill",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7000,
+      "moving_time_s": 3089,
+      "elapsed_time_s": 3089,
+      "elevation_m": 0
+    },
+    "0dd843fb53590cf95d9d": {
+      "h": "0dd843fb53590cf95d9d",
+      "first_seen_at": "2026-07-28T01:00:54.191Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Hanis",
+      "athlete_last": "F.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9639.5,
+      "moving_time_s": 3546,
+      "elapsed_time_s": 3546,
+      "elevation_m": 27
+    },
+    "6f5ecbf6755be771b38f": {
+      "h": "6f5ecbf6755be771b38f",
+      "first_seen_at": "2026-07-28T01:00:54.191Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Adityawarman",
+      "athlete_last": "A.",
+      "name": "Miles&Mornings",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8084.2,
+      "moving_time_s": 2925,
+      "elapsed_time_s": 2925,
+      "elevation_m": 9
     }
   },
-  "last_synced_at": "2026-07-28T00:55:28.657Z",
+  "last_synced_at": "2026-07-28T01:00:54.191Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
