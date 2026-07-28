@@ -300999,9 +300999,51 @@
       "moving_time_s": 2910,
       "elapsed_time_s": 2919,
       "elevation_m": 7
+    },
+    "dea2024c318a31739e0c": {
+      "h": "dea2024c318a31739e0c",
+      "first_seen_at": "2026-07-28T13:40:36.966Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Ikhya",
+      "athlete_last": "A.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5505,
+      "moving_time_s": 2439,
+      "elapsed_time_s": 2443,
+      "elevation_m": 21
+    },
+    "eaaf5c33ff6de84b0b39": {
+      "h": "eaaf5c33ff6de84b0b39",
+      "first_seen_at": "2026-07-28T13:40:36.966Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Chrisnadya",
+      "athlete_last": "P.",
+      "name": "Night run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4294.2,
+      "moving_time_s": 2171,
+      "elapsed_time_s": 2224,
+      "elevation_m": 15.6
+    },
+    "a7dd67b32407d6566769": {
+      "h": "a7dd67b32407d6566769",
+      "first_seen_at": "2026-07-28T13:40:36.966Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Adissa",
+      "athlete_last": "R.",
+      "name": "Interval — 600x5",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6752.3,
+      "moving_time_s": 3032,
+      "elapsed_time_s": 3153,
+      "elevation_m": 4.9
     }
   },
-  "last_synced_at": "2026-07-28T13:35:37.182Z",
+  "last_synced_at": "2026-07-28T13:40:36.966Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
