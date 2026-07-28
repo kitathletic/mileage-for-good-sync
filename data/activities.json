@@ -300607,9 +300607,37 @@
       "moving_time_s": 2301,
       "elapsed_time_s": 2304,
       "elevation_m": 7
+    },
+    "e4906311f8a5aba692bc": {
+      "h": "e4906311f8a5aba692bc",
+      "first_seen_at": "2026-07-28T12:05:29.946Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Nindita",
+      "athlete_last": "H.",
+      "name": "5k ez",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5157.6,
+      "moving_time_s": 2374,
+      "elapsed_time_s": 2399,
+      "elevation_m": 0
+    },
+    "a233cd290614462b7d31": {
+      "h": "a233cd290614462b7d31",
+      "first_seen_at": "2026-07-28T12:05:29.946Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Ichsan",
+      "athlete_last": "R.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8003,
+      "moving_time_s": 4078,
+      "elapsed_time_s": 4179,
+      "elevation_m": 8
     }
   },
-  "last_synced_at": "2026-07-28T12:00:52.950Z",
+  "last_synced_at": "2026-07-28T12:05:29.946Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
