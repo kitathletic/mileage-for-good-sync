@@ -299151,9 +299151,37 @@
       "moving_time_s": 5169,
       "elapsed_time_s": 5191,
       "elevation_m": 4.8
+    },
+    "08841e0f33392bc4e21c": {
+      "h": "08841e0f33392bc4e21c",
+      "first_seen_at": "2026-07-28T00:45:38.813Z",
+      "week_key": "2026-W31",
+      "athlete_first": "duwie",
+      "athlete_last": "!.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5046.6,
+      "moving_time_s": 1862,
+      "elapsed_time_s": 1862,
+      "elevation_m": 0
+    },
+    "f5d7d145bbdb16f409f2": {
+      "h": "f5d7d145bbdb16f409f2",
+      "first_seen_at": "2026-07-28T00:45:38.813Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Cath",
+      "athlete_last": "H.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9119.3,
+      "moving_time_s": 3669,
+      "elapsed_time_s": 3973,
+      "elevation_m": 14
     }
   },
-  "last_synced_at": "2026-07-28T00:40:39.212Z",
+  "last_synced_at": "2026-07-28T00:45:38.813Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
