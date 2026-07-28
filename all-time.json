@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T22:55:33.919Z",
+  "generated_at": "2026-07-28T23:00:52.012Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 194504.68,
-    "activities": 21469,
-    "moving_time_s": 81055577,
-    "elevation_m": 1095677
+    "distance": 194529.09,
+    "activities": 21473,
+    "moving_time_s": 81063783,
+    "elevation_m": 1095766
   },
   "rows": [
     {
@@ -164,12 +164,20 @@
       "rank": 17
     },
     {
+      "name": "Serigala S.",
+      "activities": 79,
+      "distance": 1303.04,
+      "moving_time_s": 474183,
+      "elevation_m": 4016,
+      "rank": 18
+    },
+    {
       "name": "Irvan C.",
       "activities": 66,
       "distance": 1300.58,
       "moving_time_s": 711653,
       "elevation_m": 15993,
-      "rank": 18
+      "rank": 19
     },
     {
       "name": "Edy C.",
@@ -177,14 +185,6 @@
       "distance": 1291.62,
       "moving_time_s": 686862,
       "elevation_m": 33109,
-      "rank": 19
-    },
-    {
-      "name": "Serigala S.",
-      "activities": 78,
-      "distance": 1288.03,
-      "moving_time_s": 468999,
-      "elevation_m": 3969,
       "rank": 20
     },
     {
@@ -925,11 +925,19 @@
     },
     {
       "name": "Theo N.",
-      "activities": 63,
-      "distance": 593.72,
-      "moving_time_s": 374927,
-      "elevation_m": 16596,
+      "activities": 64,
+      "distance": 596.73,
+      "moving_time_s": 375953,
+      "elevation_m": 16638,
       "rank": 113
+    },
+    {
+      "name": "Jason P.",
+      "activities": 59,
+      "distance": 592.87,
+      "moving_time_s": 204751,
+      "elevation_m": 1501,
+      "rank": 114
     },
     {
       "name": "Faisal J.",
@@ -937,7 +945,7 @@
       "distance": 588.91,
       "moving_time_s": 220833,
       "elevation_m": 1899,
-      "rank": 114
+      "rank": 115
     },
     {
       "name": "Lintang R.",
@@ -945,14 +953,6 @@
       "distance": 587.2,
       "moving_time_s": 207189,
       "elevation_m": 2287,
-      "rank": 115
-    },
-    {
-      "name": "Jason P.",
-      "activities": 57,
-      "distance": 586.48,
-      "moving_time_s": 202755,
-      "elevation_m": 1501,
       "rank": 116
     },
     {
