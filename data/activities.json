@@ -299501,9 +299501,51 @@
       "moving_time_s": 3865,
       "elapsed_time_s": 3865,
       "elevation_m": 31
+    },
+    "cce3317c2a83fc270842": {
+      "h": "cce3317c2a83fc270842",
+      "first_seen_at": "2026-07-28T01:35:34.003Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Slopslop",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5239.7,
+      "moving_time_s": 3020,
+      "elapsed_time_s": 3244,
+      "elevation_m": 14.2
+    },
+    "bca3d858523681e6bbe7": {
+      "h": "bca3d858523681e6bbe7",
+      "first_seen_at": "2026-07-28T01:35:34.003Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Jeremiah",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11051.7,
+      "moving_time_s": 3930,
+      "elapsed_time_s": 4681,
+      "elevation_m": 43
+    },
+    "86d46da9f8312c3111f2": {
+      "h": "86d46da9f8312c3111f2",
+      "first_seen_at": "2026-07-28T01:35:34.003Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Peter Nichlas",
+      "athlete_last": "S.",
+      "name": "Recovery",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6008.9,
+      "moving_time_s": 2323,
+      "elapsed_time_s": 2352,
+      "elevation_m": 15
     }
   },
-  "last_synced_at": "2026-07-28T01:30:39.283Z",
+  "last_synced_at": "2026-07-28T01:35:34.003Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
