@@ -302861,9 +302861,37 @@
       "moving_time_s": 2386,
       "elapsed_time_s": 2621,
       "elevation_m": 12.8
+    },
+    "5483aec87ec06cf8e68c": {
+      "h": "5483aec87ec06cf8e68c",
+      "first_seen_at": "2026-07-29T00:55:27.961Z",
+      "week_key": "2026-W31",
+      "athlete_first": "matthew",
+      "athlete_last": "T.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10492.1,
+      "moving_time_s": 3358,
+      "elapsed_time_s": 3556,
+      "elevation_m": 28
+    },
+    "99cb86046447b4c0f34f": {
+      "h": "99cb86046447b4c0f34f",
+      "first_seen_at": "2026-07-29T00:55:27.961Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Soleiman",
+      "athlete_last": "P.",
+      "name": "Run #103 14Km-Combo practices",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 14037.5,
+      "moving_time_s": 4604,
+      "elapsed_time_s": 5211,
+      "elevation_m": 8
     }
   },
-  "last_synced_at": "2026-07-29T00:50:36.791Z",
+  "last_synced_at": "2026-07-29T00:55:27.961Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
