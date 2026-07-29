@@ -303435,9 +303435,37 @@
       "moving_time_s": 236,
       "elapsed_time_s": 466,
       "elevation_m": 4.5
+    },
+    "91d921b0819e78958e5a": {
+      "h": "91d921b0819e78958e5a",
+      "first_seen_at": "2026-07-29T09:50:35.101Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Kevin",
+      "athlete_last": "S.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8036.1,
+      "moving_time_s": 3144,
+      "elapsed_time_s": 3182,
+      "elevation_m": 2
+    },
+    "f0de56f880157f827de4": {
+      "h": "f0de56f880157f827de4",
+      "first_seen_at": "2026-07-29T09:50:35.101Z",
+      "week_key": "2026-W31",
+      "athlete_first": "R.M.",
+      "athlete_last": "R.",
+      "name": "Lari Trail Petang",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 5876.7,
+      "moving_time_s": 3996,
+      "elapsed_time_s": 4027,
+      "elevation_m": 103.2
     }
   },
-  "last_synced_at": "2026-07-29T09:45:38.422Z",
+  "last_synced_at": "2026-07-29T09:50:35.101Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
