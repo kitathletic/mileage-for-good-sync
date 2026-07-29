@@ -304345,9 +304345,37 @@
       "moving_time_s": 4309,
       "elapsed_time_s": 4341,
       "elevation_m": 17.1
+    },
+    "b356c7e95f6db0d82da6": {
+      "h": "b356c7e95f6db0d82da6",
+      "first_seen_at": "2026-07-29T14:15:38.792Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Refabbia",
+      "athlete_last": "S.",
+      "name": "Night Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1039.7,
+      "moving_time_s": 873,
+      "elapsed_time_s": 873,
+      "elevation_m": 0
+    },
+    "a34e8c8572813699a2a1": {
+      "h": "a34e8c8572813699a2a1",
+      "first_seen_at": "2026-07-29T14:15:38.792Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Joshua",
+      "athlete_last": "Y.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6102,
+      "moving_time_s": 2446,
+      "elapsed_time_s": 2447,
+      "elevation_m": 20
     }
   },
-  "last_synced_at": "2026-07-29T14:10:47.142Z",
+  "last_synced_at": "2026-07-29T14:15:38.792Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
