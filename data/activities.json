@@ -303197,9 +303197,37 @@
       "moving_time_s": 2492,
       "elapsed_time_s": 3082,
       "elevation_m": 2
+    },
+    "296564f7ace565b7fd46": {
+      "h": "296564f7ace565b7fd46",
+      "first_seen_at": "2026-07-29T02:20:33.019Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Ghani",
+      "athlete_last": "W.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10055.1,
+      "moving_time_s": 4007,
+      "elapsed_time_s": 4160,
+      "elevation_m": 30
+    },
+    "d31b4d5e84f4fc59c9ab": {
+      "h": "d31b4d5e84f4fc59c9ab",
+      "first_seen_at": "2026-07-29T02:20:33.019Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Nanditya",
+      "athlete_last": "N.",
+      "name": "Interval 3minx6",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11273.3,
+      "moving_time_s": 3690,
+      "elapsed_time_s": 3708,
+      "elevation_m": 112
     }
   },
-  "last_synced_at": "2026-07-29T02:15:34.064Z",
+  "last_synced_at": "2026-07-29T02:20:33.019Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
