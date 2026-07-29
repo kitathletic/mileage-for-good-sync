@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-07-29T13:50:36.243Z",
+  "generated_at": "2026-07-29T13:55:38.067Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
-    "member_count": 590,
+    "member_count": 591,
     "url": "kitathletic"
   },
   "units": "km",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 196038.22,
-    "activities": 21667,
-    "moving_time_s": 81647228,
-    "elevation_m": 1101146
+    "distance": 196046.23,
+    "activities": 21668,
+    "moving_time_s": 81650942,
+    "elevation_m": 1101152
   },
   "rows": [
     {
@@ -1356,12 +1356,20 @@
       "rank": 166
     },
     {
+      "name": "Revli P.",
+      "activities": 64,
+      "distance": 441.07,
+      "moving_time_s": 210511,
+      "elevation_m": 552,
+      "rank": 167
+    },
+    {
       "name": "Suryanto F.",
       "activities": 51,
       "distance": 440.16,
       "moving_time_s": 178918,
       "elevation_m": 690,
-      "rank": 167
+      "rank": 168
     },
     {
       "name": "Tiffani S.",
@@ -1369,7 +1377,7 @@
       "distance": 436.18,
       "moving_time_s": 187913,
       "elevation_m": 1000,
-      "rank": 168
+      "rank": 169
     },
     {
       "name": "Rizky Alfian A.",
@@ -1377,7 +1385,7 @@
       "distance": 435.44,
       "moving_time_s": 178479,
       "elevation_m": 348,
-      "rank": 169
+      "rank": 170
     },
     {
       "name": "Teuku U.",
@@ -1385,14 +1393,6 @@
       "distance": 434.05,
       "moving_time_s": 156035,
       "elevation_m": 1232,
-      "rank": 170
-    },
-    {
-      "name": "Revli P.",
-      "activities": 63,
-      "distance": 433.06,
-      "moving_time_s": 206797,
-      "elevation_m": 546,
       "rank": 171
     },
     {
