@@ -303589,9 +303589,37 @@
       "moving_time_s": 1794,
       "elapsed_time_s": 4098,
       "elevation_m": 27
+    },
+    "b984d7292d8eb838c2c6": {
+      "h": "b984d7292d8eb838c2c6",
+      "first_seen_at": "2026-07-29T10:20:45.427Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Sandy",
+      "athlete_last": "S.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5220,
+      "moving_time_s": 2067,
+      "elapsed_time_s": 2067,
+      "elevation_m": 0
+    },
+    "f43a31e9a9d3f9b925f3": {
+      "h": "f43a31e9a9d3f9b925f3",
+      "first_seen_at": "2026-07-29T10:20:45.427Z",
+      "week_key": "2026-W31",
+      "athlete_first": "ROLLAN",
+      "athlete_last": "L.",
+      "name": "Berlari Sore",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5049.6,
+      "moving_time_s": 2219,
+      "elapsed_time_s": 2226,
+      "elevation_m": 4
     }
   },
-  "last_synced_at": "2026-07-29T10:15:40.024Z",
+  "last_synced_at": "2026-07-29T10:20:45.427Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
