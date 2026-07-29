@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T10:10:34.882Z",
+  "generated_at": "2026-07-29T10:15:40.024Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 195622.48,
-    "activities": 21611,
-    "moving_time_s": 81490534,
-    "elevation_m": 1100020
+    "distance": 195639.77,
+    "activities": 21615,
+    "moving_time_s": 81496193,
+    "elevation_m": 1100136
   },
   "rows": [
     {
@@ -85,10 +85,10 @@
     },
     {
       "name": "Handy C.",
-      "activities": 126,
-      "distance": 1635.46,
-      "moving_time_s": 614880,
-      "elevation_m": 18611,
+      "activities": 127,
+      "distance": 1641.52,
+      "moving_time_s": 616674,
+      "elevation_m": 18638,
       "rank": 8
     },
     {
@@ -428,19 +428,19 @@
       "rank": 50
     },
     {
+      "name": "Nayaka B.",
+      "activities": 147,
+      "distance": 917.37,
+      "moving_time_s": 304977,
+      "elevation_m": 3416,
+      "rank": 51
+    },
+    {
       "name": "Indra D.",
       "activities": 96,
       "distance": 915.44,
       "moving_time_s": 380242,
       "elevation_m": 6764,
-      "rank": 51
-    },
-    {
-      "name": "Nayaka B.",
-      "activities": 146,
-      "distance": 912.3,
-      "moving_time_s": 303150,
-      "elevation_m": 3407,
       "rank": 52
     },
     {
@@ -1324,12 +1324,20 @@
       "rank": 162
     },
     {
+      "name": "Devina C.",
+      "activities": 36,
+      "distance": 443.28,
+      "moving_time_s": 198398,
+      "elevation_m": 8863,
+      "rank": 163
+    },
+    {
       "name": "Re H.",
       "activities": 46,
       "distance": 441.86,
       "moving_time_s": 195558,
       "elevation_m": 912,
-      "rank": 163
+      "rank": 164
     },
     {
       "name": "Muhammad H.",
@@ -1337,14 +1345,6 @@
       "distance": 441.76,
       "moving_time_s": 190124,
       "elevation_m": 749,
-      "rank": 164
-    },
-    {
-      "name": "Devina C.",
-      "activities": 35,
-      "distance": 437.12,
-      "moving_time_s": 196363,
-      "elevation_m": 8783,
       "rank": 165
     },
     {
@@ -3309,9 +3309,9 @@
     },
     {
       "name": "Muhammad Rizki A.",
-      "activities": 4,
+      "activities": 5,
       "distance": 52.87,
-      "moving_time_s": 22771,
+      "moving_time_s": 22774,
       "elevation_m": 82,
       "rank": 411
     },
