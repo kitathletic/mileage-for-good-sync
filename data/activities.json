@@ -302959,9 +302959,51 @@
       "moving_time_s": 4427,
       "elapsed_time_s": 5086,
       "elevation_m": 16
+    },
+    "6779ccf02e21890dbef3": {
+      "h": "6779ccf02e21890dbef3",
+      "first_seen_at": "2026-07-29T01:10:33.852Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Faris",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 13769.2,
+      "moving_time_s": 5063,
+      "elapsed_time_s": 5101,
+      "elevation_m": 51.1
+    },
+    "afe846373e17e57ad933": {
+      "h": "afe846373e17e57ad933",
+      "first_seen_at": "2026-07-29T01:10:33.852Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Michael",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 13012.2,
+      "moving_time_s": 6137,
+      "elapsed_time_s": 6255,
+      "elevation_m": 29
+    },
+    "ddfddc6cde606f9933ec": {
+      "h": "ddfddc6cde606f9933ec",
+      "first_seen_at": "2026-07-29T01:10:33.852Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Asen",
+      "athlete_last": "..",
+      "name": "2026-07-29 10K with Acceleration",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10213.3,
+      "moving_time_s": 3123,
+      "elapsed_time_s": 3123,
+      "elevation_m": 9
     }
   },
-  "last_synced_at": "2026-07-29T01:05:29.235Z",
+  "last_synced_at": "2026-07-29T01:10:33.852Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
