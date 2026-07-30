@@ -306333,9 +306333,37 @@
       "moving_time_s": 1759,
       "elapsed_time_s": 1959,
       "elevation_m": 34
+    },
+    "79aec7c1cb815455e283": {
+      "h": "79aec7c1cb815455e283",
+      "first_seen_at": "2026-07-30T02:05:26.948Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Denny",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6951.3,
+      "moving_time_s": 2131,
+      "elapsed_time_s": 2636,
+      "elevation_m": 0
+    },
+    "f1f258bf8129416cff89": {
+      "h": "f1f258bf8129416cff89",
+      "first_seen_at": "2026-07-30T02:05:26.948Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Kevin",
+      "athlete_last": "T.",
+      "name": "Afternoon Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 7860.8,
+      "moving_time_s": 2526,
+      "elapsed_time_s": 2526,
+      "elevation_m": 154
     }
   },
-  "last_synced_at": "2026-07-30T02:00:48.417Z",
+  "last_synced_at": "2026-07-30T02:05:26.948Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
