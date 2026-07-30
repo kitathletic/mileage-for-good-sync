@@ -307005,9 +307005,37 @@
       "moving_time_s": 242,
       "elapsed_time_s": 251,
       "elevation_m": 0
+    },
+    "d4f549770932d87065a9": {
+      "h": "d4f549770932d87065a9",
+      "first_seen_at": "2026-07-30T11:35:37.899Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Alfin",
+      "athlete_last": "F.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5005.2,
+      "moving_time_s": 1937,
+      "elapsed_time_s": 1941,
+      "elevation_m": 10
+    },
+    "53f8be84a1e8383f2c60": {
+      "h": "53f8be84a1e8383f2c60",
+      "first_seen_at": "2026-07-30T11:35:37.899Z",
+      "week_key": "2026-W31",
+      "athlete_first": "William",
+      "athlete_last": "A.",
+      "name": "Easy @USU",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7471.6,
+      "moving_time_s": 3416,
+      "elapsed_time_s": 3465,
+      "elevation_m": 5
     }
   },
-  "last_synced_at": "2026-07-30T11:30:46.256Z",
+  "last_synced_at": "2026-07-30T11:35:37.899Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
