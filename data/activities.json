@@ -306823,9 +306823,37 @@
       "moving_time_s": 2400,
       "elapsed_time_s": 2412,
       "elevation_m": 41.2
+    },
+    "8afbb85335b1ca600544": {
+      "h": "8afbb85335b1ca600544",
+      "first_seen_at": "2026-07-30T10:45:40.143Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Pandi",
+      "athlete_last": "W.",
+      "name": "GPS Trail berjalan",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 12480,
+      "moving_time_s": 1250,
+      "elapsed_time_s": 1261,
+      "elevation_m": 246.1
+    },
+    "bbc67c2ed5050fa1fedf": {
+      "h": "bbc67c2ed5050fa1fedf",
+      "first_seen_at": "2026-07-30T10:45:40.143Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Fikhriya",
+      "athlete_last": "A.",
+      "name": "NyekaRun",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5109.9,
+      "moving_time_s": 1577,
+      "elapsed_time_s": 2431,
+      "elevation_m": 14.6
     }
   },
-  "last_synced_at": "2026-07-30T10:40:34.441Z",
+  "last_synced_at": "2026-07-30T10:45:40.143Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
