@@ -309525,9 +309525,37 @@
       "moving_time_s": 1932,
       "elapsed_time_s": 1940,
       "elevation_m": 6
+    },
+    "70a2238fd380bc8e4aa9": {
+      "h": "70a2238fd380bc8e4aa9",
+      "first_seen_at": "2026-07-31T11:20:36.616Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Silviany",
+      "athlete_last": "S.",
+      "name": "Rolling 300s",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3145.8,
+      "moving_time_s": 1820,
+      "elapsed_time_s": 1842,
+      "elevation_m": 0
+    },
+    "3bbfdb80c1861ed79b67": {
+      "h": "3bbfdb80c1861ed79b67",
+      "first_seen_at": "2026-07-31T11:20:36.616Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Ardian",
+      "athlete_last": "T.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10110.5,
+      "moving_time_s": 3868,
+      "elapsed_time_s": 5109,
+      "elevation_m": 138
     }
   },
-  "last_synced_at": "2026-07-31T11:15:27.273Z",
+  "last_synced_at": "2026-07-31T11:20:36.616Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
