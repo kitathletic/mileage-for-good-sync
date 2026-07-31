@@ -309945,9 +309945,37 @@
       "moving_time_s": 349,
       "elapsed_time_s": 349,
       "elevation_m": 0
+    },
+    "4b85e105c76ce8cd13fd": {
+      "h": "4b85e105c76ce8cd13fd",
+      "first_seen_at": "2026-07-31T13:55:26.905Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Nadya",
+      "athlete_last": "R.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6162.3,
+      "moving_time_s": 2632,
+      "elapsed_time_s": 2750,
+      "elevation_m": 14.9
+    },
+    "bd8d7accfcb8c946c2a1": {
+      "h": "bd8d7accfcb8c946c2a1",
+      "first_seen_at": "2026-07-31T13:55:26.905Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Tommy Reagan [Aki TR]",
+      "athlete_last": "⭕.",
+      "name": "Benteng Night Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6211.3,
+      "moving_time_s": 2499,
+      "elapsed_time_s": 2920,
+      "elevation_m": 1
     }
   },
-  "last_synced_at": "2026-07-31T13:50:45.429Z",
+  "last_synced_at": "2026-07-31T13:55:26.905Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
