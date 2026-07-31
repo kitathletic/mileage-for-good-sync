@@ -309035,9 +309035,37 @@
       "moving_time_s": 1808,
       "elapsed_time_s": 1892,
       "elevation_m": 59
+    },
+    "ec975934a774dc6768c9": {
+      "h": "ec975934a774dc6768c9",
+      "first_seen_at": "2026-07-31T01:55:30.389Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Irwan Sastra",
+      "athlete_last": "W.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5004.8,
+      "moving_time_s": 1818,
+      "elapsed_time_s": 1824,
+      "elevation_m": 5
+    },
+    "6d6536bea2764b3c0b49": {
+      "h": "6d6536bea2764b3c0b49",
+      "first_seen_at": "2026-07-31T01:55:30.389Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Rizky",
+      "athlete_last": "F.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12340,
+      "moving_time_s": 4409,
+      "elapsed_time_s": 4409,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-07-31T01:50:36.354Z",
+  "last_synced_at": "2026-07-31T01:55:30.389Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
