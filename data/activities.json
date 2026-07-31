@@ -309399,9 +309399,37 @@
       "moving_time_s": 1612,
       "elapsed_time_s": 1765,
       "elevation_m": 13
+    },
+    "193cca6f06e9de06a3b3": {
+      "h": "193cca6f06e9de06a3b3",
+      "first_seen_at": "2026-07-31T09:45:42.759Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Febio",
+      "athlete_last": "S.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8739,
+      "moving_time_s": 3600,
+      "elapsed_time_s": 3623,
+      "elevation_m": 17
+    },
+    "26f15dec36b730f91972": {
+      "h": "26f15dec36b730f91972",
+      "first_seen_at": "2026-07-31T09:45:42.759Z",
+      "week_key": "2026-W31",
+      "athlete_first": "ROLLAN",
+      "athlete_last": "L.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5049.4,
+      "moving_time_s": 2225,
+      "elapsed_time_s": 2225,
+      "elevation_m": 1
     }
   },
-  "last_synced_at": "2026-07-31T09:40:33.807Z",
+  "last_synced_at": "2026-07-31T09:45:42.759Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
