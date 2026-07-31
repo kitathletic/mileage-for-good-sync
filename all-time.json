@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T23:51:11.729Z",
+  "generated_at": "2026-07-31T23:55:35.987Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 199598.71,
-    "activities": 22125,
-    "moving_time_s": 83049018,
-    "elevation_m": 1115986
+    "distance": 199617.87,
+    "activities": 22128,
+    "moving_time_s": 83057280,
+    "elevation_m": 1116172
   },
   "rows": [
     {
@@ -180,19 +180,19 @@
       "rank": 19
     },
     {
+      "name": "Wah E.",
+      "activities": 124,
+      "distance": 1310.05,
+      "moving_time_s": 548775,
+      "elevation_m": 5862,
+      "rank": 20
+    },
+    {
       "name": "Irvan C.",
       "activities": 66,
       "distance": 1300.58,
       "moving_time_s": 711653,
       "elevation_m": 15993,
-      "rank": 20
-    },
-    {
-      "name": "Wah E.",
-      "activities": 123,
-      "distance": 1300.03,
-      "moving_time_s": 544928,
-      "elevation_m": 5775,
       "rank": 21
     },
     {
@@ -484,12 +484,20 @@
       "rank": 57
     },
     {
+      "name": "Rafly K.",
+      "activities": 100,
+      "distance": 888.52,
+      "moving_time_s": 443239,
+      "elevation_m": 2073,
+      "rank": 58
+    },
+    {
       "name": "Indra Z.",
       "activities": 83,
       "distance": 883.27,
       "moving_time_s": 316396,
       "elevation_m": 1269,
-      "rank": 58
+      "rank": 59
     },
     {
       "name": "Peter Nichlas S.",
@@ -497,14 +505,6 @@
       "distance": 882.8,
       "moving_time_s": 310230,
       "elevation_m": 10829,
-      "rank": 59
-    },
-    {
-      "name": "Rafly K.",
-      "activities": 99,
-      "distance": 881,
-      "moving_time_s": 439168,
-      "elevation_m": 1974,
       "rank": 60
     },
     {
@@ -557,9 +557,9 @@
     },
     {
       "name": "Alfian N.",
-      "activities": 90,
-      "distance": 835.16,
-      "moving_time_s": 290547,
+      "activities": 91,
+      "distance": 836.78,
+      "moving_time_s": 290891,
       "elevation_m": 1516,
       "rank": 67
     },
