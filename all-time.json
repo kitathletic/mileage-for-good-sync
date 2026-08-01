@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T11:25:28.145Z",
+  "generated_at": "2026-08-01T11:30:46.719Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 201771.28,
-    "activities": 22307,
-    "moving_time_s": 83976206,
-    "elevation_m": 1129523
+    "distance": 201784.33,
+    "activities": 22309,
+    "moving_time_s": 83981106,
+    "elevation_m": 1129614
   },
   "rows": [
     {
@@ -444,19 +444,19 @@
       "rank": 52
     },
     {
+      "name": "Nayaka B.",
+      "activities": 149,
+      "distance": 923.74,
+      "moving_time_s": 307006,
+      "elevation_m": 3441,
+      "rank": 53
+    },
+    {
       "name": "Rama E.",
       "activities": 58,
       "distance": 923.34,
       "moving_time_s": 402883,
       "elevation_m": 7566,
-      "rank": 53
-    },
-    {
-      "name": "Nayaka B.",
-      "activities": 148,
-      "distance": 920.69,
-      "moving_time_s": 306094,
-      "elevation_m": 3429,
       "rank": 54
     },
     {
@@ -1492,12 +1492,20 @@
       "rank": 183
     },
     {
+      "name": "Anasyusuf A.",
+      "activities": 56,
+      "distance": 402.99,
+      "moving_time_s": 162265,
+      "elevation_m": 3400,
+      "rank": 184
+    },
+    {
       "name": "ROLLAN L.",
       "activities": 45,
       "distance": 401.62,
       "moving_time_s": 175220,
       "elevation_m": 929,
-      "rank": 184
+      "rank": 185
     },
     {
       "name": "Iskandar L.",
@@ -1505,7 +1513,7 @@
       "distance": 401.38,
       "moving_time_s": 174571,
       "elevation_m": 1853,
-      "rank": 185
+      "rank": 186
     },
     {
       "name": "Adystra B.",
@@ -1513,7 +1521,7 @@
       "distance": 398.1,
       "moving_time_s": 163601,
       "elevation_m": 1328,
-      "rank": 186
+      "rank": 187
     },
     {
       "name": "Reni P.",
@@ -1521,7 +1529,7 @@
       "distance": 395.74,
       "moving_time_s": 190357,
       "elevation_m": 3162,
-      "rank": 187
+      "rank": 188
     },
     {
       "name": "Danis A.",
@@ -1529,7 +1537,7 @@
       "distance": 395.19,
       "moving_time_s": 156571,
       "elevation_m": 2429,
-      "rank": 188
+      "rank": 189
     },
     {
       "name": "Dinur Y.",
@@ -1537,14 +1545,6 @@
       "distance": 394.28,
       "moving_time_s": 181207,
       "elevation_m": 907,
-      "rank": 189
-    },
-    {
-      "name": "Anasyusuf A.",
-      "activities": 55,
-      "distance": 392.99,
-      "moving_time_s": 158277,
-      "elevation_m": 3321,
       "rank": 190
     },
     {
