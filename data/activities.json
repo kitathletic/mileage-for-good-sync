@@ -313333,9 +313333,37 @@
       "moving_time_s": 2131,
       "elapsed_time_s": 5961,
       "elevation_m": 6
+    },
+    "12d8fe75fecef0977c56": {
+      "h": "12d8fe75fecef0977c56",
+      "first_seen_at": "2026-08-01T12:55:30.301Z",
+      "week_key": "2026-W31",
+      "athlete_first": "hendra",
+      "athlete_last": "K.",
+      "name": "recovery run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5023.5,
+      "moving_time_s": 2669,
+      "elapsed_time_s": 2680,
+      "elevation_m": 57.6
+    },
+    "e558e19a6dc6e3f5022a": {
+      "h": "e558e19a6dc6e3f5022a",
+      "first_seen_at": "2026-08-01T12:55:30.301Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Theo",
+      "athlete_last": "N.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10011.2,
+      "moving_time_s": 3826,
+      "elapsed_time_s": 3836,
+      "elevation_m": 93
     }
   },
-  "last_synced_at": "2026-08-01T12:51:06.921Z",
+  "last_synced_at": "2026-08-01T12:55:30.301Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
