@@ -317547,9 +317547,37 @@
       "moving_time_s": 2761,
       "elapsed_time_s": 2767,
       "elevation_m": 182
+    },
+    "1c06b1efa142c7318909": {
+      "h": "1c06b1efa142c7318909",
+      "first_seen_at": "2026-08-02T10:10:39.218Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Justin",
+      "athlete_last": "P.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5042.6,
+      "moving_time_s": 2148,
+      "elapsed_time_s": 2148,
+      "elevation_m": 7
+    },
+    "ebcd0c477f6d1cb477ef": {
+      "h": "ebcd0c477f6d1cb477ef",
+      "first_seen_at": "2026-08-02T10:10:39.218Z",
+      "week_key": "2026-W31",
+      "athlete_first": "Depri Maulana",
+      "athlete_last": "M.",
+      "name": "Berlari Sore",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11433.7,
+      "moving_time_s": 4269,
+      "elapsed_time_s": 5066,
+      "elevation_m": 36.5
     }
   },
-  "last_synced_at": "2026-08-02T10:05:29.647Z",
+  "last_synced_at": "2026-08-02T10:10:39.218Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
