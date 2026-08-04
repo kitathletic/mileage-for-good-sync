@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T10:20:36.504Z",
+  "generated_at": "2026-08-04T10:25:32.840Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 207687.91,
-    "activities": 22938,
-    "moving_time_s": 86422053,
-    "elevation_m": 1167704
+    "distance": 207701.42,
+    "activities": 22941,
+    "moving_time_s": 86427116,
+    "elevation_m": 1167760
   },
   "rows": [
     {
@@ -396,19 +396,19 @@
       "rank": 46
     },
     {
+      "name": "dani S.",
+      "activities": 103,
+      "distance": 988.88,
+      "moving_time_s": 383837,
+      "elevation_m": 6110,
+      "rank": 47
+    },
+    {
       "name": "Diah I.",
       "activities": 66,
       "distance": 984.8,
       "moving_time_s": 381250,
       "elevation_m": 4172,
-      "rank": 47
-    },
-    {
-      "name": "dani S.",
-      "activities": 102,
-      "distance": 980.86,
-      "moving_time_s": 381111,
-      "elevation_m": 6067,
       "rank": 48
     },
     {
@@ -2724,12 +2724,20 @@
       "rank": 337
     },
     {
+      "name": "Avrino A.",
+      "activities": 16,
+      "distance": 158.43,
+      "moving_time_s": 67245,
+      "elevation_m": 429,
+      "rank": 338
+    },
+    {
       "name": "Zapro Z.",
       "activities": 16,
       "distance": 158.07,
       "moving_time_s": 65488,
       "elevation_m": 223,
-      "rank": 338
+      "rank": 339
     },
     {
       "name": "Brandon S.",
@@ -2737,7 +2745,7 @@
       "distance": 155.49,
       "moving_time_s": 63134,
       "elevation_m": 469,
-      "rank": 339
+      "rank": 340
     },
     {
       "name": "Nyabang G.",
@@ -2745,14 +2753,6 @@
       "distance": 153.5,
       "moving_time_s": 57126,
       "elevation_m": 1977,
-      "rank": 340
-    },
-    {
-      "name": "Avrino A.",
-      "activities": 15,
-      "distance": 153.34,
-      "moving_time_s": 65013,
-      "elevation_m": 418,
       "rank": 341
     },
     {
@@ -3309,10 +3309,10 @@
     },
     {
       "name": "Putra I.",
-      "activities": 15,
-      "distance": 59.09,
-      "moving_time_s": 26825,
-      "elevation_m": 618,
+      "activities": 16,
+      "distance": 59.49,
+      "moving_time_s": 26930,
+      "elevation_m": 620,
       "rank": 411
     },
     {

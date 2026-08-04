@@ -322111,9 +322111,51 @@
       "moving_time_s": 104,
       "elapsed_time_s": 104,
       "elevation_m": 1
+    },
+    "3a45e754439c7e1f3943": {
+      "h": "3a45e754439c7e1f3943",
+      "first_seen_at": "2026-08-04T10:25:32.840Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Putra",
+      "athlete_last": "I.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 401.3,
+      "moving_time_s": 105,
+      "elapsed_time_s": 105,
+      "elevation_m": 2
+    },
+    "10f3c6c607e03d1fd005": {
+      "h": "10f3c6c607e03d1fd005",
+      "first_seen_at": "2026-08-04T10:25:32.840Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Avrino",
+      "athlete_last": "A.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5088.4,
+      "moving_time_s": 2232,
+      "elapsed_time_s": 2635,
+      "elevation_m": 11
+    },
+    "fd46cc3660678210d5c3": {
+      "h": "fd46cc3660678210d5c3",
+      "first_seen_at": "2026-08-04T10:25:32.840Z",
+      "week_key": "2026-W32",
+      "athlete_first": "dani",
+      "athlete_last": "S.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8020,
+      "moving_time_s": 2726,
+      "elapsed_time_s": 2726,
+      "elevation_m": 43
     }
   },
-  "last_synced_at": "2026-08-04T10:20:36.504Z",
+  "last_synced_at": "2026-08-04T10:25:32.840Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
