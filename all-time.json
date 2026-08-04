@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T11:15:38.829Z",
+  "generated_at": "2026-08-04T11:20:37.174Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 207792.91,
-    "activities": 22955,
-    "moving_time_s": 86462652,
-    "elevation_m": 1168039
+    "distance": 207820.3,
+    "activities": 22957,
+    "moving_time_s": 86475458,
+    "elevation_m": 1168145
   },
   "rows": [
     {
@@ -44,19 +44,19 @@
       "rank": 2
     },
     {
+      "name": "Evan B.",
+      "activities": 57,
+      "distance": 2169.07,
+      "moving_time_s": 999484,
+      "elevation_m": 11084,
+      "rank": 3
+    },
+    {
       "name": "Prana R.",
       "activities": 218,
       "distance": 2162.08,
       "moving_time_s": 963326,
       "elevation_m": 46356,
-      "rank": 3
-    },
-    {
-      "name": "Evan B.",
-      "activities": 56,
-      "distance": 2149.17,
-      "moving_time_s": 990276,
-      "elevation_m": 10982,
       "rank": 4
     },
     {
@@ -1588,12 +1588,20 @@
       "rank": 195
     },
     {
+      "name": "Ichsan R.",
+      "activities": 58,
+      "distance": 396.79,
+      "moving_time_s": 189447,
+      "elevation_m": 691,
+      "rank": 196
+    },
+    {
       "name": "Steffiani R.",
       "activities": 59,
       "distance": 393.54,
       "moving_time_s": 165141,
       "elevation_m": 592,
-      "rank": 196
+      "rank": 197
     },
     {
       "name": "Revi P.",
@@ -1601,7 +1609,7 @@
       "distance": 392.19,
       "moving_time_s": 206232,
       "elevation_m": 193,
-      "rank": 197
+      "rank": 198
     },
     {
       "name": "Muhammad I.",
@@ -1609,7 +1617,7 @@
       "distance": 390.9,
       "moving_time_s": 155378,
       "elevation_m": 4177,
-      "rank": 198
+      "rank": 199
     },
     {
       "name": "Vincent V.",
@@ -1617,7 +1625,7 @@
       "distance": 390.23,
       "moving_time_s": 157048,
       "elevation_m": 381,
-      "rank": 199
+      "rank": 200
     },
     {
       "name": "Yazid I.",
@@ -1625,14 +1633,6 @@
       "distance": 389.46,
       "moving_time_s": 236817,
       "elevation_m": 2317,
-      "rank": 200
-    },
-    {
-      "name": "Ichsan R.",
-      "activities": 57,
-      "distance": 389.3,
-      "moving_time_s": 185849,
-      "elevation_m": 687,
       "rank": 201
     },
     {
