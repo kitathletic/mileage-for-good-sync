@@ -322377,9 +322377,37 @@
       "moving_time_s": 9208,
       "elapsed_time_s": 17271,
       "elevation_m": 102
+    },
+    "ab8510538746594b3a8c": {
+      "h": "ab8510538746594b3a8c",
+      "first_seen_at": "2026-08-04T11:25:33.877Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Annisa",
+      "athlete_last": "C.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3674.5,
+      "moving_time_s": 1488,
+      "elapsed_time_s": 1488,
+      "elevation_m": 0
+    },
+    "3516d89203b68186e69e": {
+      "h": "3516d89203b68186e69e",
+      "first_seen_at": "2026-08-04T11:25:33.877Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Leandro",
+      "athlete_last": "T.",
+      "name": "7k Easy",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7266.6,
+      "moving_time_s": 3202,
+      "elapsed_time_s": 3426,
+      "elevation_m": 61
     }
   },
-  "last_synced_at": "2026-08-04T11:20:37.174Z",
+  "last_synced_at": "2026-08-04T11:25:33.877Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
