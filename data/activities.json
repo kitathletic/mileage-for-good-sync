@@ -326493,9 +326493,37 @@
       "moving_time_s": 3518,
       "elapsed_time_s": 3518,
       "elevation_m": 37
+    },
+    "d34b55f5c9525e22b620": {
+      "h": "d34b55f5c9525e22b620",
+      "first_seen_at": "2026-08-05T14:30:52.986Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Hanif",
+      "athlete_last": "R.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 14201.7,
+      "moving_time_s": 4836,
+      "elapsed_time_s": 4836,
+      "elevation_m": 17
+    },
+    "c9ec5a9269ca52a59dc5": {
+      "h": "c9ec5a9269ca52a59dc5",
+      "first_seen_at": "2026-08-05T14:30:52.986Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Zad",
+      "athlete_last": "K.",
+      "name": "🏀 night",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6069.4,
+      "moving_time_s": 5923,
+      "elapsed_time_s": 10710,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-08-05T14:25:29.417Z",
+  "last_synced_at": "2026-08-05T14:30:52.986Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
