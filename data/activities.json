@@ -326549,9 +326549,37 @@
       "moving_time_s": 4836,
       "elapsed_time_s": 4836,
       "elevation_m": 17
+    },
+    "082bea159341b27ff5ce": {
+      "h": "082bea159341b27ff5ce",
+      "first_seen_at": "2026-08-05T14:50:43.482Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Avniel",
+      "athlete_last": "L.",
+      "name": "Night Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5022.3,
+      "moving_time_s": 1764,
+      "elapsed_time_s": 1764,
+      "elevation_m": 9
+    },
+    "bc5df1912f4a0d18df7d": {
+      "h": "bc5df1912f4a0d18df7d",
+      "first_seen_at": "2026-08-05T14:50:43.482Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Tanvir",
+      "athlete_last": "S.",
+      "name": "August 200k Challenge",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10111.2,
+      "moving_time_s": 4943,
+      "elapsed_time_s": 5316,
+      "elevation_m": 6
     }
   },
-  "last_synced_at": "2026-08-05T14:45:42.497Z",
+  "last_synced_at": "2026-08-05T14:50:43.482Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
