@@ -329755,9 +329755,37 @@
       "moving_time_s": 5340,
       "elapsed_time_s": 5384,
       "elevation_m": 171
+    },
+    "9d03e4e82880f6582644": {
+      "h": "9d03e4e82880f6582644",
+      "first_seen_at": "2026-08-06T22:50:33.538Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Alit",
+      "athlete_last": "D.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3126.4,
+      "moving_time_s": 1453,
+      "elapsed_time_s": 1457,
+      "elevation_m": 8
+    },
+    "df9a55daa744fbc5fdc9": {
+      "h": "df9a55daa744fbc5fdc9",
+      "first_seen_at": "2026-08-06T22:50:33.538Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Andreas",
+      "athlete_last": "T.",
+      "name": "Hoka x Stylerunner run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2674.4,
+      "moving_time_s": 1065,
+      "elapsed_time_s": 1131,
+      "elevation_m": 14
     }
   },
-  "last_synced_at": "2026-08-06T22:45:32.882Z",
+  "last_synced_at": "2026-08-06T22:50:33.538Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
