@@ -332275,9 +332275,65 @@
       "moving_time_s": 8345,
       "elapsed_time_s": 8356,
       "elevation_m": 56
+    },
+    "0db5ed29ec15abd759cf": {
+      "h": "0db5ed29ec15abd759cf",
+      "first_seen_at": "2026-08-07T23:10:42.558Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Rizky",
+      "athlete_last": "F.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12341,
+      "moving_time_s": 5326,
+      "elapsed_time_s": 6685,
+      "elevation_m": 25
+    },
+    "925b9d28a19955a4cc46": {
+      "h": "925b9d28a19955a4cc46",
+      "first_seen_at": "2026-08-07T23:10:42.558Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Zad",
+      "athlete_last": "K.",
+      "name": "Last Long Run before tappering w/Negative split",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 25015.4,
+      "moving_time_s": 8345,
+      "elapsed_time_s": 8356,
+      "elevation_m": 56
+    },
+    "59905c8cabd6165f984b": {
+      "h": "59905c8cabd6165f984b",
+      "first_seen_at": "2026-08-07T23:10:42.558Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Yudha",
+      "athlete_last": "A.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11610.6,
+      "moving_time_s": 5032,
+      "elapsed_time_s": 7320,
+      "elevation_m": 221
+    },
+    "d1756953d65c5c675478": {
+      "h": "d1756953d65c5c675478",
+      "first_seen_at": "2026-08-07T23:10:42.558Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Edy",
+      "athlete_last": "C.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8883.7,
+      "moving_time_s": 3500,
+      "elapsed_time_s": 4267,
+      "elevation_m": 185
     }
   },
-  "last_synced_at": "2026-08-07T23:05:37.952Z",
+  "last_synced_at": "2026-08-07T23:10:42.558Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
