@@ -332121,9 +332121,51 @@
       "moving_time_s": 1492,
       "elapsed_time_s": 1506,
       "elevation_m": 6
+    },
+    "b996ae9f785accb9a19c": {
+      "h": "b996ae9f785accb9a19c",
+      "first_seen_at": "2026-08-07T20:15:35.162Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Hendri",
+      "athlete_last": "S.",
+      "name": "Cooldown",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2003,
+      "moving_time_s": 1492,
+      "elapsed_time_s": 1506,
+      "elevation_m": 6
+    },
+    "dea03e8badf0484f018c": {
+      "h": "dea03e8badf0484f018c",
+      "first_seen_at": "2026-08-07T20:15:35.162Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Hendri",
+      "athlete_last": "S.",
+      "name": "Weekdays Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5005.6,
+      "moving_time_s": 2558,
+      "elapsed_time_s": 4111,
+      "elevation_m": 7
+    },
+    "750eacb65c056e2c75ca": {
+      "h": "750eacb65c056e2c75ca",
+      "first_seen_at": "2026-08-07T20:15:35.162Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Hendri",
+      "athlete_last": "S.",
+      "name": "Warmup",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3005.6,
+      "moving_time_s": 1412,
+      "elapsed_time_s": 1412,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-08-07T20:10:37.023Z",
+  "last_synced_at": "2026-08-07T20:15:35.162Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
