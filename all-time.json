@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T12:05:30.679Z",
+  "generated_at": "2026-08-07T12:10:39.099Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 212837.7,
-    "activities": 23632,
-    "moving_time_s": 88504444,
-    "elevation_m": 1187347
+    "distance": 212846.99,
+    "activities": 23634,
+    "moving_time_s": 88508598,
+    "elevation_m": 1187352
   },
   "rows": [
     {
@@ -1564,12 +1564,20 @@
       "rank": 192
     },
     {
+      "name": "Ichsan R.",
+      "activities": 60,
+      "distance": 411.8,
+      "moving_time_s": 196017,
+      "elevation_m": 699,
+      "rank": 193
+    },
+    {
       "name": "Faat S.",
       "activities": 26,
       "distance": 409.77,
       "moving_time_s": 156694,
       "elevation_m": 2014,
-      "rank": 193
+      "rank": 194
     },
     {
       "name": "Reni P.",
@@ -1577,7 +1585,7 @@
       "distance": 409.74,
       "moving_time_s": 196319,
       "elevation_m": 3240,
-      "rank": 194
+      "rank": 195
     },
     {
       "name": "Yazid I.",
@@ -1585,7 +1593,7 @@
       "distance": 409.5,
       "moving_time_s": 247293,
       "elevation_m": 2334,
-      "rank": 195
+      "rank": 196
     },
     {
       "name": "Akbar M.",
@@ -1593,7 +1601,7 @@
       "distance": 409.18,
       "moving_time_s": 191770,
       "elevation_m": 3718,
-      "rank": 196
+      "rank": 197
     },
     {
       "name": "Chrisnadya P.",
@@ -1601,7 +1609,7 @@
       "distance": 408.83,
       "moving_time_s": 188376,
       "elevation_m": 1398,
-      "rank": 197
+      "rank": 198
     },
     {
       "name": "Levian R.",
@@ -1609,7 +1617,7 @@
       "distance": 405.63,
       "moving_time_s": 158305,
       "elevation_m": 809,
-      "rank": 198
+      "rank": 199
     },
     {
       "name": "Hilal H.",
@@ -1617,14 +1625,6 @@
       "distance": 403.13,
       "moving_time_s": 186808,
       "elevation_m": 947,
-      "rank": 199
-    },
-    {
-      "name": "Ichsan R.",
-      "activities": 59,
-      "distance": 402.8,
-      "moving_time_s": 191945,
-      "elevation_m": 694,
       "rank": 200
     },
     {
@@ -2245,9 +2245,9 @@
     },
     {
       "name": "Dhiwa S.",
-      "activities": 52,
-      "distance": 251.11,
-      "moving_time_s": 88575,
+      "activities": 53,
+      "distance": 251.4,
+      "moving_time_s": 88657,
       "elevation_m": 542,
       "rank": 278
     },
