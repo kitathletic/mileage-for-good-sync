@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T10:45:36.739Z",
+  "generated_at": "2026-08-08T10:50:36.235Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 10138.3,
-    "activities": 1208,
-    "moving_time_s": 4124306,
-    "elevation_m": 45340
+    "distance": 10139.69,
+    "activities": 1209,
+    "moving_time_s": 4125263,
+    "elevation_m": 45356
   },
   "rows": [
     {
@@ -434,12 +434,20 @@
       "rank": 51
     },
     {
+      "name": "Kevin T.",
+      "activities": 18,
+      "distance": 57.15,
+      "moving_time_s": 16434,
+      "elevation_m": 492,
+      "rank": 52
+    },
+    {
       "name": "Alieef P.",
       "activities": 5,
       "distance": 57.15,
       "moving_time_s": 22408,
       "elevation_m": 68,
-      "rank": 52
+      "rank": 53
     },
     {
       "name": "Ryan A.",
@@ -447,14 +455,6 @@
       "distance": 56.61,
       "moving_time_s": 22131,
       "elevation_m": 64,
-      "rank": 53
-    },
-    {
-      "name": "Kevin T.",
-      "activities": 17,
-      "distance": 55.76,
-      "moving_time_s": 15477,
-      "elevation_m": 476,
       "rank": 54
     },
     {
