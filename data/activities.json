@@ -335845,9 +335845,37 @@
       "moving_time_s": 6614,
       "elapsed_time_s": 6614,
       "elevation_m": 4
+    },
+    "8c82bb2192ebcbf592d4": {
+      "h": "8c82bb2192ebcbf592d4",
+      "first_seen_at": "2026-08-08T23:10:37.521Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Zad",
+      "athlete_last": "K.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3018,
+      "moving_time_s": 1265,
+      "elapsed_time_s": 1265,
+      "elevation_m": 12
+    },
+    "060fa60c091481259fc3": {
+      "h": "060fa60c091481259fc3",
+      "first_seen_at": "2026-08-08T23:10:37.521Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Andreas",
+      "athlete_last": "T.",
+      "name": "City2Surf 2026",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 13932.7,
+      "moving_time_s": 4500,
+      "elapsed_time_s": 4500,
+      "elevation_m": 208
     }
   },
-  "last_synced_at": "2026-08-08T23:05:29.062Z",
+  "last_synced_at": "2026-08-08T23:10:37.521Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
