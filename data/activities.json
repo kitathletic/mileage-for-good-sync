@@ -335243,9 +335243,37 @@
       "moving_time_s": 2464,
       "elapsed_time_s": 2693,
       "elevation_m": 15
+    },
+    "eb0ff57bf04fd7892df3": {
+      "h": "eb0ff57bf04fd7892df3",
+      "first_seen_at": "2026-08-08T11:55:30.066Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Rifqi",
+      "athlete_last": "M.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4004.5,
+      "moving_time_s": 2307,
+      "elapsed_time_s": 2691,
+      "elevation_m": 1
+    },
+    "75a4538efd434bb61b57": {
+      "h": "75a4538efd434bb61b57",
+      "first_seen_at": "2026-08-08T11:55:30.066Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Kevin",
+      "athlete_last": "T.",
+      "name": "Ocrwc “12”k",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 10227.4,
+      "moving_time_s": 2597,
+      "elapsed_time_s": 2778,
+      "elevation_m": 113
     }
   },
-  "last_synced_at": "2026-08-08T11:45:36.895Z",
+  "last_synced_at": "2026-08-08T11:55:30.066Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
