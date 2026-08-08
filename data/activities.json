@@ -335159,9 +335159,37 @@
       "moving_time_s": 957,
       "elapsed_time_s": 1023,
       "elevation_m": 16
+    },
+    "1223c5179c0b082b8636": {
+      "h": "1223c5179c0b082b8636",
+      "first_seen_at": "2026-08-08T11:00:52.409Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Aditya",
+      "athlete_last": "Y.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11408.4,
+      "moving_time_s": 3599,
+      "elapsed_time_s": 3599,
+      "elevation_m": 2
+    },
+    "c319e75f97347907458d": {
+      "h": "c319e75f97347907458d",
+      "first_seen_at": "2026-08-08T11:00:52.409Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Gisela",
+      "athlete_last": "C.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8008.5,
+      "moving_time_s": 3485,
+      "elapsed_time_s": 4064,
+      "elevation_m": 48
     }
   },
-  "last_synced_at": "2026-08-08T10:55:32.287Z",
+  "last_synced_at": "2026-08-08T11:00:52.409Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
