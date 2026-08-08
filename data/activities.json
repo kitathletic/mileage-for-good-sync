@@ -335425,9 +335425,37 @@
       "moving_time_s": 3726,
       "elapsed_time_s": 3828,
       "elevation_m": 35
+    },
+    "b43222466fb26be8b87e": {
+      "h": "b43222466fb26be8b87e",
+      "first_seen_at": "2026-08-08T13:15:35.450Z",
+      "week_key": "2026-W32",
+      "athlete_first": "marselli",
+      "athlete_last": "T.",
+      "name": "Evening Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 262.7,
+      "moving_time_s": 308,
+      "elapsed_time_s": 399,
+      "elevation_m": 50
+    },
+    "566337ed78ddef8bf3f8": {
+      "h": "566337ed78ddef8bf3f8",
+      "first_seen_at": "2026-08-08T13:15:35.450Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Guillermo E",
+      "athlete_last": "O.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9533.5,
+      "moving_time_s": 7052,
+      "elapsed_time_s": 7299,
+      "elevation_m": 220
     }
   },
-  "last_synced_at": "2026-08-08T13:10:42.166Z",
+  "last_synced_at": "2026-08-08T13:15:35.450Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
