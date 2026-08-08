@@ -335327,9 +335327,65 @@
       "moving_time_s": 2868,
       "elapsed_time_s": 3208,
       "elevation_m": 6.8
+    },
+    "48c58f4cc85f26d97760": {
+      "h": "48c58f4cc85f26d97760",
+      "first_seen_at": "2026-08-08T12:55:29.360Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Nindia",
+      "athlete_last": "S.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2000,
+      "moving_time_s": 940,
+      "elapsed_time_s": 940,
+      "elevation_m": 0
+    },
+    "016a7a7bbde4d6f5ad23": {
+      "h": "016a7a7bbde4d6f5ad23",
+      "first_seen_at": "2026-08-08T12:55:29.360Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Sandy",
+      "athlete_last": "S.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5065,
+      "moving_time_s": 1912,
+      "elapsed_time_s": 1919,
+      "elevation_m": 14
+    },
+    "534ed8405c87062bd08b": {
+      "h": "534ed8405c87062bd08b",
+      "first_seen_at": "2026-08-08T12:55:29.360Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Nindia",
+      "athlete_last": "S.",
+      "name": "interval",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3700,
+      "moving_time_s": 1440,
+      "elapsed_time_s": 1440,
+      "elevation_m": 0
+    },
+    "1dff82766d0c6f88120c": {
+      "h": "1dff82766d0c6f88120c",
+      "first_seen_at": "2026-08-08T12:55:29.360Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Muhammad",
+      "athlete_last": "H.",
+      "name": "13km Progressive Repeat Long Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10734,
+      "moving_time_s": 4185,
+      "elapsed_time_s": 4862,
+      "elevation_m": 13.2
     }
   },
-  "last_synced_at": "2026-08-08T12:50:34.974Z",
+  "last_synced_at": "2026-08-08T12:55:29.360Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
