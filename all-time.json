@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T00:43:37.639Z",
+  "generated_at": "2026-08-08T00:45:40.068Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 213856.86,
-    "activities": 23741,
-    "moving_time_s": 88909997,
-    "elevation_m": 1191918
+    "distance": 213874.19,
+    "activities": 23742,
+    "moving_time_s": 88918989,
+    "elevation_m": 1192063
   },
   "rows": [
     {
@@ -1212,12 +1212,20 @@
       "rank": 148
     },
     {
+      "name": "Ario S.",
+      "activities": 53,
+      "distance": 527.77,
+      "moving_time_s": 248438,
+      "elevation_m": 1227,
+      "rank": 149
+    },
+    {
       "name": "Radifan H.",
       "activities": 75,
       "distance": 519.01,
       "moving_time_s": 218569,
       "elevation_m": 830,
-      "rank": 149
+      "rank": 150
     },
     {
       "name": "Leandro T.",
@@ -1225,7 +1233,7 @@
       "distance": 517.84,
       "moving_time_s": 205500,
       "elevation_m": 4417,
-      "rank": 150
+      "rank": 151
     },
     {
       "name": "Teguh W.",
@@ -1233,7 +1241,7 @@
       "distance": 515.36,
       "moving_time_s": 222530,
       "elevation_m": 1235,
-      "rank": 151
+      "rank": 152
     },
     {
       "name": "Aditya K.",
@@ -1241,7 +1249,7 @@
       "distance": 515.07,
       "moving_time_s": 295085,
       "elevation_m": 8816,
-      "rank": 152
+      "rank": 153
     },
     {
       "name": "Hany D.",
@@ -1249,7 +1257,7 @@
       "distance": 514.61,
       "moving_time_s": 223752,
       "elevation_m": 789,
-      "rank": 153
+      "rank": 154
     },
     {
       "name": "Albert A.",
@@ -1257,7 +1265,7 @@
       "distance": 514.59,
       "moving_time_s": 209545,
       "elevation_m": 779,
-      "rank": 154
+      "rank": 155
     },
     {
       "name": "Adi R.",
@@ -1265,7 +1273,7 @@
       "distance": 514.38,
       "moving_time_s": 227387,
       "elevation_m": 2695,
-      "rank": 155
+      "rank": 156
     },
     {
       "name": "Cath H.",
@@ -1273,7 +1281,7 @@
       "distance": 513.48,
       "moving_time_s": 214020,
       "elevation_m": 1173,
-      "rank": 156
+      "rank": 157
     },
     {
       "name": "Yudong A.",
@@ -1281,14 +1289,6 @@
       "distance": 511.59,
       "moving_time_s": 234765,
       "elevation_m": 1054,
-      "rank": 157
-    },
-    {
-      "name": "Ario S.",
-      "activities": 52,
-      "distance": 510.44,
-      "moving_time_s": 239446,
-      "elevation_m": 1082,
       "rank": 158
     },
     {
