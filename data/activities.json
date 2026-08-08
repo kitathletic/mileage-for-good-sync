@@ -334459,9 +334459,37 @@
       "moving_time_s": 11850,
       "elapsed_time_s": 12227,
       "elevation_m": 232.7
+    },
+    "4dd252375d10287509e1": {
+      "h": "4dd252375d10287509e1",
+      "first_seen_at": "2026-08-08T02:35:29.686Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Prana",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4340,
+      "moving_time_s": 2074,
+      "elapsed_time_s": 2756,
+      "elevation_m": 45
+    },
+    "3183801e2c6619fd88cb": {
+      "h": "3183801e2c6619fd88cb",
+      "first_seen_at": "2026-08-08T02:35:29.686Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Francesco",
+      "athlete_last": "S.",
+      "name": "Day 7 - Garmin FR170 Challenge",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 17140.4,
+      "moving_time_s": 7093,
+      "elapsed_time_s": 7203,
+      "elevation_m": 52
     }
   },
-  "last_synced_at": "2026-08-08T02:30:45.515Z",
+  "last_synced_at": "2026-08-08T02:35:29.686Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
