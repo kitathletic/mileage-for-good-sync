@@ -338743,9 +338743,37 @@
       "moving_time_s": 7741,
       "elapsed_time_s": 7871,
       "elevation_m": 36.3
+    },
+    "d46204bd5260be74f2a7": {
+      "h": "d46204bd5260be74f2a7",
+      "first_seen_at": "2026-08-09T02:25:27.914Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Vania",
+      "athlete_last": "P.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7014.9,
+      "moving_time_s": 3139,
+      "elapsed_time_s": 3145,
+      "elevation_m": 16
+    },
+    "762d92a7eae8e5237d96": {
+      "h": "762d92a7eae8e5237d96",
+      "first_seen_at": "2026-08-09T02:25:27.914Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Refabbia",
+      "athlete_last": "S.",
+      "name": "Morning Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 10086.4,
+      "moving_time_s": 7432,
+      "elapsed_time_s": 9341,
+      "elevation_m": 592
     }
   },
-  "last_synced_at": "2026-08-09T02:20:36.225Z",
+  "last_synced_at": "2026-08-09T02:25:27.914Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
