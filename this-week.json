@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T23:05:29.797Z",
+  "generated_at": "2026-08-09T23:10:36.936Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 88.15,
-    "activities": 13,
-    "moving_time_s": 44955,
-    "elevation_m": 326
+    "distance": 118.68,
+    "activities": 16,
+    "moving_time_s": 56199,
+    "elevation_m": 553
   },
   "rows": [
     {
@@ -42,12 +42,20 @@
       "rank": 2
     },
     {
+      "name": "Diah I.",
+      "activities": 1,
+      "distance": 15.01,
+      "moving_time_s": 5357,
+      "elevation_m": 166,
+      "rank": 3
+    },
+    {
       "name": "Kevin T.",
       "activities": 4,
       "distance": 14.38,
       "moving_time_s": 3606,
       "elevation_m": 119,
-      "rank": 3
+      "rank": 4
     },
     {
       "name": "Tim W.",
@@ -55,7 +63,15 @@
       "distance": 13.3,
       "moving_time_s": 4175,
       "elevation_m": 70,
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "name": "Alit D.",
+      "activities": 1,
+      "distance": 10.46,
+      "moving_time_s": 4144,
+      "elevation_m": 30,
+      "rank": 6
     },
     {
       "name": "Arya .",
@@ -63,7 +79,7 @@
       "distance": 9.74,
       "moving_time_s": 4010,
       "elevation_m": 8,
-      "rank": 5
+      "rank": 7
     },
     {
       "name": "Zad K.",
@@ -71,7 +87,15 @@
       "distance": 6.1,
       "moving_time_s": 1982,
       "elevation_m": 32,
-      "rank": 6
+      "rank": 8
+    },
+    {
+      "name": "R I.",
+      "activities": 1,
+      "distance": 5.06,
+      "moving_time_s": 1743,
+      "elevation_m": 31,
+      "rank": 9
     },
     {
       "name": "Aziz Wahyu P.",
@@ -79,7 +103,7 @@
       "distance": 5.02,
       "moving_time_s": 1571,
       "elevation_m": 24,
-      "rank": 7
+      "rank": 10
     },
     {
       "name": "Ken K.",
@@ -87,7 +111,7 @@
       "distance": 5.01,
       "moving_time_s": 2041,
       "elevation_m": 29,
-      "rank": 8
+      "rank": 11
     }
   ]
 }
