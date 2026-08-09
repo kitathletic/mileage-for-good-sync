@@ -339653,9 +339653,37 @@
       "moving_time_s": 6403,
       "elapsed_time_s": 6820,
       "elevation_m": 48
+    },
+    "394e4c1945f4b8b7df80": {
+      "h": "394e4c1945f4b8b7df80",
+      "first_seen_at": "2026-08-09T12:23:36.448Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Reynaldi",
+      "athlete_last": "O.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6142.9,
+      "moving_time_s": 2375,
+      "elapsed_time_s": 2379,
+      "elevation_m": 6
+    },
+    "af83dd6d88c0ce62256d": {
+      "h": "af83dd6d88c0ce62256d",
+      "first_seen_at": "2026-08-09T12:23:36.448Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Dhiwa",
+      "athlete_last": "S.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1645.5,
+      "moving_time_s": 586,
+      "elapsed_time_s": 1452,
+      "elevation_m": 2.4
     }
   },
-  "last_synced_at": "2026-08-09T12:20:35.396Z",
+  "last_synced_at": "2026-08-09T12:23:36.448Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
