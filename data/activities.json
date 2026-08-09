@@ -339947,9 +339947,37 @@
       "moving_time_s": 2334,
       "elapsed_time_s": 2612,
       "elevation_m": 0
+    },
+    "4ef90466fc8ce9593759": {
+      "h": "4ef90466fc8ce9593759",
+      "first_seen_at": "2026-08-09T16:40:37.032Z",
+      "week_key": "2026-W32",
+      "athlete_first": "Tim",
+      "athlete_last": "W.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 13299.6,
+      "moving_time_s": 4175,
+      "elapsed_time_s": 4492,
+      "elevation_m": 70
+    },
+    "b5166d7e0a13eb2b2387": {
+      "h": "b5166d7e0a13eb2b2387",
+      "first_seen_at": "2026-08-09T16:40:37.032Z",
+      "week_key": "2026-W32",
+      "athlete_first": "\"𝑫𝑨𝒱 𝑰𝑫🥇",
+      "athlete_last": "G.",
+      "name": "Carrera a la hora del almuerzo",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9784,
+      "moving_time_s": 11135,
+      "elapsed_time_s": 11135,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-08-09T16:35:30.845Z",
+  "last_synced_at": "2026-08-09T16:40:37.032Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
