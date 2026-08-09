@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T16:50:39.880Z",
+  "generated_at": "2026-08-09T16:55:28.696Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,9 +19,9 @@
     "Walk"
   ],
   "totals": {
-    "distance": 14044.99,
-    "activities": 1555,
-    "moving_time_s": 5712939,
+    "distance": 14050,
+    "activities": 1556,
+    "moving_time_s": 5715292,
     "elevation_m": 69619
   },
   "rows": [
@@ -282,12 +282,20 @@
       "rank": 32
     },
     {
+      "name": "Hendri S.",
+      "activities": 17,
+      "distance": 89.35,
+      "moving_time_s": 43545,
+      "elevation_m": 83,
+      "rank": 33
+    },
+    {
       "name": "Nabilla K.",
       "activities": 10,
       "distance": 89.01,
       "moving_time_s": 33108,
       "elevation_m": 187,
-      "rank": 33
+      "rank": 34
     },
     {
       "name": "Rian H.",
@@ -295,7 +303,7 @@
       "distance": 88.94,
       "moving_time_s": 34356,
       "elevation_m": 502,
-      "rank": 34
+      "rank": 35
     },
     {
       "name": "Alfian N.",
@@ -303,7 +311,7 @@
       "distance": 88.56,
       "moving_time_s": 29189,
       "elevation_m": 679,
-      "rank": 35
+      "rank": 36
     },
     {
       "name": "Zydan F.",
@@ -311,7 +319,7 @@
       "distance": 88,
       "moving_time_s": 35635,
       "elevation_m": 321,
-      "rank": 36
+      "rank": 37
     },
     {
       "name": "Arsi 🍀.",
@@ -319,7 +327,7 @@
       "distance": 87.31,
       "moving_time_s": 31121,
       "elevation_m": 226,
-      "rank": 37
+      "rank": 38
     },
     {
       "name": "Mikhael Y.",
@@ -327,7 +335,7 @@
       "distance": 86.6,
       "moving_time_s": 34875,
       "elevation_m": 462,
-      "rank": 38
+      "rank": 39
     },
     {
       "name": "Ghani W.",
@@ -335,7 +343,7 @@
       "distance": 86.43,
       "moving_time_s": 33276,
       "elevation_m": 218,
-      "rank": 39
+      "rank": 40
     },
     {
       "name": "Tenesse D.",
@@ -343,14 +351,6 @@
       "distance": 85.01,
       "moving_time_s": 32031,
       "elevation_m": 72,
-      "rank": 40
-    },
-    {
-      "name": "Hendri S.",
-      "activities": 16,
-      "distance": 84.34,
-      "moving_time_s": 41192,
-      "elevation_m": 83,
       "rank": 41
     },
     {
