@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T22:55:28.362Z",
+  "generated_at": "2026-08-09T23:00:57.132Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 65.03,
-    "activities": 10,
-    "moving_time_s": 36796,
-    "elevation_m": 254
+    "distance": 70.05,
+    "activities": 11,
+    "moving_time_s": 38367,
+    "elevation_m": 278
   },
   "rows": [
     {
@@ -66,12 +66,20 @@
       "rank": 5
     },
     {
+      "name": "Aziz Wahyu P.",
+      "activities": 1,
+      "distance": 5.02,
+      "moving_time_s": 1571,
+      "elevation_m": 24,
+      "rank": 6
+    },
+    {
       "name": "Ken K.",
       "activities": 1,
       "distance": 5.01,
       "moving_time_s": 2041,
       "elevation_m": 29,
-      "rank": 6
+      "rank": 7
     }
   ]
 }
