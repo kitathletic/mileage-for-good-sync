@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T01:05:29.948Z",
+  "generated_at": "2026-08-10T01:10:37.397Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 314.44,
-    "activities": 40,
-    "moving_time_s": 134050,
-    "elevation_m": 966
+    "distance": 325.5,
+    "activities": 42,
+    "moving_time_s": 138694,
+    "elevation_m": 971
   },
   "rows": [
     {
@@ -234,12 +234,20 @@
       "rank": 26
     },
     {
+      "name": "Muhammad Ikhwansyah P.",
+      "activities": 1,
+      "distance": 6.05,
+      "moving_time_s": 2106,
+      "elevation_m": 5,
+      "rank": 27
+    },
+    {
       "name": "Revli P.",
       "activities": 1,
       "distance": 6.01,
       "moving_time_s": 2839,
       "elevation_m": 9,
-      "rank": 27
+      "rank": 28
     },
     {
       "name": "Slopslop S.",
@@ -247,7 +255,7 @@
       "distance": 5.51,
       "moving_time_s": 2923,
       "elevation_m": 20,
-      "rank": 28
+      "rank": 29
     },
     {
       "name": "R I.",
@@ -255,7 +263,7 @@
       "distance": 5.06,
       "moving_time_s": 1743,
       "elevation_m": 31,
-      "rank": 29
+      "rank": 30
     },
     {
       "name": "Aziz Wahyu P.",
@@ -263,7 +271,7 @@
       "distance": 5.02,
       "moving_time_s": 1571,
       "elevation_m": 24,
-      "rank": 30
+      "rank": 31
     },
     {
       "name": "Ken K.",
@@ -271,7 +279,7 @@
       "distance": 5.01,
       "moving_time_s": 2041,
       "elevation_m": 29,
-      "rank": 31
+      "rank": 32
     },
     {
       "name": "Mochamad R.",
@@ -279,7 +287,15 @@
       "distance": 5.01,
       "moving_time_s": 2205,
       "elevation_m": 12,
-      "rank": 32
+      "rank": 33
+    },
+    {
+      "name": "Francesco S.",
+      "activities": 1,
+      "distance": 5.01,
+      "moving_time_s": 2538,
+      "elevation_m": 0,
+      "rank": 34
     },
     {
       "name": "Nizar M.",
@@ -287,7 +303,7 @@
       "distance": 3.02,
       "moving_time_s": 1057,
       "elevation_m": 12,
-      "rank": 33
+      "rank": 35
     },
     {
       "name": "James H.",
@@ -295,7 +311,7 @@
       "distance": 3.01,
       "moving_time_s": 1199,
       "elevation_m": 0,
-      "rank": 34
+      "rank": 36
     }
   ]
 }
