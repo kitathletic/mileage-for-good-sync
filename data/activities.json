@@ -341375,9 +341375,37 @@
       "moving_time_s": 2520,
       "elapsed_time_s": 2883,
       "elevation_m": 43
+    },
+    "9b4008e3b4bc42d4519f": {
+      "h": "9b4008e3b4bc42d4519f",
+      "first_seen_at": "2026-08-10T14:10:34.281Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Nadya",
+      "athlete_last": "R.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5239.4,
+      "moving_time_s": 2950,
+      "elapsed_time_s": 3147,
+      "elevation_m": 0
+    },
+    "7d17397160bafe641004": {
+      "h": "7d17397160bafe641004",
+      "first_seen_at": "2026-08-10T14:10:34.281Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Muhammad",
+      "athlete_last": "I.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8673.5,
+      "moving_time_s": 4616,
+      "elapsed_time_s": 5182,
+      "elevation_m": 10
     }
   },
-  "last_synced_at": "2026-08-10T14:05:32.508Z",
+  "last_synced_at": "2026-08-10T14:10:34.281Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
