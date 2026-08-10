@@ -341081,9 +341081,51 @@
       "moving_time_s": 2348,
       "elapsed_time_s": 2397,
       "elevation_m": 1
+    },
+    "ab3058fcb6563614850c": {
+      "h": "ab3058fcb6563614850c",
+      "first_seen_at": "2026-08-10T11:20:38.988Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Sandy",
+      "athlete_last": "S.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5350,
+      "moving_time_s": 2105,
+      "elapsed_time_s": 2108,
+      "elevation_m": 0
+    },
+    "dd0027f6ee1482710d01": {
+      "h": "dd0027f6ee1482710d01",
+      "first_seen_at": "2026-08-10T11:20:38.988Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Yuri",
+      "athlete_last": "A.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5646.2,
+      "moving_time_s": 2361,
+      "elapsed_time_s": 2432,
+      "elevation_m": 7.2
+    },
+    "35124ecaf0000c5b4c6a": {
+      "h": "35124ecaf0000c5b4c6a",
+      "first_seen_at": "2026-08-10T11:20:38.988Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Bibip",
+      "athlete_last": "D.",
+      "name": "Tuku",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11509,
+      "moving_time_s": 4049,
+      "elapsed_time_s": 4296,
+      "elevation_m": 43
     }
   },
-  "last_synced_at": "2026-08-10T11:15:43.836Z",
+  "last_synced_at": "2026-08-10T11:20:38.988Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
