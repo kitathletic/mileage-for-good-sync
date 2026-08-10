@@ -341039,9 +341039,37 @@
       "moving_time_s": 2520,
       "elapsed_time_s": 2524,
       "elevation_m": 19
+    },
+    "20c1364e685dc03db800": {
+      "h": "20c1364e685dc03db800",
+      "first_seen_at": "2026-08-10T11:00:51.441Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Rhamdan",
+      "athlete_last": "I.",
+      "name": "Recovery Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4737.9,
+      "moving_time_s": 2365,
+      "elapsed_time_s": 2415,
+      "elevation_m": 6
+    },
+    "829eba4c9e2c176a6e0c": {
+      "h": "829eba4c9e2c176a6e0c",
+      "first_seen_at": "2026-08-10T11:00:51.441Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Muhammad",
+      "athlete_last": "I.",
+      "name": "Afternoon Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 10781.1,
+      "moving_time_s": 4706,
+      "elapsed_time_s": 4750,
+      "elevation_m": 363.8
     }
   },
-  "last_synced_at": "2026-08-10T10:55:30.078Z",
+  "last_synced_at": "2026-08-10T11:00:51.441Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
