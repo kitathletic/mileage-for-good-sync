@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T09:50:37.294Z",
+  "generated_at": "2026-08-11T09:55:37.441Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 221675.59,
-    "activities": 24488,
-    "moving_time_s": 92103288,
-    "elevation_m": 1235338
+    "distance": 221683.6,
+    "activities": 24490,
+    "moving_time_s": 92106322,
+    "elevation_m": 1235340
   },
   "rows": [
     {
@@ -1180,12 +1180,20 @@
       "rank": 144
     },
     {
+      "name": "Kevin S.",
+      "activities": 62,
+      "distance": 557.59,
+      "moving_time_s": 200672,
+      "elevation_m": 403,
+      "rank": 145
+    },
+    {
       "name": "Tommy P.",
       "activities": 56,
       "distance": 554.32,
       "moving_time_s": 221281,
       "elevation_m": 577,
-      "rank": 145
+      "rank": 146
     },
     {
       "name": "M Doni M.",
@@ -1193,14 +1201,6 @@
       "distance": 552.31,
       "moving_time_s": 211133,
       "elevation_m": 727,
-      "rank": 146
-    },
-    {
-      "name": "Kevin S.",
-      "activities": 61,
-      "distance": 550.59,
-      "moving_time_s": 198084,
-      "elevation_m": 403,
       "rank": 147
     },
     {
@@ -3349,10 +3349,10 @@
     },
     {
       "name": "Putra I.",
-      "activities": 17,
-      "distance": 59.81,
-      "moving_time_s": 27010,
-      "elevation_m": 622,
+      "activities": 18,
+      "distance": 60.82,
+      "moving_time_s": 27456,
+      "elevation_m": 624,
       "rank": 416
     },
     {
