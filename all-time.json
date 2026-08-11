@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T11:35:16.039Z",
+  "generated_at": "2026-08-11T11:40:39.776Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 221810.98,
-    "activities": 24517,
-    "moving_time_s": 92156981,
-    "elevation_m": 1235909
+    "distance": 221819,
+    "activities": 24519,
+    "moving_time_s": 92160057,
+    "elevation_m": 1235939
   },
   "rows": [
     {
@@ -1308,12 +1308,20 @@
       "rank": 160
     },
     {
+      "name": "Taufan S.",
+      "activities": 41,
+      "distance": 521.03,
+      "moving_time_s": 225281,
+      "elevation_m": 5130,
+      "rank": 161
+    },
+    {
       "name": "Radifan H.",
       "activities": 75,
       "distance": 519.01,
       "moving_time_s": 218569,
       "elevation_m": 830,
-      "rank": 161
+      "rank": 162
     },
     {
       "name": "Tiffani S.",
@@ -1321,7 +1329,7 @@
       "distance": 516.91,
       "moving_time_s": 220647,
       "elevation_m": 1099,
-      "rank": 162
+      "rank": 163
     },
     {
       "name": "baphomet ..",
@@ -1329,7 +1337,7 @@
       "distance": 515.99,
       "moving_time_s": 197710,
       "elevation_m": 1844,
-      "rank": 163
+      "rank": 164
     },
     {
       "name": "Adi R.",
@@ -1337,14 +1345,6 @@
       "distance": 514.38,
       "moving_time_s": 227387,
       "elevation_m": 2695,
-      "rank": 164
-    },
-    {
-      "name": "Taufan S.",
-      "activities": 40,
-      "distance": 513.95,
-      "moving_time_s": 222562,
-      "elevation_m": 5100,
       "rank": 165
     },
     {
@@ -1485,9 +1485,9 @@
     },
     {
       "name": "Firmansyah Nur R.",
-      "activities": 51,
-      "distance": 454.46,
-      "moving_time_s": 195599,
+      "activities": 52,
+      "distance": 455.4,
+      "moving_time_s": 195956,
       "elevation_m": 1320,
       "rank": 183
     },

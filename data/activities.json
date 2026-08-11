@@ -344217,9 +344217,37 @@
       "moving_time_s": 2307,
       "elapsed_time_s": 2317,
       "elevation_m": 3
+    },
+    "dff8a9ae333c9abc1d43": {
+      "h": "dff8a9ae333c9abc1d43",
+      "first_seen_at": "2026-08-11T11:40:39.776Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Firmansyah Nur",
+      "athlete_last": "R.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 947.1,
+      "moving_time_s": 357,
+      "elapsed_time_s": 364,
+      "elevation_m": 0
+    },
+    "ff9fc765297dc1402116": {
+      "h": "ff9fc765297dc1402116",
+      "first_seen_at": "2026-08-11T11:40:39.776Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Taufan",
+      "athlete_last": "S.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7079.3,
+      "moving_time_s": 2719,
+      "elapsed_time_s": 2999,
+      "elevation_m": 30
     }
   },
-  "last_synced_at": "2026-08-11T11:35:16.039Z",
+  "last_synced_at": "2026-08-11T11:40:39.776Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
