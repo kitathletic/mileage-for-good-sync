@@ -342761,9 +342761,37 @@
       "moving_time_s": 4952,
       "elapsed_time_s": 5107,
       "elevation_m": 38
+    },
+    "d680a50fe713cf5a169f": {
+      "h": "d680a50fe713cf5a169f",
+      "first_seen_at": "2026-08-11T00:40:35.960Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Chrisnadya",
+      "athlete_last": "P.",
+      "name": "Recoverun",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4051.3,
+      "moving_time_s": 2170,
+      "elapsed_time_s": 2216,
+      "elevation_m": 48.3
+    },
+    "dc05b4f2e4fb0e1fdf32": {
+      "h": "dc05b4f2e4fb0e1fdf32",
+      "first_seen_at": "2026-08-11T00:40:35.960Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Alexander",
+      "athlete_last": "Y.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8008.8,
+      "moving_time_s": 3439,
+      "elapsed_time_s": 3594,
+      "elevation_m": 10
     }
   },
-  "last_synced_at": "2026-08-11T00:35:30.066Z",
+  "last_synced_at": "2026-08-11T00:40:35.960Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
