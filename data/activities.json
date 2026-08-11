@@ -344091,9 +344091,37 @@
       "moving_time_s": 4858,
       "elapsed_time_s": 4963,
       "elevation_m": 252.5
+    },
+    "29cb2d297ee8afdc43aa": {
+      "h": "29cb2d297ee8afdc43aa",
+      "first_seen_at": "2026-08-11T11:05:37.905Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Annisa",
+      "athlete_last": "C.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3458.1,
+      "moving_time_s": 1386,
+      "elapsed_time_s": 1386,
+      "elevation_m": 1
+    },
+    "5bbb9269ad2664dc4b9c": {
+      "h": "5bbb9269ad2664dc4b9c",
+      "first_seen_at": "2026-08-11T11:05:37.905Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Rashya",
+      "athlete_last": "A.",
+      "name": "interval tdk beraturan",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5017.4,
+      "moving_time_s": 1295,
+      "elapsed_time_s": 2311,
+      "elevation_m": 29.6
     }
   },
-  "last_synced_at": "2026-08-11T11:00:56.004Z",
+  "last_synced_at": "2026-08-11T11:05:37.905Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
