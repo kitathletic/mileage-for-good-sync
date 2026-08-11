@@ -345085,9 +345085,37 @@
       "moving_time_s": 2401,
       "elapsed_time_s": 2401,
       "elevation_m": 36
+    },
+    "78bf7b7a864a97cceddf": {
+      "h": "78bf7b7a864a97cceddf",
+      "first_seen_at": "2026-08-11T22:10:34.897Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Zad",
+      "athlete_last": "K.",
+      "name": "Base Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7434.6,
+      "moving_time_s": 2401,
+      "elapsed_time_s": 2401,
+      "elevation_m": 36
+    },
+    "bb0e46989b52ea75c936": {
+      "h": "bb0e46989b52ea75c936",
+      "first_seen_at": "2026-08-11T22:10:34.897Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Kevin",
+      "athlete_last": "T.",
+      "name": "Carrauntoohil",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 12479.7,
+      "moving_time_s": 6244,
+      "elapsed_time_s": 7054,
+      "elevation_m": 922
     }
   },
-  "last_synced_at": "2026-08-11T22:05:28.266Z",
+  "last_synced_at": "2026-08-11T22:10:34.897Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
