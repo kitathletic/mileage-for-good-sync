@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T09:45:37.092Z",
+  "generated_at": "2026-08-12T09:50:36.825Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 223438,
-    "activities": 24731,
-    "moving_time_s": 92783190,
-    "elevation_m": 1243269
+    "distance": 223445.6,
+    "activities": 24735,
+    "moving_time_s": 92786657,
+    "elevation_m": 1243278
   },
   "rows": [
     {
@@ -2116,12 +2116,20 @@
       "rank": 261
     },
     {
+      "name": "Paulo R.",
+      "activities": 38,
+      "distance": 290.74,
+      "moving_time_s": 112784,
+      "elevation_m": 1055,
+      "rank": 262
+    },
+    {
       "name": "Denny R.",
       "activities": 46,
       "distance": 289.4,
       "moving_time_s": 101407,
       "elevation_m": 66,
-      "rank": 262
+      "rank": 263
     },
     {
       "name": "Farhan N.",
@@ -2129,7 +2137,7 @@
       "distance": 286.58,
       "moving_time_s": 119797,
       "elevation_m": 152,
-      "rank": 263
+      "rank": 264
     },
     {
       "name": "Rahmad S.",
@@ -2137,14 +2145,6 @@
       "distance": 285.35,
       "moving_time_s": 132093,
       "elevation_m": 663,
-      "rank": 264
-    },
-    {
-      "name": "Paulo R.",
-      "activities": 37,
-      "distance": 284.16,
-      "moving_time_s": 110007,
-      "elevation_m": 1055,
       "rank": 265
     },
     {
@@ -2428,19 +2428,19 @@
       "rank": 300
     },
     {
+      "name": "Kasiadi I.",
+      "activities": 56,
+      "distance": 226.35,
+      "moving_time_s": 104390,
+      "elevation_m": 590,
+      "rank": 301
+    },
+    {
       "name": "Rhiza ..",
       "activities": 39,
       "distance": 225.92,
       "moving_time_s": 91938,
       "elevation_m": 605,
-      "rank": 301
-    },
-    {
-      "name": "Kasiadi I.",
-      "activities": 55,
-      "distance": 225.75,
-      "moving_time_s": 103904,
-      "elevation_m": 585,
       "rank": 302
     },
     {
@@ -2773,10 +2773,10 @@
     },
     {
       "name": "Muhammad Rizki A.",
-      "activities": 14,
-      "distance": 165.58,
-      "moving_time_s": 71476,
-      "elevation_m": 218,
+      "activities": 16,
+      "distance": 166,
+      "moving_time_s": 71680,
+      "elevation_m": 222,
       "rank": 344
     },
     {
