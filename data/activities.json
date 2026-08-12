@@ -347675,9 +347675,37 @@
       "moving_time_s": 2683,
       "elapsed_time_s": 2702,
       "elevation_m": 68
+    },
+    "019b1e62eddac72200ba": {
+      "h": "019b1e62eddac72200ba",
+      "first_seen_at": "2026-08-12T11:55:30.073Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Putra",
+      "athlete_last": "I.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5018.3,
+      "moving_time_s": 2264,
+      "elapsed_time_s": 2301,
+      "elevation_m": 5
+    },
+    "3d523e0eb27537f04ec8": {
+      "h": "3d523e0eb27537f04ec8",
+      "first_seen_at": "2026-08-12T11:55:30.073Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Yova",
+      "athlete_last": "G.",
+      "name": "MR",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7094.8,
+      "moving_time_s": 2642,
+      "elapsed_time_s": 3984,
+      "elevation_m": 21.6
     }
   },
-  "last_synced_at": "2026-08-12T11:50:34.688Z",
+  "last_synced_at": "2026-08-12T11:55:30.073Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
