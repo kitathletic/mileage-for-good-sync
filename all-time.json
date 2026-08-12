@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T11:20:44.478Z",
+  "generated_at": "2026-08-12T11:25:29.551Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 223555.3,
-    "activities": 24754,
-    "moving_time_s": 92831556,
-    "elevation_m": 1243509
+    "distance": 223581.61,
+    "activities": 24756,
+    "moving_time_s": 92840743,
+    "elevation_m": 1243624
   },
   "rows": [
     {
@@ -140,19 +140,19 @@
       "rank": 14
     },
     {
+      "name": "Danny T.",
+      "activities": 127,
+      "distance": 1607.5,
+      "moving_time_s": 537148,
+      "elevation_m": 7140,
+      "rank": 15
+    },
+    {
       "name": "Nanditya N.",
       "activities": 165,
       "distance": 1607.45,
       "moving_time_s": 510035,
       "elevation_m": 12044,
-      "rank": 15
-    },
-    {
-      "name": "Danny T.",
-      "activities": 126,
-      "distance": 1597.22,
-      "moving_time_s": 533876,
-      "elevation_m": 7083,
       "rank": 16
     },
     {
@@ -1332,12 +1332,20 @@
       "rank": 163
     },
     {
+      "name": "Muhammad I.",
+      "activities": 61,
+      "distance": 520.71,
+      "moving_time_s": 212552,
+      "elevation_m": 5759,
+      "rank": 164
+    },
+    {
       "name": "Radifan H.",
       "activities": 75,
       "distance": 519.01,
       "moving_time_s": 218569,
       "elevation_m": 830,
-      "rank": 164
+      "rank": 165
     },
     {
       "name": "Adi R.",
@@ -1345,7 +1353,7 @@
       "distance": 514.38,
       "moving_time_s": 227387,
       "elevation_m": 2695,
-      "rank": 165
+      "rank": 166
     },
     {
       "name": "Adystra B.",
@@ -1353,14 +1361,6 @@
       "distance": 505.69,
       "moving_time_s": 203077,
       "elevation_m": 1586,
-      "rank": 166
-    },
-    {
-      "name": "Muhammad I.",
-      "activities": 60,
-      "distance": 504.68,
-      "moving_time_s": 206637,
-      "elevation_m": 5701,
       "rank": 167
     },
     {
