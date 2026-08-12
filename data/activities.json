@@ -346471,9 +346471,37 @@
       "moving_time_s": 5180,
       "elapsed_time_s": 5553,
       "elevation_m": 298
+    },
+    "9fb2ea5604758fa0fbc0": {
+      "h": "9fb2ea5604758fa0fbc0",
+      "first_seen_at": "2026-08-12T01:15:35.777Z",
+      "week_key": "2026-W33",
+      "athlete_first": "AnilKumar",
+      "athlete_last": "K.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5032.3,
+      "moving_time_s": 2177,
+      "elapsed_time_s": 2201,
+      "elevation_m": 42.5
+    },
+    "417d88a014bfc6e60805": {
+      "h": "417d88a014bfc6e60805",
+      "first_seen_at": "2026-08-12T01:15:35.777Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Alexander",
+      "athlete_last": "Y.",
+      "name": "Tempo",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12017.7,
+      "moving_time_s": 4334,
+      "elapsed_time_s": 4484,
+      "elevation_m": 10
     }
   },
-  "last_synced_at": "2026-08-12T01:10:35.753Z",
+  "last_synced_at": "2026-08-12T01:15:35.777Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
