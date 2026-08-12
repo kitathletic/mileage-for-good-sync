@@ -347857,9 +347857,65 @@
       "moving_time_s": 2724,
       "elapsed_time_s": 2883,
       "elevation_m": 0
+    },
+    "54b5a021ad3163a65dad": {
+      "h": "54b5a021ad3163a65dad",
+      "first_seen_at": "2026-08-12T12:55:31.279Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Bibip",
+      "athlete_last": "D.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1072.2,
+      "moving_time_s": 389,
+      "elapsed_time_s": 389,
+      "elevation_m": 2
+    },
+    "cf04692d7bfc045807fa": {
+      "h": "cf04692d7bfc045807fa",
+      "first_seen_at": "2026-08-12T12:55:31.279Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Nindia",
+      "athlete_last": "S.",
+      "name": "cooldown",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2000,
+      "moving_time_s": 970,
+      "elapsed_time_s": 970,
+      "elevation_m": 0
+    },
+    "7c24eec89b683ff9b45a": {
+      "h": "7c24eec89b683ff9b45a",
+      "first_seen_at": "2026-08-12T12:55:31.279Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Nindia",
+      "athlete_last": "S.",
+      "name": "6x6",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3500,
+      "moving_time_s": 1335,
+      "elapsed_time_s": 1335,
+      "elevation_m": 0
+    },
+    "1f7e95b1f052dee673bc": {
+      "h": "1f7e95b1f052dee673bc",
+      "first_seen_at": "2026-08-12T12:55:31.279Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Nindia",
+      "athlete_last": "S.",
+      "name": "warmup",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2097.8,
+      "moving_time_s": 900,
+      "elapsed_time_s": 900,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-08-12T12:50:34.456Z",
+  "last_synced_at": "2026-08-12T12:55:31.279Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
