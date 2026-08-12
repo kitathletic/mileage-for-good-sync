@@ -346877,9 +346877,37 @@
       "moving_time_s": 7721,
       "elapsed_time_s": 7721,
       "elevation_m": 0
+    },
+    "1ed2cc21d197685ccf4b": {
+      "h": "1ed2cc21d197685ccf4b",
+      "first_seen_at": "2026-08-12T03:05:32.265Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Budi",
+      "athlete_last": "P.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5004,
+      "moving_time_s": 1672,
+      "elapsed_time_s": 1686,
+      "elevation_m": 9
+    },
+    "d37325bd42832ba9025e": {
+      "h": "d37325bd42832ba9025e",
+      "first_seen_at": "2026-08-12T03:05:32.265Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Ghani",
+      "athlete_last": "W.",
+      "name": "Morning Run | Speed Sess",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9018.4,
+      "moving_time_s": 3286,
+      "elapsed_time_s": 3369,
+      "elevation_m": 26
     }
   },
-  "last_synced_at": "2026-08-12T03:00:52.170Z",
+  "last_synced_at": "2026-08-12T03:05:32.265Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
