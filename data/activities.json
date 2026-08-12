@@ -346583,9 +346583,37 @@
       "moving_time_s": 2880,
       "elapsed_time_s": 3300,
       "elevation_m": 0
+    },
+    "21684e1943939c0eca49": {
+      "h": "21684e1943939c0eca49",
+      "first_seen_at": "2026-08-12T01:30:44.084Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Tenesse",
+      "athlete_last": "D.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5334.6,
+      "moving_time_s": 2351,
+      "elapsed_time_s": 2413,
+      "elevation_m": 3
+    },
+    "3450575da14fee9faa18": {
+      "h": "3450575da14fee9faa18",
+      "first_seen_at": "2026-08-12T01:30:44.084Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Tenesse",
+      "athlete_last": "D.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10122.6,
+      "moving_time_s": 3468,
+      "elapsed_time_s": 4299,
+      "elevation_m": 6
     }
   },
-  "last_synced_at": "2026-08-12T01:25:30.146Z",
+  "last_synced_at": "2026-08-12T01:30:44.084Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
