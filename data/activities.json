@@ -347913,9 +347913,51 @@
       "moving_time_s": 900,
       "elapsed_time_s": 900,
       "elevation_m": 0
+    },
+    "5c7fa97b96cb5579cd73": {
+      "h": "5c7fa97b96cb5579cd73",
+      "first_seen_at": "2026-08-12T13:00:56.909Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Reni",
+      "athlete_last": "P.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9014.5,
+      "moving_time_s": 3715,
+      "elapsed_time_s": 3719,
+      "elevation_m": 18
+    },
+    "fd06cb24f3e6de09984c": {
+      "h": "fd06cb24f3e6de09984c",
+      "first_seen_at": "2026-08-12T13:00:56.909Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Zapro",
+      "athlete_last": "Z.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10008,
+      "moving_time_s": 4219,
+      "elapsed_time_s": 4242,
+      "elevation_m": 11
+    },
+    "b7e77d1303de0fbf572b": {
+      "h": "b7e77d1303de0fbf572b",
+      "first_seen_at": "2026-08-12T13:00:56.909Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Wibs",
+      "athlete_last": "_.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7506,
+      "moving_time_s": 3962,
+      "elapsed_time_s": 3962,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-08-12T12:55:31.279Z",
+  "last_synced_at": "2026-08-12T13:00:56.909Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
