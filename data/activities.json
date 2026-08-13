@@ -349551,9 +349551,37 @@
       "moving_time_s": 4297,
       "elapsed_time_s": 4297,
       "elevation_m": 0
+    },
+    "22bc457a0f10dfa11d1f": {
+      "h": "22bc457a0f10dfa11d1f",
+      "first_seen_at": "2026-08-13T00:35:30.331Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Novi",
+      "athlete_last": "E.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10096.9,
+      "moving_time_s": 4843,
+      "elapsed_time_s": 5209,
+      "elevation_m": 6
+    },
+    "f4390369d9bfa9fc338f": {
+      "h": "f4390369d9bfa9fc338f",
+      "first_seen_at": "2026-08-13T00:35:30.331Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Winarta",
+      "athlete_last": "H.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 24041.4,
+      "moving_time_s": 9093,
+      "elapsed_time_s": 9093,
+      "elevation_m": 322
     }
   },
-  "last_synced_at": "2026-08-13T00:30:53.595Z",
+  "last_synced_at": "2026-08-13T00:35:30.331Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
