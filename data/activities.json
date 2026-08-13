@@ -350391,9 +350391,23 @@
       "moving_time_s": 4800,
       "elapsed_time_s": 4801,
       "elevation_m": 110
+    },
+    "db7fded1c440d7361648": {
+      "h": "db7fded1c440d7361648",
+      "first_seen_at": "2026-08-13T04:35:30.894Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Yova",
+      "athlete_last": "G.",
+      "name": "LDR - Long distance run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 30133.1,
+      "moving_time_s": 14087,
+      "elapsed_time_s": 15878,
+      "elevation_m": 174.2
     }
   },
-  "last_synced_at": "2026-08-13T04:30:47.094Z",
+  "last_synced_at": "2026-08-13T04:35:30.894Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
