@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T14:45:37.898Z",
+  "generated_at": "2026-08-13T14:50:38.687Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,19 +19,27 @@
     "Walk"
   ],
   "totals": {
-    "distance": 6232.78,
-    "activities": 825,
-    "moving_time_s": 2467620,
-    "elevation_m": 22504
+    "distance": 6291.28,
+    "activities": 827,
+    "moving_time_s": 2493496,
+    "elevation_m": 22863
   },
   "rows": [
+    {
+      "name": "Evan B.",
+      "activities": 3,
+      "distance": 149.68,
+      "moving_time_s": 63723,
+      "elevation_m": 814,
+      "rank": 1
+    },
     {
       "name": "Rizky F.",
       "activities": 4,
       "distance": 106.05,
       "moving_time_s": 38581,
       "elevation_m": 71,
-      "rank": 1
+      "rank": 2
     },
     {
       "name": "Jeremiah S.",
@@ -39,14 +47,6 @@
       "distance": 101,
       "moving_time_s": 38303,
       "elevation_m": 326,
-      "rank": 2
-    },
-    {
-      "name": "Evan B.",
-      "activities": 2,
-      "distance": 98.18,
-      "moving_time_s": 40894,
-      "elevation_m": 526,
       "rank": 3
     },
     {
@@ -114,12 +114,20 @@
       "rank": 11
     },
     {
+      "name": "Rifqi M.",
+      "activities": 9,
+      "distance": 59.05,
+      "moving_time_s": 29635,
+      "elevation_m": 510,
+      "rank": 12
+    },
+    {
       "name": "Cicak T.",
       "activities": 8,
       "distance": 59.04,
       "moving_time_s": 19083,
       "elevation_m": 452,
-      "rank": 12
+      "rank": 13
     },
     {
       "name": "Bibip D.",
@@ -127,7 +135,7 @@
       "distance": 55.14,
       "moving_time_s": 19347,
       "elevation_m": 136,
-      "rank": 13
+      "rank": 14
     },
     {
       "name": "sijakiii ㅤ.",
@@ -135,7 +143,7 @@
       "distance": 53.48,
       "moving_time_s": 23152,
       "elevation_m": 149,
-      "rank": 14
+      "rank": 15
     },
     {
       "name": "win C.",
@@ -143,14 +151,6 @@
       "distance": 53.16,
       "moving_time_s": 20549,
       "elevation_m": 52,
-      "rank": 15
-    },
-    {
-      "name": "Rifqi M.",
-      "activities": 8,
-      "distance": 52.05,
-      "moving_time_s": 26588,
-      "elevation_m": 439,
       "rank": 16
     },
     {
