@@ -350237,9 +350237,37 @@
       "moving_time_s": 4615,
       "elapsed_time_s": 4754,
       "elevation_m": 0
+    },
+    "213a7d872f64e8629160": {
+      "h": "213a7d872f64e8629160",
+      "first_seen_at": "2026-08-13T02:50:39.680Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Jeremiah",
+      "athlete_last": "S.",
+      "name": "Recovery 85 menit",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10187.7,
+      "moving_time_s": 4811,
+      "elapsed_time_s": 5463,
+      "elevation_m": 46
+    },
+    "ecd5650cb2baabddea32": {
+      "h": "ecd5650cb2baabddea32",
+      "first_seen_at": "2026-08-13T02:50:39.680Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Dania",
+      "athlete_last": "J.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5008.4,
+      "moving_time_s": 2180,
+      "elapsed_time_s": 2200,
+      "elevation_m": 27
     }
   },
-  "last_synced_at": "2026-08-13T02:45:34.425Z",
+  "last_synced_at": "2026-08-13T02:50:39.680Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
