@@ -350601,9 +350601,51 @@
       "moving_time_s": 6855,
       "elapsed_time_s": 6855,
       "elevation_m": 0
+    },
+    "200698b6fc1ac91096e8": {
+      "h": "200698b6fc1ac91096e8",
+      "first_seen_at": "2026-08-13T10:05:31.896Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Bimantoro",
+      "athlete_last": "B.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 602.8,
+      "moving_time_s": 276,
+      "elapsed_time_s": 571,
+      "elevation_m": 3
+    },
+    "68fc00e479db29edfaf4": {
+      "h": "68fc00e479db29edfaf4",
+      "first_seen_at": "2026-08-13T10:05:31.896Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Ghiffa",
+      "athlete_last": "S.",
+      "name": "Berlari Sore",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5015,
+      "moving_time_s": 1553,
+      "elapsed_time_s": 1563,
+      "elevation_m": 5.6
+    },
+    "5a8a1331b89853672f0f": {
+      "h": "5a8a1331b89853672f0f",
+      "first_seen_at": "2026-08-13T10:05:31.896Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Edy",
+      "athlete_last": "C.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8880.6,
+      "moving_time_s": 3261,
+      "elapsed_time_s": 5918,
+      "elevation_m": 175
     }
   },
-  "last_synced_at": "2026-08-13T10:00:56.532Z",
+  "last_synced_at": "2026-08-13T10:05:31.896Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
