@@ -354857,9 +354857,37 @@
       "moving_time_s": 6998,
       "elapsed_time_s": 7024,
       "elevation_m": 58
+    },
+    "1b9c3202122ab8a50206": {
+      "h": "1b9c3202122ab8a50206",
+      "first_seen_at": "2026-08-14T23:25:27.465Z",
+      "week_key": "2026-W33",
+      "athlete_first": "dani",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6024.4,
+      "moving_time_s": 2561,
+      "elapsed_time_s": 2561,
+      "elevation_m": 9
+    },
+    "ef7abaa13283e79757b4": {
+      "h": "ef7abaa13283e79757b4",
+      "first_seen_at": "2026-08-14T23:25:27.465Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Firmansyah Nur",
+      "athlete_last": "R.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 953.4,
+      "moving_time_s": 333,
+      "elapsed_time_s": 355,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-08-14T23:20:28.374Z",
+  "last_synced_at": "2026-08-14T23:25:27.465Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
