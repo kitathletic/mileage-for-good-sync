@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T01:10:36.579Z",
+  "generated_at": "2026-08-14T01:15:37.600Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 226770.42,
-    "activities": 25154,
-    "moving_time_s": 94101888,
-    "elevation_m": 1253119
+    "distance": 226791.32,
+    "activities": 25158,
+    "moving_time_s": 94110500,
+    "elevation_m": 1253377
   },
   "rows": [
     {
@@ -189,11 +189,19 @@
     },
     {
       "name": "Aswin Mahardi P.",
-      "activities": 149,
-      "distance": 1445.92,
-      "moving_time_s": 531439,
-      "elevation_m": 4893,
+      "activities": 150,
+      "distance": 1446.61,
+      "moving_time_s": 531981,
+      "elevation_m": 4902,
       "rank": 21
+    },
+    {
+      "name": "Rian H.",
+      "activities": 129,
+      "distance": 1439.82,
+      "moving_time_s": 526052,
+      "elevation_m": 8893,
+      "rank": 22
     },
     {
       "name": "Samuel Zeth A.",
@@ -201,14 +209,6 @@
       "distance": 1430.86,
       "moving_time_s": 687524,
       "elevation_m": 7721,
-      "rank": 22
-    },
-    {
-      "name": "Rian H.",
-      "activities": 128,
-      "distance": 1429.79,
-      "moving_time_s": 522425,
-      "elevation_m": 8663,
       "rank": 23
     },
     {
@@ -981,10 +981,10 @@
     },
     {
       "name": "Hanis F.",
-      "activities": 84,
-      "distance": 657.43,
-      "moving_time_s": 267495,
-      "elevation_m": 1856,
+      "activities": 85,
+      "distance": 662.5,
+      "moving_time_s": 269493,
+      "elevation_m": 1870,
       "rank": 120
     },
     {
@@ -1436,19 +1436,19 @@
       "rank": 176
     },
     {
+      "name": "Yandri F.",
+      "activities": 78,
+      "distance": 480.67,
+      "moving_time_s": 214824,
+      "elevation_m": 2587,
+      "rank": 177
+    },
+    {
       "name": "Revli P.",
       "activities": 69,
       "distance": 478.18,
       "moving_time_s": 231258,
       "elevation_m": 1146,
-      "rank": 177
-    },
-    {
-      "name": "Yandri F.",
-      "activities": 77,
-      "distance": 475.56,
-      "moving_time_s": 212379,
-      "elevation_m": 2582,
       "rank": 178
     },
     {
