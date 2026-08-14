@@ -354297,9 +354297,37 @@
       "moving_time_s": 2401,
       "elapsed_time_s": 2401,
       "elevation_m": 5
+    },
+    "2b34c2fd4b04980434f7": {
+      "h": "2b34c2fd4b04980434f7",
+      "first_seen_at": "2026-08-14T14:05:26.125Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Defry",
+      "athlete_last": "N.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5608.8,
+      "moving_time_s": 2354,
+      "elapsed_time_s": 2359,
+      "elevation_m": 64
+    },
+    "ca02eda36b48dad24de6": {
+      "h": "ca02eda36b48dad24de6",
+      "first_seen_at": "2026-08-14T14:05:26.125Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Dikki",
+      "athlete_last": "M.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6013.7,
+      "moving_time_s": 2187,
+      "elapsed_time_s": 4402,
+      "elevation_m": 2.6
     }
   },
-  "last_synced_at": "2026-08-14T14:00:43.610Z",
+  "last_synced_at": "2026-08-14T14:05:26.125Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
