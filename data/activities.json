@@ -354325,9 +354325,51 @@
       "moving_time_s": 2187,
       "elapsed_time_s": 4402,
       "elevation_m": 2.6
+    },
+    "fdc8ca0d310337cb00c7": {
+      "h": "fdc8ca0d310337cb00c7",
+      "first_seen_at": "2026-08-14T14:15:34.654Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Naufal",
+      "athlete_last": "R.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2009.3,
+      "moving_time_s": 653,
+      "elapsed_time_s": 903,
+      "elevation_m": 2
+    },
+    "bc80ca028a4bdb2c48b8": {
+      "h": "bc80ca028a4bdb2c48b8",
+      "first_seen_at": "2026-08-14T14:15:34.654Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Naufal",
+      "athlete_last": "R.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1551,
+      "moving_time_s": 719,
+      "elapsed_time_s": 734,
+      "elevation_m": 0
+    },
+    "4ddd159fa2b5cbeb154b": {
+      "h": "4ddd159fa2b5cbeb154b",
+      "first_seen_at": "2026-08-14T14:15:34.654Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Dhiwa",
+      "athlete_last": "S.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8193.2,
+      "moving_time_s": 3245,
+      "elapsed_time_s": 3669,
+      "elevation_m": 12.7
     }
   },
-  "last_synced_at": "2026-08-14T14:10:31.895Z",
+  "last_synced_at": "2026-08-14T14:15:34.654Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
