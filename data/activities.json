@@ -358315,9 +358315,37 @@
       "moving_time_s": 5422,
       "elapsed_time_s": 5422,
       "elevation_m": 1
+    },
+    "5e082755c8a951752f3f": {
+      "h": "5e082755c8a951752f3f",
+      "first_seen_at": "2026-08-15T23:25:26.671Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Amal",
+      "athlete_last": "M.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 21170.5,
+      "moving_time_s": 7077,
+      "elapsed_time_s": 7563,
+      "elevation_m": 21
+    },
+    "682c152f70a67f055ba6": {
+      "h": "682c152f70a67f055ba6",
+      "first_seen_at": "2026-08-15T23:25:26.671Z",
+      "week_key": "2026-W33",
+      "athlete_first": "\"𝑫𝑨𝒱 𝑰𝑫🥇",
+      "athlete_last": "G.",
+      "name": "Carrera de montaña vespertina",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 7334.4,
+      "moving_time_s": 2685,
+      "elapsed_time_s": 2722,
+      "elevation_m": 137
     }
   },
-  "last_synced_at": "2026-08-15T23:20:29.923Z",
+  "last_synced_at": "2026-08-15T23:25:26.671Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
