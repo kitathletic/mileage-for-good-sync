@@ -357601,9 +357601,37 @@
       "moving_time_s": 2142,
       "elapsed_time_s": 2283,
       "elevation_m": 2
+    },
+    "b42eeeabac90a8543a08": {
+      "h": "b42eeeabac90a8543a08",
+      "first_seen_at": "2026-08-15T11:00:45.320Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Jagad",
+      "athlete_last": "M.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12013.1,
+      "moving_time_s": 4945,
+      "elapsed_time_s": 5192,
+      "elevation_m": 35
+    },
+    "9270b17edbec3fc8b381": {
+      "h": "9270b17edbec3fc8b381",
+      "first_seen_at": "2026-08-15T11:00:45.320Z",
+      "week_key": "2026-W33",
+      "athlete_first": "AnilKumar",
+      "athlete_last": "K.",
+      "name": "Morning Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 13296.6,
+      "moving_time_s": 2690,
+      "elapsed_time_s": 12656,
+      "elevation_m": 67.3
     }
   },
-  "last_synced_at": "2026-08-15T10:55:25.555Z",
+  "last_synced_at": "2026-08-15T11:00:45.320Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
