@@ -357209,9 +357209,37 @@
       "moving_time_s": 3595,
       "elapsed_time_s": 6025,
       "elevation_m": 23
+    },
+    "8543f536992e29400459": {
+      "h": "8543f536992e29400459",
+      "first_seen_at": "2026-08-15T03:00:45.046Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Alief Rafael",
+      "athlete_last": "G.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12031.6,
+      "moving_time_s": 4512,
+      "elapsed_time_s": 5303,
+      "elevation_m": 95
+    },
+    "dc104be439a42284fc55": {
+      "h": "dc104be439a42284fc55",
+      "first_seen_at": "2026-08-15T03:00:45.046Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Ivan",
+      "athlete_last": "F.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5012.4,
+      "moving_time_s": 2498,
+      "elapsed_time_s": 2801,
+      "elevation_m": 24
     }
   },
-  "last_synced_at": "2026-08-15T02:55:27.764Z",
+  "last_synced_at": "2026-08-15T03:00:45.046Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
