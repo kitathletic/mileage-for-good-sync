@@ -361829,9 +361829,37 @@
       "moving_time_s": 14040,
       "elapsed_time_s": 14202,
       "elevation_m": 763
+    },
+    "01e475e54f588dab7c99": {
+      "h": "01e475e54f588dab7c99",
+      "first_seen_at": "2026-08-16T12:30:34.770Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Petra",
+      "athlete_last": "P.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5004.5,
+      "moving_time_s": 2133,
+      "elapsed_time_s": 2448,
+      "elevation_m": 7
+    },
+    "4abc16529f0e21801df1": {
+      "h": "4abc16529f0e21801df1",
+      "first_seen_at": "2026-08-16T12:30:34.770Z",
+      "week_key": "2026-W33",
+      "athlete_first": "Hendri",
+      "athlete_last": "S.",
+      "name": "Independence Day Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 17801.6,
+      "moving_time_s": 8538,
+      "elapsed_time_s": 9082,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-08-16T12:25:23.238Z",
+  "last_synced_at": "2026-08-16T12:30:34.770Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
