@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T23:45:28.331Z",
+  "generated_at": "2026-08-16T23:50:26.551Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 191.33,
-    "activities": 17,
-    "moving_time_s": 71875,
-    "elevation_m": 751
+    "distance": 228.77,
+    "activities": 21,
+    "moving_time_s": 85059,
+    "elevation_m": 1128
   },
   "rows": [
     {
@@ -34,19 +34,19 @@
       "rank": 1
     },
     {
+      "name": "Kevin T.",
+      "activities": 2,
+      "distance": 38.63,
+      "moving_time_s": 12700,
+      "elevation_m": 670,
+      "rank": 2
+    },
+    {
       "name": "Tim W.",
       "activities": 2,
       "distance": 36.04,
       "moving_time_s": 11046,
       "elevation_m": 226,
-      "rank": 2
-    },
-    {
-      "name": "Kevin T.",
-      "activities": 1,
-      "distance": 19.31,
-      "moving_time_s": 6350,
-      "elevation_m": 335,
       "rank": 3
     },
     {
@@ -98,12 +98,36 @@
       "rank": 9
     },
     {
+      "name": "RWTS ..",
+      "activities": 1,
+      "distance": 8.11,
+      "moving_time_s": 3235,
+      "elevation_m": 19,
+      "rank": 10
+    },
+    {
       "name": "Michelle L.",
       "activities": 1,
       "distance": 5.52,
       "moving_time_s": 2756,
       "elevation_m": 0,
-      "rank": 10
+      "rank": 11
+    },
+    {
+      "name": "Asa T.",
+      "activities": 1,
+      "distance": 5.01,
+      "moving_time_s": 1739,
+      "elevation_m": 19,
+      "rank": 12
+    },
+    {
+      "name": "M Doni M.",
+      "activities": 1,
+      "distance": 5,
+      "moving_time_s": 1860,
+      "elevation_m": 4,
+      "rank": 13
     },
     {
       "name": "\"𝑫𝑨𝒱 𝑰𝑫🥇 G.",
@@ -111,7 +135,7 @@
       "distance": 4.2,
       "moving_time_s": 1593,
       "elevation_m": 16,
-      "rank": 11
+      "rank": 14
     },
     {
       "name": "Silviany S.",
@@ -119,7 +143,7 @@
       "distance": 1.14,
       "moving_time_s": 642,
       "elevation_m": 0,
-      "rank": 12
+      "rank": 15
     }
   ]
 }
