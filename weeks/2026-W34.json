@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T23:15:30.025Z",
+  "generated_at": "2026-08-16T23:20:29.642Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,26 +19,26 @@
     "Walk"
   ],
   "totals": {
-    "distance": 142.15,
-    "activities": 13,
-    "moving_time_s": 53077,
-    "elevation_m": 692
+    "distance": 167.13,
+    "activities": 15,
+    "moving_time_s": 61847,
+    "elevation_m": 702
   },
   "rows": [
+    {
+      "name": "Faqih M.",
+      "activities": 2,
+      "distance": 38.91,
+      "moving_time_s": 12028,
+      "elevation_m": 20,
+      "rank": 1
+    },
     {
       "name": "Tim W.",
       "activities": 2,
       "distance": 36.04,
       "moving_time_s": 11046,
       "elevation_m": 226,
-      "rank": 1
-    },
-    {
-      "name": "Faqih M.",
-      "activities": 1,
-      "distance": 19.45,
-      "moving_time_s": 6014,
-      "elevation_m": 10,
       "rank": 2
     },
     {
@@ -82,12 +82,20 @@
       "rank": 7
     },
     {
+      "name": "Michelle L.",
+      "activities": 1,
+      "distance": 5.52,
+      "moving_time_s": 2756,
+      "elevation_m": 0,
+      "rank": 8
+    },
+    {
       "name": "\"𝑫𝑨𝒱 𝑰𝑫🥇 G.",
       "activities": 1,
       "distance": 4.2,
       "moving_time_s": 1593,
       "elevation_m": 16,
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "Silviany S.",
@@ -95,7 +103,7 @@
       "distance": 1.14,
       "moving_time_s": 642,
       "elevation_m": 0,
-      "rank": 9
+      "rank": 10
     }
   ]
 }
