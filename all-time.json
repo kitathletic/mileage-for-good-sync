@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T03:37:47.037Z",
+  "generated_at": "2026-08-16T03:40:28.106Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 233067.89,
-    "activities": 25727,
-    "moving_time_s": 96649662,
-    "elevation_m": 1280739
+    "distance": 233084.91,
+    "activities": 25728,
+    "moving_time_s": 96655908,
+    "elevation_m": 1280814
   },
   "rows": [
     {
@@ -980,12 +980,20 @@
       "rank": 119
     },
     {
+      "name": "Jagad M.",
+      "activities": 95,
+      "distance": 680.78,
+      "moving_time_s": 261589,
+      "elevation_m": 2368,
+      "rank": 120
+    },
+    {
       "name": "Hanis F.",
       "activities": 86,
       "distance": 679.58,
       "moving_time_s": 276063,
       "elevation_m": 1945,
-      "rank": 120
+      "rank": 121
     },
     {
       "name": "Arie T.",
@@ -993,7 +1001,7 @@
       "distance": 673.64,
       "moving_time_s": 224362,
       "elevation_m": 1251,
-      "rank": 121
+      "rank": 122
     },
     {
       "name": "Bimantoro B.",
@@ -1001,7 +1009,7 @@
       "distance": 673.02,
       "moving_time_s": 320344,
       "elevation_m": 3386,
-      "rank": 122
+      "rank": 123
     },
     {
       "name": "Ciko N.",
@@ -1009,7 +1017,7 @@
       "distance": 667.59,
       "moving_time_s": 385300,
       "elevation_m": 10893,
-      "rank": 123
+      "rank": 124
     },
     {
       "name": "Mario T.",
@@ -1017,7 +1025,7 @@
       "distance": 666.99,
       "moving_time_s": 262063,
       "elevation_m": 697,
-      "rank": 124
+      "rank": 125
     },
     {
       "name": "Prasena P.",
@@ -1025,14 +1033,6 @@
       "distance": 664.31,
       "moving_time_s": 260979,
       "elevation_m": 3544,
-      "rank": 125
-    },
-    {
-      "name": "Jagad M.",
-      "activities": 94,
-      "distance": 663.76,
-      "moving_time_s": 255343,
-      "elevation_m": 2293,
       "rank": 126
     },
     {
