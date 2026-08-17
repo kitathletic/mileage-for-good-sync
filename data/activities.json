@@ -363145,9 +363145,37 @@
       "moving_time_s": 7047,
       "elapsed_time_s": 8200,
       "elevation_m": 113
+    },
+    "d90295907f8bf662ae7d": {
+      "h": "d90295907f8bf662ae7d",
+      "first_seen_at": "2026-08-17T01:10:30.184Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Michellin",
+      "athlete_last": "K.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7573.3,
+      "moving_time_s": 3701,
+      "elapsed_time_s": 3709,
+      "elevation_m": 0
+    },
+    "7320fd3d1134cb72e861": {
+      "h": "7320fd3d1134cb72e861",
+      "first_seen_at": "2026-08-17T01:10:30.184Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Muhammad Rizki",
+      "athlete_last": "A.",
+      "name": "Good temperature & humidity. \nBad elevation.",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 17707.4,
+      "moving_time_s": 7047,
+      "elapsed_time_s": 8200,
+      "elevation_m": 113
     }
   },
-  "last_synced_at": "2026-08-17T01:05:23.198Z",
+  "last_synced_at": "2026-08-17T01:10:30.184Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
