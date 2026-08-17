@@ -364209,9 +364209,37 @@
       "moving_time_s": 16583,
       "elapsed_time_s": 35386,
       "elevation_m": 1120
+    },
+    "d54c1c3d09a040d8d01d": {
+      "h": "d54c1c3d09a040d8d01d",
+      "first_seen_at": "2026-08-17T09:55:26.584Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Guillermo E",
+      "athlete_last": "O.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2871.3,
+      "moving_time_s": 2155,
+      "elapsed_time_s": 2162,
+      "elevation_m": 1
+    },
+    "13c2fcd4aa0695855615": {
+      "h": "13c2fcd4aa0695855615",
+      "first_seen_at": "2026-08-17T09:55:26.584Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Paulo",
+      "athlete_last": "R.",
+      "name": "Corrida matinal",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7654.5,
+      "moving_time_s": 3354,
+      "elapsed_time_s": 4322,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-08-17T09:50:28.760Z",
+  "last_synced_at": "2026-08-17T09:55:26.584Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
