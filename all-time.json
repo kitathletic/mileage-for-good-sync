@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T16:30:35.128Z",
+  "generated_at": "2026-08-17T16:35:24.631Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 235896.45,
-    "activities": 25992,
-    "moving_time_s": 97930964,
-    "elevation_m": 1307599
+    "distance": 235915.91,
+    "activities": 25993,
+    "moving_time_s": 97941349,
+    "elevation_m": 1307644
   },
   "rows": [
     {
@@ -516,12 +516,20 @@
       "rank": 61
     },
     {
+      "name": "Hendri S.",
+      "activities": 162,
+      "distance": 1005.07,
+      "moving_time_s": 517059,
+      "elevation_m": 1676,
+      "rank": 62
+    },
+    {
       "name": "Ahmad R.",
       "activities": 95,
       "distance": 996.74,
       "moving_time_s": 381882,
       "elevation_m": 4247,
-      "rank": 62
+      "rank": 63
     },
     {
       "name": "Irwan Sastra W.",
@@ -529,14 +537,6 @@
       "distance": 993.06,
       "moving_time_s": 412505,
       "elevation_m": 2454,
-      "rank": 63
-    },
-    {
-      "name": "Hendri S.",
-      "activities": 161,
-      "distance": 985.61,
-      "moving_time_s": 506674,
-      "elevation_m": 1631,
       "rank": 64
     },
     {
