@@ -364839,9 +364839,37 @@
       "moving_time_s": 4438,
       "elapsed_time_s": 4438,
       "elevation_m": 224
+    },
+    "1335de5701034bbab270": {
+      "h": "1335de5701034bbab270",
+      "first_seen_at": "2026-08-17T16:30:35.128Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Peter Nichlas",
+      "athlete_last": "S.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7009.9,
+      "moving_time_s": 2595,
+      "elapsed_time_s": 2604,
+      "elevation_m": 1
+    },
+    "eed9ea7dd018892a39aa": {
+      "h": "eed9ea7dd018892a39aa",
+      "first_seen_at": "2026-08-17T16:30:35.128Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Hendri",
+      "athlete_last": "S.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 19451.5,
+      "moving_time_s": 10385,
+      "elapsed_time_s": 10610,
+      "elevation_m": 45
     }
   },
-  "last_synced_at": "2026-08-17T16:25:27.210Z",
+  "last_synced_at": "2026-08-17T16:30:35.128Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
