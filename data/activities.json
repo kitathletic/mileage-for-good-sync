@@ -364601,9 +364601,37 @@
       "moving_time_s": 2154,
       "elapsed_time_s": 2154,
       "elevation_m": 5
+    },
+    "cc677e58274f4752b367": {
+      "h": "cc677e58274f4752b367",
+      "first_seen_at": "2026-08-17T12:30:38.078Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Fredyan",
+      "athlete_last": "P.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3003,
+      "moving_time_s": 1468,
+      "elapsed_time_s": 1674,
+      "elevation_m": 5
+    },
+    "e74b5d52c90f730e21df": {
+      "h": "e74b5d52c90f730e21df",
+      "first_seen_at": "2026-08-17T12:30:38.078Z",
+      "week_key": "2026-W34",
+      "athlete_first": "rendy",
+      "athlete_last": "G.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9944.4,
+      "moving_time_s": 4186,
+      "elapsed_time_s": 4606,
+      "elevation_m": 8.3
     }
   },
-  "last_synced_at": "2026-08-17T12:25:24.724Z",
+  "last_synced_at": "2026-08-17T12:30:38.078Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
