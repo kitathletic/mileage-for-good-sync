@@ -367233,9 +367233,37 @@
       "moving_time_s": 3771,
       "elapsed_time_s": 3977,
       "elevation_m": 61
+    },
+    "459875d7a6617e3249dc": {
+      "h": "459875d7a6617e3249dc",
+      "first_seen_at": "2026-08-18T13:25:25.987Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Rhamdan",
+      "athlete_last": "I.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6651.3,
+      "moving_time_s": 2279,
+      "elapsed_time_s": 2420,
+      "elevation_m": 19
+    },
+    "bdb2ab9371302adca2d7": {
+      "h": "bdb2ab9371302adca2d7",
+      "first_seen_at": "2026-08-18T13:25:25.987Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Ghani",
+      "athlete_last": "W.",
+      "name": "Morning Run | Base",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6207.6,
+      "moving_time_s": 2592,
+      "elapsed_time_s": 2595,
+      "elevation_m": 10
     }
   },
-  "last_synced_at": "2026-08-18T13:20:32.924Z",
+  "last_synced_at": "2026-08-18T13:25:25.987Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
