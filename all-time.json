@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T09:25:24.918Z",
+  "generated_at": "2026-08-18T09:30:36.075Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 236894.27,
-    "activities": 26114,
-    "moving_time_s": 98315643,
-    "elevation_m": 1311157
+    "distance": 236911.92,
+    "activities": 26116,
+    "moving_time_s": 98328228,
+    "elevation_m": 1311213
   },
   "rows": [
     {
@@ -36,19 +36,19 @@
       "rank": 1
     },
     {
+      "name": "Evan B.",
+      "activities": 66,
+      "distance": 2539.93,
+      "moving_time_s": 1167318,
+      "elevation_m": 12976,
+      "rank": 2
+    },
+    {
       "name": "win C.",
       "activities": 222,
       "distance": 2530.69,
       "moving_time_s": 1032698,
       "elevation_m": 19780,
-      "rank": 2
-    },
-    {
-      "name": "Evan B.",
-      "activities": 65,
-      "distance": 2527.01,
-      "moving_time_s": 1157588,
-      "elevation_m": 12976,
       "rank": 3
     },
     {
@@ -3020,12 +3020,20 @@
       "rank": 374
     },
     {
+      "name": "Taufiq H.",
+      "activities": 32,
+      "distance": 128.18,
+      "moving_time_s": 69868,
+      "elevation_m": 763,
+      "rank": 375
+    },
+    {
       "name": "Arman Fellany L.",
       "activities": 12,
       "distance": 126.49,
       "moving_time_s": 59395,
       "elevation_m": 581,
-      "rank": 375
+      "rank": 376
     },
     {
       "name": "Fredyan P.",
@@ -3033,7 +3041,7 @@
       "distance": 125.38,
       "moving_time_s": 54821,
       "elevation_m": 150,
-      "rank": 376
+      "rank": 377
     },
     {
       "name": "Shannen A.",
@@ -3041,14 +3049,6 @@
       "distance": 125.12,
       "moving_time_s": 51714,
       "elevation_m": 275,
-      "rank": 377
-    },
-    {
-      "name": "Taufiq H.",
-      "activities": 31,
-      "distance": 123.45,
-      "moving_time_s": 67013,
-      "elevation_m": 707,
       "rank": 378
     },
     {
