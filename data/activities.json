@@ -367023,9 +367023,37 @@
       "moving_time_s": 9730,
       "elapsed_time_s": 10584,
       "elevation_m": 0
+    },
+    "a3f9fa67d9a91b5ad655": {
+      "h": "a3f9fa67d9a91b5ad655",
+      "first_seen_at": "2026-08-18T12:30:37.283Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Teguh",
+      "athlete_last": "W.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 9004,
+      "moving_time_s": 4297,
+      "elapsed_time_s": 4524,
+      "elevation_m": 16
+    },
+    "6dda0f63a397e8bd55d7": {
+      "h": "6dda0f63a397e8bd55d7",
+      "first_seen_at": "2026-08-18T12:30:37.283Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Izhar",
+      "athlete_last": "R.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 14000,
+      "moving_time_s": 5943,
+      "elapsed_time_s": 5943,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-08-18T12:25:26.073Z",
+  "last_synced_at": "2026-08-18T12:30:37.283Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
