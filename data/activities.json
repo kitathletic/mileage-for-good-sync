@@ -366757,9 +366757,37 @@
       "moving_time_s": 4356,
       "elapsed_time_s": 4407,
       "elevation_m": 251.6
+    },
+    "e7758d0cc8727f51302c": {
+      "h": "e7758d0cc8727f51302c",
+      "first_seen_at": "2026-08-18T11:05:27.504Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Denny",
+      "athlete_last": "R.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6246.5,
+      "moving_time_s": 1953,
+      "elapsed_time_s": 1964,
+      "elevation_m": 4
+    },
+    "0395fb999426761456b0": {
+      "h": "0395fb999426761456b0",
+      "first_seen_at": "2026-08-18T11:05:27.504Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Jagad",
+      "athlete_last": "M.",
+      "name": "Neighborhood Run. 10K Zone 2-3",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10007,
+      "moving_time_s": 4342,
+      "elapsed_time_s": 4353,
+      "elevation_m": 32
     }
   },
-  "last_synced_at": "2026-08-18T11:00:45.795Z",
+  "last_synced_at": "2026-08-18T11:05:27.504Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
