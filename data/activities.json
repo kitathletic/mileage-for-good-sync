@@ -370467,9 +370467,37 @@
       "moving_time_s": 2019,
       "elapsed_time_s": 2019,
       "elevation_m": 2
+    },
+    "54c2a80cfe185e081c0f": {
+      "h": "54c2a80cfe185e081c0f",
+      "first_seen_at": "2026-08-19T15:30:39.303Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Ghani",
+      "athlete_last": "W.",
+      "name": "Night Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3054.4,
+      "moving_time_s": 1848,
+      "elapsed_time_s": 2752,
+      "elevation_m": 0
+    },
+    "c4d4dfea7ceaff8c3dad": {
+      "h": "c4d4dfea7ceaff8c3dad",
+      "first_seen_at": "2026-08-19T15:30:39.303Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Revli",
+      "athlete_last": "P.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6842.2,
+      "moving_time_s": 2968,
+      "elapsed_time_s": 4714,
+      "elevation_m": 4
     }
   },
-  "last_synced_at": "2026-08-19T15:25:25.750Z",
+  "last_synced_at": "2026-08-19T15:30:39.303Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
