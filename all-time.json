@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T14:10:33.202Z",
+  "generated_at": "2026-08-19T14:15:29.347Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,9 +21,9 @@
     "Walk"
   ],
   "totals": {
-    "distance": 238935.16,
-    "activities": 26378,
-    "moving_time_s": 99121352,
+    "distance": 238957.85,
+    "activities": 26381,
+    "moving_time_s": 99130677,
     "elevation_m": 1318273
   },
   "rows": [
@@ -556,12 +556,20 @@
       "rank": 66
     },
     {
+      "name": "Rama E.",
+      "activities": 65,
+      "distance": 983.95,
+      "moving_time_s": 427064,
+      "elevation_m": 7655,
+      "rank": 67
+    },
+    {
       "name": "Alief Rafael G.",
       "activities": 95,
       "distance": 983.17,
       "moving_time_s": 345504,
       "elevation_m": 5275,
-      "rank": 67
+      "rank": 68
     },
     {
       "name": "Alit D.",
@@ -569,14 +577,6 @@
       "distance": 981.79,
       "moving_time_s": 375648,
       "elevation_m": 2392,
-      "rank": 68
-    },
-    {
-      "name": "Rama E.",
-      "activities": 64,
-      "distance": 977.63,
-      "moving_time_s": 424457,
-      "elevation_m": 7655,
       "rank": 69
     },
     {
@@ -740,19 +740,19 @@
       "rank": 89
     },
     {
+      "name": "Deri J.",
+      "activities": 82,
+      "distance": 850.98,
+      "moving_time_s": 372698,
+      "elevation_m": 2411,
+      "rank": 90
+    },
+    {
       "name": "Ryan R.",
       "activities": 70,
       "distance": 848.75,
       "moving_time_s": 485913,
       "elevation_m": 18955,
-      "rank": 90
-    },
-    {
-      "name": "Deri J.",
-      "activities": 81,
-      "distance": 838.64,
-      "moving_time_s": 367572,
-      "elevation_m": 2411,
       "rank": 91
     },
     {
@@ -2868,19 +2868,19 @@
       "rank": 355
     },
     {
+      "name": "Dianty A.",
+      "activities": 36,
+      "distance": 158.46,
+      "moving_time_s": 74103,
+      "elevation_m": 802,
+      "rank": 356
+    },
+    {
       "name": "Adam V.",
       "activities": 36,
       "distance": 157.79,
       "moving_time_s": 73837,
       "elevation_m": 736,
-      "rank": 356
-    },
-    {
-      "name": "Dianty A.",
-      "activities": 35,
-      "distance": 154.43,
-      "moving_time_s": 72511,
-      "elevation_m": 802,
       "rank": 357
     },
     {
