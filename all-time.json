@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T12:10:31.850Z",
+  "generated_at": "2026-08-19T12:15:28.600Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 238707.26,
-    "activities": 26346,
-    "moving_time_s": 99026489,
-    "elevation_m": 1317607
+    "distance": 238726.82,
+    "activities": 26348,
+    "moving_time_s": 99034666,
+    "elevation_m": 1317747
   },
   "rows": [
     {
@@ -492,19 +492,19 @@
       "rank": 58
     },
     {
+      "name": "Aaron A.",
+      "activities": 90,
+      "distance": 1033.12,
+      "moving_time_s": 445649,
+      "elevation_m": 4937,
+      "rank": 59
+    },
+    {
       "name": "Indra Z.",
       "activities": 97,
       "distance": 1031.09,
       "moving_time_s": 368023,
       "elevation_m": 1428,
-      "rank": 59
-    },
-    {
-      "name": "Aaron A.",
-      "activities": 89,
-      "distance": 1024.42,
-      "moving_time_s": 441917,
-      "elevation_m": 4811,
       "rank": 60
     },
     {
@@ -1372,12 +1372,20 @@
       "rank": 168
     },
     {
+      "name": "Suryanto F.",
+      "activities": 60,
+      "distance": 537.43,
+      "moving_time_s": 219894,
+      "elevation_m": 866,
+      "rank": 169
+    },
+    {
       "name": "Rizky Alfian A.",
       "activities": 60,
       "distance": 529.31,
       "moving_time_s": 217097,
       "elevation_m": 435,
-      "rank": 169
+      "rank": 170
     },
     {
       "name": "Aldi O.",
@@ -1385,7 +1393,7 @@
       "distance": 528.32,
       "moving_time_s": 228245,
       "elevation_m": 714,
-      "rank": 170
+      "rank": 171
     },
     {
       "name": "Radifan H.",
@@ -1393,14 +1401,6 @@
       "distance": 526.82,
       "moving_time_s": 221958,
       "elevation_m": 844,
-      "rank": 171
-    },
-    {
-      "name": "Suryanto F.",
-      "activities": 59,
-      "distance": 526.57,
-      "moving_time_s": 215449,
-      "elevation_m": 852,
       "rank": 172
     },
     {

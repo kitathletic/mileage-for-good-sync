@@ -369823,9 +369823,37 @@
       "moving_time_s": 3122,
       "elapsed_time_s": 3122,
       "elevation_m": 4
+    },
+    "37719be6a32172f40d72": {
+      "h": "37719be6a32172f40d72",
+      "first_seen_at": "2026-08-19T12:15:28.600Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Suryanto",
+      "athlete_last": "F.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10861.9,
+      "moving_time_s": 4445,
+      "elapsed_time_s": 4483,
+      "elevation_m": 14
+    },
+    "9a2f34f8d1661d89e106": {
+      "h": "9a2f34f8d1661d89e106",
+      "first_seen_at": "2026-08-19T12:15:28.600Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Aaron",
+      "athlete_last": "A.",
+      "name": "Hill repeat",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8702.4,
+      "moving_time_s": 3732,
+      "elapsed_time_s": 3775,
+      "elevation_m": 126
     }
   },
-  "last_synced_at": "2026-08-19T12:10:31.850Z",
+  "last_synced_at": "2026-08-19T12:15:28.600Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
