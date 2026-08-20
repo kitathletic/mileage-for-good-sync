@@ -372553,9 +372553,37 @@
       "moving_time_s": 1946,
       "elapsed_time_s": 2084,
       "elevation_m": 0
+    },
+    "0b8b7893dbcd2c95f18b": {
+      "h": "0b8b7893dbcd2c95f18b",
+      "first_seen_at": "2026-08-20T11:05:25.909Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Abdu",
+      "athlete_last": "B.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5006.5,
+      "moving_time_s": 2203,
+      "elapsed_time_s": 2783,
+      "elevation_m": 0
+    },
+    "1e8aa9c8ce014b42de4c": {
+      "h": "1e8aa9c8ce014b42de4c",
+      "first_seen_at": "2026-08-20T11:05:25.909Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Rhamdan",
+      "athlete_last": "I.",
+      "name": "Tempo Run 6000m",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10014.9,
+      "moving_time_s": 3601,
+      "elapsed_time_s": 3601,
+      "elevation_m": 6
     }
   },
-  "last_synced_at": "2026-08-20T11:00:44.602Z",
+  "last_synced_at": "2026-08-20T11:05:25.909Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
