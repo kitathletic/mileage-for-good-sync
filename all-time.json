@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T23:35:22.499Z",
+  "generated_at": "2026-08-20T23:40:31.289Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 240728.97,
-    "activities": 26618,
-    "moving_time_s": 99824612,
-    "elevation_m": 1324906
+    "distance": 240761.11,
+    "activities": 26621,
+    "moving_time_s": 99837438,
+    "elevation_m": 1324995
   },
   "rows": [
     {
@@ -396,12 +396,28 @@
       "rank": 46
     },
     {
+      "name": "Diah I.",
+      "activities": 79,
+      "distance": 1155.85,
+      "moving_time_s": 443723,
+      "elevation_m": 4638,
+      "rank": 47
+    },
+    {
       "name": "Amal M.",
       "activities": 92,
       "distance": 1149.45,
       "moving_time_s": 425818,
       "elevation_m": 3192,
-      "rank": 47
+      "rank": 48
+    },
+    {
+      "name": "rimico A.",
+      "activities": 102,
+      "distance": 1147.94,
+      "moving_time_s": 410329,
+      "elevation_m": 3598,
+      "rank": 49
     },
     {
       "name": "Tenesse D.",
@@ -409,22 +425,6 @@
       "distance": 1142.36,
       "moving_time_s": 431701,
       "elevation_m": 1034,
-      "rank": 48
-    },
-    {
-      "name": "Diah I.",
-      "activities": 78,
-      "distance": 1140.84,
-      "moving_time_s": 437612,
-      "elevation_m": 4593,
-      "rank": 49
-    },
-    {
-      "name": "rimico A.",
-      "activities": 101,
-      "distance": 1136.83,
-      "moving_time_s": 406401,
-      "elevation_m": 3564,
       "rank": 50
     },
     {
@@ -1620,12 +1620,20 @@
       "rank": 199
     },
     {
+      "name": "Niky T.",
+      "activities": 61,
+      "distance": 454.41,
+      "moving_time_s": 204007,
+      "elevation_m": 901,
+      "rank": 200
+    },
+    {
       "name": "Yova G.",
       "activities": 40,
       "distance": 450.71,
       "moving_time_s": 194402,
       "elevation_m": 4451,
-      "rank": 200
+      "rank": 201
     },
     {
       "name": "Bondan S.",
@@ -1633,14 +1641,6 @@
       "distance": 448.83,
       "moving_time_s": 196559,
       "elevation_m": 3392,
-      "rank": 201
-    },
-    {
-      "name": "Niky T.",
-      "activities": 60,
-      "distance": 448.39,
-      "moving_time_s": 201220,
-      "elevation_m": 891,
       "rank": 202
     },
     {
