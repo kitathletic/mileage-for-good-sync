@@ -372581,9 +372581,37 @@
       "moving_time_s": 3601,
       "elapsed_time_s": 3601,
       "elevation_m": 6
+    },
+    "fd105ac655b4b155833a": {
+      "h": "fd105ac655b4b155833a",
+      "first_seen_at": "2026-08-20T11:15:13.327Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Samsul",
+      "athlete_last": "K.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7019.8,
+      "moving_time_s": 2669,
+      "elapsed_time_s": 2673,
+      "elevation_m": 0
+    },
+    "129aef9978bad5dcd9ed": {
+      "h": "129aef9978bad5dcd9ed",
+      "first_seen_at": "2026-08-20T11:15:13.327Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Rio",
+      "athlete_last": "P.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 0,
+      "moving_time_s": 3299,
+      "elapsed_time_s": 3299,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-08-20T11:10:32.049Z",
+  "last_synced_at": "2026-08-20T11:15:13.327Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
