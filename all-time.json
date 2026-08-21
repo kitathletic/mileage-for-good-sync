@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T22:40:28.806Z",
+  "generated_at": "2026-08-21T22:45:27.205Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 241953.14,
-    "activities": 26769,
-    "moving_time_s": 100318098,
-    "elevation_m": 1330370
+    "distance": 241962.03,
+    "activities": 26770,
+    "moving_time_s": 100322160,
+    "elevation_m": 1330467
   },
   "rows": [
     {
@@ -2116,12 +2116,20 @@
       "rank": 261
     },
     {
+      "name": "Bosca H.",
+      "activities": 44,
+      "distance": 317.95,
+      "moving_time_s": 142191,
+      "elevation_m": 2514,
+      "rank": 262
+    },
+    {
       "name": "Pandu P.",
       "activities": 60,
       "distance": 316.57,
       "moving_time_s": 132940,
       "elevation_m": 907,
-      "rank": 262
+      "rank": 263
     },
     {
       "name": "Chairil A.",
@@ -2129,7 +2137,7 @@
       "distance": 313.91,
       "moving_time_s": 122796,
       "elevation_m": 2015,
-      "rank": 263
+      "rank": 264
     },
     {
       "name": "Denny R.",
@@ -2137,7 +2145,7 @@
       "distance": 312.56,
       "moving_time_s": 109403,
       "elevation_m": 80,
-      "rank": 264
+      "rank": 265
     },
     {
       "name": "Zahri R.",
@@ -2145,7 +2153,7 @@
       "distance": 312.08,
       "moving_time_s": 151716,
       "elevation_m": 970,
-      "rank": 265
+      "rank": 266
     },
     {
       "name": "Rio P.",
@@ -2153,7 +2161,7 @@
       "distance": 311.7,
       "moving_time_s": 157713,
       "elevation_m": 84,
-      "rank": 266
+      "rank": 267
     },
     {
       "name": "Devin S.",
@@ -2161,14 +2169,6 @@
       "distance": 309.27,
       "moving_time_s": 107593,
       "elevation_m": 1930,
-      "rank": 267
-    },
-    {
-      "name": "Bosca H.",
-      "activities": 43,
-      "distance": 309.06,
-      "moving_time_s": 138129,
-      "elevation_m": 2417,
       "rank": 268
     },
     {
