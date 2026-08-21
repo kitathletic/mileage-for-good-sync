@@ -375423,9 +375423,37 @@
       "moving_time_s": 3595,
       "elapsed_time_s": 3611,
       "elevation_m": 15
+    },
+    "7e6a6020ce9871d21bad": {
+      "h": "7e6a6020ce9871d21bad",
+      "first_seen_at": "2026-08-21T14:00:43.109Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Prasena",
+      "athlete_last": "P.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10008.6,
+      "moving_time_s": 2920,
+      "elapsed_time_s": 2920,
+      "elevation_m": 0
+    },
+    "b5a15bb4564db5131208": {
+      "h": "b5a15bb4564db5131208",
+      "first_seen_at": "2026-08-21T14:00:43.109Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Paulo",
+      "athlete_last": "R.",
+      "name": "Corrida matinal",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6024.9,
+      "moving_time_s": 2271,
+      "elapsed_time_s": 2271,
+      "elevation_m": 21
     }
   },
-  "last_synced_at": "2026-08-21T13:55:23.557Z",
+  "last_synced_at": "2026-08-21T14:00:43.109Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
