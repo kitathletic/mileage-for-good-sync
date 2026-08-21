@@ -375759,9 +375759,65 @@
       "moving_time_s": 4062,
       "elapsed_time_s": 4710,
       "elevation_m": 97
+    },
+    "3ab9263e6cae94414d5d": {
+      "h": "3ab9263e6cae94414d5d",
+      "first_seen_at": "2026-08-21T22:50:29.083Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Ryan Adrian",
+      "athlete_last": "B.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5020.6,
+      "moving_time_s": 2052,
+      "elapsed_time_s": 2052,
+      "elevation_m": 3
+    },
+    "1ff0fb9241f444d16c77": {
+      "h": "1ff0fb9241f444d16c77",
+      "first_seen_at": "2026-08-21T22:50:29.083Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Amal",
+      "athlete_last": "M.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5078.2,
+      "moving_time_s": 2134,
+      "elapsed_time_s": 2140,
+      "elevation_m": 2
+    },
+    "a4ab10efb1411463fc74": {
+      "h": "a4ab10efb1411463fc74",
+      "first_seen_at": "2026-08-21T22:50:29.083Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Faqih",
+      "athlete_last": "M.",
+      "name": "Berlari Pagi",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12499,
+      "moving_time_s": 5223,
+      "elapsed_time_s": 5232,
+      "elevation_m": 22.9
+    },
+    "fb5cf89cc0c2004ca4a3": {
+      "h": "fb5cf89cc0c2004ca4a3",
+      "first_seen_at": "2026-08-21T22:50:29.083Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Pedro",
+      "athlete_last": "V.",
+      "name": "Corrida da tarde",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 24008.5,
+      "moving_time_s": 7045,
+      "elapsed_time_s": 7061,
+      "elevation_m": 315
     }
   },
-  "last_synced_at": "2026-08-21T22:45:27.205Z",
+  "last_synced_at": "2026-08-21T22:50:29.083Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
