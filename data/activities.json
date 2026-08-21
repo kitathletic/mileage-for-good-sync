@@ -375073,9 +375073,37 @@
       "moving_time_s": 3892,
       "elapsed_time_s": 3898,
       "elevation_m": 23
+    },
+    "ab56ee18149db11a3eee": {
+      "h": "ab56ee18149db11a3eee",
+      "first_seen_at": "2026-08-21T11:35:25.403Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Bosca",
+      "athlete_last": "H.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8281.9,
+      "moving_time_s": 3901,
+      "elapsed_time_s": 3926,
+      "elevation_m": 44
+    },
+    "630b30153e2c825fc1ab": {
+      "h": "630b30153e2c825fc1ab",
+      "first_seen_at": "2026-08-21T11:35:25.403Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Jeremiah",
+      "athlete_last": "S.",
+      "name": "Morning Run / BTC breakout wkwk",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5014.7,
+      "moving_time_s": 1801,
+      "elapsed_time_s": 1801,
+      "elevation_m": 23
     }
   },
-  "last_synced_at": "2026-08-21T11:30:35.635Z",
+  "last_synced_at": "2026-08-21T11:35:25.403Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
