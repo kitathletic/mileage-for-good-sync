@@ -374695,9 +374695,37 @@
       "moving_time_s": 3097,
       "elapsed_time_s": 3097,
       "elevation_m": 67
+    },
+    "5379553334f21b58bdc0": {
+      "h": "5379553334f21b58bdc0",
+      "first_seen_at": "2026-08-21T02:45:29.648Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Aaron",
+      "athlete_last": "A.",
+      "name": "Easy 10k",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10008.3,
+      "moving_time_s": 4557,
+      "elapsed_time_s": 4606,
+      "elevation_m": 10
+    },
+    "8f6dce5ce84bf6bd5140": {
+      "h": "8f6dce5ce84bf6bd5140",
+      "first_seen_at": "2026-08-21T02:45:29.648Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Ihsan",
+      "athlete_last": "A.",
+      "name": "Late Night Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6059.8,
+      "moving_time_s": 1982,
+      "elapsed_time_s": 47185,
+      "elevation_m": 236.1
     }
   },
-  "last_synced_at": "2026-08-21T02:40:26.596Z",
+  "last_synced_at": "2026-08-21T02:45:29.648Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
