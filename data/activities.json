@@ -378503,9 +378503,37 @@
       "moving_time_s": 2712,
       "elapsed_time_s": 3572,
       "elevation_m": 7
+    },
+    "6a09ce42dd7abc4e9f15": {
+      "h": "6a09ce42dd7abc4e9f15",
+      "first_seen_at": "2026-08-22T11:30:34.775Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Abdu",
+      "athlete_last": "B.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6669.3,
+      "moving_time_s": 3605,
+      "elapsed_time_s": 3608,
+      "elevation_m": 17.9
+    },
+    "58c36426eb21971ed38a": {
+      "h": "58c36426eb21971ed38a",
+      "first_seen_at": "2026-08-22T11:30:34.775Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Dhiwa",
+      "athlete_last": "S.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 16084,
+      "moving_time_s": 5101,
+      "elapsed_time_s": 5485,
+      "elevation_m": 25.4
     }
   },
-  "last_synced_at": "2026-08-22T11:25:23.194Z",
+  "last_synced_at": "2026-08-22T11:30:34.775Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
