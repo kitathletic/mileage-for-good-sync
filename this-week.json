@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T11:05:23.187Z",
+  "generated_at": "2026-08-22T11:09:30.610Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 10157.49,
-    "activities": 1169,
-    "moving_time_s": 4101555,
-    "elevation_m": 46780
+    "distance": 10157.91,
+    "activities": 1170,
+    "moving_time_s": 4101672,
+    "elevation_m": 46781
   },
   "rows": [
     {
@@ -1186,12 +1186,20 @@
       "rank": 145
     },
     {
+      "name": "Reynaldi O.",
+      "activities": 5,
+      "distance": 24.46,
+      "moving_time_s": 10192,
+      "elevation_m": 66,
+      "rank": 146
+    },
+    {
       "name": "Gregory M.",
       "activities": 5,
       "distance": 24.39,
       "moving_time_s": 9751,
       "elevation_m": 138,
-      "rank": 146
+      "rank": 147
     },
     {
       "name": "baphomet ..",
@@ -1199,7 +1207,7 @@
       "distance": 24.35,
       "moving_time_s": 9358,
       "elevation_m": 109,
-      "rank": 147
+      "rank": 148
     },
     {
       "name": "Leon R.",
@@ -1207,14 +1215,6 @@
       "distance": 24.11,
       "moving_time_s": 9080,
       "elevation_m": 14,
-      "rank": 148
-    },
-    {
-      "name": "Reynaldi O.",
-      "activities": 4,
-      "distance": 24.04,
-      "moving_time_s": 10075,
-      "elevation_m": 65,
       "rank": 149
     },
     {
