@@ -382143,9 +382143,37 @@
       "moving_time_s": 936,
       "elapsed_time_s": 1011,
       "elevation_m": 85.4
+    },
+    "706ee2e867e7ab0aba30": {
+      "h": "706ee2e867e7ab0aba30",
+      "first_seen_at": "2026-08-23T04:40:29.385Z",
+      "week_key": "2026-W34",
+      "athlete_first": "hendra",
+      "athlete_last": "K.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5015.1,
+      "moving_time_s": 2675,
+      "elapsed_time_s": 3074,
+      "elevation_m": 0
+    },
+    "5f0b211fc57ac2927cea": {
+      "h": "5f0b211fc57ac2927cea",
+      "first_seen_at": "2026-08-23T04:40:29.385Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Arif",
+      "athlete_last": "B.",
+      "name": "Maybank Marathon",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 42452.1,
+      "moving_time_s": 20902,
+      "elapsed_time_s": 22131,
+      "elevation_m": 344
     }
   },
-  "last_synced_at": "2026-08-23T04:35:25.220Z",
+  "last_synced_at": "2026-08-23T04:40:29.385Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
