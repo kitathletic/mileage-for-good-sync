@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T23:15:28.244Z",
+  "generated_at": "2026-08-23T23:20:29.273Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 248717.25,
-    "activities": 27321,
-    "moving_time_s": 103065209,
-    "elevation_m": 1372729
+    "distance": 248733.32,
+    "activities": 27323,
+    "moving_time_s": 103071991,
+    "elevation_m": 1372764
   },
   "rows": [
     {
@@ -516,12 +516,20 @@
       "rank": 61
     },
     {
+      "name": "Alit D.",
+      "activities": 85,
+      "distance": 1065.34,
+      "moving_time_s": 408507,
+      "elevation_m": 2577,
+      "rank": 62
+    },
+    {
       "name": "Stefanus E.",
       "activities": 158,
       "distance": 1064.51,
       "moving_time_s": 460093,
       "elevation_m": 2938,
-      "rank": 62
+      "rank": 63
     },
     {
       "name": "Indra Z.",
@@ -529,14 +537,6 @@
       "distance": 1059.66,
       "moving_time_s": 378173,
       "elevation_m": 1456,
-      "rank": 63
-    },
-    {
-      "name": "Alit D.",
-      "activities": 84,
-      "distance": 1053.27,
-      "moving_time_s": 403624,
-      "elevation_m": 2546,
       "rank": 64
     },
     {
@@ -3060,12 +3060,20 @@
       "rank": 379
     },
     {
+      "name": "Fredyan P.",
+      "activities": 24,
+      "distance": 129.38,
+      "moving_time_s": 56720,
+      "elevation_m": 154,
+      "rank": 380
+    },
+    {
       "name": "Ikhya A.",
       "activities": 25,
       "distance": 128.3,
       "moving_time_s": 52444,
       "elevation_m": 320,
-      "rank": 380
+      "rank": 381
     },
     {
       "name": "Arman Fellany L.",
@@ -3073,14 +3081,6 @@
       "distance": 126.49,
       "moving_time_s": 59395,
       "elevation_m": 581,
-      "rank": 381
-    },
-    {
-      "name": "Fredyan P.",
-      "activities": 23,
-      "distance": 125.38,
-      "moving_time_s": 54821,
-      "elevation_m": 150,
       "rank": 382
     },
     {
