@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T23:20:29.273Z",
+  "generated_at": "2026-08-23T23:25:22.508Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 248733.32,
-    "activities": 27323,
-    "moving_time_s": 103071991,
-    "elevation_m": 1372764
+    "distance": 248760.39,
+    "activities": 27325,
+    "moving_time_s": 103082991,
+    "elevation_m": 1372838
   },
   "rows": [
     {
@@ -404,19 +404,19 @@
       "rank": 47
     },
     {
+      "name": "Diah I.",
+      "activities": 82,
+      "distance": 1195.9,
+      "moving_time_s": 458693,
+      "elevation_m": 4924,
+      "rank": 48
+    },
+    {
       "name": "Tenesse D.",
       "activities": 114,
       "distance": 1188.14,
       "moving_time_s": 447769,
       "elevation_m": 1062,
-      "rank": 48
-    },
-    {
-      "name": "Diah I.",
-      "activities": 81,
-      "distance": 1180.89,
-      "moving_time_s": 452576,
-      "elevation_m": 4881,
       "rank": 49
     },
     {
@@ -492,12 +492,20 @@
       "rank": 58
     },
     {
+      "name": "Alit D.",
+      "activities": 86,
+      "distance": 1077.4,
+      "moving_time_s": 413390,
+      "elevation_m": 2608,
+      "rank": 59
+    },
+    {
       "name": "Ahmad R.",
       "activities": 101,
       "distance": 1076.76,
       "moving_time_s": 412469,
       "elevation_m": 4501,
-      "rank": 59
+      "rank": 60
     },
     {
       "name": "Hendri S.",
@@ -505,7 +513,7 @@
       "distance": 1071.66,
       "moving_time_s": 551603,
       "elevation_m": 1689,
-      "rank": 60
+      "rank": 61
     },
     {
       "name": "Indra D.",
@@ -513,14 +521,6 @@
       "distance": 1065.89,
       "moving_time_s": 439914,
       "elevation_m": 7418,
-      "rank": 61
-    },
-    {
-      "name": "Alit D.",
-      "activities": 85,
-      "distance": 1065.34,
-      "moving_time_s": 408507,
-      "elevation_m": 2577,
       "rank": 62
     },
     {
