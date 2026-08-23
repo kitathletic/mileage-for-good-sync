@@ -380981,9 +380981,37 @@
       "moving_time_s": 14355,
       "elapsed_time_s": 14381,
       "elevation_m": 343
+    },
+    "26ceedb9c03848298ad7": {
+      "h": "26ceedb9c03848298ad7",
+      "first_seen_at": "2026-08-23T01:10:31.544Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Mario",
+      "athlete_last": "J.",
+      "name": "Maybank HM 2026",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 21229.5,
+      "moving_time_s": 7930,
+      "elapsed_time_s": 7933,
+      "elevation_m": 180
+    },
+    "c553d39f6dbbd25e9c5d": {
+      "h": "c553d39f6dbbd25e9c5d",
+      "first_seen_at": "2026-08-23T01:10:31.544Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Andreas",
+      "athlete_last": "T.",
+      "name": "Morning Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 13608.1,
+      "moving_time_s": 6251,
+      "elapsed_time_s": 10014,
+      "elevation_m": 264
     }
   },
-  "last_synced_at": "2026-08-23T01:05:23.192Z",
+  "last_synced_at": "2026-08-23T01:10:31.544Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
