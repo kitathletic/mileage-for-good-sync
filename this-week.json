@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T23:10:27.095Z",
+  "generated_at": "2026-08-23T23:15:28.244Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 87.83,
-    "activities": 6,
-    "moving_time_s": 32952,
-    "elevation_m": 407
+    "distance": 125.19,
+    "activities": 11,
+    "moving_time_s": 48870,
+    "elevation_m": 448
   },
   "rows": [
     {
@@ -42,12 +42,36 @@
       "rank": 2
     },
     {
+      "name": "Arya .",
+      "activities": 1,
+      "distance": 10.46,
+      "moving_time_s": 4250,
+      "elevation_m": 6,
+      "rank": 3
+    },
+    {
+      "name": "Ryan A.",
+      "activities": 1,
+      "distance": 10.26,
+      "moving_time_s": 3934,
+      "elevation_m": 7,
+      "rank": 4
+    },
+    {
+      "name": "Ryan Adrian B.",
+      "activities": 1,
+      "distance": 10.02,
+      "moving_time_s": 4382,
+      "elevation_m": 10,
+      "rank": 5
+    },
+    {
       "name": "Ken K.",
       "activities": 1,
       "distance": 8.7,
       "moving_time_s": 3356,
       "elevation_m": 50,
-      "rank": 3
+      "rank": 6
     },
     {
       "name": "Arie T.",
@@ -55,7 +79,7 @@
       "distance": 6.02,
       "moving_time_s": 2741,
       "elevation_m": 37,
-      "rank": 4
+      "rank": 7
     },
     {
       "name": "Adystra B.",
@@ -63,7 +87,23 @@
       "distance": 5.02,
       "moving_time_s": 1951,
       "elevation_m": 4,
-      "rank": 5
+      "rank": 8
+    },
+    {
+      "name": "midyamidya ✌.",
+      "activities": 1,
+      "distance": 3.32,
+      "moving_time_s": 1696,
+      "elevation_m": 7,
+      "rank": 9
+    },
+    {
+      "name": "Novi E.",
+      "activities": 1,
+      "distance": 3.3,
+      "moving_time_s": 1656,
+      "elevation_m": 11,
+      "rank": 10
     }
   ]
 }
