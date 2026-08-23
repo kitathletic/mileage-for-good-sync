@@ -382689,9 +382689,51 @@
       "moving_time_s": 1797,
       "elapsed_time_s": 1801,
       "elevation_m": 32
+    },
+    "656bf68bf4625bd3e809": {
+      "h": "656bf68bf4625bd3e809",
+      "first_seen_at": "2026-08-23T10:55:21.542Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Aditya",
+      "athlete_last": "Y.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8013,
+      "moving_time_s": 2917,
+      "elapsed_time_s": 2917,
+      "elevation_m": 0
+    },
+    "97f577f975c04e81b00a": {
+      "h": "97f577f975c04e81b00a",
+      "first_seen_at": "2026-08-23T10:55:21.542Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Teguh",
+      "athlete_last": "W.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8802.1,
+      "moving_time_s": 3509,
+      "elapsed_time_s": 3633,
+      "elevation_m": 17.1
+    },
+    "9d70211a6c726be89884": {
+      "h": "9d70211a6c726be89884",
+      "first_seen_at": "2026-08-23T10:55:21.542Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Faris",
+      "athlete_last": "A.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11828,
+      "moving_time_s": 4455,
+      "elapsed_time_s": 4503,
+      "elevation_m": 4
     }
   },
-  "last_synced_at": "2026-08-23T10:50:29.273Z",
+  "last_synced_at": "2026-08-23T10:55:21.542Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
