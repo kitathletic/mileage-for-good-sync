@@ -382605,9 +382605,37 @@
       "moving_time_s": 23864,
       "elapsed_time_s": 25386,
       "elevation_m": 356
+    },
+    "5b095d157e6861a5aefc": {
+      "h": "5b095d157e6861a5aefc",
+      "first_seen_at": "2026-08-23T10:40:28.312Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Muhammad",
+      "athlete_last": "I.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7567.5,
+      "moving_time_s": 2974,
+      "elapsed_time_s": 2974,
+      "elevation_m": 54.1
+    },
+    "29927a4d236f82e1bef4": {
+      "h": "29927a4d236f82e1bef4",
+      "first_seen_at": "2026-08-23T10:40:28.312Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Nayaka",
+      "athlete_last": "B.",
+      "name": "Berlari Sore",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10010.3,
+      "moving_time_s": 4081,
+      "elapsed_time_s": 4124,
+      "elevation_m": 22
     }
   },
-  "last_synced_at": "2026-08-23T10:35:23.210Z",
+  "last_synced_at": "2026-08-23T10:40:28.312Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
