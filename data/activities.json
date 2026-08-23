@@ -383641,9 +383641,37 @@
       "moving_time_s": 5900,
       "elapsed_time_s": 5900,
       "elevation_m": 187.2
+    },
+    "5475527dee1e47d6adec": {
+      "h": "5475527dee1e47d6adec",
+      "first_seen_at": "2026-08-23T23:50:30.555Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Tiffani",
+      "athlete_last": "S.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5000,
+      "moving_time_s": 1952,
+      "elapsed_time_s": 1952,
+      "elevation_m": 0
+    },
+    "4b3709856a2520c32219": {
+      "h": "4b3709856a2520c32219",
+      "first_seen_at": "2026-08-23T23:50:30.555Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Muhammad Rizki",
+      "athlete_last": "A.",
+      "name": "Berlari Pagi",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12009.5,
+      "moving_time_s": 5936,
+      "elapsed_time_s": 8337,
+      "elevation_m": 2.4
     }
   },
-  "last_synced_at": "2026-08-23T23:45:29.479Z",
+  "last_synced_at": "2026-08-23T23:50:30.555Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
