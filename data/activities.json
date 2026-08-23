@@ -382731,9 +382731,37 @@
       "moving_time_s": 4455,
       "elapsed_time_s": 4503,
       "elevation_m": 4
+    },
+    "9eae6561656e7a7fb2e2": {
+      "h": "9eae6561656e7a7fb2e2",
+      "first_seen_at": "2026-08-23T11:00:43.013Z",
+      "week_key": "2026-W34",
+      "athlete_first": "win",
+      "athlete_last": "C.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5009.6,
+      "moving_time_s": 1600,
+      "elapsed_time_s": 1600,
+      "elevation_m": 14
+    },
+    "b54cb97be0294f9ea1af": {
+      "h": "b54cb97be0294f9ea1af",
+      "first_seen_at": "2026-08-23T11:00:43.013Z",
+      "week_key": "2026-W34",
+      "athlete_first": "Nathania",
+      "athlete_last": "L.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 12000,
+      "moving_time_s": 5461,
+      "elapsed_time_s": 5461,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-08-23T10:55:21.542Z",
+  "last_synced_at": "2026-08-23T11:00:43.013Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
