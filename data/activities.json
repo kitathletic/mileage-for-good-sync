@@ -384551,9 +384551,37 @@
       "moving_time_s": 1824,
       "elapsed_time_s": 1824,
       "elevation_m": 0
+    },
+    "679744f5623d53f15855": {
+      "h": "679744f5623d53f15855",
+      "first_seen_at": "2026-08-24T12:55:26.718Z",
+      "week_key": "2026-W35",
+      "athlete_first": "vincent",
+      "athlete_last": "L.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3613,
+      "moving_time_s": 1800,
+      "elapsed_time_s": 1800,
+      "elevation_m": 15
+    },
+    "f74543a5bc694b06e64c": {
+      "h": "f74543a5bc694b06e64c",
+      "first_seen_at": "2026-08-24T12:55:26.718Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Nayaka",
+      "athlete_last": "B.",
+      "name": "Berlari Sore",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7078.1,
+      "moving_time_s": 2167,
+      "elapsed_time_s": 2167,
+      "elevation_m": 2
     }
   },
-  "last_synced_at": "2026-08-24T12:50:28.168Z",
+  "last_synced_at": "2026-08-24T12:55:26.718Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
