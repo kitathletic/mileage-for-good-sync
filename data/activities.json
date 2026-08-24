@@ -384383,9 +384383,37 @@
       "moving_time_s": 4503,
       "elapsed_time_s": 4503,
       "elevation_m": 0
+    },
+    "fa8b380f6b1e8137b56b": {
+      "h": "fa8b380f6b1e8137b56b",
+      "first_seen_at": "2026-08-24T10:55:28.070Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Muhammad",
+      "athlete_last": "I.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5004.7,
+      "moving_time_s": 2201,
+      "elapsed_time_s": 2233,
+      "elevation_m": 9
+    },
+    "41e086a97913149ea29e": {
+      "h": "41e086a97913149ea29e",
+      "first_seen_at": "2026-08-24T10:55:28.070Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Bondan",
+      "athlete_last": "S.",
+      "name": "Morning Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 16837.5,
+      "moving_time_s": 43312,
+      "elapsed_time_s": 43400,
+      "elevation_m": 2545
     }
   },
-  "last_synced_at": "2026-08-24T10:50:31.171Z",
+  "last_synced_at": "2026-08-24T10:55:28.070Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
