@@ -384747,9 +384747,51 @@
       "moving_time_s": 2243,
       "elapsed_time_s": 2329,
       "elevation_m": 16
+    },
+    "fc904ff8cf02ad6df646": {
+      "h": "fc904ff8cf02ad6df646",
+      "first_seen_at": "2026-08-24T16:40:30.352Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Andrus",
+      "athlete_last": "E.",
+      "name": "Lunch Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3643.1,
+      "moving_time_s": 1268,
+      "elapsed_time_s": 1702,
+      "elevation_m": 125
+    },
+    "06b68647af21376d5aad": {
+      "h": "06b68647af21376d5aad",
+      "first_seen_at": "2026-08-24T16:40:30.352Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Hendri",
+      "athlete_last": "S.",
+      "name": "Night Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8006.1,
+      "moving_time_s": 3820,
+      "elapsed_time_s": 3820,
+      "elevation_m": 0
+    },
+    "dc4eb20c592dad599fb0": {
+      "h": "dc4eb20c592dad599fb0",
+      "first_seen_at": "2026-08-24T16:40:30.352Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Revi",
+      "athlete_last": "P.",
+      "name": "Night Run - LT1 Recovery",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7032,
+      "moving_time_s": 3802,
+      "elapsed_time_s": 3830,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-08-24T16:35:25.744Z",
+  "last_synced_at": "2026-08-24T16:40:30.352Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
