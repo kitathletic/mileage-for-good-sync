@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T23:15:26.453Z",
+  "generated_at": "2026-08-24T23:20:28.901Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 249526.67,
-    "activities": 27425,
-    "moving_time_s": 103542557,
-    "elevation_m": 1386369
+    "distance": 249553.19,
+    "activities": 27427,
+    "moving_time_s": 103551034,
+    "elevation_m": 1386486
   },
   "rows": [
     {
@@ -308,12 +308,20 @@
       "rank": 35
     },
     {
+      "name": "Arya .",
+      "activities": 145,
+      "distance": 1316.74,
+      "moving_time_s": 510076,
+      "elevation_m": 3197,
+      "rank": 36
+    },
+    {
       "name": "Sulthan A.",
       "activities": 97,
       "distance": 1316.47,
       "moving_time_s": 653902,
       "elevation_m": 5460,
-      "rank": 36
+      "rank": 37
     },
     {
       "name": "Alexander Y.",
@@ -321,7 +329,7 @@
       "distance": 1312.38,
       "moving_time_s": 533848,
       "elevation_m": 2687,
-      "rank": 37
+      "rank": 38
     },
     {
       "name": "Aziz Wahyu P.",
@@ -329,14 +337,6 @@
       "distance": 1307.56,
       "moving_time_s": 451277,
       "elevation_m": 9399,
-      "rank": 38
-    },
-    {
-      "name": "Arya .",
-      "activities": 144,
-      "distance": 1301.72,
-      "moving_time_s": 505599,
-      "elevation_m": 3171,
       "rank": 39
     },
     {
@@ -556,19 +556,19 @@
       "rank": 66
     },
     {
+      "name": "Alief Rafael G.",
+      "activities": 99,
+      "distance": 1039.71,
+      "moving_time_s": 364615,
+      "elevation_m": 5620,
+      "rank": 67
+    },
+    {
       "name": "Rama E.",
       "activities": 70,
       "distance": 1038.67,
       "moving_time_s": 449961,
       "elevation_m": 7688,
-      "rank": 67
-    },
-    {
-      "name": "Alief Rafael G.",
-      "activities": 98,
-      "distance": 1028.21,
-      "moving_time_s": 360615,
-      "elevation_m": 5529,
       "rank": 68
     },
     {
