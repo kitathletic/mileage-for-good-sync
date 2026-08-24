@@ -383907,9 +383907,37 @@
       "moving_time_s": 5142,
       "elapsed_time_s": 5537,
       "elevation_m": 83
+    },
+    "e1d906a55973a23d902c": {
+      "h": "e1d906a55973a23d902c",
+      "first_seen_at": "2026-08-24T00:45:28.981Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Adissa",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7018.6,
+      "moving_time_s": 3526,
+      "elapsed_time_s": 3586,
+      "elevation_m": 0
+    },
+    "2d5130a6fea8439f5ff1": {
+      "h": "2d5130a6fea8439f5ff1",
+      "first_seen_at": "2026-08-24T00:45:28.981Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Rhamdan",
+      "athlete_last": "I.",
+      "name": "Canggu Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10399.6,
+      "moving_time_s": 3563,
+      "elapsed_time_s": 4560,
+      "elevation_m": 67
     }
   },
-  "last_synced_at": "2026-08-24T00:40:29.427Z",
+  "last_synced_at": "2026-08-24T00:45:28.981Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
