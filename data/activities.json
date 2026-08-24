@@ -384033,9 +384033,51 @@
       "moving_time_s": 4180,
       "elapsed_time_s": 4898,
       "elevation_m": 44
+    },
+    "40bd188880311b0862d8": {
+      "h": "40bd188880311b0862d8",
+      "first_seen_at": "2026-08-24T01:15:28.878Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Dicky",
+      "athlete_last": "F.",
+      "name": "Cooling Down",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2005,
+      "moving_time_s": 794,
+      "elapsed_time_s": 799,
+      "elevation_m": 0
+    },
+    "440394fe8ade0642b36c": {
+      "h": "440394fe8ade0642b36c",
+      "first_seen_at": "2026-08-24T01:15:28.878Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Dicky",
+      "athlete_last": "F.",
+      "name": "Tempo Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4019.6,
+      "moving_time_s": 1288,
+      "elapsed_time_s": 1291,
+      "elevation_m": 0
+    },
+    "c1de29c39afad0356473": {
+      "h": "c1de29c39afad0356473",
+      "first_seen_at": "2026-08-24T01:15:28.878Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Dicky",
+      "athlete_last": "F.",
+      "name": "Warm Up",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2002.8,
+      "moving_time_s": 829,
+      "elapsed_time_s": 838,
+      "elevation_m": 2.8
     }
   },
-  "last_synced_at": "2026-08-24T01:10:29.210Z",
+  "last_synced_at": "2026-08-24T01:15:28.878Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
