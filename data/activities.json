@@ -384705,9 +384705,37 @@
       "moving_time_s": 2243,
       "elapsed_time_s": 2329,
       "elevation_m": 16
+    },
+    "3edd349a5e9bc5f467df": {
+      "h": "3edd349a5e9bc5f467df",
+      "first_seen_at": "2026-08-24T15:55:26.306Z",
+      "week_key": "2026-W35",
+      "athlete_first": "hendra",
+      "athlete_last": "K.",
+      "name": "Night Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2616.3,
+      "moving_time_s": 2123,
+      "elapsed_time_s": 2123,
+      "elevation_m": 0
+    },
+    "d2a4a83ff43a8cbffa1d": {
+      "h": "d2a4a83ff43a8cbffa1d",
+      "first_seen_at": "2026-08-24T15:55:26.306Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Kevin",
+      "athlete_last": "T.",
+      "name": "Morning Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 13233.3,
+      "moving_time_s": 4484,
+      "elapsed_time_s": 4497,
+      "elevation_m": 232
     }
   },
-  "last_synced_at": "2026-08-24T15:50:30.253Z",
+  "last_synced_at": "2026-08-24T15:55:26.306Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
