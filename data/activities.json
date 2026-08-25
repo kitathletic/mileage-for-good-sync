@@ -387645,9 +387645,37 @@
       "moving_time_s": 1464,
       "elapsed_time_s": 1464,
       "elevation_m": 23
+    },
+    "52c5dd65d95144ab22c4": {
+      "h": "52c5dd65d95144ab22c4",
+      "first_seen_at": "2026-08-25T10:30:40.837Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Silviany",
+      "athlete_last": "S.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1070.1,
+      "moving_time_s": 563,
+      "elapsed_time_s": 648,
+      "elevation_m": 7.9
+    },
+    "f6b7e0ea6c17dc192f9d": {
+      "h": "f6b7e0ea6c17dc192f9d",
+      "first_seen_at": "2026-08-25T10:30:40.837Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Jazzy",
+      "athlete_last": "Z.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6008,
+      "moving_time_s": 2471,
+      "elapsed_time_s": 2471,
+      "elevation_m": 37.2
     }
   },
-  "last_synced_at": "2026-08-25T10:25:25.172Z",
+  "last_synced_at": "2026-08-25T10:30:40.837Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
