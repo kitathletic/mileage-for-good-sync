@@ -387785,9 +387785,37 @@
       "moving_time_s": 3392,
       "elapsed_time_s": 3401,
       "elevation_m": 0
+    },
+    "c0de7bfc2efa6dea4002": {
+      "h": "c0de7bfc2efa6dea4002",
+      "first_seen_at": "2026-08-25T11:15:23.773Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Hendri",
+      "athlete_last": "S.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2032,
+      "moving_time_s": 1441,
+      "elapsed_time_s": 1553,
+      "elevation_m": 3
+    },
+    "ea3d72d09339b18938ef": {
+      "h": "ea3d72d09339b18938ef",
+      "first_seen_at": "2026-08-25T11:15:23.773Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Abdu",
+      "athlete_last": "B.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7004.1,
+      "moving_time_s": 3706,
+      "elapsed_time_s": 3709,
+      "elevation_m": 14.2
     }
   },
-  "last_synced_at": "2026-08-25T11:10:29.604Z",
+  "last_synced_at": "2026-08-25T11:15:23.773Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
