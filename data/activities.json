@@ -387225,9 +387225,37 @@
       "moving_time_s": 9079,
       "elapsed_time_s": 10305,
       "elevation_m": 149
+    },
+    "f42e75be1e9e3190bdcd": {
+      "h": "f42e75be1e9e3190bdcd",
+      "first_seen_at": "2026-08-25T02:40:28.761Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Asen",
+      "athlete_last": "..",
+      "name": "2026-08-25 Recovery Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11603,
+      "moving_time_s": 4858,
+      "elapsed_time_s": 4862,
+      "elevation_m": 23
+    },
+    "7d302831dcc63caa9599": {
+      "h": "7d302831dcc63caa9599",
+      "first_seen_at": "2026-08-25T02:40:28.761Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Hanif",
+      "athlete_last": "R.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 14100.8,
+      "moving_time_s": 4233,
+      "elapsed_time_s": 4339,
+      "elevation_m": 32
     }
   },
-  "last_synced_at": "2026-08-25T02:35:22.333Z",
+  "last_synced_at": "2026-08-25T02:40:28.761Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
