@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T13:30:41.126Z",
+  "generated_at": "2026-08-26T13:35:27.529Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 252692.23,
-    "activities": 27825,
-    "moving_time_s": 104849941,
-    "elevation_m": 1401275
+    "distance": 252711.75,
+    "activities": 27827,
+    "moving_time_s": 104858301,
+    "elevation_m": 1401328
   },
   "rows": [
     {
@@ -372,12 +372,20 @@
       "rank": 43
     },
     {
+      "name": "Bibip D.",
+      "activities": 129,
+      "distance": 1271.73,
+      "moving_time_s": 639137,
+      "elevation_m": 26028,
+      "rank": 44
+    },
+    {
       "name": "Dimas P.",
       "activities": 78,
       "distance": 1262.54,
       "moving_time_s": 552664,
       "elevation_m": 15398,
-      "rank": 44
+      "rank": 45
     },
     {
       "name": "Cicak T.",
@@ -385,14 +393,6 @@
       "distance": 1260.02,
       "moving_time_s": 389160,
       "elevation_m": 8918,
-      "rank": 45
-    },
-    {
-      "name": "Bibip D.",
-      "activities": 128,
-      "distance": 1259.73,
-      "moving_time_s": 634678,
-      "elevation_m": 25995,
       "rank": 46
     },
     {
@@ -1444,12 +1444,20 @@
       "rank": 177
     },
     {
+      "name": "Reni P.",
+      "activities": 49,
+      "distance": 543.24,
+      "moving_time_s": 254071,
+      "elevation_m": 3648,
+      "rank": 178
+    },
+    {
       "name": "Yudong A.",
       "activities": 84,
       "distance": 540.96,
       "moving_time_s": 247520,
       "elevation_m": 1147,
-      "rank": 178
+      "rank": 179
     },
     {
       "name": "Revli P.",
@@ -1457,14 +1465,6 @@
       "distance": 539.38,
       "moving_time_s": 258815,
       "elevation_m": 1224,
-      "rank": 179
-    },
-    {
-      "name": "Reni P.",
-      "activities": 48,
-      "distance": 535.72,
-      "moving_time_s": 250170,
-      "elevation_m": 3628,
       "rank": 180
     },
     {
