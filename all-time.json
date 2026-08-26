@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T11:00:46.705Z",
+  "generated_at": "2026-08-26T11:05:24.306Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 252521.5,
-    "activities": 27797,
-    "moving_time_s": 104777481,
-    "elevation_m": 1400888
+    "distance": 252530.79,
+    "activities": 27799,
+    "moving_time_s": 104782830,
+    "elevation_m": 1400914
   },
   "rows": [
     {
@@ -1444,19 +1444,19 @@
       "rank": 177
     },
     {
+      "name": "Yudong A.",
+      "activities": 83,
+      "distance": 540.65,
+      "moving_time_s": 247435,
+      "elevation_m": 1147,
+      "rank": 178
+    },
+    {
       "name": "Reni P.",
       "activities": 48,
       "distance": 535.72,
       "moving_time_s": 250170,
       "elevation_m": 3628,
-      "rank": 178
-    },
-    {
-      "name": "Yudong A.",
-      "activities": 82,
-      "distance": 535.64,
-      "moving_time_s": 244888,
-      "elevation_m": 1141,
       "rank": 179
     },
     {
@@ -2404,12 +2404,20 @@
       "rank": 297
     },
     {
+      "name": "Silviany S.",
+      "activities": 53,
+      "distance": 264.46,
+      "moving_time_s": 152147,
+      "elevation_m": 533,
+      "rank": 298
+    },
+    {
       "name": "Erry S.",
       "activities": 24,
       "distance": 260.78,
       "moving_time_s": 108535,
       "elevation_m": 2456,
-      "rank": 298
+      "rank": 299
     },
     {
       "name": "Selvia M.",
@@ -2417,7 +2425,7 @@
       "distance": 260.67,
       "moving_time_s": 114117,
       "elevation_m": 538,
-      "rank": 299
+      "rank": 300
     },
     {
       "name": "Ivan F.",
@@ -2425,14 +2433,6 @@
       "distance": 260.67,
       "moving_time_s": 118901,
       "elevation_m": 916,
-      "rank": 300
-    },
-    {
-      "name": "Silviany S.",
-      "activities": 52,
-      "distance": 260.18,
-      "moving_time_s": 149345,
-      "elevation_m": 513,
       "rank": 301
     },
     {
