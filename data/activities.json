@@ -393049,9 +393049,37 @@
       "moving_time_s": 5155,
       "elapsed_time_s": 5203,
       "elevation_m": 4
+    },
+    "06cb71ac59150b0b65ae": {
+      "h": "06cb71ac59150b0b65ae",
+      "first_seen_at": "2026-08-27T13:40:32.876Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Andrus",
+      "athlete_last": "E.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10466.4,
+      "moving_time_s": 3930,
+      "elapsed_time_s": 5772,
+      "elevation_m": 385
+    },
+    "2031c91fbbda88329ac3": {
+      "h": "2031c91fbbda88329ac3",
+      "first_seen_at": "2026-08-27T13:40:32.876Z",
+      "week_key": "2026-W35",
+      "athlete_first": "siki",
+      "athlete_last": "I.",
+      "name": "/hash 5k trailrun™️",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 3378.6,
+      "moving_time_s": 2006,
+      "elapsed_time_s": 3739,
+      "elevation_m": 64.7
     }
   },
-  "last_synced_at": "2026-08-27T13:35:27.770Z",
+  "last_synced_at": "2026-08-27T13:40:32.876Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
