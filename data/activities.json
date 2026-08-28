@@ -395807,9 +395807,37 @@
       "moving_time_s": 2499,
       "elapsed_time_s": 2499,
       "elevation_m": 0
+    },
+    "e0761a11a9ef757df05c": {
+      "h": "e0761a11a9ef757df05c",
+      "first_seen_at": "2026-08-28T14:00:47.150Z",
+      "week_key": "2026-W35",
+      "athlete_first": "ruel",
+      "athlete_last": "R.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10023.7,
+      "moving_time_s": 4256,
+      "elapsed_time_s": 4338,
+      "elevation_m": 48
+    },
+    "6344c19342617674c8f9": {
+      "h": "6344c19342617674c8f9",
+      "first_seen_at": "2026-08-28T14:00:47.150Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Silviany",
+      "athlete_last": "S.",
+      "name": "Indoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 290,
+      "moving_time_s": 460,
+      "elapsed_time_s": 460,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-08-28T13:55:24.815Z",
+  "last_synced_at": "2026-08-28T14:00:47.150Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
