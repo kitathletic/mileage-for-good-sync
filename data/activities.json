@@ -395513,9 +395513,37 @@
       "moving_time_s": 5969,
       "elapsed_time_s": 5972,
       "elevation_m": 33.8
+    },
+    "be40db2631aa65097a55": {
+      "h": "be40db2631aa65097a55",
+      "first_seen_at": "2026-08-28T12:05:27.893Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Nindia",
+      "athlete_last": "S.",
+      "name": "cooldown",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2011.9,
+      "moving_time_s": 1136,
+      "elapsed_time_s": 1155,
+      "elevation_m": 23.7
+    },
+    "ae95100c42ff2aecbe21": {
+      "h": "ae95100c42ff2aecbe21",
+      "first_seen_at": "2026-08-28T12:05:27.893Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Nindia",
+      "athlete_last": "S.",
+      "name": "200m x 8 with 1 min rest in between",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 2410.7,
+      "moving_time_s": 902,
+      "elapsed_time_s": 909,
+      "elevation_m": 21.5
     }
   },
-  "last_synced_at": "2026-08-28T12:00:48.322Z",
+  "last_synced_at": "2026-08-28T12:05:27.893Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
