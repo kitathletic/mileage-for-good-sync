@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T22:40:27.921Z",
+  "generated_at": "2026-08-28T22:45:29.680Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 255566.19,
-    "activities": 28230,
-    "moving_time_s": 105989891,
-    "elevation_m": 1411738
+    "distance": 255574.49,
+    "activities": 28231,
+    "moving_time_s": 105993491,
+    "elevation_m": 1411768
   },
   "rows": [
     {
@@ -2236,12 +2236,20 @@
       "rank": 276
     },
     {
+      "name": "Nabilla K.",
+      "activities": 39,
+      "distance": 314,
+      "moving_time_s": 121252,
+      "elevation_m": 810,
+      "rank": 277
+    },
+    {
       "name": "Rio P.",
       "activities": 40,
       "distance": 311.7,
       "moving_time_s": 160292,
       "elevation_m": 84,
-      "rank": 277
+      "rank": 278
     },
     {
       "name": "Vania P.",
@@ -2249,7 +2257,7 @@
       "distance": 310.84,
       "moving_time_s": 142838,
       "elevation_m": 496,
-      "rank": 278
+      "rank": 279
     },
     {
       "name": "Avniel L.",
@@ -2257,14 +2265,6 @@
       "distance": 308.86,
       "moving_time_s": 130540,
       "elevation_m": 726,
-      "rank": 279
-    },
-    {
-      "name": "Nabilla K.",
-      "activities": 38,
-      "distance": 305.7,
-      "moving_time_s": 117652,
-      "elevation_m": 780,
       "rank": 280
     },
     {
