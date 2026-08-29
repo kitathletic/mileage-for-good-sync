@@ -396843,9 +396843,37 @@
       "moving_time_s": 2837,
       "elapsed_time_s": 2894,
       "elevation_m": 16.6
+    },
+    "20a87c853274d342ad0c": {
+      "h": "20a87c853274d342ad0c",
+      "first_seen_at": "2026-08-29T00:10:31.408Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Ahmad Fadhil",
+      "athlete_last": "U.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 18031.9,
+      "moving_time_s": 5405,
+      "elapsed_time_s": 5405,
+      "elevation_m": 100
+    },
+    "50eb62e1a62d9b18d926": {
+      "h": "50eb62e1a62d9b18d926",
+      "first_seen_at": "2026-08-29T00:10:31.408Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Nanditya",
+      "athlete_last": "N.",
+      "name": "Long Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 22438.3,
+      "moving_time_s": 6203,
+      "elapsed_time_s": 6203,
+      "elevation_m": 122.9
     }
   },
-  "last_synced_at": "2026-08-29T00:05:26.483Z",
+  "last_synced_at": "2026-08-29T00:10:31.408Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
