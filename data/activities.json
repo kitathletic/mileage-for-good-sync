@@ -400357,9 +400357,37 @@
       "moving_time_s": 1560,
       "elapsed_time_s": 1564,
       "elevation_m": 2
+    },
+    "ec3cb06063611e5abae2": {
+      "h": "ec3cb06063611e5abae2",
+      "first_seen_at": "2026-08-29T23:55:25.374Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Jessica",
+      "athlete_last": "T.",
+      "name": "JCO Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5063.9,
+      "moving_time_s": 1502,
+      "elapsed_time_s": 1502,
+      "elevation_m": 6
+    },
+    "d7755c6fe5b64a3484e7": {
+      "h": "d7755c6fe5b64a3484e7",
+      "first_seen_at": "2026-08-29T23:55:25.374Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Adi",
+      "athlete_last": "R.",
+      "name": "Berlari Pagi",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 4501.4,
+      "moving_time_s": 2185,
+      "elapsed_time_s": 2488,
+      "elevation_m": 9.1
     }
   },
-  "last_synced_at": "2026-08-29T23:50:29.583Z",
+  "last_synced_at": "2026-08-29T23:55:25.374Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
