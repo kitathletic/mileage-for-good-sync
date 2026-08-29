@@ -398663,9 +398663,37 @@
       "moving_time_s": 6011,
       "elapsed_time_s": 6268,
       "elevation_m": 28.9
+    },
+    "855dded579b3706bc1ec": {
+      "h": "855dded579b3706bc1ec",
+      "first_seen_at": "2026-08-29T04:05:29.734Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Syamsul",
+      "athlete_last": "A.",
+      "name": "Zone 1-2 Recovery (123bpm)",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 13009.3,
+      "moving_time_s": 7286,
+      "elapsed_time_s": 8181,
+      "elevation_m": 56
+    },
+    "34430bcfe1ba369b8a48": {
+      "h": "34430bcfe1ba369b8a48",
+      "first_seen_at": "2026-08-29T04:05:29.734Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Syamsul",
+      "athlete_last": "A.",
+      "name": "Zone 2 Easy (129bpm)",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5010.2,
+      "moving_time_s": 2451,
+      "elapsed_time_s": 2484,
+      "elevation_m": 26.8
     }
   },
-  "last_synced_at": "2026-08-29T04:00:43.794Z",
+  "last_synced_at": "2026-08-29T04:05:29.734Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
