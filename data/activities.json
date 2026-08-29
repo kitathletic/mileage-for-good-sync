@@ -399433,9 +399433,37 @@
       "moving_time_s": 2330,
       "elapsed_time_s": 2347,
       "elevation_m": 17.4
+    },
+    "515dc67ea86eb1555c20": {
+      "h": "515dc67ea86eb1555c20",
+      "first_seen_at": "2026-08-29T12:05:27.049Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Alexander",
+      "athlete_last": "Y.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6275.7,
+      "moving_time_s": 2346,
+      "elapsed_time_s": 2461,
+      "elevation_m": 12
+    },
+    "914f37209c7123522f98": {
+      "h": "914f37209c7123522f98",
+      "first_seen_at": "2026-08-29T12:05:27.049Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Soleiman",
+      "athlete_last": "P.",
+      "name": "Run #120 25Km-Combo practices",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 25003.9,
+      "moving_time_s": 8650,
+      "elapsed_time_s": 9641,
+      "elevation_m": 37
     }
   },
-  "last_synced_at": "2026-08-29T12:00:45.929Z",
+  "last_synced_at": "2026-08-29T12:05:27.049Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
