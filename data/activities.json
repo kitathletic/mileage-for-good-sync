@@ -399293,9 +399293,51 @@
       "moving_time_s": 51,
       "elapsed_time_s": 60,
       "elevation_m": 1
+    },
+    "679bf8d8811b3e9a66aa": {
+      "h": "679bf8d8811b3e9a66aa",
+      "first_seen_at": "2026-08-29T11:40:31.758Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Rio",
+      "athlete_last": "P.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 0,
+      "moving_time_s": 959,
+      "elapsed_time_s": 959,
+      "elevation_m": 0
+    },
+    "d1a08596255043063bcf": {
+      "h": "d1a08596255043063bcf",
+      "first_seen_at": "2026-08-29T11:40:31.758Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Danis",
+      "athlete_last": "A.",
+      "name": "pr binloop ultra 120",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5009.8,
+      "moving_time_s": 1949,
+      "elapsed_time_s": 1976,
+      "elevation_m": 7.3
+    },
+    "089fe02e00b8aa1a7d29": {
+      "h": "089fe02e00b8aa1a7d29",
+      "first_seen_at": "2026-08-29T11:40:31.758Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Bibip",
+      "athlete_last": "D.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 70518.6,
+      "moving_time_s": 44742,
+      "elapsed_time_s": 45913,
+      "elevation_m": 3697
     }
   },
-  "last_synced_at": "2026-08-29T11:35:22.435Z",
+  "last_synced_at": "2026-08-29T11:40:31.758Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
