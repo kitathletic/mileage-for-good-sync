@@ -404291,9 +404291,37 @@
       "moving_time_s": 3495,
       "elapsed_time_s": 3495,
       "elevation_m": 40
+    },
+    "df46222c4e07859cf986": {
+      "h": "df46222c4e07859cf986",
+      "first_seen_at": "2026-08-30T22:20:35.313Z",
+      "week_key": "2026-W36",
+      "athlete_first": "Fildza Ananda",
+      "athlete_last": "P.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5004.8,
+      "moving_time_s": 2589,
+      "elapsed_time_s": 2650,
+      "elevation_m": 16
+    },
+    "f1938cc66140f02d3920": {
+      "h": "f1938cc66140f02d3920",
+      "first_seen_at": "2026-08-30T22:20:35.313Z",
+      "week_key": "2026-W36",
+      "athlete_first": "Aylie",
+      "athlete_last": "T.",
+      "name": "Sydney Marathon 2026",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 42847.3,
+      "moving_time_s": 15998,
+      "elapsed_time_s": 16014,
+      "elevation_m": 268
     }
   },
-  "last_synced_at": "2026-08-30T22:15:30.571Z",
+  "last_synced_at": "2026-08-30T22:20:35.313Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
