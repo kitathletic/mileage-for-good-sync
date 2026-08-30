@@ -403815,9 +403815,37 @@
       "moving_time_s": 982,
       "elapsed_time_s": 986,
       "elevation_m": 0
+    },
+    "d22545d9266f0999f9a6": {
+      "h": "d22545d9266f0999f9a6",
+      "first_seen_at": "2026-08-30T11:30:38.647Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Paquita",
+      "athlete_last": "C.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 13962.8,
+      "moving_time_s": 6332,
+      "elapsed_time_s": 7283,
+      "elevation_m": 88
+    },
+    "cbb62a2c2eef5296e754": {
+      "h": "cbb62a2c2eef5296e754",
+      "first_seen_at": "2026-08-30T11:30:38.647Z",
+      "week_key": "2026-W35",
+      "athlete_first": "ruel",
+      "athlete_last": "R.",
+      "name": "Lunch Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 20025.1,
+      "moving_time_s": 13251,
+      "elapsed_time_s": 23299,
+      "elevation_m": 1493
     }
   },
-  "last_synced_at": "2026-08-30T11:25:24.632Z",
+  "last_synced_at": "2026-08-30T11:30:38.647Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
