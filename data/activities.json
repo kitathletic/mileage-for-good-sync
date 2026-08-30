@@ -403605,9 +403605,51 @@
       "moving_time_s": 2183,
       "elapsed_time_s": 6886,
       "elevation_m": 140
+    },
+    "76cb9c2c3aaa88bc3f39": {
+      "h": "76cb9c2c3aaa88bc3f39",
+      "first_seen_at": "2026-08-30T10:20:32.445Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Indra",
+      "athlete_last": "Z.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7107,
+      "moving_time_s": 2592,
+      "elapsed_time_s": 2592,
+      "elevation_m": 10
+    },
+    "18a739222f2e611c733c": {
+      "h": "18a739222f2e611c733c",
+      "first_seen_at": "2026-08-30T10:20:32.445Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Irvan",
+      "athlete_last": "C.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7971.2,
+      "moving_time_s": 3313,
+      "elapsed_time_s": 3313,
+      "elevation_m": 31.7
+    },
+    "68c06ea1f60ba76301fa": {
+      "h": "68c06ea1f60ba76301fa",
+      "first_seen_at": "2026-08-30T10:20:32.445Z",
+      "week_key": "2026-W35",
+      "athlete_first": "Arya",
+      "athlete_last": "M.",
+      "name": "Sydney Marathon 2026 WMM",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 42911.5,
+      "moving_time_s": 15598,
+      "elapsed_time_s": 15627,
+      "elevation_m": 292
     }
   },
-  "last_synced_at": "2026-08-30T10:15:28.588Z",
+  "last_synced_at": "2026-08-30T10:20:32.445Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
