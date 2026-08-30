@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T22:40:33.504Z",
+  "generated_at": "2026-08-30T22:45:32.287Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 190.92,
-    "activities": 11,
-    "moving_time_s": 88755,
-    "elevation_m": 1658
+    "distance": 205.93,
+    "activities": 12,
+    "moving_time_s": 94055,
+    "elevation_m": 1684
   },
   "rows": [
     {
@@ -50,12 +50,20 @@
       "rank": 3
     },
     {
+      "name": "Faqih M.",
+      "activities": 1,
+      "distance": 15.01,
+      "moving_time_s": 5300,
+      "elevation_m": 26,
+      "rank": 4
+    },
+    {
       "name": "Tanvir S.",
       "activities": 1,
       "distance": 14.47,
       "moving_time_s": 7061,
       "elevation_m": 10,
-      "rank": 4
+      "rank": 5
     },
     {
       "name": "Rey M.",
@@ -63,7 +71,7 @@
       "distance": 10.59,
       "moving_time_s": 4586,
       "elevation_m": 52,
-      "rank": 5
+      "rank": 6
     },
     {
       "name": "Zad K.",
@@ -71,7 +79,7 @@
       "distance": 10.26,
       "moving_time_s": 3495,
       "elevation_m": 40,
-      "rank": 6
+      "rank": 7
     },
     {
       "name": "Fildza Ananda P.",
@@ -79,7 +87,7 @@
       "distance": 5,
       "moving_time_s": 2589,
       "elevation_m": 16,
-      "rank": 7
+      "rank": 8
     },
     {
       "name": "Andrus E.",
@@ -87,7 +95,7 @@
       "distance": 3.26,
       "moving_time_s": 970,
       "elevation_m": 0,
-      "rank": 8
+      "rank": 9
     },
     {
       "name": "Ken K.",
@@ -95,7 +103,7 @@
       "distance": 3.21,
       "moving_time_s": 1522,
       "elevation_m": 8,
-      "rank": 9
+      "rank": 10
     }
   ]
 }
