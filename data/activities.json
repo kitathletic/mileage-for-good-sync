@@ -405285,9 +405285,65 @@
       "moving_time_s": 3429,
       "elapsed_time_s": 3429,
       "elevation_m": 13
+    },
+    "8babf9d8092ae78a8906": {
+      "h": "8babf9d8092ae78a8906",
+      "first_seen_at": "2026-08-31T11:25:23.702Z",
+      "week_key": "2026-W36",
+      "athlete_first": "ANDIKA",
+      "athlete_last": "R.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 1396.3,
+      "moving_time_s": 369,
+      "elapsed_time_s": 369,
+      "elevation_m": 11.8
+    },
+    "0a58defbba92ddce5221": {
+      "h": "0a58defbba92ddce5221",
+      "first_seen_at": "2026-08-31T11:25:23.702Z",
+      "week_key": "2026-W36",
+      "athlete_first": "Zahri",
+      "athlete_last": "R.",
+      "name": "Evening Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 471.9,
+      "moving_time_s": 310,
+      "elapsed_time_s": 484,
+      "elevation_m": 0
+    },
+    "75214ff2e6596008afad": {
+      "h": "75214ff2e6596008afad",
+      "first_seen_at": "2026-08-31T11:25:23.702Z",
+      "week_key": "2026-W36",
+      "athlete_first": "Teuku",
+      "athlete_last": "U.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5106.8,
+      "moving_time_s": 2124,
+      "elapsed_time_s": 2131,
+      "elevation_m": 17
+    },
+    "5f372967c43dccc9b378": {
+      "h": "5f372967c43dccc9b378",
+      "first_seen_at": "2026-08-31T11:25:23.702Z",
+      "week_key": "2026-W36",
+      "athlete_first": "Peter Nichlas",
+      "athlete_last": "S.",
+      "name": "8k Rec",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8011.4,
+      "moving_time_s": 3148,
+      "elapsed_time_s": 3148,
+      "elevation_m": 0
     }
   },
-  "last_synced_at": "2026-08-31T11:20:33.035Z",
+  "last_synced_at": "2026-08-31T11:25:23.702Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
