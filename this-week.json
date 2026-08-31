@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T00:05:25.524Z",
+  "generated_at": "2026-08-31T00:10:30.328Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -19,10 +19,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 479.61,
-    "activities": 38,
-    "moving_time_s": 200896,
-    "elevation_m": 2574
+    "distance": 495.17,
+    "activities": 40,
+    "moving_time_s": 206352,
+    "elevation_m": 2619
   },
   "rows": [
     {
@@ -218,12 +218,20 @@
       "rank": 24
     },
     {
+      "name": "M Doni M.",
+      "activities": 1,
+      "distance": 10.01,
+      "moving_time_s": 3322,
+      "elevation_m": 9,
+      "rank": 25
+    },
+    {
       "name": "Rizky Alfian A.",
       "activities": 1,
       "distance": 7.61,
       "moving_time_s": 3262,
       "elevation_m": 6,
-      "rank": 25
+      "rank": 26
     },
     {
       "name": "Arie T.",
@@ -231,7 +239,15 @@
       "distance": 6.01,
       "moving_time_s": 1781,
       "elevation_m": 0,
-      "rank": 26
+      "rank": 27
+    },
+    {
+      "name": "Harry W.",
+      "activities": 1,
+      "distance": 5.55,
+      "moving_time_s": 2134,
+      "elevation_m": 36,
+      "rank": 28
     },
     {
       "name": "Erna C.",
@@ -239,7 +255,7 @@
       "distance": 5.15,
       "moving_time_s": 2400,
       "elevation_m": 3,
-      "rank": 27
+      "rank": 29
     },
     {
       "name": "Fildza Ananda P.",
@@ -247,7 +263,7 @@
       "distance": 5,
       "moving_time_s": 2589,
       "elevation_m": 16,
-      "rank": 28
+      "rank": 30
     },
     {
       "name": "Ifal 🥷.",
@@ -255,7 +271,7 @@
       "distance": 5,
       "moving_time_s": 2439,
       "elevation_m": 3,
-      "rank": 29
+      "rank": 31
     },
     {
       "name": "Bosca H.",
@@ -263,7 +279,7 @@
       "distance": 4.56,
       "moving_time_s": 2052,
       "elevation_m": 31,
-      "rank": 30
+      "rank": 32
     },
     {
       "name": "Andrus E.",
@@ -271,7 +287,7 @@
       "distance": 3.26,
       "moving_time_s": 970,
       "elevation_m": 0,
-      "rank": 31
+      "rank": 33
     },
     {
       "name": "Ryan A.",
@@ -279,7 +295,7 @@
       "distance": 3.25,
       "moving_time_s": 1271,
       "elevation_m": 0,
-      "rank": 32
+      "rank": 34
     },
     {
       "name": "Ken K.",
@@ -287,7 +303,7 @@
       "distance": 3.21,
       "moving_time_s": 1522,
       "elevation_m": 8,
-      "rank": 33
+      "rank": 35
     },
     {
       "name": "Ciko N.",
@@ -295,7 +311,7 @@
       "distance": 3.03,
       "moving_time_s": 1652,
       "elevation_m": 28,
-      "rank": 34
+      "rank": 36
     }
   ]
 }
