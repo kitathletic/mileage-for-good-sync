@@ -405061,9 +405061,51 @@
       "moving_time_s": 2420,
       "elapsed_time_s": 2423,
       "elevation_m": 0
+    },
+    "67d61bc77e52034eb38d": {
+      "h": "67d61bc77e52034eb38d",
+      "first_seen_at": "2026-08-31T10:25:25.276Z",
+      "week_key": "2026-W36",
+      "athlete_first": "Mikhael",
+      "athlete_last": "Y.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5289.7,
+      "moving_time_s": 2213,
+      "elapsed_time_s": 2515,
+      "elevation_m": 21.6
+    },
+    "edb4adfc65b4250da908": {
+      "h": "edb4adfc65b4250da908",
+      "first_seen_at": "2026-08-31T10:25:25.276Z",
+      "week_key": "2026-W36",
+      "athlete_first": "Noval",
+      "athlete_last": "L.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 7074.6,
+      "moving_time_s": 3068,
+      "elapsed_time_s": 3078,
+      "elevation_m": 19
+    },
+    "c3b22c149943c1634814": {
+      "h": "c3b22c149943c1634814",
+      "first_seen_at": "2026-08-31T10:25:25.276Z",
+      "week_key": "2026-W36",
+      "athlete_first": "Paulo",
+      "athlete_last": "R.",
+      "name": "Treino de Corrida",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5736.3,
+      "moving_time_s": 3108,
+      "elapsed_time_s": 4383,
+      "elevation_m": 9
     }
   },
-  "last_synced_at": "2026-08-31T10:20:32.061Z",
+  "last_synced_at": "2026-08-31T10:25:25.276Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
