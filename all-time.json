@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T11:55:24.699Z",
+  "generated_at": "2026-08-31T12:00:51.331Z",
   "club": {
     "id": 1826399,
     "name": "Kit Athletic",
@@ -21,10 +21,10 @@
     "Walk"
   ],
   "totals": {
-    "distance": 264041.52,
-    "activities": 28886,
-    "moving_time_s": 109595377,
-    "elevation_m": 1491891
+    "distance": 264049.16,
+    "activities": 28888,
+    "moving_time_s": 109598020,
+    "elevation_m": 1491900
   },
   "rows": [
     {
@@ -1700,19 +1700,19 @@
       "rank": 209
     },
     {
+      "name": "Harry W.",
+      "activities": 52,
+      "distance": 474.93,
+      "moving_time_s": 170042,
+      "elevation_m": 1105,
+      "rank": 210
+    },
+    {
       "name": "Fransiskus K.",
       "activities": 57,
       "distance": 473.68,
       "moving_time_s": 181899,
       "elevation_m": 1370,
-      "rank": 210
-    },
-    {
-      "name": "Harry W.",
-      "activities": 51,
-      "distance": 469.74,
-      "moving_time_s": 168241,
-      "elevation_m": 1105,
       "rank": 211
     },
     {
@@ -3356,12 +3356,20 @@
       "rank": 416
     },
     {
+      "name": "Rashya A.",
+      "activities": 12,
+      "distance": 81.51,
+      "moving_time_s": 24630,
+      "elevation_m": 886,
+      "rank": 417
+    },
+    {
       "name": "Ibrahim Darussalam S.",
       "activities": 9,
       "distance": 80.53,
       "moving_time_s": 32387,
       "elevation_m": 563,
-      "rank": 417
+      "rank": 418
     },
     {
       "name": "Ahmad Fadhil U.",
@@ -3369,7 +3377,7 @@
       "distance": 80.52,
       "moving_time_s": 32257,
       "elevation_m": 1468,
-      "rank": 418
+      "rank": 419
     },
     {
       "name": "Lukas O.",
@@ -3377,14 +3385,6 @@
       "distance": 80.28,
       "moving_time_s": 32278,
       "elevation_m": 85,
-      "rank": 419
-    },
-    {
-      "name": "Rashya A.",
-      "activities": 11,
-      "distance": 79.06,
-      "moving_time_s": 23788,
-      "elevation_m": 877,
       "rank": 420
     },
     {
