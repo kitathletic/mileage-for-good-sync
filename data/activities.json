@@ -405019,9 +405019,37 @@
       "moving_time_s": 1995,
       "elapsed_time_s": 1999,
       "elevation_m": 9
+    },
+    "3f136fd3586e95de2785": {
+      "h": "3f136fd3586e95de2785",
+      "first_seen_at": "2026-08-31T10:00:49.833Z",
+      "week_key": "2026-W36",
+      "athlete_first": "rendy",
+      "athlete_last": "G.",
+      "name": "Outdoor run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5269.3,
+      "moving_time_s": 1802,
+      "elapsed_time_s": 1951,
+      "elevation_m": 72.7
+    },
+    "44a182664a852af5a8ed": {
+      "h": "44a182664a852af5a8ed",
+      "first_seen_at": "2026-08-31T10:00:49.833Z",
+      "week_key": "2026-W36",
+      "athlete_first": "Paulo",
+      "athlete_last": "R.",
+      "name": "Corrida matinal",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5736.3,
+      "moving_time_s": 3108,
+      "elapsed_time_s": 4383,
+      "elevation_m": 9
     }
   },
-  "last_synced_at": "2026-08-31T09:55:28.308Z",
+  "last_synced_at": "2026-08-31T10:00:49.833Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
