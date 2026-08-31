@@ -405257,9 +405257,37 @@
       "moving_time_s": 4636,
       "elapsed_time_s": 4636,
       "elevation_m": 17
+    },
+    "4bad379b63e91df70a6b": {
+      "h": "4bad379b63e91df70a6b",
+      "first_seen_at": "2026-08-31T11:20:33.035Z",
+      "week_key": "2026-W36",
+      "athlete_first": "Alieef",
+      "athlete_last": "P.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5007.6,
+      "moving_time_s": 1705,
+      "elapsed_time_s": 1705,
+      "elevation_m": 0
+    },
+    "eb9d66ce493f693e9a97": {
+      "h": "eb9d66ce493f693e9a97",
+      "first_seen_at": "2026-08-31T11:20:33.035Z",
+      "week_key": "2026-W36",
+      "athlete_first": "G@rr",
+      "athlete_last": "|.",
+      "name": "Berlari Sore",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8006.2,
+      "moving_time_s": 3429,
+      "elapsed_time_s": 3429,
+      "elevation_m": 13
     }
   },
-  "last_synced_at": "2026-08-31T11:15:29.902Z",
+  "last_synced_at": "2026-08-31T11:20:33.035Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
