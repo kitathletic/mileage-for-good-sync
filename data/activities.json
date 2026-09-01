@@ -407875,9 +407875,37 @@
       "moving_time_s": 3714,
       "elapsed_time_s": 3724,
       "elevation_m": 44
+    },
+    "1a50cfcc05a17995bc93": {
+      "h": "1a50cfcc05a17995bc93",
+      "first_seen_at": "2026-09-01T10:15:31.702Z",
+      "week_key": "2026-W36",
+      "athlete_first": "Jeremy Christ",
+      "athlete_last": "J.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5010,
+      "moving_time_s": 1985,
+      "elapsed_time_s": 2102,
+      "elevation_m": 2.8
+    },
+    "cd8ccdeae0ed4321f250": {
+      "h": "cd8ccdeae0ed4321f250",
+      "first_seen_at": "2026-09-01T10:15:31.702Z",
+      "week_key": "2026-W36",
+      "athlete_first": "Dhany",
+      "athlete_last": "N.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5012.4,
+      "moving_time_s": 2085,
+      "elapsed_time_s": 2085,
+      "elevation_m": 26.8
     }
   },
-  "last_synced_at": "2026-09-01T10:10:32.193Z",
+  "last_synced_at": "2026-09-01T10:15:31.702Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
