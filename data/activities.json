@@ -407357,9 +407357,37 @@
       "moving_time_s": 4357,
       "elapsed_time_s": 4889,
       "elevation_m": 8
+    },
+    "e3e70f14db700222fda7": {
+      "h": "e3e70f14db700222fda7",
+      "first_seen_at": "2026-09-01T01:20:31.205Z",
+      "week_key": "2026-W36",
+      "athlete_first": "Refabbia",
+      "athlete_last": "S.",
+      "name": "Morning Trail Run",
+      "type": "Run",
+      "sport_type": "TrailRun",
+      "distance_m": 4373.9,
+      "moving_time_s": 6678,
+      "elapsed_time_s": 7084,
+      "elevation_m": 389
+    },
+    "f84d220ddb9bddc2f27f": {
+      "h": "f84d220ddb9bddc2f27f",
+      "first_seen_at": "2026-09-01T01:20:31.205Z",
+      "week_key": "2026-W36",
+      "athlete_first": "Asen",
+      "athlete_last": "..",
+      "name": "2026-09-01 5K (Threshold Pace)",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 5053,
+      "moving_time_s": 1382,
+      "elapsed_time_s": 1382,
+      "elevation_m": 8
     }
   },
-  "last_synced_at": "2026-09-01T01:15:28.615Z",
+  "last_synced_at": "2026-09-01T01:20:31.205Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
