@@ -406447,9 +406447,65 @@
       "moving_time_s": 3789,
       "elapsed_time_s": 4123,
       "elevation_m": 17
+    },
+    "55cee06f1d39ab90e789": {
+      "h": "55cee06f1d39ab90e789",
+      "first_seen_at": "2026-09-01T00:05:26.850Z",
+      "week_key": "2026-W36",
+      "athlete_first": "_ph.87",
+      "athlete_last": "|.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 6262,
+      "moving_time_s": 2652,
+      "elapsed_time_s": 2657,
+      "elevation_m": 35
+    },
+    "8736d7a994ad7ffcf90c": {
+      "h": "8736d7a994ad7ffcf90c",
+      "first_seen_at": "2026-09-01T00:05:26.850Z",
+      "week_key": "2026-W36",
+      "athlete_first": "irrienia",
+      "athlete_last": "D.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8015.4,
+      "moving_time_s": 3497,
+      "elapsed_time_s": 3517,
+      "elevation_m": 4.6
+    },
+    "233cf9cfbc91e34c03a1": {
+      "h": "233cf9cfbc91e34c03a1",
+      "first_seen_at": "2026-09-01T00:05:26.850Z",
+      "week_key": "2026-W36",
+      "athlete_first": "Andreas",
+      "athlete_last": "T.",
+      "name": "Morning Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8010.9,
+      "moving_time_s": 2966,
+      "elapsed_time_s": 2987,
+      "elevation_m": 41
+    },
+    "f4cabd6fda716fcde1d6": {
+      "h": "f4cabd6fda716fcde1d6",
+      "first_seen_at": "2026-09-01T00:05:26.850Z",
+      "week_key": "2026-W36",
+      "athlete_first": "Nanditya",
+      "athlete_last": "N.",
+      "name": "Interval",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 11378.2,
+      "moving_time_s": 3631,
+      "elapsed_time_s": 3634,
+      "elevation_m": 65.5
     }
   },
-  "last_synced_at": "2026-09-01T00:00:47.890Z",
+  "last_synced_at": "2026-09-01T00:05:26.850Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
