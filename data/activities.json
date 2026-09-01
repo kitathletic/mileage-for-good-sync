@@ -408281,9 +408281,37 @@
       "moving_time_s": 3600,
       "elapsed_time_s": 3675,
       "elevation_m": 14
+    },
+    "8fdf1ce80b5458f08fde": {
+      "h": "8fdf1ce80b5458f08fde",
+      "first_seen_at": "2026-09-01T12:20:31.782Z",
+      "week_key": "2026-W36",
+      "athlete_first": "Sulthan",
+      "athlete_last": "A.",
+      "name": "LOOP",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 8866,
+      "moving_time_s": 3600,
+      "elapsed_time_s": 3675,
+      "elevation_m": 14
+    },
+    "3be52728b4b4b2f34a37": {
+      "h": "3be52728b4b4b2f34a37",
+      "first_seen_at": "2026-09-01T12:20:31.782Z",
+      "week_key": "2026-W36",
+      "athlete_first": "Leandro",
+      "athlete_last": "T.",
+      "name": "Afternoon Run",
+      "type": "Run",
+      "sport_type": "Run",
+      "distance_m": 10499.6,
+      "moving_time_s": 4716,
+      "elapsed_time_s": 4784,
+      "elevation_m": 139
     }
   },
-  "last_synced_at": "2026-09-01T12:15:31.130Z",
+  "last_synced_at": "2026-09-01T12:20:31.782Z",
   "cycle": {
     "start": "2026-04-27",
     "days": 90
